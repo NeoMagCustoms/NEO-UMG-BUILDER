@@ -32,7 +32,8 @@
       "Blueprint",
       "Directive",
       "Philosophy"
-    ]
+    ],
+    "priority": 2
   },
   "ledger": {
     "originator": "Christopher L Haynes",
@@ -55,5 +56,6 @@
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
     "merge_origin": "AUTO"
-  }
+  },
+  "stack_priority": 2
 }

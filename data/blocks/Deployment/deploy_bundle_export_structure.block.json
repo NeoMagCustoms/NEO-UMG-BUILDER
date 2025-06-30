@@ -14,7 +14,8 @@
     "accepts": [
       "Primary",
       "Instruction"
-    ]
+    ],
+    "priority": 11
   },
   "merge_logic": {},
   "cantocore": {
@@ -40,5 +41,6 @@
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
     "merge_origin": "AUTO"
-  }
+  },
+  "stack_priority": 11
 }

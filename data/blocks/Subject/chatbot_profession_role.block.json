@@ -25,7 +25,7 @@
       "Instruction",
       "Tone"
     ],
-    "priority": 2,
+    "priority": 1,
     "accepts": [
       "Instruction",
       "Directive",
@@ -54,5 +54,6 @@
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
     "merge_origin": "AUTO"
-  }
+  },
+  "stack_priority": 1
 }

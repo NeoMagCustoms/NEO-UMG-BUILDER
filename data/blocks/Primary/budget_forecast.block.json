@@ -41,9 +41,11 @@
   },
   "snap_config": {
     "accepts": [
-      "Blueprint",
+      "Subject",
+      "Instruction",
       "Directive",
-      "Philosophy"
+      "Philosophy",
+      "Blueprint"
     ],
     "priority": 0
   },
@@ -51,5 +53,6 @@
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
     "merge_origin": "AUTO"
-  }
+  },
+  "stack_priority": 0
 }
