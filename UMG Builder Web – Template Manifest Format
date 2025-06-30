@@ -1,0 +1,146 @@
+UMG Builder Web – Template Manifest Format
+
+This document defines the structure of manifest files used by the UMG Builder Web app to auto-populate drag-and-drop blocks based on a selected Plan Type (e.g., Business Plan, Website, Chatbot).
+
+Each manifest is a simple JSON file located in:
+
+/apps/umg-builder-web/manifests/
+
+with filenames such as:
+
+business_plan.json
+
+website_build.json
+
+chatbot.json
+
+📁 Manifest Format
+
+Each manifest is a flat object where each key is a MOLT type and its value is an array of block IDs to import and populate.
+
+{
+  "Primary": ["bp__Primary_core"],
+  "Subject": ["bp__Subject_market", "bp__Subject_team"],
+  "Instruction": ["bp__Instruction_rules"],
+  "Philosophy": ["bp__Philosophy_tone"],
+  "Blueprint": ["bp__Blueprint_layout"],
+  "Directive": [],
+  "Trigger": [],
+  "Deployment": [],
+  "Off": []
+}
+
+Each listed block_id must reference a valid .block.json inside /data/blocks/{molt_type}/.
+
+📚 Field Reference
+
+Field (MOLT)
+
+Required
+
+Description
+
+Primary
+
+✅ Yes
+
+Starting anchor for the plan or stack. Only one.
+
+Subject
+
+✅ Yes
+
+Domain or functional areas. Multiple allowed.
+
+Instruction
+
+✅ Yes
+
+Rules and execution constraints.
+
+Philosophy
+
+⚠ Optional
+
+Ethical tone, creative guidance, worldview.
+
+Blueprint
+
+⚠ Optional
+
+Style, layout, or formatting instructions.
+
+Directive
+
+⚠ Optional
+
+Strategic overlays. May affect stacking logic.
+
+Trigger
+
+⚠ Optional
+
+When/how the block stack is executed.
+
+Deployment
+
+⚠ Optional
+
+Runtime targets or version flags.
+
+Off
+
+⚠ Optional
+
+Blocks that are toggled off but included.
+
+🧠 Best Practices
+
+Keep Primary singular.
+
+Order in array = stacking order within each group.
+
+Blocks will auto-snap vertically by priority, and horizontally if MOLT type permits overlays.
+
+Use short, readable block_ids that include plan prefix, e.g., bp__, web__, cb__.
+
+Create dedicated templates for each Plan Type.
+
+🧰 Example File: website_build.json
+
+{
+  "Primary": ["web__Primary_landing_goal"],
+  "Subject": ["web__Subject_pages", "web__Subject_userflow"],
+  "Instruction": ["web__Instruction_responsive", "web__Instruction_accessibility"],
+  "Philosophy": ["web__Philosophy_simple_ui"],
+  "Blueprint": ["web__Blueprint_grid_layout"],
+  "Directive": [],
+  "Trigger": [],
+  "Deployment": [],
+  "Off": []
+}
+
+🛠️ Validation
+
+Each manifest file is validated using the CLI or CI script:
+
+python scripts/validate_manifest_refs.py
+
+This checks:
+
+All listed block IDs exist in their respective directories.
+
+No duplicate block references.
+
+Correct MOLT type usage.
+
+🔭 Future Extensions
+
+Support weighted entries:
+
+"Instruction": [{"id": "bp__Instruction_rules", "weight": 0.9}]
+
+Tag-based selection (e.g., subject blocks matching market, team, etc.)
+
+Plan inheritance via extends: "base_plan.json"
+
