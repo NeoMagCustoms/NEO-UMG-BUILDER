@@ -1,0 +1,36 @@
+{
+  "block_id": "chatbot_instruction_layer",
+  "label": "Instruction Layer (What It Follows)",
+  "category": "chatbot_config",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "core_instruction_set",
+    "task_following_rules",
+    "refusal_conditions",
+    "tone_modulation_logic",
+    "role_overrides_allowed",
+    "instruction_priority_map",
+    "custom_instruction_blocks",
+    "system_directive_version",
+    "examples_of_instruction_response"
+  ],
+  "tags": [
+    "logic",
+    "rule",
+    "priority"
+  ],
+  "snap_config": {
+    "snap_to": [
+      "Subject",
+      "Style"
+    ],
+    "priority": 5
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T14:14:42.117476",
+    "edit_log": []
+  }
+}

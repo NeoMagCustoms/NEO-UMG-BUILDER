@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "1d_ui_framework_integration_resizable_draggable_blocks",
+  "label": "Resizable / Draggable Blocks",
+  "category": "Web App Builder/Frontend Architecture/1D Ui Framework Integration",
+  "description": "CMS / Builder-style UI design flexibility",
+  "tags": [
+    "resizable_draggable_blocks"
+  ],
+  "example_block_data": {
+    "content": "CMS / Builder-style UI design flexibility"
+  },
+  "editable_fields": {
+    "content": "CMS / Builder-style UI design flexibility"
+  }
+}

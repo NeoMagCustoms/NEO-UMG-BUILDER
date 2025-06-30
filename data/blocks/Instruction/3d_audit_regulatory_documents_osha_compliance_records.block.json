@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3d_audit_regulatory_documents_osha_compliance_records",
+  "label": "OSHA Compliance Records",
+  "category": "Business Plans/Web App/Chatbot/3D Audit Regulatory Documents",
+  "description": "For operations with physical risk or workers",
+  "tags": [
+    "osha_compliance_records"
+  ],
+  "example_block_data": {
+    "content": "For operations with physical risk or workers"
+  },
+  "editable_fields": {
+    "content": "For operations with physical risk or workers"
+  }
+}

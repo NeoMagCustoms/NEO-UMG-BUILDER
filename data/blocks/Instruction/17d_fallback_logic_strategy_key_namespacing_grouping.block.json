@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 17,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "17d_fallback_logic_strategy_key_namespacing_grouping",
+  "label": "Key Namespacing & Grouping",
+  "category": "Web App Builder/Localization I18n Timezones/17D Fallback Logic Strategy",
+  "description": "Organizes translations by module",
+  "tags": [
+    "key_namespacing_grouping"
+  ],
+  "example_block_data": {
+    "content": "Organizes translations by module"
+  },
+  "editable_fields": {
+    "content": "Organizes translations by module"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 4,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "4g_test_fixtures_mock_data_scenario_seeds",
+  "label": "Scenario Seeds",
+  "category": "Web App Builder/Database Data Models/4G Test Fixtures Mock Data",
+  "description": "Populates data for UI testing",
+  "tags": [
+    "scenario_seeds"
+  ],
+  "example_block_data": {
+    "content": "Populates data for UI testing"
+  },
+  "editable_fields": {
+    "content": "Populates data for UI testing"
+  }
+}

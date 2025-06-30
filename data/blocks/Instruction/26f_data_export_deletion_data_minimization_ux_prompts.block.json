@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 26,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "26f_data_export_deletion_data_minimization_ux_prompts",
+  "label": "Data Minimization UX Prompts",
+  "category": "Web App Builder/Legal Terms Consent/26F Data Export Deletion",
+  "description": "Encourages lighter footprint",
+  "tags": [
+    "data_minimization_ux_prompts"
+  ],
+  "example_block_data": {
+    "content": "Encourages lighter footprint"
+  },
+  "editable_fields": {
+    "content": "Encourages lighter footprint"
+  }
+}

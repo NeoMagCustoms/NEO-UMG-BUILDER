@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17a_language_translation_infrastructure_i18next_lingui_formatjs",
+    "label": "i18next / Lingui / FormatJS",
+    "category": "Web App Builder/Localization I18n Timezones/17A Language Translation Infrastructure",
+    "description": "Translation frameworks",
+    "tags": [
+      "i18next_lingui_formatjs"
+    ],
+    "example_block_data": {
+      "content": "Translation frameworks"
+    },
+    "editable_fields": {
+      "content": "Translation frameworks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17a_language_translation_infrastructure_static_vs_dynamic_language_files",
+    "label": "Static vs Dynamic Language Files",
+    "category": "Web App Builder/Localization I18n Timezones/17A Language Translation Infrastructure",
+    "description": "Prebuilt JSON vs live API",
+    "tags": [
+      "static_vs_dynamic_language_files"
+    ],
+    "example_block_data": {
+      "content": "Prebuilt JSON vs live API"
+    },
+    "editable_fields": {
+      "content": "Prebuilt JSON vs live API"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17a_language_translation_infrastructure_component_level_translation_hooks",
+    "label": "Component-Level Translation Hooks",
+    "category": "Web App Builder/Localization I18n Timezones/17A Language Translation Infrastructure",
+    "description": "Use t() in views and UI",
+    "tags": [
+      "component_level_translation_hooks"
+    ],
+    "example_block_data": {
+      "content": "Use t() in views and UI"
+    },
+    "editable_fields": {
+      "content": "Use t() in views and UI"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17a_language_translation_infrastructure_icu_message_formatting",
+    "label": "ICU Message Formatting",
+    "category": "Web App Builder/Localization I18n Timezones/17A Language Translation Infrastructure",
+    "description": "Handles gender/plural cases",
+    "tags": [
+      "icu_message_formatting"
+    ],
+    "example_block_data": {
+      "content": "Handles gender/plural cases"
+    },
+    "editable_fields": {
+      "content": "Handles gender/plural cases"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17a_language_translation_infrastructure_language_pack_auto_detection",
+    "label": "Language Pack Auto-Detection",
+    "category": "Web App Builder/Localization I18n Timezones/17A Language Translation Infrastructure",
+    "description": "Based on browser or OS",
+    "tags": [
+      "language_pack_auto_detection"
+    ],
+    "example_block_data": {
+      "content": "Based on browser or OS"
+    },
+    "editable_fields": {
+      "content": "Based on browser or OS"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17b_timezones_and_date_logic_date_fns_luxon_moment",
+    "label": "date-fns / luxon / moment",
+    "category": "Web App Builder/Localization I18n Timezones/17B Timezones And Date Logic",
+    "description": "Time formatting libs",
+    "tags": [
+      "date_fns_luxon_moment"
+    ],
+    "example_block_data": {
+      "content": "Time formatting libs"
+    },
+    "editable_fields": {
+      "content": "Time formatting libs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17b_timezones_and_date_logic_utc_local_time_conversion",
+    "label": "UTC <-> Local Time Conversion",
+    "category": "Web App Builder/Localization I18n Timezones/17B Timezones And Date Logic",
+    "description": "Server vs client time awareness",
+    "tags": [
+      "utc_local_time_conversion"
+    ],
+    "example_block_data": {
+      "content": "Server vs client time awareness"
+    },
+    "editable_fields": {
+      "content": "Server vs client time awareness"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17b_timezones_and_date_logic_timezone_aware_scheduling",
+    "label": "Timezone-Aware Scheduling",
+    "category": "Web App Builder/Localization I18n Timezones/17B Timezones And Date Logic",
+    "description": "Bookings, reminders, etc.",
+    "tags": [
+      "timezone_aware_scheduling"
+    ],
+    "example_block_data": {
+      "content": "Bookings, reminders, etc."
+    },
+    "editable_fields": {
+      "content": "Bookings, reminders, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17b_timezones_and_date_logic_relative_time_display",
+    "label": "Relative Time Display",
+    "category": "Web App Builder/Localization I18n Timezones/17B Timezones And Date Logic",
+    "description": "\u201c5 minutes ago\u201d formatting",
+    "tags": [
+      "relative_time_display"
+    ],
+    "example_block_data": {
+      "content": "\u201c5 minutes ago\u201d formatting"
+    },
+    "editable_fields": {
+      "content": "\u201c5 minutes ago\u201d formatting"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17b_timezones_and_date_logic_dst_daylight_savings_support",
+    "label": "DST (Daylight Savings) Support",
+    "category": "Web App Builder/Localization I18n Timezones/17B Timezones And Date Logic",
+    "description": "Accurate cross-time tracking",
+    "tags": [
+      "dst_daylight_savings_support"
+    ],
+    "example_block_data": {
+      "content": "Accurate cross-time tracking"
+    },
+    "editable_fields": {
+      "content": "Accurate cross-time tracking"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17c_locale_currency_units_intl_numberformat_api",
+    "label": "Intl.NumberFormat API",
+    "category": "Web App Builder/Localization I18n Timezones/17C Locale Currency Units",
+    "description": "Currency formatting",
+    "tags": [
+      "intl_numberformat_api"
+    ],
+    "example_block_data": {
+      "content": "Currency formatting"
+    },
+    "editable_fields": {
+      "content": "Currency formatting"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17c_locale_currency_units_intl_datetimeformat_api",
+    "label": "Intl.DateTimeFormat API",
+    "category": "Web App Builder/Localization I18n Timezones/17C Locale Currency Units",
+    "description": "Local calendar support",
+    "tags": [
+      "intl_datetimeformat_api"
+    ],
+    "example_block_data": {
+      "content": "Local calendar support"
+    },
+    "editable_fields": {
+      "content": "Local calendar support"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17c_locale_currency_units_metric_vs_imperial_unit_toggles",
+    "label": "Metric vs Imperial Unit Toggles",
+    "category": "Web App Builder/Localization I18n Timezones/17C Locale Currency Units",
+    "description": "Temperature, weight, distance",
+    "tags": [
+      "metric_vs_imperial_unit_toggles"
+    ],
+    "example_block_data": {
+      "content": "Temperature, weight, distance"
+    },
+    "editable_fields": {
+      "content": "Temperature, weight, distance"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17c_locale_currency_units_localized_sorting_e_g_unicode",
+    "label": "Localized Sorting (e.g., Unicode)",
+    "category": "Web App Builder/Localization I18n Timezones/17C Locale Currency Units",
+    "description": "Alphabetical accuracy in other scripts",
+    "tags": [
+      "localized_sorting_e_g_unicode"
+    ],
+    "example_block_data": {
+      "content": "Alphabetical accuracy in other scripts"
+    },
+    "editable_fields": {
+      "content": "Alphabetical accuracy in other scripts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17c_locale_currency_units_regional_address_name_order",
+    "label": "Regional Address / Name Order",
+    "category": "Web App Builder/Localization I18n Timezones/17C Locale Currency Units",
+    "description": "Adapted forms per locale",
+    "tags": [
+      "regional_address_name_order"
+    ],
+    "example_block_data": {
+      "content": "Adapted forms per locale"
+    },
+    "editable_fields": {
+      "content": "Adapted forms per locale"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17d_fallback_logic_strategy_language_fallback_chain",
+    "label": "Language Fallback Chain",
+    "category": "Web App Builder/Localization I18n Timezones/17D Fallback Logic Strategy",
+    "description": "e.g. \u201cfr-FR\u201d \u2192 \u201cfr\u201d \u2192 \u201cen\u201d",
+    "tags": [
+      "language_fallback_chain"
+    ],
+    "example_block_data": {
+      "content": "e.g. \u201cfr-FR\u201d \u2192 \u201cfr\u201d \u2192 \u201cen\u201d"
+    },
+    "editable_fields": {
+      "content": "e.g. \u201cfr-FR\u201d \u2192 \u201cfr\u201d \u2192 \u201cen\u201d"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17d_fallback_logic_strategy_missing_key_display_behavior",
+    "label": "Missing Key Display Behavior",
+    "category": "Web App Builder/Localization I18n Timezones/17D Fallback Logic Strategy",
+    "description": "e.g. underline or dev hint",
+    "tags": [
+      "missing_key_display_behavior"
+    ],
+    "example_block_data": {
+      "content": "e.g. underline or dev hint"
+    },
+    "editable_fields": {
+      "content": "e.g. underline or dev hint"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17d_fallback_logic_strategy_custom_placeholder_strategy",
+    "label": "Custom Placeholder Strategy",
+    "category": "Web App Builder/Localization I18n Timezones/17D Fallback Logic Strategy",
+    "description": "What to show if translation is missing",
+    "tags": [
+      "custom_placeholder_strategy"
+    ],
+    "example_block_data": {
+      "content": "What to show if translation is missing"
+    },
+    "editable_fields": {
+      "content": "What to show if translation is missing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17d_fallback_logic_strategy_key_namespacing_grouping",
+    "label": "Key Namespacing & Grouping",
+    "category": "Web App Builder/Localization I18n Timezones/17D Fallback Logic Strategy",
+    "description": "Organizes translations by module",
+    "tags": [
+      "key_namespacing_grouping"
+    ],
+    "example_block_data": {
+      "content": "Organizes translations by module"
+    },
+    "editable_fields": {
+      "content": "Organizes translations by module"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17d_fallback_logic_strategy_translation_completeness_tracker",
+    "label": "Translation Completeness Tracker",
+    "category": "Web App Builder/Localization I18n Timezones/17D Fallback Logic Strategy",
+    "description": "QA tool to track % translated",
+    "tags": [
+      "translation_completeness_tracker"
+    ],
+    "example_block_data": {
+      "content": "QA tool to track % translated"
+    },
+    "editable_fields": {
+      "content": "QA tool to track % translated"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17e_dynamic_user_preference_switching_language_picker_dropdown",
+    "label": "Language Picker Dropdown",
+    "category": "Web App Builder/Localization I18n Timezones/17E Dynamic User Preference Switching",
+    "description": "Change locale at runtime",
+    "tags": [
+      "language_picker_dropdown"
+    ],
+    "example_block_data": {
+      "content": "Change locale at runtime"
+    },
+    "editable_fields": {
+      "content": "Change locale at runtime"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17e_dynamic_user_preference_switching_auto_restore_from_previous_visit",
+    "label": "Auto-Restore from Previous Visit",
+    "category": "Web App Builder/Localization I18n Timezones/17E Dynamic User Preference Switching",
+    "description": "Remembers user\u2019s last locale",
+    "tags": [
+      "auto_restore_from_previous_visit"
+    ],
+    "example_block_data": {
+      "content": "Remembers user\u2019s last locale"
+    },
+    "editable_fields": {
+      "content": "Remembers user\u2019s last locale"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17e_dynamic_user_preference_switching_localstorage_db_saved_preferences",
+    "label": "LocalStorage / DB Saved Preferences",
+    "category": "Web App Builder/Localization I18n Timezones/17E Dynamic User Preference Switching",
+    "description": "Tracks user region settings",
+    "tags": [
+      "localstorage_db_saved_preferences"
+    ],
+    "example_block_data": {
+      "content": "Tracks user region settings"
+    },
+    "editable_fields": {
+      "content": "Tracks user region settings"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17e_dynamic_user_preference_switching_rtl_mode_toggling_right_to_left",
+    "label": "RTL Mode Toggling (Right-to-Left)",
+    "category": "Web App Builder/Localization I18n Timezones/17E Dynamic User Preference Switching",
+    "description": "Arabic, Hebrew, etc.",
+    "tags": [
+      "rtl_mode_toggling_right_to_left"
+    ],
+    "example_block_data": {
+      "content": "Arabic, Hebrew, etc."
+    },
+    "editable_fields": {
+      "content": "Arabic, Hebrew, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17e_dynamic_user_preference_switching_locale_hooks_for_react_components",
+    "label": "Locale Hooks for React Components",
+    "category": "Web App Builder/Localization I18n Timezones/17E Dynamic User Preference Switching",
+    "description": "Auto-re-render on change",
+    "tags": [
+      "locale_hooks_for_react_components"
+    ],
+    "example_block_data": {
+      "content": "Auto-re-render on change"
+    },
+    "editable_fields": {
+      "content": "Auto-re-render on change"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17f_region_aware_ux_policies_geoip_detection",
+    "label": "GeoIP Detection",
+    "category": "Web App Builder/Localization I18n Timezones/17F Region Aware Ux Policies",
+    "description": "Determines country from IP",
+    "tags": [
+      "geoip_detection"
+    ],
+    "example_block_data": {
+      "content": "Determines country from IP"
+    },
+    "editable_fields": {
+      "content": "Determines country from IP"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17f_region_aware_ux_policies_gdpr_vs_ccpa_display_logic",
+    "label": "GDPR vs CCPA Display Logic",
+    "category": "Web App Builder/Localization I18n Timezones/17F Region Aware Ux Policies",
+    "description": "Regional privacy disclosures",
+    "tags": [
+      "gdpr_vs_ccpa_display_logic"
+    ],
+    "example_block_data": {
+      "content": "Regional privacy disclosures"
+    },
+    "editable_fields": {
+      "content": "Regional privacy disclosures"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17f_region_aware_ux_policies_country_specific_banners_or_warnings",
+    "label": "Country-Specific Banners or Warnings",
+    "category": "Web App Builder/Localization I18n Timezones/17F Region Aware Ux Policies",
+    "description": "e.g. embargoes or shipping policies",
+    "tags": [
+      "country_specific_banners_or_warnings"
+    ],
+    "example_block_data": {
+      "content": "e.g. embargoes or shipping policies"
+    },
+    "editable_fields": {
+      "content": "e.g. embargoes or shipping policies"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17f_region_aware_ux_policies_terms_of_use_by_region",
+    "label": "Terms of Use by Region",
+    "category": "Web App Builder/Localization I18n Timezones/17F Region Aware Ux Policies",
+    "description": "Local legal variations",
+    "tags": [
+      "terms_of_use_by_region"
+    ],
+    "example_block_data": {
+      "content": "Local legal variations"
+    },
+    "editable_fields": {
+      "content": "Local legal variations"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 17,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "17f_region_aware_ux_policies_feature_availability_by_locale",
+    "label": "Feature Availability by Locale",
+    "category": "Web App Builder/Localization I18n Timezones/17F Region Aware Ux Policies",
+    "description": "Hide/show features by region",
+    "tags": [
+      "feature_availability_by_locale"
+    ],
+    "example_block_data": {
+      "content": "Hide/show features by region"
+    },
+    "editable_fields": {
+      "content": "Hide/show features by region"
+    }
+  }
+]

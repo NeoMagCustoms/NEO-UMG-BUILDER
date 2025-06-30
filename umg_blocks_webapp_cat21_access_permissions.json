@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21a_roles_permissions_role_definitions_admin_viewer_etc",
+    "label": "Role Definitions (Admin, Viewer, etc.)",
+    "category": "Web App Builder/Access Control Permissions/21A Roles Permissions",
+    "description": "Base trust levels",
+    "tags": [
+      "role_definitions_admin_viewer_etc"
+    ],
+    "example_block_data": {
+      "content": "Base trust levels"
+    },
+    "editable_fields": {
+      "content": "Base trust levels"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21a_roles_permissions_scope_hierarchies_org_project_user",
+    "label": "Scope Hierarchies (Org, Project, User)",
+    "category": "Web App Builder/Access Control Permissions/21A Roles Permissions",
+    "description": "Nested access levels",
+    "tags": [
+      "scope_hierarchies_org_project_user"
+    ],
+    "example_block_data": {
+      "content": "Nested access levels"
+    },
+    "editable_fields": {
+      "content": "Nested access levels"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21a_roles_permissions_crud_matrix_definition",
+    "label": "CRUD Matrix Definition",
+    "category": "Web App Builder/Access Control Permissions/21A Roles Permissions",
+    "description": "Can Create/Read/Update/Delete what?",
+    "tags": [
+      "crud_matrix_definition"
+    ],
+    "example_block_data": {
+      "content": "Can Create/Read/Update/Delete what?"
+    },
+    "editable_fields": {
+      "content": "Can Create/Read/Update/Delete what?"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21a_roles_permissions_permission_toggles_flags",
+    "label": "Permission Toggles / Flags",
+    "category": "Web App Builder/Access Control Permissions/21A Roles Permissions",
+    "description": "Fine-grained control",
+    "tags": [
+      "permission_toggles_flags"
+    ],
+    "example_block_data": {
+      "content": "Fine-grained control"
+    },
+    "editable_fields": {
+      "content": "Fine-grained control"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21a_roles_permissions_per_route_component_auth_wrappers",
+    "label": "Per-Route / Component Auth Wrappers",
+    "category": "Web App Builder/Access Control Permissions/21A Roles Permissions",
+    "description": "Guard UI views",
+    "tags": [
+      "per_route_component_auth_wrappers"
+    ],
+    "example_block_data": {
+      "content": "Guard UI views"
+    },
+    "editable_fields": {
+      "content": "Guard UI views"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21b_tenant_isolation_tenant_aware_db_schemas",
+    "label": "Tenant-Aware DB Schemas",
+    "category": "Web App Builder/Access Control Permissions/21B Tenant Isolation",
+    "description": "Org ID on every query",
+    "tags": [
+      "tenant_aware_db_schemas"
+    ],
+    "example_block_data": {
+      "content": "Org ID on every query"
+    },
+    "editable_fields": {
+      "content": "Org ID on every query"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21b_tenant_isolation_row_level_security_e_g_supabase",
+    "label": "Row-Level Security (e.g., Supabase)",
+    "category": "Web App Builder/Access Control Permissions/21B Tenant Isolation",
+    "description": "Auto-filters by tenant",
+    "tags": [
+      "row_level_security_e_g_supabase"
+    ],
+    "example_block_data": {
+      "content": "Auto-filters by tenant"
+    },
+    "editable_fields": {
+      "content": "Auto-filters by tenant"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21b_tenant_isolation_subdomain_based_routing",
+    "label": "Subdomain-Based Routing",
+    "category": "Web App Builder/Access Control Permissions/21B Tenant Isolation",
+    "description": "org.example.com routing",
+    "tags": [
+      "subdomain_based_routing"
+    ],
+    "example_block_data": {
+      "content": "org.example.com routing"
+    },
+    "editable_fields": {
+      "content": "org.example.com routing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21b_tenant_isolation_invite_join_organization_flows",
+    "label": "Invite / Join Organization Flows",
+    "category": "Web App Builder/Access Control Permissions/21B Tenant Isolation",
+    "description": "Org onboarding logic",
+    "tags": [
+      "invite_join_organization_flows"
+    ],
+    "example_block_data": {
+      "content": "Org onboarding logic"
+    },
+    "editable_fields": {
+      "content": "Org onboarding logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21b_tenant_isolation_resource_quotas_per_tenant",
+    "label": "Resource Quotas Per Tenant",
+    "category": "Web App Builder/Access Control Permissions/21B Tenant Isolation",
+    "description": "Limits tied to tenant account",
+    "tags": [
+      "resource_quotas_per_tenant"
+    ],
+    "example_block_data": {
+      "content": "Limits tied to tenant account"
+    },
+    "editable_fields": {
+      "content": "Limits tied to tenant account"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21c_access_policy_logic_declarative_permission_dsl",
+    "label": "Declarative Permission DSL",
+    "category": "Web App Builder/Access Control Permissions/21C Access Policy Logic",
+    "description": "e.g. can('edit', 'post')",
+    "tags": [
+      "declarative_permission_dsl"
+    ],
+    "example_block_data": {
+      "content": "e.g. can('edit', 'post')"
+    },
+    "editable_fields": {
+      "content": "e.g. can('edit', 'post')"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21c_access_policy_logic_role_permission_table_or_map",
+    "label": "Role-Permission Table or Map",
+    "category": "Web App Builder/Access Control Permissions/21C Access Policy Logic",
+    "description": "Connects roles to features",
+    "tags": [
+      "role_permission_table_or_map"
+    ],
+    "example_block_data": {
+      "content": "Connects roles to features"
+    },
+    "editable_fields": {
+      "content": "Connects roles to features"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21c_access_policy_logic_multi_role_evaluation",
+    "label": "Multi-Role Evaluation",
+    "category": "Web App Builder/Access Control Permissions/21C Access Policy Logic",
+    "description": "Support overlapping roles",
+    "tags": [
+      "multi_role_evaluation"
+    ],
+    "example_block_data": {
+      "content": "Support overlapping roles"
+    },
+    "editable_fields": {
+      "content": "Support overlapping roles"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21c_access_policy_logic_feature_flag_gates_by_role_plan",
+    "label": "Feature Flag Gates by Role/Plan",
+    "category": "Web App Builder/Access Control Permissions/21C Access Policy Logic",
+    "description": "Limits visibility via flags",
+    "tags": [
+      "feature_flag_gates_by_role_plan"
+    ],
+    "example_block_data": {
+      "content": "Limits visibility via flags"
+    },
+    "editable_fields": {
+      "content": "Limits visibility via flags"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21c_access_policy_logic_policy_inheritance_overwrites",
+    "label": "Policy Inheritance & Overwrites",
+    "category": "Web App Builder/Access Control Permissions/21C Access Policy Logic",
+    "description": "Layering logic (e.g., parent org)",
+    "tags": [
+      "policy_inheritance_overwrites"
+    ],
+    "example_block_data": {
+      "content": "Layering logic (e.g., parent org)"
+    },
+    "editable_fields": {
+      "content": "Layering logic (e.g., parent org)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21d_org_switching_context_active_org_switcher_dropdown",
+    "label": "Active Org Switcher Dropdown",
+    "category": "Web App Builder/Access Control Permissions/21D Org Switching Context",
+    "description": "Switch orgs mid-session",
+    "tags": [
+      "active_org_switcher_dropdown"
+    ],
+    "example_block_data": {
+      "content": "Switch orgs mid-session"
+    },
+    "editable_fields": {
+      "content": "Switch orgs mid-session"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21d_org_switching_context_session_aware_org_context_provider",
+    "label": "Session-Aware Org Context Provider",
+    "category": "Web App Builder/Access Control Permissions/21D Org Switching Context",
+    "description": "Auto-injects org info",
+    "tags": [
+      "session_aware_org_context_provider"
+    ],
+    "example_block_data": {
+      "content": "Auto-injects org info"
+    },
+    "editable_fields": {
+      "content": "Auto-injects org info"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21d_org_switching_context_url_based_org_context",
+    "label": "URL-Based Org Context",
+    "category": "Web App Builder/Access Control Permissions/21D Org Switching Context",
+    "description": "Route embeds org ID or slug",
+    "tags": [
+      "url_based_org_context"
+    ],
+    "example_block_data": {
+      "content": "Route embeds org ID or slug"
+    },
+    "editable_fields": {
+      "content": "Route embeds org ID or slug"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21d_org_switching_context_impersonation_admin_mode",
+    "label": "Impersonation / Admin Mode",
+    "category": "Web App Builder/Access Control Permissions/21D Org Switching Context",
+    "description": "View as another user/org",
+    "tags": [
+      "impersonation_admin_mode"
+    ],
+    "example_block_data": {
+      "content": "View as another user/org"
+    },
+    "editable_fields": {
+      "content": "View as another user/org"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21d_org_switching_context_org_name_in_header_ui",
+    "label": "Org Name in Header/UI",
+    "category": "Web App Builder/Access Control Permissions/21D Org Switching Context",
+    "description": "Helps user stay oriented",
+    "tags": [
+      "org_name_in_header_ui"
+    ],
+    "example_block_data": {
+      "content": "Helps user stay oriented"
+    },
+    "editable_fields": {
+      "content": "Helps user stay oriented"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21e_fine_grain_guards_page_level_redirects_on_fail",
+    "label": "Page-Level Redirects on Fail",
+    "category": "Web App Builder/Access Control Permissions/21E Fine Grain Guards",
+    "description": "Sends user to 403 or login",
+    "tags": [
+      "page_level_redirects_on_fail"
+    ],
+    "example_block_data": {
+      "content": "Sends user to 403 or login"
+    },
+    "editable_fields": {
+      "content": "Sends user to 403 or login"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21e_fine_grain_guards_field_level_redaction",
+    "label": "Field-Level Redaction",
+    "category": "Web App Builder/Access Control Permissions/21E Fine Grain Guards",
+    "description": "Hide input fields if not allowed",
+    "tags": [
+      "field_level_redaction"
+    ],
+    "example_block_data": {
+      "content": "Hide input fields if not allowed"
+    },
+    "editable_fields": {
+      "content": "Hide input fields if not allowed"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21e_fine_grain_guards_button_disable_hide_by_role",
+    "label": "Button Disable / Hide by Role",
+    "category": "Web App Builder/Access Control Permissions/21E Fine Grain Guards",
+    "description": "Prevent destructive access",
+    "tags": [
+      "button_disable_hide_by_role"
+    ],
+    "example_block_data": {
+      "content": "Prevent destructive access"
+    },
+    "editable_fields": {
+      "content": "Prevent destructive access"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21e_fine_grain_guards_server_side_policy_check_layer",
+    "label": "Server-Side Policy Check Layer",
+    "category": "Web App Builder/Access Control Permissions/21E Fine Grain Guards",
+    "description": "API middleware filter",
+    "tags": [
+      "server_side_policy_check_layer"
+    ],
+    "example_block_data": {
+      "content": "API middleware filter"
+    },
+    "editable_fields": {
+      "content": "API middleware filter"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21e_fine_grain_guards_conditional_mutation_blocks",
+    "label": "Conditional Mutation Blocks",
+    "category": "Web App Builder/Access Control Permissions/21E Fine Grain Guards",
+    "description": "Prevent DB writes if disallowed",
+    "tags": [
+      "conditional_mutation_blocks"
+    ],
+    "example_block_data": {
+      "content": "Prevent DB writes if disallowed"
+    },
+    "editable_fields": {
+      "content": "Prevent DB writes if disallowed"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21f_audit_logs_admin_tools_access_audit_logs",
+    "label": "Access Audit Logs",
+    "category": "Web App Builder/Access Control Permissions/21F Audit Logs Admin Tools",
+    "description": "Who viewed what, when",
+    "tags": [
+      "access_audit_logs"
+    ],
+    "example_block_data": {
+      "content": "Who viewed what, when"
+    },
+    "editable_fields": {
+      "content": "Who viewed what, when"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21f_audit_logs_admin_tools_admin_dashboard_for_roles",
+    "label": "Admin Dashboard for Roles",
+    "category": "Web App Builder/Access Control Permissions/21F Audit Logs Admin Tools",
+    "description": "Assign and view permissions",
+    "tags": [
+      "admin_dashboard_for_roles"
+    ],
+    "example_block_data": {
+      "content": "Assign and view permissions"
+    },
+    "editable_fields": {
+      "content": "Assign and view permissions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21f_audit_logs_admin_tools_logs_for_auth_failures",
+    "label": "Logs for Auth Failures",
+    "category": "Web App Builder/Access Control Permissions/21F Audit Logs Admin Tools",
+    "description": "Track blocked access",
+    "tags": [
+      "logs_for_auth_failures"
+    ],
+    "example_block_data": {
+      "content": "Track blocked access"
+    },
+    "editable_fields": {
+      "content": "Track blocked access"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21f_audit_logs_admin_tools_impersonation_log_metadata",
+    "label": "Impersonation Log + Metadata",
+    "category": "Web App Builder/Access Control Permissions/21F Audit Logs Admin Tools",
+    "description": "Tracks who accessed what as whom",
+    "tags": [
+      "impersonation_log_metadata"
+    ],
+    "example_block_data": {
+      "content": "Tracks who accessed what as whom"
+    },
+    "editable_fields": {
+      "content": "Tracks who accessed what as whom"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 21,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "21f_audit_logs_admin_tools_exportable_permissions_map",
+    "label": "Exportable Permissions Map",
+    "category": "Web App Builder/Access Control Permissions/21F Audit Logs Admin Tools",
+    "description": "Admin CSV of current rules",
+    "tags": [
+      "exportable_permissions_map"
+    ],
+    "example_block_data": {
+      "content": "Admin CSV of current rules"
+    },
+    "editable_fields": {
+      "content": "Admin CSV of current rules"
+    }
+  }
+]

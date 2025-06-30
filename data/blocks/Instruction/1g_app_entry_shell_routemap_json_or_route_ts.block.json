@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "1g_app_entry_shell_routemap_json_or_route_ts",
+  "label": "RouteMap.json or route.ts",
+  "category": "Web App Builder/Frontend Architecture/1G App Entry Shell",
+  "description": "Programmatic router logic",
+  "tags": [
+    "routemap_json_or_route_ts"
+  ],
+  "example_block_data": {
+    "content": "Programmatic router logic"
+  },
+  "editable_fields": {
+    "content": "Programmatic router logic"
+  }
+}

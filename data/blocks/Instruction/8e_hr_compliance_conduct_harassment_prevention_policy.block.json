@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 7,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "8e_hr_compliance_conduct_harassment_prevention_policy",
+  "label": "Harassment Prevention Policy",
+  "category": "Business Plans/Web App/Chatbot/8E Hr Compliance Conduct",
+  "description": "Defines unacceptable conduct",
+  "tags": [
+    "harassment_prevention_policy"
+  ],
+  "example_block_data": {
+    "content": "Defines unacceptable conduct"
+  },
+  "editable_fields": {
+    "content": "Defines unacceptable conduct"
+  }
+}

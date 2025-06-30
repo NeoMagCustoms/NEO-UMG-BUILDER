@@ -1,0 +1,46 @@
+{
+  "block_id": "example_instruction_payload",
+  "label": "Example Instruction Payload",
+  "category": "Instruction Injection Blocks",
+  "description": "Example override (e.g., act like Socrates)",
+  "molt_type": "Instruction",
+  "tags": [
+    "example_instruction_payload",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🗯️"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Example override (e.g., act like Socrates) This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "Example Instruction Payload: Example override (e.g., act like Socrates)"
+  }
+}

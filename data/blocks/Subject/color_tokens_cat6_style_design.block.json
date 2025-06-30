@@ -1,0 +1,47 @@
+{
+  "block_id": "color_tokens_cat6_style_design",
+  "label": "Color Tokens",
+  "category": "Web App Builder/Category 6: Styling & Design System",
+  "molt_type": "Subject",
+  "color": "green",
+  "description": "Named color roles (e.g., primary, background, accent)",
+  "tags": [
+    "styling",
+    "design",
+    "category6"
+  ],
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+INSTRUCTION+DIRECTIVE",
+  "merge_logic": {
+    "merge_as": "subject",
+    "accepts": [
+      "Primary",
+      "Instruction",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "green",
+    "icon": "🎨"
+  },
+  "example_block_data": {
+    "content": "Named color roles (e.g., primary, background, accent)"
+  },
+  "editable_fields": {
+    "content": "Named color roles (e.g., primary, background, accent)"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": []
+}

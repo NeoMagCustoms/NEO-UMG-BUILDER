@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 17,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "17a_language_translation_infrastructure_language_pack_auto_detection",
+  "label": "Language Pack Auto-Detection",
+  "category": "Web App Builder/Localization I18n Timezones/17A Language Translation Infrastructure",
+  "description": "Based on browser or OS",
+  "tags": [
+    "language_pack_auto_detection"
+  ],
+  "example_block_data": {
+    "content": "Based on browser or OS"
+  },
+  "editable_fields": {
+    "content": "Based on browser or OS"
+  }
+}

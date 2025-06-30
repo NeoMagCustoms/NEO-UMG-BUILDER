@@ -1,0 +1,1022 @@
+[
+  {
+    "block_id": "30a_prompt_templates_variables",
+    "label": "Prompt Templates w/ Variables",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.027994Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30a_live_prompt_editor_preview",
+    "label": "Live Prompt Editor w/ Preview",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028014Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30a_conditional_prompt_insertion",
+    "label": "Conditional Prompt Insertion",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028020Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30a_prompt_libraries_public_shared",
+    "label": "Prompt Libraries (public/shared)",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028026Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30a_markdown_json_prompt_structure",
+    "label": "Markdown + JSON Prompt Structure",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028031Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30b_openai_anthropic_mistral_apis",
+    "label": "OpenAI / Anthropic / Mistral APIs",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028037Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30b_model_switcher_dropdown",
+    "label": "Model Switcher Dropdown",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028042Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30b_fallback_model_selector",
+    "label": "Fallback Model Selector",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028050Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30b_streaming_tokens_partial_outputs",
+    "label": "Streaming Tokens / Partial Outputs",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028057Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30b_parallel_prompt_executor",
+    "label": "Parallel Prompt Executor",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028063Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30c_multi_agent_choreography_engine",
+    "label": "Multi-Agent Choreography Engine",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028069Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30c_agent_memory_token_binders",
+    "label": "Agent Memory Token Binders",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028074Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30c_memory_slots_retrieval_rag_hooks",
+    "label": "Memory Slots + Retrieval RAG Hooks",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028080Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30c_task_queue_replanning_logic",
+    "label": "Task Queue & Replanning Logic",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028087Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30c_long_short_term_context_mode",
+    "label": "Long-Term vs Short-Term Context Mode",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028093Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30d_conversation_thread_storage",
+    "label": "Conversation Thread Storage",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028099Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30d_summary_token_compression",
+    "label": "Summary Token Compression",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028105Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30d_embedding_search_context_recall",
+    "label": "Embedding Search for Context Recall",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028112Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30d_system_prompt_per_turn",
+    "label": "System Prompt Per Turn",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028118Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30d_shared_thread_view",
+    "label": "Shared Thread View (Team AI use)",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028123Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30e_system_persona_prompt_field",
+    "label": "System Persona Prompt Field",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028134Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30e_memory_aware_role_switching",
+    "label": "Memory-Aware Role Switching",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028141Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30e_instruction_injection_blocks",
+    "label": "Instruction Injection Blocks",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028146Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30e_guardrails_allowed_actions",
+    "label": "Guardrails + Allowed Actions",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028153Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30e_context_aware_tone_adaptation",
+    "label": "Context-Aware Tone Adaptation",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028159Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30f_token_budget_cost_meter",
+    "label": "Token Budget / Cost Meter",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028166Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30f_rate_limit_scheduling",
+    "label": "Rate Limit Scheduling (API Caps)",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028172Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30f_max_token_per_prompt_validator",
+    "label": "Max Token Per Prompt Validator",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028183Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30f_prompt_sanitizer_jailbreak_filter",
+    "label": "Prompt Sanitizer (jailbreak filter)",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028188Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  },
+  {
+    "block_id": "30f_failover_switch_local_mode",
+    "label": "Failover Switch to Local Mode",
+    "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+    "molt_type": "Instruction",
+    "color": "yellow",
+    "editable_fields": [
+      "label",
+      "description",
+      "code_modules"
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "webapp",
+      "category_30"
+    ],
+    "snap_config": {
+      "snap_to": [
+        "Primary",
+        "Subject"
+      ],
+      "priority": 3
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T13:43:03.028194Z",
+      "edit_log": []
+    },
+    "canto_overlay": {},
+    "code_modules": [],
+    "export_config": {}
+  }
+]

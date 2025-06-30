@@ -1,0 +1,1586 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2a_core_server_architecture_server_entry_file_server_js_index_ts",
+    "label": "Server Entry File (server.js, index.ts)",
+    "category": "Web App Builder/Backend Server Logic/2A Core Server Architecture",
+    "description": "Bootstraps the server and main app logic",
+    "tags": [
+      "server_entry_file_server_js_index_ts"
+    ],
+    "example_block_data": {
+      "content": "Bootstraps the server and main app logic"
+    },
+    "editable_fields": {
+      "content": "Bootstraps the server and main app logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2a_core_server_architecture_express_fastify_koa_router_setup",
+    "label": "Express / Fastify / Koa Router Setup",
+    "category": "Web App Builder/Backend Server Logic/2A Core Server Architecture",
+    "description": "Defines request/response pipelines",
+    "tags": [
+      "express_fastify_koa_router_setup"
+    ],
+    "example_block_data": {
+      "content": "Defines request/response pipelines"
+    },
+    "editable_fields": {
+      "content": "Defines request/response pipelines"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2a_core_server_architecture_route_controllers_folder",
+    "label": "Route Controllers Folder",
+    "category": "Web App Builder/Backend Server Logic/2A Core Server Architecture",
+    "description": "Organizes handlers by path/domain",
+    "tags": [
+      "route_controllers_folder"
+    ],
+    "example_block_data": {
+      "content": "Organizes handlers by path/domain"
+    },
+    "editable_fields": {
+      "content": "Organizes handlers by path/domain"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2a_core_server_architecture_config_loader_env_config_ts",
+    "label": "Config Loader (.env, config.ts)",
+    "category": "Web App Builder/Backend Server Logic/2A Core Server Architecture",
+    "description": "Loads environment-specific settings",
+    "tags": [
+      "config_loader_env_config_ts"
+    ],
+    "example_block_data": {
+      "content": "Loads environment-specific settings"
+    },
+    "editable_fields": {
+      "content": "Loads environment-specific settings"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2a_core_server_architecture_app_bootstrap_script",
+    "label": "App Bootstrap Script",
+    "category": "Web App Builder/Backend Server Logic/2A Core Server Architecture",
+    "description": "Initializes services and dependencies",
+    "tags": [
+      "app_bootstrap_script"
+    ],
+    "example_block_data": {
+      "content": "Initializes services and dependencies"
+    },
+    "editable_fields": {
+      "content": "Initializes services and dependencies"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_business_logic_api_endpoints_rest_api_controller",
+    "label": "REST API Controller",
+    "category": "Web App Builder/Backend Server Logic/2B Business Logic Api Endpoints",
+    "description": "/api/users, /api/orders logic",
+    "tags": [
+      "rest_api_controller"
+    ],
+    "example_block_data": {
+      "content": "/api/users, /api/orders logic"
+    },
+    "editable_fields": {
+      "content": "/api/users, /api/orders logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_business_logic_api_endpoints_graphql_resolvers",
+    "label": "GraphQL Resolvers",
+    "category": "Web App Builder/Backend Server Logic/2B Business Logic Api Endpoints",
+    "description": "Query/mutation logic map",
+    "tags": [
+      "graphql_resolvers"
+    ],
+    "example_block_data": {
+      "content": "Query/mutation logic map"
+    },
+    "editable_fields": {
+      "content": "Query/mutation logic map"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_business_logic_api_endpoints_post_get_patch_handlers",
+    "label": "POST / GET / PATCH Handlers",
+    "category": "Web App Builder/Backend Server Logic/2B Business Logic Api Endpoints",
+    "description": "Data interactions",
+    "tags": [
+      "post_get_patch_handlers"
+    ],
+    "example_block_data": {
+      "content": "Data interactions"
+    },
+    "editable_fields": {
+      "content": "Data interactions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_business_logic_api_endpoints_error_handler_function",
+    "label": "Error Handler Function",
+    "category": "Web App Builder/Backend Server Logic/2B Business Logic Api Endpoints",
+    "description": "Catches and formats thrown errors",
+    "tags": [
+      "error_handler_function"
+    ],
+    "example_block_data": {
+      "content": "Catches and formats thrown errors"
+    },
+    "editable_fields": {
+      "content": "Catches and formats thrown errors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_business_logic_api_endpoints_validation_logic_zod_yup",
+    "label": "Validation Logic (Zod/Yup)",
+    "category": "Web App Builder/Backend Server Logic/2B Business Logic Api Endpoints",
+    "description": "Validates payloads before logic runs",
+    "tags": [
+      "validation_logic_zod_yup"
+    ],
+    "example_block_data": {
+      "content": "Validates payloads before logic runs"
+    },
+    "editable_fields": {
+      "content": "Validates payloads before logic runs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_business_logic_api_endpoints_rate_limiting_middleware",
+    "label": "Rate Limiting Middleware",
+    "category": "Web App Builder/Backend Server Logic/2B Business Logic Api Endpoints",
+    "description": "Prevents spam/abuse of key routes",
+    "tags": [
+      "rate_limiting_middleware"
+    ],
+    "example_block_data": {
+      "content": "Prevents spam/abuse of key routes"
+    },
+    "editable_fields": {
+      "content": "Prevents spam/abuse of key routes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2c_background_jobs_task_queues_cron_jobs",
+    "label": "Cron Jobs",
+    "category": "Web App Builder/Backend Server Logic/2C Background Jobs Task Queues",
+    "description": "Scheduled tasks (e.g., \u201crun every hour\u201d)",
+    "tags": [
+      "cron_jobs"
+    ],
+    "example_block_data": {
+      "content": "Scheduled tasks (e.g., \u201crun every hour\u201d)"
+    },
+    "editable_fields": {
+      "content": "Scheduled tasks (e.g., \u201crun every hour\u201d)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2c_background_jobs_task_queues_bull_redis_queues",
+    "label": "Bull / Redis Queues",
+    "category": "Web App Builder/Backend Server Logic/2C Background Jobs Task Queues",
+    "description": "Job workers for async tasks",
+    "tags": [
+      "bull_redis_queues"
+    ],
+    "example_block_data": {
+      "content": "Job workers for async tasks"
+    },
+    "editable_fields": {
+      "content": "Job workers for async tasks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2c_background_jobs_task_queues_retry_logic_wrapper",
+    "label": "Retry Logic Wrapper",
+    "category": "Web App Builder/Backend Server Logic/2C Background Jobs Task Queues",
+    "description": "For failed jobs or flaky APIs",
+    "tags": [
+      "retry_logic_wrapper"
+    ],
+    "example_block_data": {
+      "content": "For failed jobs or flaky APIs"
+    },
+    "editable_fields": {
+      "content": "For failed jobs or flaky APIs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2c_background_jobs_task_queues_email_notification_workers",
+    "label": "Email/Notification Workers",
+    "category": "Web App Builder/Backend Server Logic/2C Background Jobs Task Queues",
+    "description": "Offloads messaging to background",
+    "tags": [
+      "email_notification_workers"
+    ],
+    "example_block_data": {
+      "content": "Offloads messaging to background"
+    },
+    "editable_fields": {
+      "content": "Offloads messaging to background"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2c_background_jobs_task_queues_data_cleanup_scripts",
+    "label": "Data Cleanup Scripts",
+    "category": "Web App Builder/Backend Server Logic/2C Background Jobs Task Queues",
+    "description": "Regular maintenance tasks",
+    "tags": [
+      "data_cleanup_scripts"
+    ],
+    "example_block_data": {
+      "content": "Regular maintenance tasks"
+    },
+    "editable_fields": {
+      "content": "Regular maintenance tasks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2d_middleware_request_utilities_auth_middleware",
+    "label": "Auth Middleware",
+    "category": "Web App Builder/Backend Server Logic/2D Middleware Request Utilities",
+    "description": "Checks user tokens/roles on route access",
+    "tags": [
+      "auth_middleware"
+    ],
+    "example_block_data": {
+      "content": "Checks user tokens/roles on route access"
+    },
+    "editable_fields": {
+      "content": "Checks user tokens/roles on route access"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2d_middleware_request_utilities_body_parser_cookie_parser",
+    "label": "Body Parser / Cookie Parser",
+    "category": "Web App Builder/Backend Server Logic/2D Middleware Request Utilities",
+    "description": "Converts raw request input into usable objects",
+    "tags": [
+      "body_parser_cookie_parser"
+    ],
+    "example_block_data": {
+      "content": "Converts raw request input into usable objects"
+    },
+    "editable_fields": {
+      "content": "Converts raw request input into usable objects"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2d_middleware_request_utilities_cors_handler",
+    "label": "CORS Handler",
+    "category": "Web App Builder/Backend Server Logic/2D Middleware Request Utilities",
+    "description": "Manages cross-origin request rules",
+    "tags": [
+      "cors_handler"
+    ],
+    "example_block_data": {
+      "content": "Manages cross-origin request rules"
+    },
+    "editable_fields": {
+      "content": "Manages cross-origin request rules"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2d_middleware_request_utilities_request_logger",
+    "label": "Request Logger",
+    "category": "Web App Builder/Backend Server Logic/2D Middleware Request Utilities",
+    "description": "Logs IP, user-agent, and route usage",
+    "tags": [
+      "request_logger"
+    ],
+    "example_block_data": {
+      "content": "Logs IP, user-agent, and route usage"
+    },
+    "editable_fields": {
+      "content": "Logs IP, user-agent, and route usage"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2d_middleware_request_utilities_response_wrapper",
+    "label": "Response Wrapper",
+    "category": "Web App Builder/Backend Server Logic/2D Middleware Request Utilities",
+    "description": "Adds metadata, standardizes output",
+    "tags": [
+      "response_wrapper"
+    ],
+    "example_block_data": {
+      "content": "Adds metadata, standardizes output"
+    },
+    "editable_fields": {
+      "content": "Adds metadata, standardizes output"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2e_serverless_function_hooks_vercel_netlify_function_files",
+    "label": "Vercel/Netlify Function Files",
+    "category": "Web App Builder/Backend Server Logic/2E Serverless Function Hooks",
+    "description": "Lightweight endpoints",
+    "tags": [
+      "vercel_netlify_function_files"
+    ],
+    "example_block_data": {
+      "content": "Lightweight endpoints"
+    },
+    "editable_fields": {
+      "content": "Lightweight endpoints"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2e_serverless_function_hooks_edge_functions",
+    "label": "Edge Functions",
+    "category": "Web App Builder/Backend Server Logic/2E Serverless Function Hooks",
+    "description": "Location-aware, ultra-fast execution",
+    "tags": [
+      "edge_functions"
+    ],
+    "example_block_data": {
+      "content": "Location-aware, ultra-fast execution"
+    },
+    "editable_fields": {
+      "content": "Location-aware, ultra-fast execution"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2e_serverless_function_hooks_triggered_webhooks",
+    "label": "Triggered Webhooks",
+    "category": "Web App Builder/Backend Server Logic/2E Serverless Function Hooks",
+    "description": "Executes when something happens (e.g., Stripe event)",
+    "tags": [
+      "triggered_webhooks"
+    ],
+    "example_block_data": {
+      "content": "Executes when something happens (e.g., Stripe event)"
+    },
+    "editable_fields": {
+      "content": "Executes when something happens (e.g., Stripe event)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2e_serverless_function_hooks_dynamic_params_parser",
+    "label": "Dynamic Params Parser",
+    "category": "Web App Builder/Backend Server Logic/2E Serverless Function Hooks",
+    "description": "URL/input preprocessing",
+    "tags": [
+      "dynamic_params_parser"
+    ],
+    "example_block_data": {
+      "content": "URL/input preprocessing"
+    },
+    "editable_fields": {
+      "content": "URL/input preprocessing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2e_serverless_function_hooks_function_log_reporter",
+    "label": "Function Log Reporter",
+    "category": "Web App Builder/Backend Server Logic/2E Serverless Function Hooks",
+    "description": "Logs output, timing, errors from functions",
+    "tags": [
+      "function_log_reporter"
+    ],
+    "example_block_data": {
+      "content": "Logs output, timing, errors from functions"
+    },
+    "editable_fields": {
+      "content": "Logs output, timing, errors from functions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2f_logic_modules_microservices_business_logic_modules",
+    "label": "Business Logic Modules",
+    "category": "Web App Builder/Backend Server Logic/2F Logic Modules Microservices",
+    "description": "Encapsulated logic for reusable services (e.g., pricing rules)",
+    "tags": [
+      "business_logic_modules"
+    ],
+    "example_block_data": {
+      "content": "Encapsulated logic for reusable services (e.g., pricing rules)"
+    },
+    "editable_fields": {
+      "content": "Encapsulated logic for reusable services (e.g., pricing rules)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2f_logic_modules_microservices_internal_apis",
+    "label": "Internal APIs",
+    "category": "Web App Builder/Backend Server Logic/2F Logic Modules Microservices",
+    "description": "Used between backend subsystems",
+    "tags": [
+      "internal_apis"
+    ],
+    "example_block_data": {
+      "content": "Used between backend subsystems"
+    },
+    "editable_fields": {
+      "content": "Used between backend subsystems"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2f_logic_modules_microservices_microservice_gateways",
+    "label": "Microservice Gateways",
+    "category": "Web App Builder/Backend Server Logic/2F Logic Modules Microservices",
+    "description": "API gateway or reverse proxy logic",
+    "tags": [
+      "microservice_gateways"
+    ],
+    "example_block_data": {
+      "content": "API gateway or reverse proxy logic"
+    },
+    "editable_fields": {
+      "content": "API gateway or reverse proxy logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2f_logic_modules_microservices_feature_flag_logic",
+    "label": "Feature Flag Logic",
+    "category": "Web App Builder/Backend Server Logic/2F Logic Modules Microservices",
+    "description": "Activates or suppresses features by config",
+    "tags": [
+      "feature_flag_logic"
+    ],
+    "example_block_data": {
+      "content": "Activates or suppresses features by config"
+    },
+    "editable_fields": {
+      "content": "Activates or suppresses features by config"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2f_logic_modules_microservices_sdk_wrapper_functions",
+    "label": "SDK Wrapper Functions",
+    "category": "Web App Builder/Backend Server Logic/2F Logic Modules Microservices",
+    "description": "Interfaces to 3rd-party services (Stripe, OpenAI, etc.)",
+    "tags": [
+      "sdk_wrapper_functions"
+    ],
+    "example_block_data": {
+      "content": "Interfaces to 3rd-party services (Stripe, OpenAI, etc.)"
+    },
+    "editable_fields": {
+      "content": "Interfaces to 3rd-party services (Stripe, OpenAI, etc.)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2g_debug_dev_utilities_hot_reloading_nodemon",
+    "label": "Hot Reloading / Nodemon",
+    "category": "Web App Builder/Backend Server Logic/2G Debug Dev Utilities",
+    "description": "Restarts server on code changes",
+    "tags": [
+      "hot_reloading_nodemon"
+    ],
+    "example_block_data": {
+      "content": "Restarts server on code changes"
+    },
+    "editable_fields": {
+      "content": "Restarts server on code changes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2g_debug_dev_utilities_debug_logger",
+    "label": "Debug Logger",
+    "category": "Web App Builder/Backend Server Logic/2G Debug Dev Utilities",
+    "description": "Pretty-print error context",
+    "tags": [
+      "debug_logger"
+    ],
+    "example_block_data": {
+      "content": "Pretty-print error context"
+    },
+    "editable_fields": {
+      "content": "Pretty-print error context"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2g_debug_dev_utilities_console_middleware",
+    "label": "Console Middleware",
+    "category": "Web App Builder/Backend Server Logic/2G Debug Dev Utilities",
+    "description": "In-console status of requests/responses",
+    "tags": [
+      "console_middleware"
+    ],
+    "example_block_data": {
+      "content": "In-console status of requests/responses"
+    },
+    "editable_fields": {
+      "content": "In-console status of requests/responses"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2g_debug_dev_utilities_mock_api_response_generator",
+    "label": "Mock API Response Generator",
+    "category": "Web App Builder/Backend Server Logic/2G Debug Dev Utilities",
+    "description": "Generates fake data during development",
+    "tags": [
+      "mock_api_response_generator"
+    ],
+    "example_block_data": {
+      "content": "Generates fake data during development"
+    },
+    "editable_fields": {
+      "content": "Generates fake data during development"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2g_debug_dev_utilities_dev_only_endpoints",
+    "label": "Dev-only Endpoints",
+    "category": "Web App Builder/Backend Server Logic/2G Debug Dev Utilities",
+    "description": "Available only in NODE_ENV=development",
+    "tags": [
+      "dev_only_endpoints"
+    ],
+    "example_block_data": {
+      "content": "Available only in NODE_ENV=development"
+    },
+    "editable_fields": {
+      "content": "Available only in NODE_ENV=development"
+    }
+  }
+]

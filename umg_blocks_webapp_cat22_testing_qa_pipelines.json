@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22a_automated_testing_unit_tests_jest_vitest",
+    "label": "Unit Tests (Jest, Vitest)",
+    "category": "Web App Builder/Testing QA Deployment/22A Automated Testing",
+    "description": "Isolated function checks",
+    "tags": [
+      "unit_tests_jest_vitest"
+    ],
+    "example_block_data": {
+      "content": "Isolated function checks"
+    },
+    "editable_fields": {
+      "content": "Isolated function checks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22a_automated_testing_component_tests_react_testing_lib",
+    "label": "Component Tests (React Testing Lib)",
+    "category": "Web App Builder/Testing QA Deployment/22A Automated Testing",
+    "description": "Renders & interacts with UI",
+    "tags": [
+      "component_tests_react_testing_lib"
+    ],
+    "example_block_data": {
+      "content": "Renders & interacts with UI"
+    },
+    "editable_fields": {
+      "content": "Renders & interacts with UI"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22a_automated_testing_snapshot_tests",
+    "label": "Snapshot Tests",
+    "category": "Web App Builder/Testing QA Deployment/22A Automated Testing",
+    "description": "Detects visual or structural change",
+    "tags": [
+      "snapshot_tests"
+    ],
+    "example_block_data": {
+      "content": "Detects visual or structural change"
+    },
+    "editable_fields": {
+      "content": "Detects visual or structural change"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22a_automated_testing_lint_type_checks",
+    "label": "Lint & Type Checks",
+    "category": "Web App Builder/Testing QA Deployment/22A Automated Testing",
+    "description": "ESLint, TypeScript validation",
+    "tags": [
+      "lint_type_checks"
+    ],
+    "example_block_data": {
+      "content": "ESLint, TypeScript validation"
+    },
+    "editable_fields": {
+      "content": "ESLint, TypeScript validation"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22a_automated_testing_schema_validators",
+    "label": "Schema Validators",
+    "category": "Web App Builder/Testing QA Deployment/22A Automated Testing",
+    "description": "Ensures API/data shape compliance",
+    "tags": [
+      "schema_validators"
+    ],
+    "example_block_data": {
+      "content": "Ensures API/data shape compliance"
+    },
+    "editable_fields": {
+      "content": "Ensures API/data shape compliance"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22b_ci_cd_pipelines_github_actions_gitlab_ci_circle",
+    "label": "GitHub Actions / GitLab CI / Circle",
+    "category": "Web App Builder/Testing QA Deployment/22B Ci Cd Pipelines",
+    "description": "Automates builds, tests, deploys",
+    "tags": [
+      "github_actions_gitlab_ci_circle"
+    ],
+    "example_block_data": {
+      "content": "Automates builds, tests, deploys"
+    },
+    "editable_fields": {
+      "content": "Automates builds, tests, deploys"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22b_ci_cd_pipelines_branch_rules_merge_checks",
+    "label": "Branch Rules & Merge Checks",
+    "category": "Web App Builder/Testing QA Deployment/22B Ci Cd Pipelines",
+    "description": "Enforce passing tests",
+    "tags": [
+      "branch_rules_merge_checks"
+    ],
+    "example_block_data": {
+      "content": "Enforce passing tests"
+    },
+    "editable_fields": {
+      "content": "Enforce passing tests"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22b_ci_cd_pipelines_test_matrix_by_environment",
+    "label": "Test Matrix by Environment",
+    "category": "Web App Builder/Testing QA Deployment/22B Ci Cd Pipelines",
+    "description": "Test across Node versions/browsers",
+    "tags": [
+      "test_matrix_by_environment"
+    ],
+    "example_block_data": {
+      "content": "Test across Node versions/browsers"
+    },
+    "editable_fields": {
+      "content": "Test across Node versions/browsers"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22b_ci_cd_pipelines_auto_cancel_duplicate_builds",
+    "label": "Auto Cancel Duplicate Builds",
+    "category": "Web App Builder/Testing QA Deployment/22B Ci Cd Pipelines",
+    "description": "Save compute time",
+    "tags": [
+      "auto_cancel_duplicate_builds"
+    ],
+    "example_block_data": {
+      "content": "Save compute time"
+    },
+    "editable_fields": {
+      "content": "Save compute time"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22b_ci_cd_pipelines_secret_injection_for_ci_envs",
+    "label": "Secret Injection for CI Envs",
+    "category": "Web App Builder/Testing QA Deployment/22B Ci Cd Pipelines",
+    "description": "Injects .env secrets securely",
+    "tags": [
+      "secret_injection_for_ci_envs"
+    ],
+    "example_block_data": {
+      "content": "Injects .env secrets securely"
+    },
+    "editable_fields": {
+      "content": "Injects .env secrets securely"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22c_e2e_integration_testing_playwright_cypress_puppeteer",
+    "label": "Playwright / Cypress / Puppeteer",
+    "category": "Web App Builder/Testing QA Deployment/22C E2E Integration Testing",
+    "description": "Simulates real user journeys",
+    "tags": [
+      "playwright_cypress_puppeteer"
+    ],
+    "example_block_data": {
+      "content": "Simulates real user journeys"
+    },
+    "editable_fields": {
+      "content": "Simulates real user journeys"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22c_e2e_integration_testing_headless_browsers_dom_selectors",
+    "label": "Headless Browsers + DOM Selectors",
+    "category": "Web App Builder/Testing QA Deployment/22C E2E Integration Testing",
+    "description": "Full UI interaction tests",
+    "tags": [
+      "headless_browsers_dom_selectors"
+    ],
+    "example_block_data": {
+      "content": "Full UI interaction tests"
+    },
+    "editable_fields": {
+      "content": "Full UI interaction tests"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22c_e2e_integration_testing_api_contract_tests_e_g_pact",
+    "label": "API Contract Tests (e.g., Pact)",
+    "category": "Web App Builder/Testing QA Deployment/22C E2E Integration Testing",
+    "description": "Validate backend contract",
+    "tags": [
+      "api_contract_tests_e_g_pact"
+    ],
+    "example_block_data": {
+      "content": "Validate backend contract"
+    },
+    "editable_fields": {
+      "content": "Validate backend contract"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22c_e2e_integration_testing_db_redis_container_fixtures",
+    "label": "DB/Redis Container Fixtures",
+    "category": "Web App Builder/Testing QA Deployment/22C E2E Integration Testing",
+    "description": "Boot local services for real test",
+    "tags": [
+      "db_redis_container_fixtures"
+    ],
+    "example_block_data": {
+      "content": "Boot local services for real test"
+    },
+    "editable_fields": {
+      "content": "Boot local services for real test"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22c_e2e_integration_testing_retry_logic_for_flaky_tests",
+    "label": "Retry Logic for Flaky Tests",
+    "category": "Web App Builder/Testing QA Deployment/22C E2E Integration Testing",
+    "description": "Ensures occasional fails are retried",
+    "tags": [
+      "retry_logic_for_flaky_tests"
+    ],
+    "example_block_data": {
+      "content": "Ensures occasional fails are retried"
+    },
+    "editable_fields": {
+      "content": "Ensures occasional fails are retried"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22d_mocking_fixtures_simulators_mock_service_worker_msw",
+    "label": "Mock Service Worker (MSW)",
+    "category": "Web App Builder/Testing QA Deployment/22D Mocking Fixtures Simulators",
+    "description": "API mocking in browser and test",
+    "tags": [
+      "mock_service_worker_msw"
+    ],
+    "example_block_data": {
+      "content": "API mocking in browser and test"
+    },
+    "editable_fields": {
+      "content": "API mocking in browser and test"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22d_mocking_fixtures_simulators_faker_chance_casual",
+    "label": "Faker / Chance / Casual",
+    "category": "Web App Builder/Testing QA Deployment/22D Mocking Fixtures Simulators",
+    "description": "Sample data generation",
+    "tags": [
+      "faker_chance_casual"
+    ],
+    "example_block_data": {
+      "content": "Sample data generation"
+    },
+    "editable_fields": {
+      "content": "Sample data generation"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22d_mocking_fixtures_simulators_static_fixtures_in_json",
+    "label": "Static Fixtures in JSON",
+    "category": "Web App Builder/Testing QA Deployment/22D Mocking Fixtures Simulators",
+    "description": "Replayable mock scenarios",
+    "tags": [
+      "static_fixtures_in_json"
+    ],
+    "example_block_data": {
+      "content": "Replayable mock scenarios"
+    },
+    "editable_fields": {
+      "content": "Replayable mock scenarios"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22d_mocking_fixtures_simulators_dev_only_fake_apis",
+    "label": "Dev-only Fake APIs",
+    "category": "Web App Builder/Testing QA Deployment/22D Mocking Fixtures Simulators",
+    "description": "Simulated endpoints in dev",
+    "tags": [
+      "dev_only_fake_apis"
+    ],
+    "example_block_data": {
+      "content": "Simulated endpoints in dev"
+    },
+    "editable_fields": {
+      "content": "Simulated endpoints in dev"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22d_mocking_fixtures_simulators_email_webhook_capture_tools",
+    "label": "Email/Webhook Capture Tools",
+    "category": "Web App Builder/Testing QA Deployment/22D Mocking Fixtures Simulators",
+    "description": "View outbound notifications",
+    "tags": [
+      "email_webhook_capture_tools"
+    ],
+    "example_block_data": {
+      "content": "View outbound notifications"
+    },
+    "editable_fields": {
+      "content": "View outbound notifications"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22e_staging_rollout_preview_deploys_vercel_netlify",
+    "label": "Preview Deploys (Vercel, Netlify)",
+    "category": "Web App Builder/Testing QA Deployment/22E Staging Rollout",
+    "description": "Per-PR deploy previews",
+    "tags": [
+      "preview_deploys_vercel_netlify"
+    ],
+    "example_block_data": {
+      "content": "Per-PR deploy previews"
+    },
+    "editable_fields": {
+      "content": "Per-PR deploy previews"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22e_staging_rollout_manual_vs_auto_promotion_to_prod",
+    "label": "Manual vs Auto Promotion to Prod",
+    "category": "Web App Builder/Testing QA Deployment/22E Staging Rollout",
+    "description": "Controlled deploy flows",
+    "tags": [
+      "manual_vs_auto_promotion_to_prod"
+    ],
+    "example_block_data": {
+      "content": "Controlled deploy flows"
+    },
+    "editable_fields": {
+      "content": "Controlled deploy flows"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22e_staging_rollout_canary_deploys",
+    "label": "Canary Deploys",
+    "category": "Web App Builder/Testing QA Deployment/22E Staging Rollout",
+    "description": "Rollout to % of users",
+    "tags": [
+      "canary_deploys"
+    ],
+    "example_block_data": {
+      "content": "Rollout to % of users"
+    },
+    "editable_fields": {
+      "content": "Rollout to % of users"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22e_staging_rollout_rollback_button_or_git_ref_restore",
+    "label": "Rollback Button or Git Ref Restore",
+    "category": "Web App Builder/Testing QA Deployment/22E Staging Rollout",
+    "description": "Revert broken updates",
+    "tags": [
+      "rollback_button_or_git_ref_restore"
+    ],
+    "example_block_data": {
+      "content": "Revert broken updates"
+    },
+    "editable_fields": {
+      "content": "Revert broken updates"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22e_staging_rollout_uptime_checkers_on_deploy",
+    "label": "Uptime Checkers on Deploy",
+    "category": "Web App Builder/Testing QA Deployment/22E Staging Rollout",
+    "description": "Post-deploy health testing",
+    "tags": [
+      "uptime_checkers_on_deploy"
+    ],
+    "example_block_data": {
+      "content": "Post-deploy health testing"
+    },
+    "editable_fields": {
+      "content": "Post-deploy health testing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22f_coverage_monitoring_code_coverage_reports",
+    "label": "Code Coverage Reports",
+    "category": "Web App Builder/Testing QA Deployment/22F Coverage Monitoring",
+    "description": "Tracks tested code %",
+    "tags": [
+      "code_coverage_reports"
+    ],
+    "example_block_data": {
+      "content": "Tracks tested code %"
+    },
+    "editable_fields": {
+      "content": "Tracks tested code %"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22f_coverage_monitoring_sonarqube_codeclimate",
+    "label": "SonarQube / CodeClimate",
+    "category": "Web App Builder/Testing QA Deployment/22F Coverage Monitoring",
+    "description": "Quality and security checks",
+    "tags": [
+      "sonarqube_codeclimate"
+    ],
+    "example_block_data": {
+      "content": "Quality and security checks"
+    },
+    "editable_fields": {
+      "content": "Quality and security checks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22f_coverage_monitoring_lighthouse_web_vitals",
+    "label": "Lighthouse / Web Vitals",
+    "category": "Web App Builder/Testing QA Deployment/22F Coverage Monitoring",
+    "description": "Performance audits",
+    "tags": [
+      "lighthouse_web_vitals"
+    ],
+    "example_block_data": {
+      "content": "Performance audits"
+    },
+    "editable_fields": {
+      "content": "Performance audits"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22f_coverage_monitoring_error_tracking_sentry_logrocket",
+    "label": "Error Tracking (Sentry, LogRocket)",
+    "category": "Web App Builder/Testing QA Deployment/22F Coverage Monitoring",
+    "description": "Catch frontend/backend errors",
+    "tags": [
+      "error_tracking_sentry_logrocket"
+    ],
+    "example_block_data": {
+      "content": "Catch frontend/backend errors"
+    },
+    "editable_fields": {
+      "content": "Catch frontend/backend errors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 22,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "22f_coverage_monitoring_ci_badge_reporting",
+    "label": "CI Badge Reporting",
+    "category": "Web App Builder/Testing QA Deployment/22F Coverage Monitoring",
+    "description": "Public test/coverage status",
+    "tags": [
+      "ci_badge_reporting"
+    ],
+    "example_block_data": {
+      "content": "Public test/coverage status"
+    },
+    "editable_fields": {
+      "content": "Public test/coverage status"
+    }
+  }
+]

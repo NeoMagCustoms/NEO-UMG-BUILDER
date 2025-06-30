@@ -1,0 +1,28 @@
+{
+  "block_id": "30d_chat_context_embedding",
+  "label": "Chat Context & Embedding Flow",
+  "category": "webapp",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "context_retention"
+  ],
+  "tags": [
+    "chat",
+    "embedding",
+    "context"
+  ],
+  "snap_config": {
+    "snap_to": "Chat Stack",
+    "position": "middle"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "code_modules": [],
+  "canto_overlay": {},
+  "export_config": {}
+}

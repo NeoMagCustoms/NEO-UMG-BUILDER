@@ -1,0 +1,46 @@
+{
+  "block_id": "voice_to_text_engine",
+  "label": "Voice to Text Engine",
+  "category": "Input Methods",
+  "description": "Voice transcription engine used",
+  "molt_type": "Instruction",
+  "tags": [
+    "voice_to_text_engine",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🗣️"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Voice transcription engine used This defines how the bot will perform or respond using this input."
+  },
+  "editable_fields": {
+    "content": "Voice to Text Engine: Voice transcription engine used"
+  }
+}

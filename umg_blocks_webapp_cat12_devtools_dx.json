@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12a_local_dev_environment_env_local_example_file",
+    "label": ".env.local.example File",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12A Local Dev Environment",
+    "description": "Shares baseline variables with team",
+    "tags": [
+      "env_local_example_file"
+    ],
+    "example_block_data": {
+      "content": "Shares baseline variables with team"
+    },
+    "editable_fields": {
+      "content": "Shares baseline variables with team"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12a_local_dev_environment_preconfigured_vite_next_app",
+    "label": "Preconfigured Vite/Next App",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12A Local Dev Environment",
+    "description": "Ready-to-run scaffolds",
+    "tags": [
+      "preconfigured_vite_next_app"
+    ],
+    "example_block_data": {
+      "content": "Ready-to-run scaffolds"
+    },
+    "editable_fields": {
+      "content": "Ready-to-run scaffolds"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12a_local_dev_environment_live_reload_server",
+    "label": "Live Reload Server",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12A Local Dev Environment",
+    "description": "Auto refresh on change",
+    "tags": [
+      "live_reload_server"
+    ],
+    "example_block_data": {
+      "content": "Auto refresh on change"
+    },
+    "editable_fields": {
+      "content": "Auto refresh on change"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12a_local_dev_environment_local_dev_proxy",
+    "label": "Local Dev Proxy",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12A Local Dev Environment",
+    "description": "For API/backend emulation",
+    "tags": [
+      "local_dev_proxy"
+    ],
+    "example_block_data": {
+      "content": "For API/backend emulation"
+    },
+    "editable_fields": {
+      "content": "For API/backend emulation"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12a_local_dev_environment_debug_mode_flags",
+    "label": "Debug Mode Flags",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12A Local Dev Environment",
+    "description": "Enables special debugging UI",
+    "tags": [
+      "debug_mode_flags"
+    ],
+    "example_block_data": {
+      "content": "Enables special debugging UI"
+    },
+    "editable_fields": {
+      "content": "Enables special debugging UI"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12b_code_quality_frameworks_eslint_prettier",
+    "label": "ESLint + Prettier",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12B Code Quality Frameworks",
+    "description": "Linting + auto-formatting",
+    "tags": [
+      "eslint_prettier"
+    ],
+    "example_block_data": {
+      "content": "Linting + auto-formatting"
+    },
+    "editable_fields": {
+      "content": "Linting + auto-formatting"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12b_code_quality_frameworks_git_hooks_e_g_husky",
+    "label": "Git Hooks (e.g., Husky)",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12B Code Quality Frameworks",
+    "description": "Blocks bad commits",
+    "tags": [
+      "git_hooks_e_g_husky"
+    ],
+    "example_block_data": {
+      "content": "Blocks bad commits"
+    },
+    "editable_fields": {
+      "content": "Blocks bad commits"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12b_code_quality_frameworks_commit_lint",
+    "label": "Commit Lint",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12B Code Quality Frameworks",
+    "description": "Enforces commit message style",
+    "tags": [
+      "commit_lint"
+    ],
+    "example_block_data": {
+      "content": "Enforces commit message style"
+    },
+    "editable_fields": {
+      "content": "Enforces commit message style"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12b_code_quality_frameworks_typescript_strict_mode",
+    "label": "TypeScript Strict Mode",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12B Code Quality Frameworks",
+    "description": "Prevents silent type errors",
+    "tags": [
+      "typescript_strict_mode"
+    ],
+    "example_block_data": {
+      "content": "Prevents silent type errors"
+    },
+    "editable_fields": {
+      "content": "Prevents silent type errors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12b_code_quality_frameworks_import_path_aliases",
+    "label": "Import Path Aliases",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12B Code Quality Frameworks",
+    "description": "Shortens long import chains",
+    "tags": [
+      "import_path_aliases"
+    ],
+    "example_block_data": {
+      "content": "Shortens long import chains"
+    },
+    "editable_fields": {
+      "content": "Shortens long import chains"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12c_hot_reload_preview_react_fast_refresh",
+    "label": "React Fast Refresh",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12C Hot Reload Preview",
+    "description": "Preserves state on code change",
+    "tags": [
+      "react_fast_refresh"
+    ],
+    "example_block_data": {
+      "content": "Preserves state on code change"
+    },
+    "editable_fields": {
+      "content": "Preserves state on code change"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12c_hot_reload_preview_tailwind_jit_mode",
+    "label": "Tailwind JIT Mode",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12C Hot Reload Preview",
+    "description": "Instantly compiles CSS",
+    "tags": [
+      "tailwind_jit_mode"
+    ],
+    "example_block_data": {
+      "content": "Instantly compiles CSS"
+    },
+    "editable_fields": {
+      "content": "Instantly compiles CSS"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12c_hot_reload_preview_vite_webpack_watch_mode",
+    "label": "Vite / Webpack Watch Mode",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12C Hot Reload Preview",
+    "description": "Monitors file changes",
+    "tags": [
+      "vite_webpack_watch_mode"
+    ],
+    "example_block_data": {
+      "content": "Monitors file changes"
+    },
+    "editable_fields": {
+      "content": "Monitors file changes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12c_hot_reload_preview_component_scoped_hot_reload",
+    "label": "Component-Scoped Hot Reload",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12C Hot Reload Preview",
+    "description": "Refreshes only the changed section",
+    "tags": [
+      "component_scoped_hot_reload"
+    ],
+    "example_block_data": {
+      "content": "Refreshes only the changed section"
+    },
+    "editable_fields": {
+      "content": "Refreshes only the changed section"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12c_hot_reload_preview_preview_pane_for_uis",
+    "label": "Preview Pane for UIs",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12C Hot Reload Preview",
+    "description": "Isolated UI demo preview window",
+    "tags": [
+      "preview_pane_for_uis"
+    ],
+    "example_block_data": {
+      "content": "Isolated UI demo preview window"
+    },
+    "editable_fields": {
+      "content": "Isolated UI demo preview window"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12d_mocking_fixtures_storybook_storybook_setup",
+    "label": "Storybook Setup",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12D Mocking Fixtures Storybook",
+    "description": "Builds reusable UI library with test cases",
+    "tags": [
+      "storybook_setup"
+    ],
+    "example_block_data": {
+      "content": "Builds reusable UI library with test cases"
+    },
+    "editable_fields": {
+      "content": "Builds reusable UI library with test cases"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12d_mocking_fixtures_storybook_msw_mock_service_worker",
+    "label": "MSW (Mock Service Worker)",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12D Mocking Fixtures Storybook",
+    "description": "Mocks APIs during dev/testing",
+    "tags": [
+      "msw_mock_service_worker"
+    ],
+    "example_block_data": {
+      "content": "Mocks APIs during dev/testing"
+    },
+    "editable_fields": {
+      "content": "Mocks APIs during dev/testing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12d_mocking_fixtures_storybook_dummy_data_generator_faker_js",
+    "label": "Dummy Data Generator (Faker.js)",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12D Mocking Fixtures Storybook",
+    "description": "Creates realistic sample data",
+    "tags": [
+      "dummy_data_generator_faker_js"
+    ],
+    "example_block_data": {
+      "content": "Creates realistic sample data"
+    },
+    "editable_fields": {
+      "content": "Creates realistic sample data"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12d_mocking_fixtures_storybook_fixture_loader_scripts",
+    "label": "Fixture Loader Scripts",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12D Mocking Fixtures Storybook",
+    "description": "Preloads mock DB data",
+    "tags": [
+      "fixture_loader_scripts"
+    ],
+    "example_block_data": {
+      "content": "Preloads mock DB data"
+    },
+    "editable_fields": {
+      "content": "Preloads mock DB data"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12d_mocking_fixtures_storybook_local_email_webhook_tester",
+    "label": "Local Email/Webhook Tester",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12D Mocking Fixtures Storybook",
+    "description": "Captures outbound notifications locally",
+    "tags": [
+      "local_email_webhook_tester"
+    ],
+    "example_block_data": {
+      "content": "Captures outbound notifications locally"
+    },
+    "editable_fields": {
+      "content": "Captures outbound notifications locally"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12e_cli_scripts_codegen_custom_dev_cli",
+    "label": "Custom Dev CLI",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12E Cli Scripts Codegen",
+    "description": "Adds shortcuts and tooling",
+    "tags": [
+      "custom_dev_cli"
+    ],
+    "example_block_data": {
+      "content": "Adds shortcuts and tooling"
+    },
+    "editable_fields": {
+      "content": "Adds shortcuts and tooling"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12e_cli_scripts_codegen_file_scaffolding_generator",
+    "label": "File Scaffolding Generator",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12E Cli Scripts Codegen",
+    "description": "Automates repetitive boilerplate",
+    "tags": [
+      "file_scaffolding_generator"
+    ],
+    "example_block_data": {
+      "content": "Automates repetitive boilerplate"
+    },
+    "editable_fields": {
+      "content": "Automates repetitive boilerplate"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12e_cli_scripts_codegen_vscode_snippets",
+    "label": "VSCode Snippets",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12E Cli Scripts Codegen",
+    "description": "Shares templates and blocks",
+    "tags": [
+      "vscode_snippets"
+    ],
+    "example_block_data": {
+      "content": "Shares templates and blocks"
+    },
+    "editable_fields": {
+      "content": "Shares templates and blocks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12e_cli_scripts_codegen_codegen_from_swagger_openapi",
+    "label": "Codegen from Swagger/OpenAPI",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12E Cli Scripts Codegen",
+    "description": "Generates client from API schema",
+    "tags": [
+      "codegen_from_swagger_openapi"
+    ],
+    "example_block_data": {
+      "content": "Generates client from API schema"
+    },
+    "editable_fields": {
+      "content": "Generates client from API schema"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12e_cli_scripts_codegen_cli_feedback_logging",
+    "label": "CLI Feedback Logging",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12E Cli Scripts Codegen",
+    "description": "Debug and trace tool output",
+    "tags": [
+      "cli_feedback_logging"
+    ],
+    "example_block_data": {
+      "content": "Debug and trace tool output"
+    },
+    "editable_fields": {
+      "content": "Debug and trace tool output"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12f_developer_docs_meta_readme_md_setup_docs",
+    "label": "README.md + Setup Docs",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12F Developer Docs Meta",
+    "description": "Instructions for new developers",
+    "tags": [
+      "readme_md_setup_docs"
+    ],
+    "example_block_data": {
+      "content": "Instructions for new developers"
+    },
+    "editable_fields": {
+      "content": "Instructions for new developers"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12f_developer_docs_meta_architecture_diagram",
+    "label": "Architecture Diagram",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12F Developer Docs Meta",
+    "description": "Maps component or feature flow",
+    "tags": [
+      "architecture_diagram"
+    ],
+    "example_block_data": {
+      "content": "Maps component or feature flow"
+    },
+    "editable_fields": {
+      "content": "Maps component or feature flow"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12f_developer_docs_meta_contributing_guidelines",
+    "label": "Contributing Guidelines",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12F Developer Docs Meta",
+    "description": "PR rules, branch naming, approvals",
+    "tags": [
+      "contributing_guidelines"
+    ],
+    "example_block_data": {
+      "content": "PR rules, branch naming, approvals"
+    },
+    "editable_fields": {
+      "content": "PR rules, branch naming, approvals"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12f_developer_docs_meta_in_code_comments_with_tags",
+    "label": "In-Code Comments with Tags",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12F Developer Docs Meta",
+    "description": "Hints, warnings, TODO/FIXME",
+    "tags": [
+      "in_code_comments_with_tags"
+    ],
+    "example_block_data": {
+      "content": "Hints, warnings, TODO/FIXME"
+    },
+    "editable_fields": {
+      "content": "Hints, warnings, TODO/FIXME"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 12,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "12f_developer_docs_meta_dev_roadmap_notes",
+    "label": "Dev Roadmap Notes",
+    "category": "Web App Builder/Dev Tools DX Enhancements/12F Developer Docs Meta",
+    "description": "Logs future upgrades, issues, plans",
+    "tags": [
+      "dev_roadmap_notes"
+    ],
+    "example_block_data": {
+      "content": "Logs future upgrades, issues, plans"
+    },
+    "editable_fields": {
+      "content": "Logs future upgrades, issues, plans"
+    }
+  }
+]

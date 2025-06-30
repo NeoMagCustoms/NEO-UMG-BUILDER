@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 21,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "21f_audit_logs_admin_tools_admin_dashboard_for_roles",
+  "label": "Admin Dashboard for Roles",
+  "category": "Web App Builder/Access Control Permissions/21F Audit Logs Admin Tools",
+  "description": "Assign and view permissions",
+  "tags": [
+    "admin_dashboard_for_roles"
+  ],
+  "example_block_data": {
+    "content": "Assign and view permissions"
+  },
+  "editable_fields": {
+    "content": "Assign and view permissions"
+  }
+}

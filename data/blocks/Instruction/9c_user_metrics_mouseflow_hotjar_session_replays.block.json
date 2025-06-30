@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 9,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "9c_user_metrics_mouseflow_hotjar_session_replays",
+  "label": "Mouseflow / Hotjar Session Replays",
+  "category": "Web App Builder/Analytics Event Tracking/9C User Metrics",
+  "description": "Replay user actions",
+  "tags": [
+    "mouseflow_hotjar_session_replays"
+  ],
+  "example_block_data": {
+    "content": "Replay user actions"
+  },
+  "editable_fields": {
+    "content": "Replay user actions"
+  }
+}

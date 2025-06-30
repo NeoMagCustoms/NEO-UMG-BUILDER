@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 7,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "8a_job_role_docs_job_scorecard",
+  "label": "Job Scorecard",
+  "category": "Business Plans/Web App/Chatbot/8A Job Role Docs",
+  "description": "Success metrics and outcomes for a role",
+  "tags": [
+    "job_scorecard"
+  ],
+  "example_block_data": {
+    "content": "Success metrics and outcomes for a role"
+  },
+  "editable_fields": {
+    "content": "Success metrics and outcomes for a role"
+  }
+}

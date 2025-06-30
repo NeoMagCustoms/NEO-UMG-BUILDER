@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 23,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "23a_feedback_widgets_floating_feedback_widget",
+  "label": "Floating Feedback Widget",
+  "category": "Web App Builder/Product Feedback Surveys Voting/23A Feedback Widgets",
+  "description": "Persistent input UI",
+  "tags": [
+    "floating_feedback_widget"
+  ],
+  "example_block_data": {
+    "content": "Persistent input UI"
+  },
+  "editable_fields": {
+    "content": "Persistent input UI"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "block_id": "active_user_heatmap",
+  "label": "Heatmap of Active Users",
+  "category": "Web App/Gamification/27E",
+  "description": "Shows streak health",
+  "molt_type": "Instruction"
+}

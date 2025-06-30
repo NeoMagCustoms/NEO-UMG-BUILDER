@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 16,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "16e_live_filtering_ux_input_debounce_delay",
+  "label": "Input Debounce Delay",
+  "category": "Web App Builder/Search Filters Sorting/16E Live Filtering Ux",
+  "description": "Reduces API hits during typing",
+  "tags": [
+    "input_debounce_delay"
+  ],
+  "example_block_data": {
+    "content": "Reduces API hits during typing"
+  },
+  "editable_fields": {
+    "content": "Reduces API hits during typing"
+  }
+}

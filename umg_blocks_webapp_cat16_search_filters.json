@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16a_search_engine_integration_elasticsearch_typesense_meilisearch",
+    "label": "ElasticSearch / Typesense / Meilisearch",
+    "category": "Web App Builder/Search Filters Sorting/16A Search Engine Integration",
+    "description": "High-speed indexed search",
+    "tags": [
+      "elasticsearch_typesense_meilisearch"
+    ],
+    "example_block_data": {
+      "content": "High-speed indexed search"
+    },
+    "editable_fields": {
+      "content": "High-speed indexed search"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16a_search_engine_integration_fuzzy_match_logic",
+    "label": "Fuzzy Match Logic",
+    "category": "Web App Builder/Search Filters Sorting/16A Search Engine Integration",
+    "description": "Typo-tolerant and approximate results",
+    "tags": [
+      "fuzzy_match_logic"
+    ],
+    "example_block_data": {
+      "content": "Typo-tolerant and approximate results"
+    },
+    "editable_fields": {
+      "content": "Typo-tolerant and approximate results"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16a_search_engine_integration_full_text_search_fts_in_db",
+    "label": "Full Text Search (FTS) in DB",
+    "category": "Web App Builder/Search Filters Sorting/16A Search Engine Integration",
+    "description": "SQL-native search using weighted fields",
+    "tags": [
+      "full_text_search_fts_in_db"
+    ],
+    "example_block_data": {
+      "content": "SQL-native search using weighted fields"
+    },
+    "editable_fields": {
+      "content": "SQL-native search using weighted fields"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16a_search_engine_integration_keyword_highlight_logic",
+    "label": "Keyword Highlight Logic",
+    "category": "Web App Builder/Search Filters Sorting/16A Search Engine Integration",
+    "description": "Visually emphasizes matches",
+    "tags": [
+      "keyword_highlight_logic"
+    ],
+    "example_block_data": {
+      "content": "Visually emphasizes matches"
+    },
+    "editable_fields": {
+      "content": "Visually emphasizes matches"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16a_search_engine_integration_reindex_scheduler_sync_hook",
+    "label": "Reindex Scheduler / Sync Hook",
+    "category": "Web App Builder/Search Filters Sorting/16A Search Engine Integration",
+    "description": "Keeps data searchable in real-time",
+    "tags": [
+      "reindex_scheduler_sync_hook"
+    ],
+    "example_block_data": {
+      "content": "Keeps data searchable in real-time"
+    },
+    "editable_fields": {
+      "content": "Keeps data searchable in real-time"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16b_filter_logic_components_multi_facet_filtering",
+    "label": "Multi-Facet Filtering",
+    "category": "Web App Builder/Search Filters Sorting/16B Filter Logic Components",
+    "description": "Filter by category, tags, price, etc.",
+    "tags": [
+      "multi_facet_filtering"
+    ],
+    "example_block_data": {
+      "content": "Filter by category, tags, price, etc."
+    },
+    "editable_fields": {
+      "content": "Filter by category, tags, price, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16b_filter_logic_components_range_sliders_toggles",
+    "label": "Range Sliders / Toggles",
+    "category": "Web App Builder/Search Filters Sorting/16B Filter Logic Components",
+    "description": "Visual filter UX (e.g., price ranges)",
+    "tags": [
+      "range_sliders_toggles"
+    ],
+    "example_block_data": {
+      "content": "Visual filter UX (e.g., price ranges)"
+    },
+    "editable_fields": {
+      "content": "Visual filter UX (e.g., price ranges)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16b_filter_logic_components_nested_filter_groups",
+    "label": "Nested Filter Groups",
+    "category": "Web App Builder/Search Filters Sorting/16B Filter Logic Components",
+    "description": "AND/OR logic between filters",
+    "tags": [
+      "nested_filter_groups"
+    ],
+    "example_block_data": {
+      "content": "AND/OR logic between filters"
+    },
+    "editable_fields": {
+      "content": "AND/OR logic between filters"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16b_filter_logic_components_filter_state_sync_via_url_params",
+    "label": "Filter State Sync via URL Params",
+    "category": "Web App Builder/Search Filters Sorting/16B Filter Logic Components",
+    "description": "Deep-linkable filtered pages",
+    "tags": [
+      "filter_state_sync_via_url_params"
+    ],
+    "example_block_data": {
+      "content": "Deep-linkable filtered pages"
+    },
+    "editable_fields": {
+      "content": "Deep-linkable filtered pages"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16b_filter_logic_components_filter_reset_clear_buttons",
+    "label": "Filter Reset / Clear Buttons",
+    "category": "Web App Builder/Search Filters Sorting/16B Filter Logic Components",
+    "description": "UX to undo filters",
+    "tags": [
+      "filter_reset_clear_buttons"
+    ],
+    "example_block_data": {
+      "content": "UX to undo filters"
+    },
+    "editable_fields": {
+      "content": "UX to undo filters"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16c_smart_query_builders_natural_language_structured_query",
+    "label": "Natural Language \u2192 Structured Query",
+    "category": "Web App Builder/Search Filters Sorting/16C Smart Query Builders",
+    "description": "e.g., 'find top posts this month'",
+    "tags": [
+      "natural_language_structured_query"
+    ],
+    "example_block_data": {
+      "content": "e.g., 'find top posts this month'"
+    },
+    "editable_fields": {
+      "content": "e.g., 'find top posts this month'"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16c_smart_query_builders_query_dsl_generator_elasticsearch",
+    "label": "Query DSL Generator (Elasticsearch)",
+    "category": "Web App Builder/Search Filters Sorting/16C Smart Query Builders",
+    "description": "Builds safe query objects",
+    "tags": [
+      "query_dsl_generator_elasticsearch"
+    ],
+    "example_block_data": {
+      "content": "Builds safe query objects"
+    },
+    "editable_fields": {
+      "content": "Builds safe query objects"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16c_smart_query_builders_filter_db_where_clause_translator",
+    "label": "Filter \u2192 DB WHERE Clause Translator",
+    "category": "Web App Builder/Search Filters Sorting/16C Smart Query Builders",
+    "description": "Converts frontend state to SQL",
+    "tags": [
+      "filter_db_where_clause_translator"
+    ],
+    "example_block_data": {
+      "content": "Converts frontend state to SQL"
+    },
+    "editable_fields": {
+      "content": "Converts frontend state to SQL"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16c_smart_query_builders_custom_sort_filter_dsl_syntax",
+    "label": "Custom Sort + Filter DSL Syntax",
+    "category": "Web App Builder/Search Filters Sorting/16C Smart Query Builders",
+    "description": "For advanced power users",
+    "tags": [
+      "custom_sort_filter_dsl_syntax"
+    ],
+    "example_block_data": {
+      "content": "For advanced power users"
+    },
+    "editable_fields": {
+      "content": "For advanced power users"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16c_smart_query_builders_prebuilt_query_snippets",
+    "label": "Prebuilt Query Snippets",
+    "category": "Web App Builder/Search Filters Sorting/16C Smart Query Builders",
+    "description": "Common filter shortcuts",
+    "tags": [
+      "prebuilt_query_snippets"
+    ],
+    "example_block_data": {
+      "content": "Common filter shortcuts"
+    },
+    "editable_fields": {
+      "content": "Common filter shortcuts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16d_sort_pagination_logic_sort_by_relevance_date_price",
+    "label": "Sort by Relevance / Date / Price",
+    "category": "Web App Builder/Search Filters Sorting/16D Sort Pagination Logic",
+    "description": "Custom ranking logic",
+    "tags": [
+      "sort_by_relevance_date_price"
+    ],
+    "example_block_data": {
+      "content": "Custom ranking logic"
+    },
+    "editable_fields": {
+      "content": "Custom ranking logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16d_sort_pagination_logic_pagination_vs_infinite_scroll",
+    "label": "Pagination vs Infinite Scroll",
+    "category": "Web App Builder/Search Filters Sorting/16D Sort Pagination Logic",
+    "description": "UX and performance tuning",
+    "tags": [
+      "pagination_vs_infinite_scroll"
+    ],
+    "example_block_data": {
+      "content": "UX and performance tuning"
+    },
+    "editable_fields": {
+      "content": "UX and performance tuning"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16d_sort_pagination_logic_lazy_loading_for_pages",
+    "label": "Lazy Loading for Pages",
+    "category": "Web App Builder/Search Filters Sorting/16D Sort Pagination Logic",
+    "description": "Fetch on scroll trigger",
+    "tags": [
+      "lazy_loading_for_pages"
+    ],
+    "example_block_data": {
+      "content": "Fetch on scroll trigger"
+    },
+    "editable_fields": {
+      "content": "Fetch on scroll trigger"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16d_sort_pagination_logic_sticky_sort_headers",
+    "label": "Sticky Sort Headers",
+    "category": "Web App Builder/Search Filters Sorting/16D Sort Pagination Logic",
+    "description": "Always-visible controls",
+    "tags": [
+      "sticky_sort_headers"
+    ],
+    "example_block_data": {
+      "content": "Always-visible controls"
+    },
+    "editable_fields": {
+      "content": "Always-visible controls"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16d_sort_pagination_logic_sort_direction_toggle_asc_desc",
+    "label": "Sort Direction Toggle (ASC/DESC)",
+    "category": "Web App Builder/Search Filters Sorting/16D Sort Pagination Logic",
+    "description": "Switch direction",
+    "tags": [
+      "sort_direction_toggle_asc_desc"
+    ],
+    "example_block_data": {
+      "content": "Switch direction"
+    },
+    "editable_fields": {
+      "content": "Switch direction"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16e_live_filtering_ux_input_debounce_delay",
+    "label": "Input Debounce Delay",
+    "category": "Web App Builder/Search Filters Sorting/16E Live Filtering Ux",
+    "description": "Reduces API hits during typing",
+    "tags": [
+      "input_debounce_delay"
+    ],
+    "example_block_data": {
+      "content": "Reduces API hits during typing"
+    },
+    "editable_fields": {
+      "content": "Reduces API hits during typing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16e_live_filtering_ux_instant_filter_re_eval",
+    "label": "Instant Filter Re-eval",
+    "category": "Web App Builder/Search Filters Sorting/16E Live Filtering Ux",
+    "description": "UX polish: results change as filters update",
+    "tags": [
+      "instant_filter_re_eval"
+    ],
+    "example_block_data": {
+      "content": "UX polish: results change as filters update"
+    },
+    "editable_fields": {
+      "content": "UX polish: results change as filters update"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16e_live_filtering_ux_clear_query_input_button",
+    "label": "Clear Query Input Button",
+    "category": "Web App Builder/Search Filters Sorting/16E Live Filtering Ux",
+    "description": "UX shortcut",
+    "tags": [
+      "clear_query_input_button"
+    ],
+    "example_block_data": {
+      "content": "UX shortcut"
+    },
+    "editable_fields": {
+      "content": "UX shortcut"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16e_live_filtering_ux_history_aware_filter_navigation",
+    "label": "History-Aware Filter Navigation",
+    "category": "Web App Builder/Search Filters Sorting/16E Live Filtering Ux",
+    "description": "Browser back/forward works as expected",
+    "tags": [
+      "history_aware_filter_navigation"
+    ],
+    "example_block_data": {
+      "content": "Browser back/forward works as expected"
+    },
+    "editable_fields": {
+      "content": "Browser back/forward works as expected"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16e_live_filtering_ux_skeleton_loader_loading_spinner",
+    "label": "Skeleton Loader / Loading Spinner",
+    "category": "Web App Builder/Search Filters Sorting/16E Live Filtering Ux",
+    "description": "Prevents jumpy UI",
+    "tags": [
+      "skeleton_loader_loading_spinner"
+    ],
+    "example_block_data": {
+      "content": "Prevents jumpy UI"
+    },
+    "editable_fields": {
+      "content": "Prevents jumpy UI"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16f_query_access_control_filter_by_user_role",
+    "label": "Filter by User Role",
+    "category": "Web App Builder/Search Filters Sorting/16F Query Access Control",
+    "description": "Hides private or admin-only data",
+    "tags": [
+      "filter_by_user_role"
+    ],
+    "example_block_data": {
+      "content": "Hides private or admin-only data"
+    },
+    "editable_fields": {
+      "content": "Hides private or admin-only data"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16f_query_access_control_search_scopes_public_vs_private",
+    "label": "Search Scopes (Public vs Private)",
+    "category": "Web App Builder/Search Filters Sorting/16F Query Access Control",
+    "description": "User-visible vs internal documents",
+    "tags": [
+      "search_scopes_public_vs_private"
+    ],
+    "example_block_data": {
+      "content": "User-visible vs internal documents"
+    },
+    "editable_fields": {
+      "content": "User-visible vs internal documents"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16f_query_access_control_query_limit_cap_quotas",
+    "label": "Query Limit Cap / Quotas",
+    "category": "Web App Builder/Search Filters Sorting/16F Query Access Control",
+    "description": "Prevents spam/abuse on public search",
+    "tags": [
+      "query_limit_cap_quotas"
+    ],
+    "example_block_data": {
+      "content": "Prevents spam/abuse on public search"
+    },
+    "editable_fields": {
+      "content": "Prevents spam/abuse on public search"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16f_query_access_control_scoped_search_by_ownership",
+    "label": "Scoped Search by Ownership",
+    "category": "Web App Builder/Search Filters Sorting/16F Query Access Control",
+    "description": "e.g., \u201cmy posts only\u201d toggle",
+    "tags": [
+      "scoped_search_by_ownership"
+    ],
+    "example_block_data": {
+      "content": "e.g., \u201cmy posts only\u201d toggle"
+    },
+    "editable_fields": {
+      "content": "e.g., \u201cmy posts only\u201d toggle"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 16,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "16f_query_access_control_result_masking_logic",
+    "label": "Result Masking Logic",
+    "category": "Web App Builder/Search Filters Sorting/16F Query Access Control",
+    "description": "Redacts parts of result per policy",
+    "tags": [
+      "result_masking_logic"
+    ],
+    "example_block_data": {
+      "content": "Redacts parts of result per policy"
+    },
+    "editable_fields": {
+      "content": "Redacts parts of result per policy"
+    }
+  }
+]

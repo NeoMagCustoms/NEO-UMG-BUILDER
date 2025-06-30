@@ -1,0 +1,47 @@
+{
+  "block_id": "icon_set_management_cat6_style_design",
+  "label": "Icon Set Management",
+  "category": "Web App Builder/Category 6: Styling & Design System",
+  "molt_type": "Subject",
+  "color": "green",
+  "description": "Feather, Lucide, Heroicons setup",
+  "tags": [
+    "styling",
+    "design",
+    "category6"
+  ],
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+INSTRUCTION+DIRECTIVE",
+  "merge_logic": {
+    "merge_as": "subject",
+    "accepts": [
+      "Primary",
+      "Instruction",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "green",
+    "icon": "🎨"
+  },
+  "example_block_data": {
+    "content": "Feather, Lucide, Heroicons setup"
+  },
+  "editable_fields": {
+    "content": "Feather, Lucide, Heroicons setup"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": []
+}

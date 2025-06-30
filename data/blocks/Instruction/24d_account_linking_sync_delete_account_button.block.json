@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 24,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "24d_account_linking_sync_delete_account_button",
+  "label": "Delete Account Button",
+  "category": "Web App Builder/User Profiles Settings Panels/24D Account Linking Sync",
+  "description": "Erase identity",
+  "tags": [
+    "delete_account_button"
+  ],
+  "example_block_data": {
+    "content": "Erase identity"
+  },
+  "editable_fields": {
+    "content": "Erase identity"
+  }
+}

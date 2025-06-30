@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8a_local_component_state_usestate_usereducer_hooks",
+    "label": "useState / useReducer Hooks",
+    "category": "Web App Builder/State Context Management/8A Local Component State",
+    "description": "Stores logic directly inside a component",
+    "tags": [
+      "usestate_usereducer_hooks"
+    ],
+    "example_block_data": {
+      "content": "Stores logic directly inside a component"
+    },
+    "editable_fields": {
+      "content": "Stores logic directly inside a component"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8a_local_component_state_local_ui_toggle_logic",
+    "label": "Local UI Toggle Logic",
+    "category": "Web App Builder/State Context Management/8A Local Component State",
+    "description": "Show/hide menus, modals, tabs",
+    "tags": [
+      "local_ui_toggle_logic"
+    ],
+    "example_block_data": {
+      "content": "Show/hide menus, modals, tabs"
+    },
+    "editable_fields": {
+      "content": "Show/hide menus, modals, tabs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8a_local_component_state_input_form_state_bindings",
+    "label": "Input Form State Bindings",
+    "category": "Web App Builder/State Context Management/8A Local Component State",
+    "description": "Live updating field values",
+    "tags": [
+      "input_form_state_bindings"
+    ],
+    "example_block_data": {
+      "content": "Live updating field values"
+    },
+    "editable_fields": {
+      "content": "Live updating field values"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8a_local_component_state_component_memoization",
+    "label": "Component Memoization",
+    "category": "Web App Builder/State Context Management/8A Local Component State",
+    "description": "Prevents rerenders via React.memo",
+    "tags": [
+      "component_memoization"
+    ],
+    "example_block_data": {
+      "content": "Prevents rerenders via React.memo"
+    },
+    "editable_fields": {
+      "content": "Prevents rerenders via React.memo"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8a_local_component_state_dom_ref_state_useref",
+    "label": "DOM Ref State (useRef)",
+    "category": "Web App Builder/State Context Management/8A Local Component State",
+    "description": "Stores non-reactive but persistent references",
+    "tags": [
+      "dom_ref_state_useref"
+    ],
+    "example_block_data": {
+      "content": "Stores non-reactive but persistent references"
+    },
+    "editable_fields": {
+      "content": "Stores non-reactive but persistent references"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8b_global_state_managers_zustand_redux_recoil",
+    "label": "Zustand / Redux / Recoil",
+    "category": "Web App Builder/State Context Management/8B Global State Managers",
+    "description": "App-wide stores with access across components",
+    "tags": [
+      "zustand_redux_recoil"
+    ],
+    "example_block_data": {
+      "content": "App-wide stores with access across components"
+    },
+    "editable_fields": {
+      "content": "App-wide stores with access across components"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8b_global_state_managers_usestore_hooks",
+    "label": "useStore() Hooks",
+    "category": "Web App Builder/State Context Management/8B Global State Managers",
+    "description": "Connect components to the global state",
+    "tags": [
+      "usestore_hooks"
+    ],
+    "example_block_data": {
+      "content": "Connect components to the global state"
+    },
+    "editable_fields": {
+      "content": "Connect components to the global state"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8b_global_state_managers_immutable_update_patterns",
+    "label": "Immutable Update Patterns",
+    "category": "Web App Builder/State Context Management/8B Global State Managers",
+    "description": "Avoid mutation bugs",
+    "tags": [
+      "immutable_update_patterns"
+    ],
+    "example_block_data": {
+      "content": "Avoid mutation bugs"
+    },
+    "editable_fields": {
+      "content": "Avoid mutation bugs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8b_global_state_managers_debug_devtools",
+    "label": "Debug DevTools",
+    "category": "Web App Builder/State Context Management/8B Global State Managers",
+    "description": "Time-travel and state visualization",
+    "tags": [
+      "debug_devtools"
+    ],
+    "example_block_data": {
+      "content": "Time-travel and state visualization"
+    },
+    "editable_fields": {
+      "content": "Time-travel and state visualization"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8b_global_state_managers_snapshot_history_support",
+    "label": "Snapshot & History Support",
+    "category": "Web App Builder/State Context Management/8B Global State Managers",
+    "description": "Undo/redo functionality",
+    "tags": [
+      "snapshot_history_support"
+    ],
+    "example_block_data": {
+      "content": "Undo/redo functionality"
+    },
+    "editable_fields": {
+      "content": "Undo/redo functionality"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8c_react_context_providers_theme_context",
+    "label": "Theme Context",
+    "category": "Web App Builder/State Context Management/8C React Context Providers",
+    "description": "Global theme control",
+    "tags": [
+      "theme_context"
+    ],
+    "example_block_data": {
+      "content": "Global theme control"
+    },
+    "editable_fields": {
+      "content": "Global theme control"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8c_react_context_providers_auth_context",
+    "label": "Auth Context",
+    "category": "Web App Builder/State Context Management/8C React Context Providers",
+    "description": "Current user session and auth state",
+    "tags": [
+      "auth_context"
+    ],
+    "example_block_data": {
+      "content": "Current user session and auth state"
+    },
+    "editable_fields": {
+      "content": "Current user session and auth state"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8c_react_context_providers_modal_context",
+    "label": "Modal Context",
+    "category": "Web App Builder/State Context Management/8C React Context Providers",
+    "description": "Open/close modals from anywhere",
+    "tags": [
+      "modal_context"
+    ],
+    "example_block_data": {
+      "content": "Open/close modals from anywhere"
+    },
+    "editable_fields": {
+      "content": "Open/close modals from anywhere"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8c_react_context_providers_toast_snackbar_provider",
+    "label": "Toast / Snackbar Provider",
+    "category": "Web App Builder/State Context Management/8C React Context Providers",
+    "description": "Queue and display alerts",
+    "tags": [
+      "toast_snackbar_provider"
+    ],
+    "example_block_data": {
+      "content": "Queue and display alerts"
+    },
+    "editable_fields": {
+      "content": "Queue and display alerts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8c_react_context_providers_nested_context_composition",
+    "label": "Nested Context Composition",
+    "category": "Web App Builder/State Context Management/8C React Context Providers",
+    "description": "Scoped logic with override layers",
+    "tags": [
+      "nested_context_composition"
+    ],
+    "example_block_data": {
+      "content": "Scoped logic with override layers"
+    },
+    "editable_fields": {
+      "content": "Scoped logic with override layers"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8d_persistence_rehydration_localstorage_sessionstorage",
+    "label": "LocalStorage / SessionStorage",
+    "category": "Web App Builder/State Context Management/8D Persistence Rehydration",
+    "description": "Save state between reloads",
+    "tags": [
+      "localstorage_sessionstorage"
+    ],
+    "example_block_data": {
+      "content": "Save state between reloads"
+    },
+    "editable_fields": {
+      "content": "Save state between reloads"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8d_persistence_rehydration_indexeddb_for_complex_state",
+    "label": "IndexedDB for Complex State",
+    "category": "Web App Builder/State Context Management/8D Persistence Rehydration",
+    "description": "Store large structures offline",
+    "tags": [
+      "indexeddb_for_complex_state"
+    ],
+    "example_block_data": {
+      "content": "Store large structures offline"
+    },
+    "editable_fields": {
+      "content": "Store large structures offline"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8d_persistence_rehydration_hydration_hooks",
+    "label": "Hydration Hooks",
+    "category": "Web App Builder/State Context Management/8D Persistence Rehydration",
+    "description": "Reload saved state on startup",
+    "tags": [
+      "hydration_hooks"
+    ],
+    "example_block_data": {
+      "content": "Reload saved state on startup"
+    },
+    "editable_fields": {
+      "content": "Reload saved state on startup"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8d_persistence_rehydration_debounced_persistence_layer",
+    "label": "Debounced Persistence Layer",
+    "category": "Web App Builder/State Context Management/8D Persistence Rehydration",
+    "description": "Save state efficiently over time",
+    "tags": [
+      "debounced_persistence_layer"
+    ],
+    "example_block_data": {
+      "content": "Save state efficiently over time"
+    },
+    "editable_fields": {
+      "content": "Save state efficiently over time"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8d_persistence_rehydration_state_checksum_versioning",
+    "label": "State Checksum / Versioning",
+    "category": "Web App Builder/State Context Management/8D Persistence Rehydration",
+    "description": "Prevent conflicts on restore",
+    "tags": [
+      "state_checksum_versioning"
+    ],
+    "example_block_data": {
+      "content": "Prevent conflicts on restore"
+    },
+    "editable_fields": {
+      "content": "Prevent conflicts on restore"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8e_reactive_subscriptions_event_bus_or_pubsub_layer",
+    "label": "Event Bus or PubSub Layer",
+    "category": "Web App Builder/State Context Management/8E Reactive Subscriptions",
+    "description": "Notify components of changes",
+    "tags": [
+      "event_bus_or_pubsub_layer"
+    ],
+    "example_block_data": {
+      "content": "Notify components of changes"
+    },
+    "editable_fields": {
+      "content": "Notify components of changes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8e_reactive_subscriptions_websocket_or_realtime_link",
+    "label": "WebSocket or Realtime Link",
+    "category": "Web App Builder/State Context Management/8E Reactive Subscriptions",
+    "description": "Syncs state across users",
+    "tags": [
+      "websocket_or_realtime_link"
+    ],
+    "example_block_data": {
+      "content": "Syncs state across users"
+    },
+    "editable_fields": {
+      "content": "Syncs state across users"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8e_reactive_subscriptions_observer_signal_based_logic",
+    "label": "Observer / Signal-Based Logic",
+    "category": "Web App Builder/State Context Management/8E Reactive Subscriptions",
+    "description": "Svelte-like reactivity in React",
+    "tags": [
+      "observer_signal_based_logic"
+    ],
+    "example_block_data": {
+      "content": "Svelte-like reactivity in React"
+    },
+    "editable_fields": {
+      "content": "Svelte-like reactivity in React"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8e_reactive_subscriptions_useeffect_dependency_control",
+    "label": "useEffect Dependency Control",
+    "category": "Web App Builder/State Context Management/8E Reactive Subscriptions",
+    "description": "Avoids unnecessary re-renders",
+    "tags": [
+      "useeffect_dependency_control"
+    ],
+    "example_block_data": {
+      "content": "Avoids unnecessary re-renders"
+    },
+    "editable_fields": {
+      "content": "Avoids unnecessary re-renders"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8e_reactive_subscriptions_reactivity_debug_logger",
+    "label": "Reactivity Debug Logger",
+    "category": "Web App Builder/State Context Management/8E Reactive Subscriptions",
+    "description": "Trace what triggered what",
+    "tags": [
+      "reactivity_debug_logger"
+    ],
+    "example_block_data": {
+      "content": "Trace what triggered what"
+    },
+    "editable_fields": {
+      "content": "Trace what triggered what"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8f_derived_state_computation_selectors_memoized_selectors",
+    "label": "Selectors / Memoized Selectors",
+    "category": "Web App Builder/State Context Management/8F Derived State Computation",
+    "description": "Filters, maps, and derives logic from base state",
+    "tags": [
+      "selectors_memoized_selectors"
+    ],
+    "example_block_data": {
+      "content": "Filters, maps, and derives logic from base state"
+    },
+    "editable_fields": {
+      "content": "Filters, maps, and derives logic from base state"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8f_derived_state_computation_computed_property_hooks",
+    "label": "Computed Property Hooks",
+    "category": "Web App Builder/State Context Management/8F Derived State Computation",
+    "description": "useMemo or custom hook logic",
+    "tags": [
+      "computed_property_hooks"
+    ],
+    "example_block_data": {
+      "content": "useMemo or custom hook logic"
+    },
+    "editable_fields": {
+      "content": "useMemo or custom hook logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8f_derived_state_computation_cross_state_aggregation_logic",
+    "label": "Cross-State Aggregation Logic",
+    "category": "Web App Builder/State Context Management/8F Derived State Computation",
+    "description": "Combine multiple state sources",
+    "tags": [
+      "cross_state_aggregation_logic"
+    ],
+    "example_block_data": {
+      "content": "Combine multiple state sources"
+    },
+    "editable_fields": {
+      "content": "Combine multiple state sources"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8f_derived_state_computation_data_driven_ui_logic",
+    "label": "Data-Driven UI Logic",
+    "category": "Web App Builder/State Context Management/8F Derived State Computation",
+    "description": "Render logic based on calculations",
+    "tags": [
+      "data_driven_ui_logic"
+    ],
+    "example_block_data": {
+      "content": "Render logic based on calculations"
+    },
+    "editable_fields": {
+      "content": "Render logic based on calculations"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 8,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "8f_derived_state_computation_throttled_debounced_derivations",
+    "label": "Throttled / Debounced Derivations",
+    "category": "Web App Builder/State Context Management/8F Derived State Computation",
+    "description": "Performance tuning for high-frequency inputs",
+    "tags": [
+      "throttled_debounced_derivations"
+    ],
+    "example_block_data": {
+      "content": "Performance tuning for high-frequency inputs"
+    },
+    "editable_fields": {
+      "content": "Performance tuning for high-frequency inputs"
+    }
+  }
+]

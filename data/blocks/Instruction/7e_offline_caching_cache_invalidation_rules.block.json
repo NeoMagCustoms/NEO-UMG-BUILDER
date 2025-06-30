@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 7,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "7e_offline_caching_cache_invalidation_rules",
+  "label": "Cache Invalidation Rules",
+  "category": "Web App Builder/Responsive PWA Framework/7E Offline Caching",
+  "description": "When to refresh local versions",
+  "tags": [
+    "cache_invalidation_rules"
+  ],
+  "example_block_data": {
+    "content": "When to refresh local versions"
+  },
+  "editable_fields": {
+    "content": "When to refresh local versions"
+  }
+}

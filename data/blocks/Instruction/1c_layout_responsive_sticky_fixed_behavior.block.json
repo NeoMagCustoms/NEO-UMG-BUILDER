@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "1c_layout_responsive_sticky_fixed_behavior",
+  "label": "Sticky/Fixed Behavior",
+  "category": "Web App Builder/Frontend Architecture/1C Layout Responsive",
+  "description": "Headers, footers, sidebars that follow scroll",
+  "tags": [
+    "sticky_fixed_behavior"
+  ],
+  "example_block_data": {
+    "content": "Headers, footers, sidebars that follow scroll"
+  },
+  "editable_fields": {
+    "content": "Headers, footers, sidebars that follow scroll"
+  }
+}

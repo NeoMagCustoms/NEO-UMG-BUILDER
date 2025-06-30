@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "4d_due_diligence_disclosure_docs_financial_audit_trail",
+  "label": "Financial Audit Trail",
+  "category": "Business Plans/Web App/Chatbot/4D Due Diligence Disclosure Docs",
+  "description": "Yearly financial reports and projections",
+  "tags": [
+    "financial_audit_trail"
+  ],
+  "example_block_data": {
+    "content": "Yearly financial reports and projections"
+  },
+  "editable_fields": {
+    "content": "Yearly financial reports and projections"
+  }
+}

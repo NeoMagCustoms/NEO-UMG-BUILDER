@@ -1,0 +1,38 @@
+{
+  "block_id": "chatbot_knowledge_sources",
+  "label": "Chatbot Knowledge Source Plugins",
+  "category": "chatbot_core",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "source_type",
+    "source_description",
+    "connection_method",
+    "source_refresh_frequency",
+    "chunking_or_embedding_method",
+    "search_or_query_logic",
+    "source_scope_restrictions",
+    "source_fallback_behavior",
+    "active_source_toggle",
+    "example_source_queries"
+  ],
+  "tags": [
+    "chatbot",
+    "knowledge",
+    "RAG",
+    "API"
+  ],
+  "snap_config": {
+    "snap_to": [
+      "Memory",
+      "Primary"
+    ],
+    "stack_order": 10
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T14:17:04.478671",
+    "edit_log": []
+  }
+}

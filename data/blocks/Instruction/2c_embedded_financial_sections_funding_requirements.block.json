@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "2c_embedded_financial_sections_funding_requirements",
+  "label": "Funding Requirements",
+  "category": "Business Plans/Web App/Chatbot/2C Embedded Financial Sections",
+  "description": "Pitch decks, Startup Plans",
+  "tags": [
+    "funding_requirements"
+  ],
+  "example_block_data": {
+    "content": "Pitch decks, Startup Plans"
+  },
+  "editable_fields": {
+    "content": "Pitch decks, Startup Plans"
+  }
+}

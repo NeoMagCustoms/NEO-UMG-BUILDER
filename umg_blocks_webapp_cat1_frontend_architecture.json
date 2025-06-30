@@ -1,0 +1,1806 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_component_layout_page_layout_templates",
+    "label": "Page Layout Templates",
+    "category": "Web App Builder/Frontend Architecture/1A Component Layout",
+    "description": "Defines reusable page wrappers (Header + Sidebar + Footer)",
+    "tags": [
+      "page_layout_templates"
+    ],
+    "example_block_data": {
+      "content": "Defines reusable page wrappers (Header + Sidebar + Footer)"
+    },
+    "editable_fields": {
+      "content": "Defines reusable page wrappers (Header + Sidebar + Footer)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_component_layout_section_components",
+    "label": "Section Components",
+    "category": "Web App Builder/Frontend Architecture/1A Component Layout",
+    "description": "Reusable visual blocks (e.g., Hero, FeatureCard, Testimonial)",
+    "tags": [
+      "section_components"
+    ],
+    "example_block_data": {
+      "content": "Reusable visual blocks (e.g., Hero, FeatureCard, Testimonial)"
+    },
+    "editable_fields": {
+      "content": "Reusable visual blocks (e.g., Hero, FeatureCard, Testimonial)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_component_layout_atomic_component_library",
+    "label": "Atomic Component Library",
+    "category": "Web App Builder/Frontend Architecture/1A Component Layout",
+    "description": "Button, Input, Modal, Tag, Badge, Tooltip, Tabs, etc.",
+    "tags": [
+      "atomic_component_library"
+    ],
+    "example_block_data": {
+      "content": "Button, Input, Modal, Tag, Badge, Tooltip, Tabs, etc."
+    },
+    "editable_fields": {
+      "content": "Button, Input, Modal, Tag, Badge, Tooltip, Tabs, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_component_layout_page_builders",
+    "label": "Page Builders",
+    "category": "Web App Builder/Frontend Architecture/1A Component Layout",
+    "description": "Modular page system using drag/drop or MOLT blocks",
+    "tags": [
+      "page_builders"
+    ],
+    "example_block_data": {
+      "content": "Modular page system using drag/drop or MOLT blocks"
+    },
+    "editable_fields": {
+      "content": "Modular page system using drag/drop or MOLT blocks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_component_layout_view_containers",
+    "label": "View Containers",
+    "category": "Web App Builder/Frontend Architecture/1A Component Layout",
+    "description": "Route-aware wrappers (DashboardView, PublicView, etc.)",
+    "tags": [
+      "view_containers"
+    ],
+    "example_block_data": {
+      "content": "Route-aware wrappers (DashboardView, PublicView, etc.)"
+    },
+    "editable_fields": {
+      "content": "Route-aware wrappers (DashboardView, PublicView, etc.)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_routing_navigation_route_configs_router_map",
+    "label": "Route Configs / Router Map",
+    "category": "Web App Builder/Frontend Architecture/1B Routing Navigation",
+    "description": "URL-to-component mapping (React Router, Next.js)",
+    "tags": [
+      "route_configs_router_map"
+    ],
+    "example_block_data": {
+      "content": "URL-to-component mapping (React Router, Next.js)"
+    },
+    "editable_fields": {
+      "content": "URL-to-component mapping (React Router, Next.js)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_routing_navigation_dynamic_routing",
+    "label": "Dynamic Routing",
+    "category": "Web App Builder/Frontend Architecture/1B Routing Navigation",
+    "description": "Parameter-based page rendering (/user/:id)",
+    "tags": [
+      "dynamic_routing"
+    ],
+    "example_block_data": {
+      "content": "Parameter-based page rendering (/user/:id)"
+    },
+    "editable_fields": {
+      "content": "Parameter-based page rendering (/user/:id)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_routing_navigation_protected_routes",
+    "label": "Protected Routes",
+    "category": "Web App Builder/Frontend Architecture/1B Routing Navigation",
+    "description": "Routes that check auth/roles",
+    "tags": [
+      "protected_routes"
+    ],
+    "example_block_data": {
+      "content": "Routes that check auth/roles"
+    },
+    "editable_fields": {
+      "content": "Routes that check auth/roles"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_routing_navigation_lazy_loaded_routes",
+    "label": "Lazy-Loaded Routes",
+    "category": "Web App Builder/Frontend Architecture/1B Routing Navigation",
+    "description": "Async route splitting for performance",
+    "tags": [
+      "lazy_loaded_routes"
+    ],
+    "example_block_data": {
+      "content": "Async route splitting for performance"
+    },
+    "editable_fields": {
+      "content": "Async route splitting for performance"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_routing_navigation_navigation_guards_redirects",
+    "label": "Navigation Guards / Redirects",
+    "category": "Web App Builder/Frontend Architecture/1B Routing Navigation",
+    "description": "Route-level middleware or login protection",
+    "tags": [
+      "navigation_guards_redirects"
+    ],
+    "example_block_data": {
+      "content": "Route-level middleware or login protection"
+    },
+    "editable_fields": {
+      "content": "Route-level middleware or login protection"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_routing_navigation_menu_structure_map",
+    "label": "Menu Structure Map",
+    "category": "Web App Builder/Frontend Architecture/1B Routing Navigation",
+    "description": "Drawer/sidebar/topnav definitions",
+    "tags": [
+      "menu_structure_map"
+    ],
+    "example_block_data": {
+      "content": "Drawer/sidebar/topnav definitions"
+    },
+    "editable_fields": {
+      "content": "Drawer/sidebar/topnav definitions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_routing_navigation_breadcrumb_generator",
+    "label": "Breadcrumb Generator",
+    "category": "Web App Builder/Frontend Architecture/1B Routing Navigation",
+    "description": "Shows page context hierarchy",
+    "tags": [
+      "breadcrumb_generator"
+    ],
+    "example_block_data": {
+      "content": "Shows page context hierarchy"
+    },
+    "editable_fields": {
+      "content": "Shows page context hierarchy"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_layout_responsive_grid_system",
+    "label": "Grid System",
+    "category": "Web App Builder/Frontend Architecture/1C Layout Responsive",
+    "description": "Flexbox/Grid layouts with breakpoints",
+    "tags": [
+      "grid_system"
+    ],
+    "example_block_data": {
+      "content": "Flexbox/Grid layouts with breakpoints"
+    },
+    "editable_fields": {
+      "content": "Flexbox/Grid layouts with breakpoints"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_layout_responsive_container_wrapper_components",
+    "label": "Container / Wrapper Components",
+    "category": "Web App Builder/Frontend Architecture/1C Layout Responsive",
+    "description": "Padding + max-width controls",
+    "tags": [
+      "container_wrapper_components"
+    ],
+    "example_block_data": {
+      "content": "Padding + max-width controls"
+    },
+    "editable_fields": {
+      "content": "Padding + max-width controls"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_layout_responsive_responsive_utilities",
+    "label": "Responsive Utilities",
+    "category": "Web App Builder/Frontend Architecture/1C Layout Responsive",
+    "description": "Mobile/tablet/desktop views",
+    "tags": [
+      "responsive_utilities"
+    ],
+    "example_block_data": {
+      "content": "Mobile/tablet/desktop views"
+    },
+    "editable_fields": {
+      "content": "Mobile/tablet/desktop views"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_layout_responsive_sticky_fixed_behavior",
+    "label": "Sticky/Fixed Behavior",
+    "category": "Web App Builder/Frontend Architecture/1C Layout Responsive",
+    "description": "Headers, footers, sidebars that follow scroll",
+    "tags": [
+      "sticky_fixed_behavior"
+    ],
+    "example_block_data": {
+      "content": "Headers, footers, sidebars that follow scroll"
+    },
+    "editable_fields": {
+      "content": "Headers, footers, sidebars that follow scroll"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_layout_responsive_scroll_snap_overflow_handlers",
+    "label": "Scroll Snap / Overflow Handlers",
+    "category": "Web App Builder/Frontend Architecture/1C Layout Responsive",
+    "description": "For immersive scroll logic",
+    "tags": [
+      "scroll_snap_overflow_handlers"
+    ],
+    "example_block_data": {
+      "content": "For immersive scroll logic"
+    },
+    "editable_fields": {
+      "content": "For immersive scroll logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_layout_responsive_layout_toggle_grid_list_etc",
+    "label": "Layout Toggle (Grid/List/etc.)",
+    "category": "Web App Builder/Frontend Architecture/1C Layout Responsive",
+    "description": "User-selectable layout views",
+    "tags": [
+      "layout_toggle_grid_list_etc"
+    ],
+    "example_block_data": {
+      "content": "User-selectable layout views"
+    },
+    "editable_fields": {
+      "content": "User-selectable layout views"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1d_ui_framework_integration_tailwind_css",
+    "label": "Tailwind CSS",
+    "category": "Web App Builder/Frontend Architecture/1D Ui Framework Integration",
+    "description": "Utility-first styling and responsive classes",
+    "tags": [
+      "tailwind_css"
+    ],
+    "example_block_data": {
+      "content": "Utility-first styling and responsive classes"
+    },
+    "editable_fields": {
+      "content": "Utility-first styling and responsive classes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1d_ui_framework_integration_shadcn_radix_ui",
+    "label": "Shadcn / Radix UI",
+    "category": "Web App Builder/Frontend Architecture/1D Ui Framework Integration",
+    "description": "Accessible component primitives",
+    "tags": [
+      "shadcn_radix_ui"
+    ],
+    "example_block_data": {
+      "content": "Accessible component primitives"
+    },
+    "editable_fields": {
+      "content": "Accessible component primitives"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1d_ui_framework_integration_material_ui_chakra_antd",
+    "label": "Material UI / Chakra / AntD",
+    "category": "Web App Builder/Frontend Architecture/1D Ui Framework Integration",
+    "description": "Pre-built design systems",
+    "tags": [
+      "material_ui_chakra_antd"
+    ],
+    "example_block_data": {
+      "content": "Pre-built design systems"
+    },
+    "editable_fields": {
+      "content": "Pre-built design systems"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1d_ui_framework_integration_headless_ui",
+    "label": "Headless UI",
+    "category": "Web App Builder/Frontend Architecture/1D Ui Framework Integration",
+    "description": "Customizable logic-first UI components",
+    "tags": [
+      "headless_ui"
+    ],
+    "example_block_data": {
+      "content": "Customizable logic-first UI components"
+    },
+    "editable_fields": {
+      "content": "Customizable logic-first UI components"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1d_ui_framework_integration_framer_motion",
+    "label": "Framer Motion",
+    "category": "Web App Builder/Frontend Architecture/1D Ui Framework Integration",
+    "description": "Animations, transitions, enter/exit logic",
+    "tags": [
+      "framer_motion"
+    ],
+    "example_block_data": {
+      "content": "Animations, transitions, enter/exit logic"
+    },
+    "editable_fields": {
+      "content": "Animations, transitions, enter/exit logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1d_ui_framework_integration_resizable_draggable_blocks",
+    "label": "Resizable / Draggable Blocks",
+    "category": "Web App Builder/Frontend Architecture/1D Ui Framework Integration",
+    "description": "CMS / Builder-style UI design flexibility",
+    "tags": [
+      "resizable_draggable_blocks"
+    ],
+    "example_block_data": {
+      "content": "CMS / Builder-style UI design flexibility"
+    },
+    "editable_fields": {
+      "content": "CMS / Builder-style UI design flexibility"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1e_performance_seo_skeleton_loaders",
+    "label": "Skeleton Loaders",
+    "category": "Web App Builder/Frontend Architecture/1E Performance Seo",
+    "description": "Preload UI during async data calls",
+    "tags": [
+      "skeleton_loaders"
+    ],
+    "example_block_data": {
+      "content": "Preload UI during async data calls"
+    },
+    "editable_fields": {
+      "content": "Preload UI during async data calls"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1e_performance_seo_lazy_loading_suspense",
+    "label": "Lazy Loading / Suspense",
+    "category": "Web App Builder/Frontend Architecture/1E Performance Seo",
+    "description": "Component/code delay logic",
+    "tags": [
+      "lazy_loading_suspense"
+    ],
+    "example_block_data": {
+      "content": "Component/code delay logic"
+    },
+    "editable_fields": {
+      "content": "Component/code delay logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1e_performance_seo_route_prefetching",
+    "label": "Route Prefetching",
+    "category": "Web App Builder/Frontend Architecture/1E Performance Seo",
+    "description": "Preload likely next pages",
+    "tags": [
+      "route_prefetching"
+    ],
+    "example_block_data": {
+      "content": "Preload likely next pages"
+    },
+    "editable_fields": {
+      "content": "Preload likely next pages"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1e_performance_seo_meta_title_tag_manager",
+    "label": "Meta / Title Tag Manager",
+    "category": "Web App Builder/Frontend Architecture/1E Performance Seo",
+    "description": "SEO-relevant page titles and OG tags",
+    "tags": [
+      "meta_title_tag_manager"
+    ],
+    "example_block_data": {
+      "content": "SEO-relevant page titles and OG tags"
+    },
+    "editable_fields": {
+      "content": "SEO-relevant page titles and OG tags"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1e_performance_seo_scroll_restoration",
+    "label": "Scroll Restoration",
+    "category": "Web App Builder/Frontend Architecture/1E Performance Seo",
+    "description": "Return to last position when navigating back",
+    "tags": [
+      "scroll_restoration"
+    ],
+    "example_block_data": {
+      "content": "Return to last position when navigating back"
+    },
+    "editable_fields": {
+      "content": "Return to last position when navigating back"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1e_performance_seo_accessibility_tree_optimizers",
+    "label": "Accessibility Tree Optimizers",
+    "category": "Web App Builder/Frontend Architecture/1E Performance Seo",
+    "description": "Clean ARIA and role mapping",
+    "tags": [
+      "accessibility_tree_optimizers"
+    ],
+    "example_block_data": {
+      "content": "Clean ARIA and role mapping"
+    },
+    "editable_fields": {
+      "content": "Clean ARIA and role mapping"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1f_ui_utilities_toast_notifications",
+    "label": "Toast Notifications",
+    "category": "Web App Builder/Frontend Architecture/1F Ui Utilities",
+    "description": "In-app alerts (success, error, info)",
+    "tags": [
+      "toast_notifications"
+    ],
+    "example_block_data": {
+      "content": "In-app alerts (success, error, info)"
+    },
+    "editable_fields": {
+      "content": "In-app alerts (success, error, info)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1f_ui_utilities_modals_dialogs",
+    "label": "Modals / Dialogs",
+    "category": "Web App Builder/Frontend Architecture/1F Ui Utilities",
+    "description": "Confirmations, forms, overlays",
+    "tags": [
+      "modals_dialogs"
+    ],
+    "example_block_data": {
+      "content": "Confirmations, forms, overlays"
+    },
+    "editable_fields": {
+      "content": "Confirmations, forms, overlays"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1f_ui_utilities_tabs_accordions",
+    "label": "Tabs / Accordions",
+    "category": "Web App Builder/Frontend Architecture/1F Ui Utilities",
+    "description": "Condense space and content",
+    "tags": [
+      "tabs_accordions"
+    ],
+    "example_block_data": {
+      "content": "Condense space and content"
+    },
+    "editable_fields": {
+      "content": "Condense space and content"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1f_ui_utilities_skeleton_states",
+    "label": "Skeleton States",
+    "category": "Web App Builder/Frontend Architecture/1F Ui Utilities",
+    "description": "Loading visuals",
+    "tags": [
+      "skeleton_states"
+    ],
+    "example_block_data": {
+      "content": "Loading visuals"
+    },
+    "editable_fields": {
+      "content": "Loading visuals"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1f_ui_utilities_error_boundaries",
+    "label": "Error Boundaries",
+    "category": "Web App Builder/Frontend Architecture/1F Ui Utilities",
+    "description": "Catch render failures and display fallback",
+    "tags": [
+      "error_boundaries"
+    ],
+    "example_block_data": {
+      "content": "Catch render failures and display fallback"
+    },
+    "editable_fields": {
+      "content": "Catch render failures and display fallback"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1f_ui_utilities_theme_switcher",
+    "label": "Theme Switcher",
+    "category": "Web App Builder/Frontend Architecture/1F Ui Utilities",
+    "description": "Light/dark/system mode toggling",
+    "tags": [
+      "theme_switcher"
+    ],
+    "example_block_data": {
+      "content": "Light/dark/system mode toggling"
+    },
+    "editable_fields": {
+      "content": "Light/dark/system mode toggling"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1g_app_entry_shell_app_jsx_app_tsx",
+    "label": "App.jsx / App.tsx",
+    "category": "Web App Builder/Frontend Architecture/1G App Entry Shell",
+    "description": "Root renderer",
+    "tags": [
+      "app_jsx_app_tsx"
+    ],
+    "example_block_data": {
+      "content": "Root renderer"
+    },
+    "editable_fields": {
+      "content": "Root renderer"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1g_app_entry_shell_main_jsx_index_tsx",
+    "label": "main.jsx / index.tsx",
+    "category": "Web App Builder/Frontend Architecture/1G App Entry Shell",
+    "description": "Entrypoint to hydrate React/Vite/Next apps",
+    "tags": [
+      "main_jsx_index_tsx"
+    ],
+    "example_block_data": {
+      "content": "Entrypoint to hydrate React/Vite/Next apps"
+    },
+    "editable_fields": {
+      "content": "Entrypoint to hydrate React/Vite/Next apps"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1g_app_entry_shell_page_tsx_layout_tsx",
+    "label": "Page.tsx / Layout.tsx",
+    "category": "Web App Builder/Frontend Architecture/1G App Entry Shell",
+    "description": "Page-layer wrappers (often with <Outlet />)",
+    "tags": [
+      "page_tsx_layout_tsx"
+    ],
+    "example_block_data": {
+      "content": "Page-layer wrappers (often with <Outlet />)"
+    },
+    "editable_fields": {
+      "content": "Page-layer wrappers (often with <Outlet />)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1g_app_entry_shell_rootprovider_tsx",
+    "label": "RootProvider.tsx",
+    "category": "Web App Builder/Frontend Architecture/1G App Entry Shell",
+    "description": "Inject context/state/theme",
+    "tags": [
+      "rootprovider_tsx"
+    ],
+    "example_block_data": {
+      "content": "Inject context/state/theme"
+    },
+    "editable_fields": {
+      "content": "Inject context/state/theme"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1g_app_entry_shell_routemap_json_or_route_ts",
+    "label": "RouteMap.json or route.ts",
+    "category": "Web App Builder/Frontend Architecture/1G App Entry Shell",
+    "description": "Programmatic router logic",
+    "tags": [
+      "routemap_json_or_route_ts"
+    ],
+    "example_block_data": {
+      "content": "Programmatic router logic"
+    },
+    "editable_fields": {
+      "content": "Programmatic router logic"
+    }
+  }
+]

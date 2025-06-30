@@ -1,0 +1,28 @@
+{
+  "block_id": "30a_prompt_templates_variables",
+  "label": "Prompt Templates w/ Variables",
+  "category": "webapp",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "template"
+  ],
+  "tags": [
+    "prompts",
+    "AI",
+    "templates"
+  ],
+  "snap_config": {
+    "snap_to": "Prompt Builder",
+    "position": "top"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "code_modules": [],
+  "canto_overlay": {},
+  "export_config": {}
+}

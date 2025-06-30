@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "5a_external_api_integration_retry_timeout_logic",
+  "label": "Retry & Timeout Logic",
+  "category": "Web App Builder/API Integration Webhooks/5A External Api Integration",
+  "description": "Handles flaky APIs gracefully",
+  "tags": [
+    "retry_timeout_logic"
+  ],
+  "example_block_data": {
+    "content": "Handles flaky APIs gracefully"
+  },
+  "editable_fields": {
+    "content": "Handles flaky APIs gracefully"
+  }
+}

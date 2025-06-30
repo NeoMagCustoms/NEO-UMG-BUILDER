@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 4,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "4g_test_fixtures_mock_data_cleanup_hooks",
+  "label": "Cleanup Hooks",
+  "category": "Web App Builder/Database Data Models/4G Test Fixtures Mock Data",
+  "description": "Reset DB after tests",
+  "tags": [
+    "cleanup_hooks"
+  ],
+  "example_block_data": {
+    "content": "Reset DB after tests"
+  },
+  "editable_fields": {
+    "content": "Reset DB after tests"
+  }
+}

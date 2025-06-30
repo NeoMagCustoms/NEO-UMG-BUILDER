@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13a_model_integrations_openai_anthropic_api_support",
+    "label": "OpenAI / Anthropic API Support",
+    "category": "Web App Builder/AI Agent Automation/13A Model Integrations",
+    "description": "Enables GPT-4, Claude, etc.",
+    "tags": [
+      "openai_anthropic_api_support"
+    ],
+    "example_block_data": {
+      "content": "Enables GPT-4, Claude, etc."
+    },
+    "editable_fields": {
+      "content": "Enables GPT-4, Claude, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13a_model_integrations_huggingface_model_loader",
+    "label": "HuggingFace Model Loader",
+    "category": "Web App Builder/AI Agent Automation/13A Model Integrations",
+    "description": "Connects hosted/self-run models",
+    "tags": [
+      "huggingface_model_loader"
+    ],
+    "example_block_data": {
+      "content": "Connects hosted/self-run models"
+    },
+    "editable_fields": {
+      "content": "Connects hosted/self-run models"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13a_model_integrations_custom_inference_server_hook",
+    "label": "Custom Inference Server Hook",
+    "category": "Web App Builder/AI Agent Automation/13A Model Integrations",
+    "description": "Sends prompts to your own model runner",
+    "tags": [
+      "custom_inference_server_hook"
+    ],
+    "example_block_data": {
+      "content": "Sends prompts to your own model runner"
+    },
+    "editable_fields": {
+      "content": "Sends prompts to your own model runner"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13a_model_integrations_fine_tune_loader",
+    "label": "Fine-tune Loader",
+    "category": "Web App Builder/AI Agent Automation/13A Model Integrations",
+    "description": "Loads finetuned models",
+    "tags": [
+      "fine_tune_loader"
+    ],
+    "example_block_data": {
+      "content": "Loads finetuned models"
+    },
+    "editable_fields": {
+      "content": "Loads finetuned models"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13a_model_integrations_model_switcher_selector",
+    "label": "Model Switcher / Selector",
+    "category": "Web App Builder/AI Agent Automation/13A Model Integrations",
+    "description": "Lets users pick or switch LLMs",
+    "tags": [
+      "model_switcher_selector"
+    ],
+    "example_block_data": {
+      "content": "Lets users pick or switch LLMs"
+    },
+    "editable_fields": {
+      "content": "Lets users pick or switch LLMs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13b_automation_agent_logic_workflow_engine_e_g_langchain",
+    "label": "Workflow Engine (e.g. LangChain)",
+    "category": "Web App Builder/AI Agent Automation/13B Automation Agent Logic",
+    "description": "Step-based task agents",
+    "tags": [
+      "workflow_engine_e_g_langchain"
+    ],
+    "example_block_data": {
+      "content": "Step-based task agents"
+    },
+    "editable_fields": {
+      "content": "Step-based task agents"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13b_automation_agent_logic_agent_task_queue_trigger_logic",
+    "label": "Agent Task Queue & Trigger Logic",
+    "category": "Web App Builder/AI Agent Automation/13B Automation Agent Logic",
+    "description": "Decides what runs when",
+    "tags": [
+      "agent_task_queue_trigger_logic"
+    ],
+    "example_block_data": {
+      "content": "Decides what runs when"
+    },
+    "editable_fields": {
+      "content": "Decides what runs when"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13b_automation_agent_logic_tool_invocation_api",
+    "label": "Tool Invocation API",
+    "category": "Web App Builder/AI Agent Automation/13B Automation Agent Logic",
+    "description": "Lets agents call webhooks, APIs, UIs",
+    "tags": [
+      "tool_invocation_api"
+    ],
+    "example_block_data": {
+      "content": "Lets agents call webhooks, APIs, UIs"
+    },
+    "editable_fields": {
+      "content": "Lets agents call webhooks, APIs, UIs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13b_automation_agent_logic_reflection_loop_logic",
+    "label": "Reflection Loop Logic",
+    "category": "Web App Builder/AI Agent Automation/13B Automation Agent Logic",
+    "description": "Allows recursive reasoning",
+    "tags": [
+      "reflection_loop_logic"
+    ],
+    "example_block_data": {
+      "content": "Allows recursive reasoning"
+    },
+    "editable_fields": {
+      "content": "Allows recursive reasoning"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13b_automation_agent_logic_autonomous_goal_planning",
+    "label": "Autonomous Goal Planning",
+    "category": "Web App Builder/AI Agent Automation/13B Automation Agent Logic",
+    "description": "Enables chain-of-thought / multi-goal logic",
+    "tags": [
+      "autonomous_goal_planning"
+    ],
+    "example_block_data": {
+      "content": "Enables chain-of-thought / multi-goal logic"
+    },
+    "editable_fields": {
+      "content": "Enables chain-of-thought / multi-goal logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13c_prompt_memory_management_prompt_templates_blocks",
+    "label": "Prompt Templates & Blocks",
+    "category": "Web App Builder/AI Agent Automation/13C Prompt Memory Management",
+    "description": "Modular prompt design",
+    "tags": [
+      "prompt_templates_blocks"
+    ],
+    "example_block_data": {
+      "content": "Modular prompt design"
+    },
+    "editable_fields": {
+      "content": "Modular prompt design"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13c_prompt_memory_management_memory_strategies_e_g_rag_summary",
+    "label": "Memory Strategies (e.g., RAG, summary)",
+    "category": "Web App Builder/AI Agent Automation/13C Prompt Memory Management",
+    "description": "Governs what the AI recalls",
+    "tags": [
+      "memory_strategies_e_g_rag_summary"
+    ],
+    "example_block_data": {
+      "content": "Governs what the AI recalls"
+    },
+    "editable_fields": {
+      "content": "Governs what the AI recalls"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13c_prompt_memory_management_vector_db_hook",
+    "label": "Vector DB Hook",
+    "category": "Web App Builder/AI Agent Automation/13C Prompt Memory Management",
+    "description": "Embedding search and semantic match",
+    "tags": [
+      "vector_db_hook"
+    ],
+    "example_block_data": {
+      "content": "Embedding search and semantic match"
+    },
+    "editable_fields": {
+      "content": "Embedding search and semantic match"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13c_prompt_memory_management_prompt_caching",
+    "label": "Prompt Caching",
+    "category": "Web App Builder/AI Agent Automation/13C Prompt Memory Management",
+    "description": "Saves cost + boosts performance",
+    "tags": [
+      "prompt_caching"
+    ],
+    "example_block_data": {
+      "content": "Saves cost + boosts performance"
+    },
+    "editable_fields": {
+      "content": "Saves cost + boosts performance"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13c_prompt_memory_management_token_budget_management",
+    "label": "Token Budget Management",
+    "category": "Web App Builder/AI Agent Automation/13C Prompt Memory Management",
+    "description": "Ensures cost and length control",
+    "tags": [
+      "token_budget_management"
+    ],
+    "example_block_data": {
+      "content": "Ensures cost and length control"
+    },
+    "editable_fields": {
+      "content": "Ensures cost and length control"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13d_streaming_realtime_hooks_sse_websocket_streaming",
+    "label": "SSE / WebSocket Streaming",
+    "category": "Web App Builder/AI Agent Automation/13D Streaming Realtime Hooks",
+    "description": "Returns AI responses in realtime",
+    "tags": [
+      "sse_websocket_streaming"
+    ],
+    "example_block_data": {
+      "content": "Returns AI responses in realtime"
+    },
+    "editable_fields": {
+      "content": "Returns AI responses in realtime"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13d_streaming_realtime_hooks_typing_simulators",
+    "label": "Typing Simulators",
+    "category": "Web App Builder/AI Agent Automation/13D Streaming Realtime Hooks",
+    "description": "Mimics natural typing output",
+    "tags": [
+      "typing_simulators"
+    ],
+    "example_block_data": {
+      "content": "Mimics natural typing output"
+    },
+    "editable_fields": {
+      "content": "Mimics natural typing output"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13d_streaming_realtime_hooks_ai_response_abort_retry",
+    "label": "AI Response Abort + Retry",
+    "category": "Web App Builder/AI Agent Automation/13D Streaming Realtime Hooks",
+    "description": "Lets user cancel or rerun",
+    "tags": [
+      "ai_response_abort_retry"
+    ],
+    "example_block_data": {
+      "content": "Lets user cancel or rerun"
+    },
+    "editable_fields": {
+      "content": "Lets user cancel or rerun"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13d_streaming_realtime_hooks_callback_events_hook_map",
+    "label": "Callback Events / Hook Map",
+    "category": "Web App Builder/AI Agent Automation/13D Streaming Realtime Hooks",
+    "description": "Triggers UI/logic post-response",
+    "tags": [
+      "callback_events_hook_map"
+    ],
+    "example_block_data": {
+      "content": "Triggers UI/logic post-response"
+    },
+    "editable_fields": {
+      "content": "Triggers UI/logic post-response"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13d_streaming_realtime_hooks_assistant_thinking_delay_logic",
+    "label": "Assistant \u201cThinking\u201d Delay Logic",
+    "category": "Web App Builder/AI Agent Automation/13D Streaming Realtime Hooks",
+    "description": "Simulates delay for UX",
+    "tags": [
+      "assistant_thinking_delay_logic"
+    ],
+    "example_block_data": {
+      "content": "Simulates delay for UX"
+    },
+    "editable_fields": {
+      "content": "Simulates delay for UX"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13e_ai_safety_controls_per_user_token_quotas",
+    "label": "Per-User Token Quotas",
+    "category": "Web App Builder/AI Agent Automation/13E Ai Safety Controls",
+    "description": "Rate limiting for fairness",
+    "tags": [
+      "per_user_token_quotas"
+    ],
+    "example_block_data": {
+      "content": "Rate limiting for fairness"
+    },
+    "editable_fields": {
+      "content": "Rate limiting for fairness"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13e_ai_safety_controls_abuse_filter_prompt_checker",
+    "label": "Abuse Filter / Prompt Checker",
+    "category": "Web App Builder/AI Agent Automation/13E Ai Safety Controls",
+    "description": "Prevents toxic input/output",
+    "tags": [
+      "abuse_filter_prompt_checker"
+    ],
+    "example_block_data": {
+      "content": "Prevents toxic input/output"
+    },
+    "editable_fields": {
+      "content": "Prevents toxic input/output"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13e_ai_safety_controls_llm_sandbox_container",
+    "label": "LLM Sandbox Container",
+    "category": "Web App Builder/AI Agent Automation/13E Ai Safety Controls",
+    "description": "Runs LLM isolated from main system",
+    "tags": [
+      "llm_sandbox_container"
+    ],
+    "example_block_data": {
+      "content": "Runs LLM isolated from main system"
+    },
+    "editable_fields": {
+      "content": "Runs LLM isolated from main system"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13e_ai_safety_controls_rate_limit_policy_engine",
+    "label": "Rate-Limit Policy Engine",
+    "category": "Web App Builder/AI Agent Automation/13E Ai Safety Controls",
+    "description": "Per user, org, IP",
+    "tags": [
+      "rate_limit_policy_engine"
+    ],
+    "example_block_data": {
+      "content": "Per user, org, IP"
+    },
+    "editable_fields": {
+      "content": "Per user, org, IP"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13e_ai_safety_controls_function_guardrails",
+    "label": "Function Guardrails",
+    "category": "Web App Builder/AI Agent Automation/13E Ai Safety Controls",
+    "description": "Restricts what agents can call",
+    "tags": [
+      "function_guardrails"
+    ],
+    "example_block_data": {
+      "content": "Restricts what agents can call"
+    },
+    "editable_fields": {
+      "content": "Restricts what agents can call"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13f_ai_eval_feedback_rating_prompt_responses",
+    "label": "Rating Prompt Responses",
+    "category": "Web App Builder/AI Agent Automation/13F Ai Eval Feedback",
+    "description": "Star/thumb voting",
+    "tags": [
+      "rating_prompt_responses"
+    ],
+    "example_block_data": {
+      "content": "Star/thumb voting"
+    },
+    "editable_fields": {
+      "content": "Star/thumb voting"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13f_ai_eval_feedback_regeneration_metrics_collector",
+    "label": "Regeneration Metrics Collector",
+    "category": "Web App Builder/AI Agent Automation/13F Ai Eval Feedback",
+    "description": "Measures retry/success rates",
+    "tags": [
+      "regeneration_metrics_collector"
+    ],
+    "example_block_data": {
+      "content": "Measures retry/success rates"
+    },
+    "editable_fields": {
+      "content": "Measures retry/success rates"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13f_ai_eval_feedback_user_correction_tracker",
+    "label": "User Correction Tracker",
+    "category": "Web App Builder/AI Agent Automation/13F Ai Eval Feedback",
+    "description": "Logs edits to AI responses",
+    "tags": [
+      "user_correction_tracker"
+    ],
+    "example_block_data": {
+      "content": "Logs edits to AI responses"
+    },
+    "editable_fields": {
+      "content": "Logs edits to AI responses"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13f_ai_eval_feedback_a_b_testing_for_prompts",
+    "label": "A/B Testing for Prompts",
+    "category": "Web App Builder/AI Agent Automation/13F Ai Eval Feedback",
+    "description": "Compares effectiveness",
+    "tags": [
+      "a_b_testing_for_prompts"
+    ],
+    "example_block_data": {
+      "content": "Compares effectiveness"
+    },
+    "editable_fields": {
+      "content": "Compares effectiveness"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 13,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "13f_ai_eval_feedback_ai_vs_human_evaluation_ui",
+    "label": "AI vs Human Evaluation UI",
+    "category": "Web App Builder/AI Agent Automation/13F Ai Eval Feedback",
+    "description": "Lets humans choose better output",
+    "tags": [
+      "ai_vs_human_evaluation_ui"
+    ],
+    "example_block_data": {
+      "content": "Lets humans choose better output"
+    },
+    "editable_fields": {
+      "content": "Lets humans choose better output"
+    }
+  }
+]

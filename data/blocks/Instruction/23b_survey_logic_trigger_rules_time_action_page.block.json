@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 23,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "23b_survey_logic_trigger_rules_time_action_page",
+  "label": "Trigger Rules (time, action, page)",
+  "category": "Web App Builder/Product Feedback Surveys Voting/23B Survey Logic",
+  "description": "When surveys appear",
+  "tags": [
+    "trigger_rules_time_action_page"
+  ],
+  "example_block_data": {
+    "content": "When surveys appear"
+  },
+  "editable_fields": {
+    "content": "When surveys appear"
+  }
+}

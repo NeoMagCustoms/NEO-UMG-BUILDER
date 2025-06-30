@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3c_compliance_documents_corporate_bylaws_operating_agreement",
+  "label": "Corporate Bylaws / Operating Agreement",
+  "category": "Business Plans/Web App/Chatbot/3C Compliance Documents",
+  "description": "Required for LLCs and Corps",
+  "tags": [
+    "corporate_bylaws_operating_agreement"
+  ],
+  "example_block_data": {
+    "content": "Required for LLCs and Corps"
+  },
+  "editable_fields": {
+    "content": "Required for LLCs and Corps"
+  }
+}

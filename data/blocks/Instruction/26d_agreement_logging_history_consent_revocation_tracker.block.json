@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 26,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "26d_agreement_logging_history_consent_revocation_tracker",
+  "label": "Consent Revocation Tracker",
+  "category": "Web App Builder/Legal Terms Consent/26D Agreement Logging History",
+  "description": "If/when user revoked rights",
+  "tags": [
+    "consent_revocation_tracker"
+  ],
+  "example_block_data": {
+    "content": "If/when user revoked rights"
+  },
+  "editable_fields": {
+    "content": "If/when user revoked rights"
+  }
+}

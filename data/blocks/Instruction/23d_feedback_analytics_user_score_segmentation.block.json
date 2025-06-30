@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 23,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "23d_feedback_analytics_user_score_segmentation",
+  "label": "User Score Segmentation",
+  "category": "Web App Builder/Product Feedback Surveys Voting/23D Feedback Analytics",
+  "description": "NPS slices by plan, location, etc.",
+  "tags": [
+    "user_score_segmentation"
+  ],
+  "example_block_data": {
+    "content": "NPS slices by plan, location, etc."
+  },
+  "editable_fields": {
+    "content": "NPS slices by plan, location, etc."
+  }
+}

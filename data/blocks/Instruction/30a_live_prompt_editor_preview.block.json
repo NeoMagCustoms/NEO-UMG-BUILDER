@@ -1,0 +1,34 @@
+{
+  "block_id": "30a_live_prompt_editor_preview",
+  "label": "Live Prompt Editor w/ Preview",
+  "category": "Web App – Category 30: AI Agents & LLM Integration",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "label",
+    "description",
+    "code_modules"
+  ],
+  "tags": [
+    "ai",
+    "llm",
+    "webapp",
+    "category_30"
+  ],
+  "snap_config": {
+    "snap_to": [
+      "Primary",
+      "Subject"
+    ],
+    "priority": 3
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T13:43:03.028014Z",
+    "edit_log": []
+  },
+  "canto_overlay": {},
+  "code_modules": [],
+  "export_config": {}
+}

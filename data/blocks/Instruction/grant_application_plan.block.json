@@ -1,0 +1,46 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📝"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "grant_application_plan",
+  "label": "Grant Application Plan",
+  "category": "Business Plans/Web App/Chatbot/Business Plans",
+  "description": "Funding-focused, often for nonprofits",
+  "tags": [
+    "grant",
+    "application",
+    "plan"
+  ],
+  "example_block_data": {
+    "content": "Funding-focused, often for nonprofits"
+  },
+  "editable_fields": {
+    "content": "Funding-focused, often for nonprofits"
+  }
+}

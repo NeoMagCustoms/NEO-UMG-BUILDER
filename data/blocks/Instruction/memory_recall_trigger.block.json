@@ -1,0 +1,46 @@
+{
+  "block_id": "memory_recall_trigger",
+  "label": "Memory Recall Trigger",
+  "category": "Chatbot Memory Systems",
+  "description": "How memory is accessed",
+  "molt_type": "Instruction",
+  "tags": [
+    "memory_recall_trigger",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🔁"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "How memory is accessed This is an example of applied logic for that trait."
+  },
+  "editable_fields": {
+    "content": "Memory Recall Trigger: How memory is accessed"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "block_id": "bot_detection_gamification",
+  "label": "Bot Detection Logic",
+  "category": "Web App/Gamification/27F",
+  "description": "Stops automated abuse",
+  "molt_type": "Instruction"
+}

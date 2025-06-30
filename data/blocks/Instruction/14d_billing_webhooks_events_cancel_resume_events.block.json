@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 14,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "14d_billing_webhooks_events_cancel_resume_events",
+  "label": "Cancel / Resume Events",
+  "category": "Web App Builder/Payment Billing Systems/14D Billing Webhooks Events",
+  "description": "Handle lifecycle changes",
+  "tags": [
+    "cancel_resume_events"
+  ],
+  "example_block_data": {
+    "content": "Handle lifecycle changes"
+  },
+  "editable_fields": {
+    "content": "Handle lifecycle changes"
+  }
+}

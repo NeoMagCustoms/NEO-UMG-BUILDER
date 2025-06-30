@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 9,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "9f_privacy_consent_region_based_tracking_rules",
+  "label": "Region-Based Tracking Rules",
+  "category": "Web App Builder/Analytics Event Tracking/9F Privacy Consent",
+  "description": "Varies script injection by IP/geolocation",
+  "tags": [
+    "region_based_tracking_rules"
+  ],
+  "example_block_data": {
+    "content": "Varies script injection by IP/geolocation"
+  },
+  "editable_fields": {
+    "content": "Varies script injection by IP/geolocation"
+  }
+}

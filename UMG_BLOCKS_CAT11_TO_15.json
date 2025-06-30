@@ -1,0 +1,2302 @@
+[
+  {
+    "block_id": "accepted_file_types",
+    "label": "Accepted File Types",
+    "category": "File Upload & Data Parsing",
+    "description": "File formats supported (e.g., .pdf, .csv, .txt, .docx, .json)",
+    "molt_type": "Instruction",
+    "tags": [
+      "accepted_file_types",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc1"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "File formats supported (e.g., .pdf, .csv, .txt, .docx, .json) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Accepted File Types: File formats supported (e.g., .pdf, .csv, .txt, .docx, .json)"
+    }
+  },
+  {
+    "block_id": "upload_method",
+    "label": "Upload Method",
+    "category": "File Upload & Data Parsing",
+    "description": "How users provide files (drag-and-drop, upload button, URL upload)",
+    "molt_type": "Instruction",
+    "tags": [
+      "upload_method",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How users provide files (drag-and-drop, upload button, URL upload) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Upload Method: How users provide files (drag-and-drop, upload button, URL upload)"
+    }
+  },
+  {
+    "block_id": "parsing_engine_type",
+    "label": "Parsing Engine Type",
+    "category": "File Upload & Data Parsing",
+    "description": "The method used to extract data (e.g., text-only, table-aware, NLP parser)",
+    "molt_type": "Instruction",
+    "tags": [
+      "parsing_engine_type",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "The method used to extract data (e.g., text-only, table-aware, NLP parser) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Parsing Engine Type: The method used to extract data (e.g., text-only, table-aware, NLP parser)"
+    }
+  },
+  {
+    "block_id": "data_retention_policy",
+    "label": "Data Retention Policy",
+    "category": "File Upload & Data Parsing",
+    "description": "How long files are stored (session, persistent, temporary buffer)",
+    "molt_type": "Instruction",
+    "tags": [
+      "data_retention_policy",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce6"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How long files are stored (session, persistent, temporary buffer) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Data Retention Policy: How long files are stored (session, persistent, temporary buffer)"
+    }
+  },
+  {
+    "block_id": "file_chunking_strategy",
+    "label": "File Chunking Strategy",
+    "category": "File Upload & Data Parsing",
+    "description": "If long, how files are broken up for processing",
+    "molt_type": "Instruction",
+    "tags": [
+      "file_chunking_strategy",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "If long, how files are broken up for processing This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "File Chunking Strategy: If long, how files are broken up for processing"
+    }
+  },
+  {
+    "block_id": "indexing_or_embedding_used",
+    "label": "Indexing Or Embedding Used",
+    "category": "File Upload & Data Parsing",
+    "description": "Whether files are embedded in vector DB or keyword-indexed",
+    "molt_type": "Instruction",
+    "tags": [
+      "indexing_or_embedding_used",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\uddc3\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether files are embedded in vector DB or keyword-indexed This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Indexing Or Embedding Used: Whether files are embedded in vector DB or keyword-indexed"
+    }
+  },
+  {
+    "block_id": "multi_file_handling_logic",
+    "label": "Multi File Handling Logic",
+    "category": "File Upload & Data Parsing",
+    "description": "Can the bot process multiple files at once or compare across files?",
+    "molt_type": "Instruction",
+    "tags": [
+      "multi_file_handling_logic",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcda"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Can the bot process multiple files at once or compare across files? This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Multi File Handling Logic: Can the bot process multiple files at once or compare across files?"
+    }
+  },
+  {
+    "block_id": "security_and_privacy_flags",
+    "label": "Security And Privacy Flags",
+    "category": "File Upload & Data Parsing",
+    "description": "Measures for encryption, role-based access, auto-deletion",
+    "molt_type": "Instruction",
+    "tags": [
+      "security_and_privacy_flags",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd12"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Measures for encryption, role-based access, auto-deletion This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Security And Privacy Flags: Measures for encryption, role-based access, auto-deletion"
+    }
+  },
+  {
+    "block_id": "example_file_prompts",
+    "label": "Example File Prompts",
+    "category": "File Upload & Data Parsing",
+    "description": "Sample queries showing how users interact with uploaded files",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_file_prompts",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcd1"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Sample queries showing how users interact with uploaded files This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Example File Prompts: Sample queries showing how users interact with uploaded files"
+    }
+  },
+  {
+    "block_id": "file_upload_toggleable",
+    "label": "File Upload Toggleable",
+    "category": "File Upload & Data Parsing",
+    "description": "Can file upload be toggled in settings or by role?",
+    "molt_type": "Instruction",
+    "tags": [
+      "file_upload_toggleable",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2699\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Can file upload be toggled in settings or by role? This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "File Upload Toggleable: Can file upload be toggled in settings or by role?"
+    }
+  },
+  {
+    "block_id": "tool_name",
+    "label": "Tool Name",
+    "category": "External Tool Plugins",
+    "description": "Name or label of the tool/plugin (e.g., Python Runner)",
+    "molt_type": "Instruction",
+    "tags": [
+      "tool_name",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd27"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Name or label of the tool/plugin (e.g., Python Runner) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Tool Name: Name or label of the tool/plugin (e.g., Python Runner)"
+    }
+  },
+  {
+    "block_id": "tool_function_type",
+    "label": "Tool Function Type",
+    "category": "External Tool Plugins",
+    "description": "What the tool does (e.g., code exec, call API)",
+    "molt_type": "Instruction",
+    "tags": [
+      "tool_function_type",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udee0\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What the tool does (e.g., code exec, call API) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Tool Function Type: What the tool does (e.g., code exec, call API)"
+    }
+  },
+  {
+    "block_id": "input_requirements",
+    "label": "Input Requirements",
+    "category": "External Tool Plugins",
+    "description": "What user must provide to trigger the tool",
+    "molt_type": "Instruction",
+    "tags": [
+      "input_requirements",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce5"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What user must provide to trigger the tool This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Input Requirements: What user must provide to trigger the tool"
+    }
+  },
+  {
+    "block_id": "tool_trigger_method",
+    "label": "Tool Trigger Method",
+    "category": "External Tool Plugins",
+    "description": "How the tool is invoked (command, button, logic)",
+    "molt_type": "Instruction",
+    "tags": [
+      "tool_trigger_method",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\ude80"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How the tool is invoked (command, button, logic) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Tool Trigger Method: How the tool is invoked (command, button, logic)"
+    }
+  },
+  {
+    "block_id": "output_render_format",
+    "label": "Output Render Format",
+    "category": "External Tool Plugins",
+    "description": "Display format: text, image, chart, code block",
+    "molt_type": "Instruction",
+    "tags": [
+      "output_render_format",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcca"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Display format: text, image, chart, code block This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Output Render Format: Display format: text, image, chart, code block"
+    }
+  },
+  {
+    "block_id": "plugin_dependencies",
+    "label": "Plugin Dependencies",
+    "category": "External Tool Plugins",
+    "description": "Any packages or keys required to run the plugin",
+    "molt_type": "Instruction",
+    "tags": [
+      "plugin_dependencies",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce6"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Any packages or keys required to run the plugin This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Plugin Dependencies: Any packages or keys required to run the plugin"
+    }
+  },
+  {
+    "block_id": "tool_security_flags",
+    "label": "Tool Security Flags",
+    "category": "External Tool Plugins",
+    "description": "Permissions and safety measures",
+    "molt_type": "Instruction",
+    "tags": [
+      "tool_security_flags",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udee1\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Permissions and safety measures This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Tool Security Flags: Permissions and safety measures"
+    }
+  },
+  {
+    "block_id": "tool_context_scope",
+    "label": "Tool Context Scope",
+    "category": "External Tool Plugins",
+    "description": "What context the tool operates on",
+    "molt_type": "Instruction",
+    "tags": [
+      "tool_context_scope",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf10"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What context the tool operates on This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Tool Context Scope: What context the tool operates on"
+    }
+  },
+  {
+    "block_id": "tool_timeout_thresholds",
+    "label": "Tool Timeout Thresholds",
+    "category": "External Tool Plugins",
+    "description": "Time/compute limits per execution",
+    "molt_type": "Instruction",
+    "tags": [
+      "tool_timeout_thresholds",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u23f1\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Time/compute limits per execution This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Tool Timeout Thresholds: Time/compute limits per execution"
+    }
+  },
+  {
+    "block_id": "example_tool_use_flow",
+    "label": "Example Tool Use Flow",
+    "category": "External Tool Plugins",
+    "description": "Prompt-to-result example of tool usage",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_tool_use_flow",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd01"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Prompt-to-result example of tool usage This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Example Tool Use Flow: Prompt-to-result example of tool usage"
+    }
+  },
+  {
+    "block_id": "ui_style_type",
+    "label": "UI Style Type",
+    "category": "Chat UI Type",
+    "description": "Type of chat container: widget, terminal, panel",
+    "molt_type": "Instruction",
+    "tags": [
+      "ui_style_type",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcac"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Type of chat container: widget, terminal, panel This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "UI Style Type: Type of chat container: widget, terminal, panel"
+    }
+  },
+  {
+    "block_id": "bot_avatar_position",
+    "label": "Bot Avatar Position",
+    "category": "Chat UI Type",
+    "description": "Avatar location (left, right, bubble)",
+    "molt_type": "Instruction",
+    "tags": [
+      "bot_avatar_position",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udc64"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Avatar location (left, right, bubble) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Bot Avatar Position: Avatar location (left, right, bubble)"
+    }
+  },
+  {
+    "block_id": "user_message_style",
+    "label": "User Message Style",
+    "category": "Chat UI Type",
+    "description": "How user messages are displayed",
+    "molt_type": "Instruction",
+    "tags": [
+      "user_message_style",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcad"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How user messages are displayed This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "User Message Style: How user messages are displayed"
+    }
+  },
+  {
+    "block_id": "bot_message_style",
+    "label": "Bot Message Style",
+    "category": "Chat UI Type",
+    "description": "How bot replies appear visually",
+    "molt_type": "Instruction",
+    "tags": [
+      "bot_message_style",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udde8\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How bot replies appear visually This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Bot Message Style: How bot replies appear visually"
+    }
+  },
+  {
+    "block_id": "timestamp_display",
+    "label": "Timestamp Display",
+    "category": "Chat UI Type",
+    "description": "How/if timestamps are shown",
+    "molt_type": "Instruction",
+    "tags": [
+      "timestamp_display",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u23f2\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How/if timestamps are shown This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Timestamp Display: How/if timestamps are shown"
+    }
+  },
+  {
+    "block_id": "theme_style",
+    "label": "Theme Style",
+    "category": "Chat UI Type",
+    "description": "Visual theme: light, dark, branded",
+    "molt_type": "Instruction",
+    "tags": [
+      "theme_style",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfa8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Visual theme: light, dark, branded This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Theme Style: Visual theme: light, dark, branded"
+    }
+  },
+  {
+    "block_id": "accessibility_features",
+    "label": "Accessibility Features",
+    "category": "Chat UI Type",
+    "description": "Keyboard nav, screen reader support",
+    "molt_type": "Instruction",
+    "tags": [
+      "accessibility_features",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u267f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Keyboard nav, screen reader support This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Accessibility Features: Keyboard nav, screen reader support"
+    }
+  },
+  {
+    "block_id": "mobile_responsive_behavior",
+    "label": "Mobile Responsive Behavior",
+    "category": "Chat UI Type",
+    "description": "How UI behaves on phones/tablets",
+    "molt_type": "Instruction",
+    "tags": [
+      "mobile_responsive_behavior",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcf1"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How UI behaves on phones/tablets This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Mobile Responsive Behavior: How UI behaves on phones/tablets"
+    }
+  },
+  {
+    "block_id": "input_bar_position",
+    "label": "Input Bar Position",
+    "category": "Chat UI Type",
+    "description": "Where input field sits in UI",
+    "molt_type": "Instruction",
+    "tags": [
+      "input_bar_position",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2328\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Where input field sits in UI This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Input Bar Position: Where input field sits in UI"
+    }
+  },
+  {
+    "block_id": "quick_replies_ui_enabled",
+    "label": "Quick Replies UI Enabled",
+    "category": "Chat UI Type",
+    "description": "Are tappable suggestions shown?",
+    "molt_type": "Instruction",
+    "tags": [
+      "quick_replies_ui_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u26a1"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Are tappable suggestions shown? This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Quick Replies UI Enabled: Are tappable suggestions shown?"
+    }
+  },
+  {
+    "block_id": "enabled_input_types",
+    "label": "Enabled Input Types",
+    "category": "Input Methods",
+    "description": "Allowed input modes: text, voice, file, etc.",
+    "molt_type": "Instruction",
+    "tags": [
+      "enabled_input_types",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf99\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Allowed input modes: text, voice, file, etc. This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Enabled Input Types: Allowed input modes: text, voice, file, etc."
+    }
+  },
+  {
+    "block_id": "input_mode_toggle_ui",
+    "label": "Input Mode Toggle UI",
+    "category": "Input Methods",
+    "description": "Toggle switch between input modes",
+    "molt_type": "Instruction",
+    "tags": [
+      "input_mode_toggle_ui",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd04"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Toggle switch between input modes This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Input Mode Toggle UI: Toggle switch between input modes"
+    }
+  },
+  {
+    "block_id": "input_sanitization_rules",
+    "label": "Input Sanitization Rules",
+    "category": "Input Methods",
+    "description": "Input filters (e.g., profanity filter)",
+    "molt_type": "Instruction",
+    "tags": [
+      "input_sanitization_rules",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udebf"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Input filters (e.g., profanity filter) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Input Sanitization Rules: Input filters (e.g., profanity filter)"
+    }
+  },
+  {
+    "block_id": "input_preview_enabled",
+    "label": "Input Preview Enabled",
+    "category": "Input Methods",
+    "description": "Can user preview long input?",
+    "molt_type": "Instruction",
+    "tags": [
+      "input_preview_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udc41\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Can user preview long input? This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Input Preview Enabled: Can user preview long input?"
+    }
+  },
+  {
+    "block_id": "file_input_max_size",
+    "label": "File Input Max Size",
+    "category": "Input Methods",
+    "description": "Max file size for uploads",
+    "molt_type": "Instruction",
+    "tags": [
+      "file_input_max_size",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udccf"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Max file size for uploads This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "File Input Max Size: Max file size for uploads"
+    }
+  },
+  {
+    "block_id": "code_input_support",
+    "label": "Code Input Support",
+    "category": "Input Methods",
+    "description": "Syntax-highlighted code input",
+    "molt_type": "Instruction",
+    "tags": [
+      "code_input_support",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcbb"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Syntax-highlighted code input This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Code Input Support: Syntax-highlighted code input"
+    }
+  },
+  {
+    "block_id": "voice_to_text_engine",
+    "label": "Voice to Text Engine",
+    "category": "Input Methods",
+    "description": "Voice transcription engine used",
+    "molt_type": "Instruction",
+    "tags": [
+      "voice_to_text_engine",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udde3\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Voice transcription engine used This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Voice to Text Engine: Voice transcription engine used"
+    }
+  },
+  {
+    "block_id": "fallback_input_mode",
+    "label": "Fallback Input Mode",
+    "category": "Input Methods",
+    "description": "What happens if preferred mode fails",
+    "molt_type": "Instruction",
+    "tags": [
+      "fallback_input_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd01"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What happens if preferred mode fails This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Fallback Input Mode: What happens if preferred mode fails"
+    }
+  },
+  {
+    "block_id": "input_history_enabled",
+    "label": "Input History Enabled",
+    "category": "Input Methods",
+    "description": "Recall/reuse past user inputs",
+    "molt_type": "Instruction",
+    "tags": [
+      "input_history_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd58"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Recall/reuse past user inputs This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Input History Enabled: Recall/reuse past user inputs"
+    }
+  },
+  {
+    "block_id": "accessibility_input_modes",
+    "label": "Accessibility Input Modes",
+    "category": "Input Methods",
+    "description": "Special input options for accessibility",
+    "molt_type": "Instruction",
+    "tags": [
+      "accessibility_input_modes",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddd1\u200d\ud83e\uddaf"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Special input options for accessibility This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Accessibility Input Modes: Special input options for accessibility"
+    }
+  },
+  {
+    "block_id": "response_length_style",
+    "label": "Response Length Style",
+    "category": "Output Style",
+    "description": "Verbosity of reply (concise, verbose, etc.)",
+    "molt_type": "Instruction",
+    "tags": [
+      "response_length_style",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2702\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Verbosity of reply (concise, verbose, etc.) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Response Length Style: Verbosity of reply (concise, verbose, etc.)"
+    }
+  },
+  {
+    "block_id": "formatting_preference",
+    "label": "Formatting Preference",
+    "category": "Output Style",
+    "description": "Output structure (markdown, HTML)",
+    "molt_type": "Instruction",
+    "tags": [
+      "formatting_preference",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Output structure (markdown, HTML) This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Formatting Preference: Output structure (markdown, HTML)"
+    }
+  },
+  {
+    "block_id": "stylistic_output_mode",
+    "label": "Stylistic Output Mode",
+    "category": "Output Style",
+    "description": "Creative flavor: poetic, corporate, etc.",
+    "molt_type": "Instruction",
+    "tags": [
+      "stylistic_output_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfad"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Creative flavor: poetic, corporate, etc. This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Stylistic Output Mode: Creative flavor: poetic, corporate, etc."
+    }
+  },
+  {
+    "block_id": "output_structure_template",
+    "label": "Output Structure Template",
+    "category": "Output Style",
+    "description": "Skeleton format for reply layout",
+    "molt_type": "Instruction",
+    "tags": [
+      "output_structure_template",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfd7\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Skeleton format for reply layout This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Output Structure Template: Skeleton format for reply layout"
+    }
+  },
+  {
+    "block_id": "rich_media_output_enabled",
+    "label": "Rich Media Output Enabled",
+    "category": "Output Style",
+    "description": "Enable images, charts, videos",
+    "molt_type": "Instruction",
+    "tags": [
+      "rich_media_output_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\uddbc\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Enable images, charts, videos This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Rich Media Output Enabled: Enable images, charts, videos"
+    }
+  },
+  {
+    "block_id": "tone_consistency_rules",
+    "label": "Tone Consistency Rules",
+    "category": "Output Style",
+    "description": "Ensure tone alignment with MOLTs",
+    "molt_type": "Instruction",
+    "tags": [
+      "tone_consistency_rules",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf9a\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Ensure tone alignment with MOLTs This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Tone Consistency Rules: Ensure tone alignment with MOLTs"
+    }
+  },
+  {
+    "block_id": "language_level",
+    "label": "Language Level",
+    "category": "Output Style",
+    "description": "Reading level of output",
+    "molt_type": "Instruction",
+    "tags": [
+      "language_level",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcda"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Reading level of output This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Language Level: Reading level of output"
+    }
+  },
+  {
+    "block_id": "punctuation_style",
+    "label": "Punctuation Style",
+    "category": "Output Style",
+    "description": "Formality or tone of punctuation",
+    "molt_type": "Instruction",
+    "tags": [
+      "punctuation_style",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2757"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Formality or tone of punctuation This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Punctuation Style: Formality or tone of punctuation"
+    }
+  },
+  {
+    "block_id": "response_signature_toggle",
+    "label": "Response Signature Toggle",
+    "category": "Output Style",
+    "description": "Whether bot signs off",
+    "molt_type": "Instruction",
+    "tags": [
+      "response_signature_toggle",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd8a\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether bot signs off This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Response Signature Toggle: Whether bot signs off"
+    }
+  },
+  {
+    "block_id": "output_postprocessor_hooks",
+    "label": "Output Postprocessor Hooks",
+    "category": "Output Style",
+    "description": "Styling or cleanup before render",
+    "molt_type": "Instruction",
+    "tags": [
+      "output_postprocessor_hooks",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddfc"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Styling or cleanup before render This defines how the bot will perform or respond using this input."
+    },
+    "editable_fields": {
+      "content": "Output Postprocessor Hooks: Styling or cleanup before render"
+    }
+  }
+]

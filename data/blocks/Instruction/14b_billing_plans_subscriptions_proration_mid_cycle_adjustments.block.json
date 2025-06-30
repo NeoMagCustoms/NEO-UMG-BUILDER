@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 14,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "14b_billing_plans_subscriptions_proration_mid_cycle_adjustments",
+  "label": "Proration & Mid-Cycle Adjustments",
+  "category": "Web App Builder/Payment Billing Systems/14B Billing Plans Subscriptions",
+  "description": "Adjust bills on upgrade/downgrade",
+  "tags": [
+    "proration_mid_cycle_adjustments"
+  ],
+  "example_block_data": {
+    "content": "Adjust bills on upgrade/downgrade"
+  },
+  "editable_fields": {
+    "content": "Adjust bills on upgrade/downgrade"
+  }
+}

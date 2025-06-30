@@ -1,0 +1,46 @@
+{
+  "block_id": "greeting_animation",
+  "label": "Greeting Animation",
+  "category": "Chatbot Identity/Core Persona",
+  "description": "Optional animation shown during intro",
+  "molt_type": "Instruction",
+  "tags": [
+    "greeting_animation",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🎞️"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Optional animation shown during intro This is an example of applied logic for that trait."
+  },
+  "editable_fields": {
+    "content": "Greeting Animation: Optional animation shown during intro"
+  }
+}

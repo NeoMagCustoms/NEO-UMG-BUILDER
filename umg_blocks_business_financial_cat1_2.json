@@ -1,0 +1,5719 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_startup_plan",
+    "label": "Startup Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "For launching a new venture from scratch",
+    "tags": [
+      "startup_plan"
+    ],
+    "example_block_data": {
+      "content": "For launching a new venture from scratch"
+    },
+    "editable_fields": {
+      "content": "For launching a new venture from scratch"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_lean_plan",
+    "label": "Lean Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Short, agile, used to validate or test",
+    "tags": [
+      "lean_plan"
+    ],
+    "example_block_data": {
+      "content": "Short, agile, used to validate or test"
+    },
+    "editable_fields": {
+      "content": "Short, agile, used to validate or test"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_strategic_plan",
+    "label": "Strategic Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Long-term roadmap, vision, and goals",
+    "tags": [
+      "strategic_plan"
+    ],
+    "example_block_data": {
+      "content": "Long-term roadmap, vision, and goals"
+    },
+    "editable_fields": {
+      "content": "Long-term roadmap, vision, and goals"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_internal_plan",
+    "label": "Internal Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Used within a company for decision-making",
+    "tags": [
+      "internal_plan"
+    ],
+    "example_block_data": {
+      "content": "Used within a company for decision-making"
+    },
+    "editable_fields": {
+      "content": "Used within a company for decision-making"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_feasibility_plan",
+    "label": "Feasibility Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Determines if an idea is worth pursuing",
+    "tags": [
+      "feasibility_plan"
+    ],
+    "example_block_data": {
+      "content": "Determines if an idea is worth pursuing"
+    },
+    "editable_fields": {
+      "content": "Determines if an idea is worth pursuing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_operational_plan",
+    "label": "Operational Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Focused on logistics, teams, and systems",
+    "tags": [
+      "operational_plan"
+    ],
+    "example_block_data": {
+      "content": "Focused on logistics, teams, and systems"
+    },
+    "editable_fields": {
+      "content": "Focused on logistics, teams, and systems"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_growth_plan",
+    "label": "Growth Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Targets scaling, new features, or expansion",
+    "tags": [
+      "growth_plan"
+    ],
+    "example_block_data": {
+      "content": "Targets scaling, new features, or expansion"
+    },
+    "editable_fields": {
+      "content": "Targets scaling, new features, or expansion"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_exit_plan",
+    "label": "Exit Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Outlines strategies for M&A or IPO",
+    "tags": [
+      "exit_plan"
+    ],
+    "example_block_data": {
+      "content": "Outlines strategies for M&A or IPO"
+    },
+    "editable_fields": {
+      "content": "Outlines strategies for M&A or IPO"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_acquisition_plan",
+    "label": "Acquisition Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Used to acquire or merge with another entity",
+    "tags": [
+      "acquisition_plan"
+    ],
+    "example_block_data": {
+      "content": "Used to acquire or merge with another entity"
+    },
+    "editable_fields": {
+      "content": "Used to acquire or merge with another entity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_franchise_plan",
+    "label": "Franchise Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Used to replicate a model with franchisees",
+    "tags": [
+      "franchise_plan"
+    ],
+    "example_block_data": {
+      "content": "Used to replicate a model with franchisees"
+    },
+    "editable_fields": {
+      "content": "Used to replicate a model with franchisees"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_nonprofit_plan",
+    "label": "Nonprofit Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Mission-driven, impact-focused, grant-friendly",
+    "tags": [
+      "nonprofit_plan"
+    ],
+    "example_block_data": {
+      "content": "Mission-driven, impact-focused, grant-friendly"
+    },
+    "editable_fields": {
+      "content": "Mission-driven, impact-focused, grant-friendly"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_business_continuity_plan",
+    "label": "Business Continuity Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "For disaster recovery and operational resilience",
+    "tags": [
+      "business_continuity_plan"
+    ],
+    "example_block_data": {
+      "content": "For disaster recovery and operational resilience"
+    },
+    "editable_fields": {
+      "content": "For disaster recovery and operational resilience"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_marketplace_plan",
+    "label": "Marketplace Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Connects two user bases (buyers/sellers)",
+    "tags": [
+      "marketplace_plan"
+    ],
+    "example_block_data": {
+      "content": "Connects two user bases (buyers/sellers)"
+    },
+    "editable_fields": {
+      "content": "Connects two user bases (buyers/sellers)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_saas_plan",
+    "label": "SaaS Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "For subscription-based software businesses",
+    "tags": [
+      "saas_plan"
+    ],
+    "example_block_data": {
+      "content": "For subscription-based software businesses"
+    },
+    "editable_fields": {
+      "content": "For subscription-based software businesses"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_ecommerce_plan",
+    "label": "Ecommerce Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "For digital storefronts or product platforms",
+    "tags": [
+      "ecommerce_plan"
+    ],
+    "example_block_data": {
+      "content": "For digital storefronts or product platforms"
+    },
+    "editable_fields": {
+      "content": "For digital storefronts or product platforms"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_app_launch_plan",
+    "label": "App Launch Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Launch roadmap for mobile/web apps",
+    "tags": [
+      "app_launch_plan"
+    ],
+    "example_block_data": {
+      "content": "Launch roadmap for mobile/web apps"
+    },
+    "editable_fields": {
+      "content": "Launch roadmap for mobile/web apps"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_creator_media_plan",
+    "label": "Creator/Media Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Monetizes audience, media, or IP",
+    "tags": [
+      "creator_media_plan"
+    ],
+    "example_block_data": {
+      "content": "Monetizes audience, media, or IP"
+    },
+    "editable_fields": {
+      "content": "Monetizes audience, media, or IP"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_education_plan",
+    "label": "Education Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Offers courses, tools, or learning content",
+    "tags": [
+      "education_plan"
+    ],
+    "example_block_data": {
+      "content": "Offers courses, tools, or learning content"
+    },
+    "editable_fields": {
+      "content": "Offers courses, tools, or learning content"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_subscription_box_plan",
+    "label": "Subscription Box Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Curated recurring physical product delivery",
+    "tags": [
+      "subscription_box_plan"
+    ],
+    "example_block_data": {
+      "content": "Curated recurring physical product delivery"
+    },
+    "editable_fields": {
+      "content": "Curated recurring physical product delivery"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_local_goods_farm_plan",
+    "label": "Local Goods/Farm Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Agriculture, CSA, or local production models",
+    "tags": [
+      "local_goods_farm_plan"
+    ],
+    "example_block_data": {
+      "content": "Agriculture, CSA, or local production models"
+    },
+    "editable_fields": {
+      "content": "Agriculture, CSA, or local production models"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1a_primary_plan_types_hybrid_plan",
+    "label": "Hybrid Plan",
+    "category": "Business Plans/Web App/Chatbot/1A Primary Plan Types",
+    "description": "Combines any of the above (e.g., SaaS + Agency)",
+    "tags": [
+      "hybrid_plan"
+    ],
+    "example_block_data": {
+      "content": "Combines any of the above (e.g., SaaS + Agency)"
+    },
+    "editable_fields": {
+      "content": "Combines any of the above (e.g., SaaS + Agency)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_plan_subtypes_formats_pitch_deck",
+    "label": "Pitch Deck",
+    "category": "Business Plans/Web App/Chatbot/1B Plan Subtypes Formats",
+    "description": "Short visual presentation for investors",
+    "tags": [
+      "pitch_deck"
+    ],
+    "example_block_data": {
+      "content": "Short visual presentation for investors"
+    },
+    "editable_fields": {
+      "content": "Short visual presentation for investors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_plan_subtypes_formats_one_page_plan",
+    "label": "One-Page Plan",
+    "category": "Business Plans/Web App/Chatbot/1B Plan Subtypes Formats",
+    "description": "Condensed overview for fast reading",
+    "tags": [
+      "one_page_plan"
+    ],
+    "example_block_data": {
+      "content": "Condensed overview for fast reading"
+    },
+    "editable_fields": {
+      "content": "Condensed overview for fast reading"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_plan_subtypes_formats_internal_use_plan",
+    "label": "Internal Use Plan",
+    "category": "Business Plans/Web App/Chatbot/1B Plan Subtypes Formats",
+    "description": "Targets internal clarity and alignment",
+    "tags": [
+      "internal_use_plan"
+    ],
+    "example_block_data": {
+      "content": "Targets internal clarity and alignment"
+    },
+    "editable_fields": {
+      "content": "Targets internal clarity and alignment"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_plan_subtypes_formats_bank_ready_plan",
+    "label": "Bank-Ready Plan",
+    "category": "Business Plans/Web App/Chatbot/1B Plan Subtypes Formats",
+    "description": "Aligned to lender or SBA criteria",
+    "tags": [
+      "bank_ready_plan"
+    ],
+    "example_block_data": {
+      "content": "Aligned to lender or SBA criteria"
+    },
+    "editable_fields": {
+      "content": "Aligned to lender or SBA criteria"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_plan_subtypes_formats_grant_application_plan",
+    "label": "Grant Application Plan",
+    "category": "Business Plans/Web App/Chatbot/1B Plan Subtypes Formats",
+    "description": "Funding-focused, often for nonprofits",
+    "tags": [
+      "grant_application_plan"
+    ],
+    "example_block_data": {
+      "content": "Funding-focused, often for nonprofits"
+    },
+    "editable_fields": {
+      "content": "Funding-focused, often for nonprofits"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_plan_subtypes_formats_franchise_kit_plan",
+    "label": "Franchise Kit Plan",
+    "category": "Business Plans/Web App/Chatbot/1B Plan Subtypes Formats",
+    "description": "Expansion guide for franchisees",
+    "tags": [
+      "franchise_kit_plan"
+    ],
+    "example_block_data": {
+      "content": "Expansion guide for franchisees"
+    },
+    "editable_fields": {
+      "content": "Expansion guide for franchisees"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_plan_subtypes_formats_investor_memo",
+    "label": "Investor Memo",
+    "category": "Business Plans/Web App/Chatbot/1B Plan Subtypes Formats",
+    "description": "Brief investment narrative",
+    "tags": [
+      "investor_memo"
+    ],
+    "example_block_data": {
+      "content": "Brief investment narrative"
+    },
+    "editable_fields": {
+      "content": "Brief investment narrative"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1b_plan_subtypes_formats_exit_summary",
+    "label": "Exit Summary",
+    "category": "Business Plans/Web App/Chatbot/1B Plan Subtypes Formats",
+    "description": "How investors exit or founders cash out",
+    "tags": [
+      "exit_summary"
+    ],
+    "example_block_data": {
+      "content": "How investors exit or founders cash out"
+    },
+    "editable_fields": {
+      "content": "How investors exit or founders cash out"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_executive_summary",
+    "label": "Executive Summary",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "Top-level overview of the entire plan",
+    "tags": [
+      "executive_summary"
+    ],
+    "example_block_data": {
+      "content": "Top-level overview of the entire plan"
+    },
+    "editable_fields": {
+      "content": "Top-level overview of the entire plan"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_problem_solution_fit",
+    "label": "Problem / Solution Fit",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "Market pain point and product match",
+    "tags": [
+      "problem_solution_fit"
+    ],
+    "example_block_data": {
+      "content": "Market pain point and product match"
+    },
+    "editable_fields": {
+      "content": "Market pain point and product match"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_swot_analysis",
+    "label": "SWOT Analysis",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "Strengths, Weaknesses, Opportunities, Threats",
+    "tags": [
+      "swot_analysis"
+    ],
+    "example_block_data": {
+      "content": "Strengths, Weaknesses, Opportunities, Threats"
+    },
+    "editable_fields": {
+      "content": "Strengths, Weaknesses, Opportunities, Threats"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_tam_sam_som",
+    "label": "TAM / SAM / SOM",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "Market size segmentation",
+    "tags": [
+      "tam_sam_som"
+    ],
+    "example_block_data": {
+      "content": "Market size segmentation"
+    },
+    "editable_fields": {
+      "content": "Market size segmentation"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_competitive_landscape",
+    "label": "Competitive Landscape",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "Comparison table of rivals",
+    "tags": [
+      "competitive_landscape"
+    ],
+    "example_block_data": {
+      "content": "Comparison table of rivals"
+    },
+    "editable_fields": {
+      "content": "Comparison table of rivals"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_revenue_model",
+    "label": "Revenue Model",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "One-time, recurring, hybrid, etc.",
+    "tags": [
+      "revenue_model"
+    ],
+    "example_block_data": {
+      "content": "One-time, recurring, hybrid, etc."
+    },
+    "editable_fields": {
+      "content": "One-time, recurring, hybrid, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_customer_segments",
+    "label": "Customer Segments",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "Personas or B2B profiles",
+    "tags": [
+      "customer_segments"
+    ],
+    "example_block_data": {
+      "content": "Personas or B2B profiles"
+    },
+    "editable_fields": {
+      "content": "Personas or B2B profiles"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_go_to_market_strategy",
+    "label": "Go-To-Market Strategy",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "Launch and distribution tactics",
+    "tags": [
+      "go_to_market_strategy"
+    ],
+    "example_block_data": {
+      "content": "Launch and distribution tactics"
+    },
+    "editable_fields": {
+      "content": "Launch and distribution tactics"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_unit_economics",
+    "label": "Unit Economics",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "CAC, LTV, payback period",
+    "tags": [
+      "unit_economics"
+    ],
+    "example_block_data": {
+      "content": "CAC, LTV, payback period"
+    },
+    "editable_fields": {
+      "content": "CAC, LTV, payback period"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_milestones_timeline",
+    "label": "Milestones & Timeline",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "Roadmap to goals",
+    "tags": [
+      "milestones_timeline"
+    ],
+    "example_block_data": {
+      "content": "Roadmap to goals"
+    },
+    "editable_fields": {
+      "content": "Roadmap to goals"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_funding_requirements",
+    "label": "Funding Requirements",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "How much, and what for",
+    "tags": [
+      "funding_requirements"
+    ],
+    "example_block_data": {
+      "content": "How much, and what for"
+    },
+    "editable_fields": {
+      "content": "How much, and what for"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_team_overview",
+    "label": "Team Overview",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "Bios, roles, org chart",
+    "tags": [
+      "team_overview"
+    ],
+    "example_block_data": {
+      "content": "Bios, roles, org chart"
+    },
+    "editable_fields": {
+      "content": "Bios, roles, org chart"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_financial_forecast",
+    "label": "Financial Forecast",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "3\u20135 year income/expenses/cash flow",
+    "tags": [
+      "financial_forecast"
+    ],
+    "example_block_data": {
+      "content": "3\u20135 year income/expenses/cash flow"
+    },
+    "editable_fields": {
+      "content": "3\u20135 year income/expenses/cash flow"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "1c_embedded_reports_exit_strategy",
+    "label": "Exit Strategy",
+    "category": "Business Plans/Web App/Chatbot/1C Embedded Reports",
+    "description": "M&A, IPO, founder buyback, etc.",
+    "tags": [
+      "exit_strategy"
+    ],
+    "example_block_data": {
+      "content": "M&A, IPO, founder buyback, etc."
+    },
+    "editable_fields": {
+      "content": "M&A, IPO, founder buyback, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2a_financial_statements_profit_and_loss_statement",
+    "label": "Profit and Loss Statement",
+    "category": "Business Plans/Web App/Chatbot/2A Financial Statements",
+    "description": "Income, expenses, and net profit over time",
+    "tags": [
+      "profit_and_loss_statement"
+    ],
+    "example_block_data": {
+      "content": "Income, expenses, and net profit over time"
+    },
+    "editable_fields": {
+      "content": "Income, expenses, and net profit over time"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2a_financial_statements_balance_sheet",
+    "label": "Balance Sheet",
+    "category": "Business Plans/Web App/Chatbot/2A Financial Statements",
+    "description": "Assets, liabilities, and equity snapshot",
+    "tags": [
+      "balance_sheet"
+    ],
+    "example_block_data": {
+      "content": "Assets, liabilities, and equity snapshot"
+    },
+    "editable_fields": {
+      "content": "Assets, liabilities, and equity snapshot"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2a_financial_statements_cash_flow_statement",
+    "label": "Cash Flow Statement",
+    "category": "Business Plans/Web App/Chatbot/2A Financial Statements",
+    "description": "Inflows/outflows of cash, liquidity tracker",
+    "tags": [
+      "cash_flow_statement"
+    ],
+    "example_block_data": {
+      "content": "Inflows/outflows of cash, liquidity tracker"
+    },
+    "editable_fields": {
+      "content": "Inflows/outflows of cash, liquidity tracker"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_forecasts_analysis_financial_forecast",
+    "label": "Financial Forecast",
+    "category": "Business Plans/Web App/Chatbot/2B Forecasts Analysis",
+    "description": "3\u20135 year projection of income, costs, profit",
+    "tags": [
+      "financial_forecast"
+    ],
+    "example_block_data": {
+      "content": "3\u20135 year projection of income, costs, profit"
+    },
+    "editable_fields": {
+      "content": "3\u20135 year projection of income, costs, profit"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_forecasts_analysis_break_even_analysis",
+    "label": "Break-Even Analysis",
+    "category": "Business Plans/Web App/Chatbot/2B Forecasts Analysis",
+    "description": "When revenue covers all fixed and variable costs",
+    "tags": [
+      "break_even_analysis"
+    ],
+    "example_block_data": {
+      "content": "When revenue covers all fixed and variable costs"
+    },
+    "editable_fields": {
+      "content": "When revenue covers all fixed and variable costs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_forecasts_analysis_budget_forecast",
+    "label": "Budget Forecast",
+    "category": "Business Plans/Web App/Chatbot/2B Forecasts Analysis",
+    "description": "Projected expenses and allocations",
+    "tags": [
+      "budget_forecast"
+    ],
+    "example_block_data": {
+      "content": "Projected expenses and allocations"
+    },
+    "editable_fields": {
+      "content": "Projected expenses and allocations"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_forecasts_analysis_sales_forecast",
+    "label": "Sales Forecast",
+    "category": "Business Plans/Web App/Chatbot/2B Forecasts Analysis",
+    "description": "Expected sales volume, units, revenue",
+    "tags": [
+      "sales_forecast"
+    ],
+    "example_block_data": {
+      "content": "Expected sales volume, units, revenue"
+    },
+    "editable_fields": {
+      "content": "Expected sales volume, units, revenue"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_forecasts_analysis_cost_analysis",
+    "label": "Cost Analysis",
+    "category": "Business Plans/Web App/Chatbot/2B Forecasts Analysis",
+    "description": "Breakdown of fixed, variable, and unit costs",
+    "tags": [
+      "cost_analysis"
+    ],
+    "example_block_data": {
+      "content": "Breakdown of fixed, variable, and unit costs"
+    },
+    "editable_fields": {
+      "content": "Breakdown of fixed, variable, and unit costs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_forecasts_analysis_pricing_strategy_report",
+    "label": "Pricing Strategy Report",
+    "category": "Business Plans/Web App/Chatbot/2B Forecasts Analysis",
+    "description": "Model comparisons, competitor pricing, margins",
+    "tags": [
+      "pricing_strategy_report"
+    ],
+    "example_block_data": {
+      "content": "Model comparisons, competitor pricing, margins"
+    },
+    "editable_fields": {
+      "content": "Model comparisons, competitor pricing, margins"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_forecasts_analysis_unit_economics_report",
+    "label": "Unit Economics Report",
+    "category": "Business Plans/Web App/Chatbot/2B Forecasts Analysis",
+    "description": "LTV, CAC, payback period",
+    "tags": [
+      "unit_economics_report"
+    ],
+    "example_block_data": {
+      "content": "LTV, CAC, payback period"
+    },
+    "editable_fields": {
+      "content": "LTV, CAC, payback period"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2b_forecasts_analysis_revenue_model_diagram",
+    "label": "Revenue Model Diagram",
+    "category": "Business Plans/Web App/Chatbot/2B Forecasts Analysis",
+    "description": "Recurring, transaction, affiliate, licensing etc.",
+    "tags": [
+      "revenue_model_diagram"
+    ],
+    "example_block_data": {
+      "content": "Recurring, transaction, affiliate, licensing etc."
+    },
+    "editable_fields": {
+      "content": "Recurring, transaction, affiliate, licensing etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2c_embedded_financial_sections_financial_overview",
+    "label": "Financial Overview",
+    "category": "Business Plans/Web App/Chatbot/2C Embedded Financial Sections",
+    "description": "Strategic, Startup, Investor Plans",
+    "tags": [
+      "financial_overview"
+    ],
+    "example_block_data": {
+      "content": "Strategic, Startup, Investor Plans"
+    },
+    "editable_fields": {
+      "content": "Strategic, Startup, Investor Plans"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2c_embedded_financial_sections_use_of_funds",
+    "label": "Use of Funds",
+    "category": "Business Plans/Web App/Chatbot/2C Embedded Financial Sections",
+    "description": "Investor, Grant, Acquisition Plans",
+    "tags": [
+      "use_of_funds"
+    ],
+    "example_block_data": {
+      "content": "Investor, Grant, Acquisition Plans"
+    },
+    "editable_fields": {
+      "content": "Investor, Grant, Acquisition Plans"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2c_embedded_financial_sections_burn_rate_runway",
+    "label": "Burn Rate / Runway",
+    "category": "Business Plans/Web App/Chatbot/2C Embedded Financial Sections",
+    "description": "Startup and SaaS Plans",
+    "tags": [
+      "burn_rate_runway"
+    ],
+    "example_block_data": {
+      "content": "Startup and SaaS Plans"
+    },
+    "editable_fields": {
+      "content": "Startup and SaaS Plans"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2c_embedded_financial_sections_funding_requirements",
+    "label": "Funding Requirements",
+    "category": "Business Plans/Web App/Chatbot/2C Embedded Financial Sections",
+    "description": "Pitch decks, Startup Plans",
+    "tags": [
+      "funding_requirements"
+    ],
+    "example_block_data": {
+      "content": "Pitch decks, Startup Plans"
+    },
+    "editable_fields": {
+      "content": "Pitch decks, Startup Plans"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2c_embedded_financial_sections_exit_scenario_projection",
+    "label": "Exit Scenario Projection",
+    "category": "Business Plans/Web App/Chatbot/2C Embedded Financial Sections",
+    "description": "Exit/Acquisition Plans",
+    "tags": [
+      "exit_scenario_projection"
+    ],
+    "example_block_data": {
+      "content": "Exit/Acquisition Plans"
+    },
+    "editable_fields": {
+      "content": "Exit/Acquisition Plans"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2d_audit_compliance_reports_gaap_compliant_reports",
+    "label": "GAAP-Compliant Reports",
+    "category": "Business Plans/Web App/Chatbot/2D Audit Compliance Reports",
+    "description": "Investors, banks",
+    "tags": [
+      "gaap_compliant_reports"
+    ],
+    "example_block_data": {
+      "content": "Investors, banks"
+    },
+    "editable_fields": {
+      "content": "Investors, banks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2d_audit_compliance_reports_audited_financials",
+    "label": "Audited Financials",
+    "category": "Business Plans/Web App/Chatbot/2D Audit Compliance Reports",
+    "description": "Grants, IPOs",
+    "tags": [
+      "audited_financials"
+    ],
+    "example_block_data": {
+      "content": "Grants, IPOs"
+    },
+    "editable_fields": {
+      "content": "Grants, IPOs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2d_audit_compliance_reports_quarterly_filings",
+    "label": "Quarterly Filings",
+    "category": "Business Plans/Web App/Chatbot/2D Audit Compliance Reports",
+    "description": "Public companies, VCs",
+    "tags": [
+      "quarterly_filings"
+    ],
+    "example_block_data": {
+      "content": "Public companies, VCs"
+    },
+    "editable_fields": {
+      "content": "Public companies, VCs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2d_audit_compliance_reports_financial_footnotes",
+    "label": "Financial Footnotes",
+    "category": "Business Plans/Web App/Chatbot/2D Audit Compliance Reports",
+    "description": "Compliance reviews",
+    "tags": [
+      "financial_footnotes"
+    ],
+    "example_block_data": {
+      "content": "Compliance reviews"
+    },
+    "editable_fields": {
+      "content": "Compliance reviews"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "2d_audit_compliance_reports_depreciation_schedules",
+    "label": "Depreciation Schedules",
+    "category": "Business Plans/Web App/Chatbot/2D Audit Compliance Reports",
+    "description": "Tax filings, asset tracking",
+    "tags": [
+      "depreciation_schedules"
+    ],
+    "example_block_data": {
+      "content": "Tax filings, asset tracking"
+    },
+    "editable_fields": {
+      "content": "Tax filings, asset tracking"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "startup_plan",
+    "label": "Startup Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "For launching a new venture from scratch",
+    "tags": [
+      "startup",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "For launching a new venture from scratch"
+    },
+    "editable_fields": {
+      "content": "For launching a new venture from scratch"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "lean_plan",
+    "label": "Lean Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Short, agile, used to validate or test",
+    "tags": [
+      "lean",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Short, agile, used to validate or test"
+    },
+    "editable_fields": {
+      "content": "Short, agile, used to validate or test"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "strategic_plan",
+    "label": "Strategic Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Long-term roadmap, vision, and goals",
+    "tags": [
+      "strategic",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Long-term roadmap, vision, and goals"
+    },
+    "editable_fields": {
+      "content": "Long-term roadmap, vision, and goals"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "internal_plan",
+    "label": "Internal Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Used within a company for decision-making",
+    "tags": [
+      "internal",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Used within a company for decision-making"
+    },
+    "editable_fields": {
+      "content": "Used within a company for decision-making"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "feasibility_plan",
+    "label": "Feasibility Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Determines if an idea is worth pursuing",
+    "tags": [
+      "feasibility",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Determines if an idea is worth pursuing"
+    },
+    "editable_fields": {
+      "content": "Determines if an idea is worth pursuing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "operational_plan",
+    "label": "Operational Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Focused on logistics, teams, and systems",
+    "tags": [
+      "operational",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Focused on logistics, teams, and systems"
+    },
+    "editable_fields": {
+      "content": "Focused on logistics, teams, and systems"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "growth_plan",
+    "label": "Growth Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Targets scaling, new features, or expansion",
+    "tags": [
+      "growth",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Targets scaling, new features, or expansion"
+    },
+    "editable_fields": {
+      "content": "Targets scaling, new features, or expansion"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "exit_plan",
+    "label": "Exit Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Outlines strategies for M&A or IPO",
+    "tags": [
+      "exit",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Outlines strategies for M&A or IPO"
+    },
+    "editable_fields": {
+      "content": "Outlines strategies for M&A or IPO"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "acquisition_plan",
+    "label": "Acquisition Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Used to acquire or merge with another entity",
+    "tags": [
+      "acquisition",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Used to acquire or merge with another entity"
+    },
+    "editable_fields": {
+      "content": "Used to acquire or merge with another entity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "franchise_plan",
+    "label": "Franchise Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Used to replicate a model with franchisees",
+    "tags": [
+      "franchise",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Used to replicate a model with franchisees"
+    },
+    "editable_fields": {
+      "content": "Used to replicate a model with franchisees"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "nonprofit_plan",
+    "label": "Nonprofit Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Mission-driven, impact-focused, grant-friendly",
+    "tags": [
+      "nonprofit",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Mission-driven, impact-focused, grant-friendly"
+    },
+    "editable_fields": {
+      "content": "Mission-driven, impact-focused, grant-friendly"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "business_continuity_plan",
+    "label": "Business Continuity Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "For disaster recovery and operational resilience",
+    "tags": [
+      "business",
+      "continuity",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "For disaster recovery and operational resilience"
+    },
+    "editable_fields": {
+      "content": "For disaster recovery and operational resilience"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "marketplace_plan",
+    "label": "Marketplace Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Connects two user bases (buyers/sellers)",
+    "tags": [
+      "marketplace",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Connects two user bases (buyers/sellers)"
+    },
+    "editable_fields": {
+      "content": "Connects two user bases (buyers/sellers)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "saas_plan",
+    "label": "SaaS Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "For subscription-based software businesses",
+    "tags": [
+      "saas",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "For subscription-based software businesses"
+    },
+    "editable_fields": {
+      "content": "For subscription-based software businesses"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "ecommerce_plan",
+    "label": "Ecommerce Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "For digital storefronts or product platforms",
+    "tags": [
+      "ecommerce",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "For digital storefronts or product platforms"
+    },
+    "editable_fields": {
+      "content": "For digital storefronts or product platforms"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "app_launch_plan",
+    "label": "App Launch Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Launch roadmap for mobile/web apps",
+    "tags": [
+      "app",
+      "launch",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Launch roadmap for mobile/web apps"
+    },
+    "editable_fields": {
+      "content": "Launch roadmap for mobile/web apps"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "creator_media_plan",
+    "label": "Creator/Media Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Monetizes audience, media, or IP",
+    "tags": [
+      "creator",
+      "media",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Monetizes audience, media, or IP"
+    },
+    "editable_fields": {
+      "content": "Monetizes audience, media, or IP"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "education_plan",
+    "label": "Education Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Offers courses, tools, or learning content",
+    "tags": [
+      "education",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Offers courses, tools, or learning content"
+    },
+    "editable_fields": {
+      "content": "Offers courses, tools, or learning content"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "subscription_box_plan",
+    "label": "Subscription Box Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Curated recurring physical product delivery",
+    "tags": [
+      "subscription",
+      "box",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Curated recurring physical product delivery"
+    },
+    "editable_fields": {
+      "content": "Curated recurring physical product delivery"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "local_goods_farm_plan",
+    "label": "Local Goods/Farm Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Agriculture, CSA, or local production models",
+    "tags": [
+      "local",
+      "goods",
+      "farm",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Agriculture, CSA, or local production models"
+    },
+    "editable_fields": {
+      "content": "Agriculture, CSA, or local production models"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "hybrid_plan",
+    "label": "Hybrid Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Combines any of the above (e.g., SaaS + Agency)",
+    "tags": [
+      "hybrid",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Combines any of the above (e.g., SaaS + Agency)"
+    },
+    "editable_fields": {
+      "content": "Combines any of the above (e.g., SaaS + Agency)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "pitch_deck",
+    "label": "Pitch Deck",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Short visual presentation for investors",
+    "tags": [
+      "pitch",
+      "deck"
+    ],
+    "example_block_data": {
+      "content": "Short visual presentation for investors"
+    },
+    "editable_fields": {
+      "content": "Short visual presentation for investors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "one_page_plan",
+    "label": "One-Page Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Condensed overview for fast reading",
+    "tags": [
+      "one-page",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Condensed overview for fast reading"
+    },
+    "editable_fields": {
+      "content": "Condensed overview for fast reading"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "internal_use_plan",
+    "label": "Internal Use Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Targets internal clarity and alignment",
+    "tags": [
+      "internal",
+      "use",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Targets internal clarity and alignment"
+    },
+    "editable_fields": {
+      "content": "Targets internal clarity and alignment"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "bank_ready_plan",
+    "label": "Bank-Ready Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Aligned to lender or SBA criteria",
+    "tags": [
+      "bank-ready",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Aligned to lender or SBA criteria"
+    },
+    "editable_fields": {
+      "content": "Aligned to lender or SBA criteria"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "grant_application_plan",
+    "label": "Grant Application Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Funding-focused, often for nonprofits",
+    "tags": [
+      "grant",
+      "application",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Funding-focused, often for nonprofits"
+    },
+    "editable_fields": {
+      "content": "Funding-focused, often for nonprofits"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "franchise_kit_plan",
+    "label": "Franchise Kit Plan",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Expansion guide for franchisees",
+    "tags": [
+      "franchise",
+      "kit",
+      "plan"
+    ],
+    "example_block_data": {
+      "content": "Expansion guide for franchisees"
+    },
+    "editable_fields": {
+      "content": "Expansion guide for franchisees"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "investor_memo",
+    "label": "Investor Memo",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Brief investment narrative",
+    "tags": [
+      "investor",
+      "memo"
+    ],
+    "example_block_data": {
+      "content": "Brief investment narrative"
+    },
+    "editable_fields": {
+      "content": "Brief investment narrative"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "exit_summary",
+    "label": "Exit Summary",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "How investors exit or founders cash out",
+    "tags": [
+      "exit",
+      "summary"
+    ],
+    "example_block_data": {
+      "content": "How investors exit or founders cash out"
+    },
+    "editable_fields": {
+      "content": "How investors exit or founders cash out"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "executive_summary",
+    "label": "Executive Summary",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Top-level overview of the entire plan",
+    "tags": [
+      "executive",
+      "summary"
+    ],
+    "example_block_data": {
+      "content": "Top-level overview of the entire plan"
+    },
+    "editable_fields": {
+      "content": "Top-level overview of the entire plan"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "problem_solution_fit",
+    "label": "Problem / Solution Fit",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Market pain point and product match",
+    "tags": [
+      "problem",
+      "solution",
+      "fit"
+    ],
+    "example_block_data": {
+      "content": "Market pain point and product match"
+    },
+    "editable_fields": {
+      "content": "Market pain point and product match"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "swot_analysis",
+    "label": "SWOT Analysis",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Strengths, Weaknesses, Opportunities, Threats",
+    "tags": [
+      "swot",
+      "analysis"
+    ],
+    "example_block_data": {
+      "content": "Strengths, Weaknesses, Opportunities, Threats"
+    },
+    "editable_fields": {
+      "content": "Strengths, Weaknesses, Opportunities, Threats"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "tam_sam_som",
+    "label": "TAM / SAM / SOM",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Market size segmentation",
+    "tags": [
+      "tam",
+      "sam",
+      "som"
+    ],
+    "example_block_data": {
+      "content": "Market size segmentation"
+    },
+    "editable_fields": {
+      "content": "Market size segmentation"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "competitive_landscape",
+    "label": "Competitive Landscape",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Comparison table of rivals",
+    "tags": [
+      "competitive",
+      "landscape"
+    ],
+    "example_block_data": {
+      "content": "Comparison table of rivals"
+    },
+    "editable_fields": {
+      "content": "Comparison table of rivals"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "revenue_model",
+    "label": "Revenue Model",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "One-time, recurring, hybrid, etc.",
+    "tags": [
+      "revenue",
+      "model"
+    ],
+    "example_block_data": {
+      "content": "One-time, recurring, hybrid, etc."
+    },
+    "editable_fields": {
+      "content": "One-time, recurring, hybrid, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "customer_segments",
+    "label": "Customer Segments",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Personas or B2B profiles",
+    "tags": [
+      "customer",
+      "segments"
+    ],
+    "example_block_data": {
+      "content": "Personas or B2B profiles"
+    },
+    "editable_fields": {
+      "content": "Personas or B2B profiles"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "go_to_market_strategy",
+    "label": "Go-To-Market Strategy",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Launch and distribution tactics",
+    "tags": [
+      "go-to-market",
+      "strategy"
+    ],
+    "example_block_data": {
+      "content": "Launch and distribution tactics"
+    },
+    "editable_fields": {
+      "content": "Launch and distribution tactics"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "unit_economics",
+    "label": "Unit Economics",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "CAC, LTV, payback period",
+    "tags": [
+      "unit",
+      "economics"
+    ],
+    "example_block_data": {
+      "content": "CAC, LTV, payback period"
+    },
+    "editable_fields": {
+      "content": "CAC, LTV, payback period"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "milestones_&_timeline",
+    "label": "Milestones & Timeline",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Roadmap to goals",
+    "tags": [
+      "milestones",
+      "&",
+      "timeline"
+    ],
+    "example_block_data": {
+      "content": "Roadmap to goals"
+    },
+    "editable_fields": {
+      "content": "Roadmap to goals"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "funding_requirements",
+    "label": "Funding Requirements",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "How much, and what for",
+    "tags": [
+      "funding",
+      "requirements"
+    ],
+    "example_block_data": {
+      "content": "How much, and what for"
+    },
+    "editable_fields": {
+      "content": "How much, and what for"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "team_overview",
+    "label": "Team Overview",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "Bios, roles, org chart",
+    "tags": [
+      "team",
+      "overview"
+    ],
+    "example_block_data": {
+      "content": "Bios, roles, org chart"
+    },
+    "editable_fields": {
+      "content": "Bios, roles, org chart"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "financial_forecast",
+    "label": "Financial Forecast",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "3\u20135 year income/expenses/cash flow",
+    "tags": [
+      "financial",
+      "forecast"
+    ],
+    "example_block_data": {
+      "content": "3\u20135 year income/expenses/cash flow"
+    },
+    "editable_fields": {
+      "content": "3\u20135 year income/expenses/cash flow"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "exit_strategy",
+    "label": "Exit Strategy",
+    "category": "Business Plans/Web App/Chatbot/Business Plans",
+    "description": "M&A, IPO, founder buyback, etc.",
+    "tags": [
+      "exit",
+      "strategy"
+    ],
+    "example_block_data": {
+      "content": "M&A, IPO, founder buyback, etc."
+    },
+    "editable_fields": {
+      "content": "M&A, IPO, founder buyback, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "profit_and_loss_statement",
+    "label": "Profit and Loss Statement",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Income, expenses, and net profit over time",
+    "tags": [
+      "profit",
+      "and",
+      "loss",
+      "statement"
+    ],
+    "example_block_data": {
+      "content": "Income, expenses, and net profit over time"
+    },
+    "editable_fields": {
+      "content": "Income, expenses, and net profit over time"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "balance_sheet",
+    "label": "Balance Sheet",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Assets, liabilities, and equity snapshot",
+    "tags": [
+      "balance",
+      "sheet"
+    ],
+    "example_block_data": {
+      "content": "Assets, liabilities, and equity snapshot"
+    },
+    "editable_fields": {
+      "content": "Assets, liabilities, and equity snapshot"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "cash_flow_statement",
+    "label": "Cash Flow Statement",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Inflows/outflows of cash, liquidity tracker",
+    "tags": [
+      "cash",
+      "flow",
+      "statement"
+    ],
+    "example_block_data": {
+      "content": "Inflows/outflows of cash, liquidity tracker"
+    },
+    "editable_fields": {
+      "content": "Inflows/outflows of cash, liquidity tracker"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "financial_forecast",
+    "label": "Financial Forecast",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "3\u20135 year projection of income, costs, profit",
+    "tags": [
+      "financial",
+      "forecast"
+    ],
+    "example_block_data": {
+      "content": "3\u20135 year projection of income, costs, profit"
+    },
+    "editable_fields": {
+      "content": "3\u20135 year projection of income, costs, profit"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "break_even_analysis",
+    "label": "Break-Even Analysis",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "When revenue covers all fixed and variable costs",
+    "tags": [
+      "break-even",
+      "analysis"
+    ],
+    "example_block_data": {
+      "content": "When revenue covers all fixed and variable costs"
+    },
+    "editable_fields": {
+      "content": "When revenue covers all fixed and variable costs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "budget_forecast",
+    "label": "Budget Forecast",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Projected expenses and allocations",
+    "tags": [
+      "budget",
+      "forecast"
+    ],
+    "example_block_data": {
+      "content": "Projected expenses and allocations"
+    },
+    "editable_fields": {
+      "content": "Projected expenses and allocations"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "sales_forecast",
+    "label": "Sales Forecast",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Expected sales volume, units, revenue",
+    "tags": [
+      "sales",
+      "forecast"
+    ],
+    "example_block_data": {
+      "content": "Expected sales volume, units, revenue"
+    },
+    "editable_fields": {
+      "content": "Expected sales volume, units, revenue"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "cost_analysis",
+    "label": "Cost Analysis",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Breakdown of fixed, variable, and unit costs",
+    "tags": [
+      "cost",
+      "analysis"
+    ],
+    "example_block_data": {
+      "content": "Breakdown of fixed, variable, and unit costs"
+    },
+    "editable_fields": {
+      "content": "Breakdown of fixed, variable, and unit costs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "pricing_strategy_report",
+    "label": "Pricing Strategy Report",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Model comparisons, competitor pricing, margins",
+    "tags": [
+      "pricing",
+      "strategy",
+      "report"
+    ],
+    "example_block_data": {
+      "content": "Model comparisons, competitor pricing, margins"
+    },
+    "editable_fields": {
+      "content": "Model comparisons, competitor pricing, margins"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "unit_economics_report",
+    "label": "Unit Economics Report",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "LTV, CAC, payback period",
+    "tags": [
+      "unit",
+      "economics",
+      "report"
+    ],
+    "example_block_data": {
+      "content": "LTV, CAC, payback period"
+    },
+    "editable_fields": {
+      "content": "LTV, CAC, payback period"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "revenue_model_diagram",
+    "label": "Revenue Model Diagram",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Recurring, transaction, affiliate, licensing etc.",
+    "tags": [
+      "revenue",
+      "model",
+      "diagram"
+    ],
+    "example_block_data": {
+      "content": "Recurring, transaction, affiliate, licensing etc."
+    },
+    "editable_fields": {
+      "content": "Recurring, transaction, affiliate, licensing etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "financial_overview",
+    "label": "Financial Overview",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Strategic, Startup, Investor Plans",
+    "tags": [
+      "financial",
+      "overview"
+    ],
+    "example_block_data": {
+      "content": "Strategic, Startup, Investor Plans"
+    },
+    "editable_fields": {
+      "content": "Strategic, Startup, Investor Plans"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "use_of_funds",
+    "label": "Use of Funds",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Investor, Grant, Acquisition Plans",
+    "tags": [
+      "use",
+      "of",
+      "funds"
+    ],
+    "example_block_data": {
+      "content": "Investor, Grant, Acquisition Plans"
+    },
+    "editable_fields": {
+      "content": "Investor, Grant, Acquisition Plans"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "burn_rate_runway",
+    "label": "Burn Rate / Runway",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Startup and SaaS Plans",
+    "tags": [
+      "burn",
+      "rate",
+      "runway"
+    ],
+    "example_block_data": {
+      "content": "Startup and SaaS Plans"
+    },
+    "editable_fields": {
+      "content": "Startup and SaaS Plans"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "funding_requirements",
+    "label": "Funding Requirements",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Pitch decks, Startup Plans",
+    "tags": [
+      "funding",
+      "requirements"
+    ],
+    "example_block_data": {
+      "content": "Pitch decks, Startup Plans"
+    },
+    "editable_fields": {
+      "content": "Pitch decks, Startup Plans"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "exit_scenario_projection",
+    "label": "Exit Scenario Projection",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Exit/Acquisition Plans",
+    "tags": [
+      "exit",
+      "scenario",
+      "projection"
+    ],
+    "example_block_data": {
+      "content": "Exit/Acquisition Plans"
+    },
+    "editable_fields": {
+      "content": "Exit/Acquisition Plans"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "gaap_compliant_reports",
+    "label": "GAAP-Compliant Reports",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Investors, banks",
+    "tags": [
+      "gaap-compliant",
+      "reports"
+    ],
+    "example_block_data": {
+      "content": "Investors, banks"
+    },
+    "editable_fields": {
+      "content": "Investors, banks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "audited_financials",
+    "label": "Audited Financials",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Grants, IPOs",
+    "tags": [
+      "audited",
+      "financials"
+    ],
+    "example_block_data": {
+      "content": "Grants, IPOs"
+    },
+    "editable_fields": {
+      "content": "Grants, IPOs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "quarterly_filings",
+    "label": "Quarterly Filings",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Public companies, VCs",
+    "tags": [
+      "quarterly",
+      "filings"
+    ],
+    "example_block_data": {
+      "content": "Public companies, VCs"
+    },
+    "editable_fields": {
+      "content": "Public companies, VCs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "financial_footnotes",
+    "label": "Financial Footnotes",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Compliance reviews",
+    "tags": [
+      "financial",
+      "footnotes"
+    ],
+    "example_block_data": {
+      "content": "Compliance reviews"
+    },
+    "editable_fields": {
+      "content": "Compliance reviews"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 1,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "depreciation_schedules",
+    "label": "Depreciation Schedules",
+    "category": "Business Plans/Web App/Chatbot/Financial Reports",
+    "description": "Tax filings, asset tracking",
+    "tags": [
+      "depreciation",
+      "schedules"
+    ],
+    "example_block_data": {
+      "content": "Tax filings, asset tracking"
+    },
+    "editable_fields": {
+      "content": "Tax filings, asset tracking"
+    }
+  }
+]

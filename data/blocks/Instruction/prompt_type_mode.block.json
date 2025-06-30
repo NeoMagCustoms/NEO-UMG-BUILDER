@@ -1,0 +1,46 @@
+{
+  "block_id": "prompt_type_mode",
+  "label": "Prompt Type Mode",
+  "category": "Prompt Architecture System",
+  "description": "Prompt logic style: few-shot, chat, chain-of-thought",
+  "molt_type": "Instruction",
+  "tags": [
+    "prompt_type_mode",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🧾"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Prompt logic style: few-shot, chat, chain-of-thought This block defines how this logic operates during agent runtime."
+  },
+  "editable_fields": {
+    "content": "Prompt Type Mode: Prompt logic style: few-shot, chat, chain-of-thought"
+  }
+}

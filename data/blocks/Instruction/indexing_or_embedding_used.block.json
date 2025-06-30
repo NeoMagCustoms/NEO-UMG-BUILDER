@@ -1,0 +1,46 @@
+{
+  "block_id": "indexing_or_embedding_used",
+  "label": "Indexing Or Embedding Used",
+  "category": "File Upload & Data Parsing",
+  "description": "Whether files are embedded in vector DB or keyword-indexed",
+  "molt_type": "Instruction",
+  "tags": [
+    "indexing_or_embedding_used",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🗃️"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Whether files are embedded in vector DB or keyword-indexed This defines how the bot will perform or respond using this input."
+  },
+  "editable_fields": {
+    "content": "Indexing Or Embedding Used: Whether files are embedded in vector DB or keyword-indexed"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 20,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "20d_analytics_marketing_tools_email_automation_apis_mailchimp",
+  "label": "Email Automation APIs (Mailchimp)",
+  "category": "Web App Builder/Integrations APIs Third-Party/20D Analytics Marketing Tools",
+  "description": "Sends marketing flows",
+  "tags": [
+    "email_automation_apis_mailchimp"
+  ],
+  "example_block_data": {
+    "content": "Sends marketing flows"
+  },
+  "editable_fields": {
+    "content": "Sends marketing flows"
+  }
+}

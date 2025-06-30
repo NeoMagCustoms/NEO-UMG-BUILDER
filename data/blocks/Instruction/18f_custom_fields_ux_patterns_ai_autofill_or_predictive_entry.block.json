@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 18,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "18f_custom_fields_ux_patterns_ai_autofill_or_predictive_entry",
+  "label": "AI-Autofill or Predictive Entry",
+  "category": "Web App Builder/Forms Validation Input/18F Custom Fields Ux Patterns",
+  "description": "Suggest values based on input",
+  "tags": [
+    "ai_autofill_or_predictive_entry"
+  ],
+  "example_block_data": {
+    "content": "Suggest values based on input"
+  },
+  "editable_fields": {
+    "content": "Suggest values based on input"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "block_id": "example_embed_use_case",
+  "label": "Example Embed Use Case",
+  "category": "Web App Merge Options",
+  "description": "Example of bot in action inside an app",
+  "molt_type": "Instruction",
+  "tags": [
+    "example_embed_use_case",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "💡"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Example of bot in action inside an app This block defines how this logic operates during agent runtime."
+  },
+  "editable_fields": {
+    "content": "Example Embed Use Case: Example of bot in action inside an app"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 19,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "19c_media_processing_convert_to_text_ocr_optional",
+  "label": "Convert-to-Text OCR (optional)",
+  "category": "Web App Builder/File Handling Uploads Media/19C Media Processing",
+  "description": "Extract text from image/PDF",
+  "tags": [
+    "convert_to_text_ocr_optional"
+  ],
+  "example_block_data": {
+    "content": "Extract text from image/PDF"
+  },
+  "editable_fields": {
+    "content": "Extract text from image/PDF"
+  }
+}

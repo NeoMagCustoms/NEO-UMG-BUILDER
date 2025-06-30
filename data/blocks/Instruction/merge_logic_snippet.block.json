@@ -1,0 +1,46 @@
+{
+  "block_id": "merge_logic_snippet",
+  "label": "Merge Logic Snippet",
+  "category": "Web App Merge Options",
+  "description": "Code/config for injecting the bot",
+  "molt_type": "Instruction",
+  "tags": [
+    "merge_logic_snippet",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📎"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Code/config for injecting the bot This block defines how this logic operates during agent runtime."
+  },
+  "editable_fields": {
+    "content": "Merge Logic Snippet: Code/config for injecting the bot"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "block_id": "language_mode_enabled",
+  "label": "Language Mode Enabled",
+  "category": "Language & i18n Settings",
+  "description": "Toggle multilingual mode",
+  "molt_type": "Instruction",
+  "tags": [
+    "language_mode_enabled",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🌐"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Toggle multilingual mode This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "Language Mode Enabled: Toggle multilingual mode"
+  }
+}

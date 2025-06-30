@@ -1,0 +1,37 @@
+{
+  "block_id": "chatbot_secondary_skills",
+  "label": "Chatbot Secondary Skills",
+  "category": "chatbot_core",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "secondary_skill_name",
+    "activation_method",
+    "supported_input_types",
+    "output_format",
+    "skill_scope_description",
+    "skill_limitations",
+    "compatible_roles_only",
+    "is_toggleable",
+    "example_use_cases",
+    "tool_merge_logic"
+  ],
+  "tags": [
+    "chatbot",
+    "skills",
+    "addons"
+  ],
+  "snap_config": {
+    "snap_to": [
+      "Primary",
+      "Subject"
+    ],
+    "stack_order": 8
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T14:17:04.478662",
+    "edit_log": []
+  }
+}

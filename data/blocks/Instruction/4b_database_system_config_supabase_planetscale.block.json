@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 4,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "4b_database_system_config_supabase_planetscale",
+  "label": "Supabase / PlanetScale",
+  "category": "Web App Builder/Database Data Models/4B Database System Config",
+  "description": "Managed Postgres serverless platforms",
+  "tags": [
+    "supabase_planetscale"
+  ],
+  "example_block_data": {
+    "content": "Managed Postgres serverless platforms"
+  },
+  "editable_fields": {
+    "content": "Managed Postgres serverless platforms"
+  }
+}

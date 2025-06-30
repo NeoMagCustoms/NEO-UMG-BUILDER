@@ -1,0 +1,46 @@
+{
+  "block_id": "multi_tasking_capable",
+  "label": "Multitasking Capable",
+  "category": "Chatbot Function/Primary Task",
+  "description": "Can it handle multiple subtasks?",
+  "molt_type": "Instruction",
+  "tags": [
+    "multi_tasking_capable",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🔁"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Can it handle multiple subtasks? This is an example of applied logic for that trait."
+  },
+  "editable_fields": {
+    "content": "Multitasking Capable: Can it handle multiple subtasks?"
+  }
+}

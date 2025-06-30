@@ -1,0 +1,1842 @@
+[
+  {
+    "block_id": "agent_switching_enabled",
+    "label": "Agent Switching Enabled",
+    "category": "Multi-Agent Interface / Agent Switchers",
+    "description": "Whether users can switch between bots/roles mid-conversation",
+    "molt_type": "Instruction",
+    "tags": [
+      "agent_switching_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd01"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether users can switch between bots/roles mid-conversation This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Agent Switching Enabled: Whether users can switch between bots/roles mid-conversation"
+    }
+  },
+  {
+    "block_id": "available_agents_list",
+    "label": "Available Agents List",
+    "category": "Multi-Agent Interface / Agent Switchers",
+    "description": "List of selectable or visible agents",
+    "molt_type": "Instruction",
+    "tags": [
+      "available_agents_list",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udc65"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "List of selectable or visible agents This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Available Agents List: List of selectable or visible agents"
+    }
+  },
+  {
+    "block_id": "switching_ui_style",
+    "label": "Switching UI Style",
+    "category": "Multi-Agent Interface / Agent Switchers",
+    "description": "How the switch is performed (dropdown, tabs, etc.)",
+    "molt_type": "Instruction",
+    "tags": [
+      "switching_ui_style",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf9b\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How the switch is performed (dropdown, tabs, etc.) This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Switching UI Style: How the switch is performed (dropdown, tabs, etc.)"
+    }
+  },
+  {
+    "block_id": "inter_agent_memory_sharing",
+    "label": "Inter-Agent Memory Sharing",
+    "category": "Multi-Agent Interface / Agent Switchers",
+    "description": "Can bots share memory or context?",
+    "molt_type": "Instruction",
+    "tags": [
+      "inter_agent_memory_sharing",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd17"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Can bots share memory or context? This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Inter-Agent Memory Sharing: Can bots share memory or context?"
+    }
+  },
+  {
+    "block_id": "conversation_thread_per_agent",
+    "label": "Conversation Thread Per Agent",
+    "category": "Multi-Agent Interface / Agent Switchers",
+    "description": "Whether each agent maintains a unique thread",
+    "molt_type": "Instruction",
+    "tags": [
+      "conversation_thread_per_agent",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddf5"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether each agent maintains a unique thread This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Conversation Thread Per Agent: Whether each agent maintains a unique thread"
+    }
+  },
+  {
+    "block_id": "cooperative_agent_mode",
+    "label": "Cooperative Agent Mode",
+    "category": "Multi-Agent Interface / Agent Switchers",
+    "description": "Are bots able to work together?",
+    "molt_type": "Instruction",
+    "tags": [
+      "cooperative_agent_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udd1d"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Are bots able to work together? This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Cooperative Agent Mode: Are bots able to work together?"
+    }
+  },
+  {
+    "block_id": "task_routing_protocol",
+    "label": "Task Routing Protocol",
+    "category": "Multi-Agent Interface / Agent Switchers",
+    "description": "Logic for assigning bot tasks",
+    "molt_type": "Instruction",
+    "tags": [
+      "task_routing_protocol",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\uddfa\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Logic for assigning bot tasks This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Task Routing Protocol: Logic for assigning bot tasks"
+    }
+  },
+  {
+    "block_id": "agent_priority_map",
+    "label": "Agent Priority Map",
+    "category": "Multi-Agent Interface / Agent Switchers",
+    "description": "Ranking or weighting of agent specialties",
+    "molt_type": "Instruction",
+    "tags": [
+      "agent_priority_map",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Ranking or weighting of agent specialties This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Agent Priority Map: Ranking or weighting of agent specialties"
+    }
+  },
+  {
+    "block_id": "override_conditions",
+    "label": "Override Conditions",
+    "category": "Multi-Agent Interface / Agent Switchers",
+    "description": "Rules for agent handoffs",
+    "molt_type": "Instruction",
+    "tags": [
+      "override_conditions",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udea8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Rules for agent handoffs This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Override Conditions: Rules for agent handoffs"
+    }
+  },
+  {
+    "block_id": "multi_agent_sample_flow",
+    "label": "Multi-Agent Sample Flow",
+    "category": "Multi-Agent Interface / Agent Switchers",
+    "description": "Example of switching across agents",
+    "molt_type": "Instruction",
+    "tags": [
+      "multi_agent_sample_flow",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd04"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Example of switching across agents This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Multi-Agent Sample Flow: Example of switching across agents"
+    }
+  },
+  {
+    "block_id": "base_prompt_template",
+    "label": "Base Prompt Template",
+    "category": "Prompt Architecture System",
+    "description": "Core system instruction used to initialize bot",
+    "molt_type": "Instruction",
+    "tags": [
+      "base_prompt_template",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdc"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Core system instruction used to initialize bot This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Base Prompt Template: Core system instruction used to initialize bot"
+    }
+  },
+  {
+    "block_id": "user_input_injection_rule",
+    "label": "User Input Injection Rule",
+    "category": "Prompt Architecture System",
+    "description": "Where and how user input is embedded",
+    "molt_type": "Instruction",
+    "tags": [
+      "user_input_injection_rule",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce5"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Where and how user input is embedded This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "User Input Injection Rule: Where and how user input is embedded"
+    }
+  },
+  {
+    "block_id": "context_layering_logic",
+    "label": "Context Layering Logic",
+    "category": "Prompt Architecture System",
+    "description": "Rules for layering memory, messages, and metadata",
+    "molt_type": "Instruction",
+    "tags": [
+      "context_layering_logic",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Rules for layering memory, messages, and metadata This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Context Layering Logic: Rules for layering memory, messages, and metadata"
+    }
+  },
+  {
+    "block_id": "dynamic_instruction_blocks",
+    "label": "Dynamic Instruction Blocks",
+    "category": "Prompt Architecture System",
+    "description": "Logic blocks added at runtime",
+    "molt_type": "Instruction",
+    "tags": [
+      "dynamic_instruction_blocks",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2795"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Logic blocks added at runtime This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Dynamic Instruction Blocks: Logic blocks added at runtime"
+    }
+  },
+  {
+    "block_id": "persona_modifiers_enabled",
+    "label": "Persona Modifiers Enabled",
+    "category": "Prompt Architecture System",
+    "description": "Whether persona affects prompt format",
+    "molt_type": "Instruction",
+    "tags": [
+      "persona_modifiers_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddec"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether persona affects prompt format This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Persona Modifiers Enabled: Whether persona affects prompt format"
+    }
+  },
+  {
+    "block_id": "prompt_token_guardrails",
+    "label": "Prompt Token Guardrails",
+    "category": "Prompt Architecture System",
+    "description": "Token budgeting and truncation strategies",
+    "molt_type": "Instruction",
+    "tags": [
+      "prompt_token_guardrails",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddee"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Token budgeting and truncation strategies This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Prompt Token Guardrails: Token budgeting and truncation strategies"
+    }
+  },
+  {
+    "block_id": "prompt_type_mode",
+    "label": "Prompt Type Mode",
+    "category": "Prompt Architecture System",
+    "description": "Prompt logic style: few-shot, chat, chain-of-thought",
+    "molt_type": "Instruction",
+    "tags": [
+      "prompt_type_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddfe"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Prompt logic style: few-shot, chat, chain-of-thought This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Prompt Type Mode: Prompt logic style: few-shot, chat, chain-of-thought"
+    }
+  },
+  {
+    "block_id": "injection_trigger_conditions",
+    "label": "Injection Trigger Conditions",
+    "category": "Prompt Architecture System",
+    "description": "When dynamic logic activates",
+    "molt_type": "Instruction",
+    "tags": [
+      "injection_trigger_conditions",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfaf"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "When dynamic logic activates This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Injection Trigger Conditions: When dynamic logic activates"
+    }
+  },
+  {
+    "block_id": "fallback_prompt_logic",
+    "label": "Fallback Prompt Logic",
+    "category": "Prompt Architecture System",
+    "description": "Backup logic for prompt failure",
+    "molt_type": "Instruction",
+    "tags": [
+      "fallback_prompt_logic",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc9"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Backup logic for prompt failure This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Fallback Prompt Logic: Backup logic for prompt failure"
+    }
+  },
+  {
+    "block_id": "prompt_testing_examples",
+    "label": "Prompt Testing Examples",
+    "category": "Prompt Architecture System",
+    "description": "Prompt and result QA examples",
+    "molt_type": "Instruction",
+    "tags": [
+      "prompt_testing_examples",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddea"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Prompt and result QA examples This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Prompt Testing Examples: Prompt and result QA examples"
+    }
+  },
+  {
+    "block_id": "available_molt_types",
+    "label": "Available MOLT Types",
+    "category": "MOLT Builder + Snap Logic Engine",
+    "description": "List of all recognized MOLTs",
+    "molt_type": "Instruction",
+    "tags": [
+      "available_molt_types",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcd8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "List of all recognized MOLTs This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Available MOLT Types: List of all recognized MOLTs"
+    }
+  },
+  {
+    "block_id": "snap_sequence_order",
+    "label": "Snap Sequence Order",
+    "category": "MOLT Builder + Snap Logic Engine",
+    "description": "Preferred snap order to avoid logic conflict",
+    "molt_type": "Instruction",
+    "tags": [
+      "snap_sequence_order",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcd0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Preferred snap order to avoid logic conflict This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Snap Sequence Order: Preferred snap order to avoid logic conflict"
+    }
+  },
+  {
+    "block_id": "molt_merge_conflict_policy",
+    "label": "MOLT Merge Conflict Policy",
+    "category": "MOLT Builder + Snap Logic Engine",
+    "description": "What happens when MOLTs conflict",
+    "molt_type": "Instruction",
+    "tags": [
+      "molt_merge_conflict_policy",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2696\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What happens when MOLTs conflict This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "MOLT Merge Conflict Policy: What happens when MOLTs conflict"
+    }
+  },
+  {
+    "block_id": "molt_customization_ui",
+    "label": "MOLT Customization UI",
+    "category": "MOLT Builder + Snap Logic Engine",
+    "description": "UI logic for choosing MOLTs visually",
+    "molt_type": "Instruction",
+    "tags": [
+      "molt_customization_ui",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf9b\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "UI logic for choosing MOLTs visually This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "MOLT Customization UI: UI logic for choosing MOLTs visually"
+    }
+  },
+  {
+    "block_id": "block_dependency_map",
+    "label": "Block Dependency Map",
+    "category": "MOLT Builder + Snap Logic Engine",
+    "description": "What MOLTs depend on others",
+    "molt_type": "Instruction",
+    "tags": [
+      "block_dependency_map",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde9"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What MOLTs depend on others This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Block Dependency Map: What MOLTs depend on others"
+    }
+  },
+  {
+    "block_id": "realtime_snap_preview_enabled",
+    "label": "Realtime Snap Preview Enabled",
+    "category": "MOLT Builder + Snap Logic Engine",
+    "description": "Preview of MOLT logic in builder",
+    "molt_type": "Instruction",
+    "tags": [
+      "realtime_snap_preview_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udc41\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Preview of MOLT logic in builder This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Realtime Snap Preview Enabled: Preview of MOLT logic in builder"
+    }
+  },
+  {
+    "block_id": "molt_persistence_mode",
+    "label": "MOLT Persistence Mode",
+    "category": "MOLT Builder + Snap Logic Engine",
+    "description": "Whether MOLTs are persistent per session",
+    "molt_type": "Instruction",
+    "tags": [
+      "molt_persistence_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcbe"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether MOLTs are persistent per session This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "MOLT Persistence Mode: Whether MOLTs are persistent per session"
+    }
+  },
+  {
+    "block_id": "user_defined_molt_creation",
+    "label": "User Defined MOLT Creation",
+    "category": "MOLT Builder + Snap Logic Engine",
+    "description": "Whether users can create their own MOLTs",
+    "molt_type": "Instruction",
+    "tags": [
+      "user_defined_molt_creation",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u270d\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether users can create their own MOLTs This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "User Defined MOLT Creation: Whether users can create their own MOLTs"
+    }
+  },
+  {
+    "block_id": "snap_logic_script_format",
+    "label": "Snap Logic Script Format",
+    "category": "MOLT Builder + Snap Logic Engine",
+    "description": "Script or schema logic behind snap system",
+    "molt_type": "Instruction",
+    "tags": [
+      "snap_logic_script_format",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Script or schema logic behind snap system This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Snap Logic Script Format: Script or schema logic behind snap system"
+    }
+  },
+  {
+    "block_id": "example_molt_merge_config",
+    "label": "Example MOLT Merge Config",
+    "category": "MOLT Builder + Snap Logic Engine",
+    "description": "Full example of merged MOLT logic",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_molt_merge_config",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddea"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Full example of merged MOLT logic This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Example MOLT Merge Config: Full example of merged MOLT logic"
+    }
+  },
+  {
+    "block_id": "embed_mode_type",
+    "label": "Embed Mode Type",
+    "category": "Web App Merge Options",
+    "description": "Mode of merge: iframe, API, widget, etc.",
+    "molt_type": "Instruction",
+    "tags": [
+      "embed_mode_type",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf10"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Mode of merge: iframe, API, widget, etc. This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Embed Mode Type: Mode of merge: iframe, API, widget, etc."
+    }
+  },
+  {
+    "block_id": "integration_target",
+    "label": "Integration Target",
+    "category": "Web App Merge Options",
+    "description": "Where it's being embedded (platform)",
+    "molt_type": "Instruction",
+    "tags": [
+      "integration_target",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfaf"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Where it's being embedded (platform) This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Integration Target: Where it's being embedded (platform)"
+    }
+  },
+  {
+    "block_id": "auth_handling_method",
+    "label": "Auth Handling Method",
+    "category": "Web App Merge Options",
+    "description": "How authentication is handled across domains",
+    "molt_type": "Instruction",
+    "tags": [
+      "auth_handling_method",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd10"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How authentication is handled across domains This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Auth Handling Method: How authentication is handled across domains"
+    }
+  },
+  {
+    "block_id": "styling_inheritance",
+    "label": "Styling Inheritance",
+    "category": "Web App Merge Options",
+    "description": "Whether chatbot adopts parent app CSS/theme",
+    "molt_type": "Instruction",
+    "tags": [
+      "styling_inheritance",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfa8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether chatbot adopts parent app CSS/theme This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Styling Inheritance: Whether chatbot adopts parent app CSS/theme"
+    }
+  },
+  {
+    "block_id": "responsive_scaling_rules",
+    "label": "Responsive Scaling Rules",
+    "category": "Web App Merge Options",
+    "description": "How bot UI adapts to screen sizes",
+    "molt_type": "Instruction",
+    "tags": [
+      "responsive_scaling_rules",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcf1"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How bot UI adapts to screen sizes This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Responsive Scaling Rules: How bot UI adapts to screen sizes"
+    }
+  },
+  {
+    "block_id": "interaction_isolation_mode",
+    "label": "Interaction Isolation Mode",
+    "category": "Web App Merge Options",
+    "description": "Whether conversation is sandboxed",
+    "molt_type": "Instruction",
+    "tags": [
+      "interaction_isolation_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde9"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether conversation is sandboxed This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Interaction Isolation Mode: Whether conversation is sandboxed"
+    }
+  },
+  {
+    "block_id": "custom_api_connector_required",
+    "label": "Custom API Connector Required",
+    "category": "Web App Merge Options",
+    "description": "Whether embedding needs APIs",
+    "molt_type": "Instruction",
+    "tags": [
+      "custom_api_connector_required",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd0c"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether embedding needs APIs This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Custom API Connector Required: Whether embedding needs APIs"
+    }
+  },
+  {
+    "block_id": "merge_logic_snippet",
+    "label": "Merge Logic Snippet",
+    "category": "Web App Merge Options",
+    "description": "Code/config for injecting the bot",
+    "molt_type": "Instruction",
+    "tags": [
+      "merge_logic_snippet",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcce"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Code/config for injecting the bot This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Merge Logic Snippet: Code/config for injecting the bot"
+    }
+  },
+  {
+    "block_id": "data_pass_through_support",
+    "label": "Data Pass Through Support",
+    "category": "Web App Merge Options",
+    "description": "Bot can accept/respond to host app data",
+    "molt_type": "Instruction",
+    "tags": [
+      "data_pass_through_support",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Bot can accept/respond to host app data This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Data Pass Through Support: Bot can accept/respond to host app data"
+    }
+  },
+  {
+    "block_id": "example_embed_use_case",
+    "label": "Example Embed Use Case",
+    "category": "Web App Merge Options",
+    "description": "Example of bot in action inside an app",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_embed_use_case",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udca1"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Example of bot in action inside an app This block defines how this logic operates during agent runtime."
+    },
+    "editable_fields": {
+      "content": "Example Embed Use Case: Example of bot in action inside an app"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 4,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "4f_relational_document_patterns_join_tables",
+  "label": "Join Tables",
+  "category": "Web App Builder/Database Data Models/4F Relational Document Patterns",
+  "description": "Enables many-to-many (e.g., User-Role)",
+  "tags": [
+    "join_tables"
+  ],
+  "example_block_data": {
+    "content": "Enables many-to-many (e.g., User-Role)"
+  },
+  "editable_fields": {
+    "content": "Enables many-to-many (e.g., User-Role)"
+  }
+}

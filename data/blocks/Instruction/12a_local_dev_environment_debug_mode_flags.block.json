@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 12,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "12a_local_dev_environment_debug_mode_flags",
+  "label": "Debug Mode Flags",
+  "category": "Web App Builder/Dev Tools DX Enhancements/12A Local Dev Environment",
+  "description": "Enables special debugging UI",
+  "tags": [
+    "debug_mode_flags"
+  ],
+  "example_block_data": {
+    "content": "Enables special debugging UI"
+  },
+  "editable_fields": {
+    "content": "Enables special debugging UI"
+  }
+}

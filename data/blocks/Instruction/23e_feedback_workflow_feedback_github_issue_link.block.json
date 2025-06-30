@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 23,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "23e_feedback_workflow_feedback_github_issue_link",
+  "label": "Feedback → GitHub Issue Link",
+  "category": "Web App Builder/Product Feedback Surveys Voting/23E Feedback Workflow",
+  "description": "Route feedback to backlog",
+  "tags": [
+    "feedback_github_issue_link"
+  ],
+  "example_block_data": {
+    "content": "Route feedback to backlog"
+  },
+  "editable_fields": {
+    "content": "Route feedback to backlog"
+  }
+}

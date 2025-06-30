@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 24,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "24a_profile_edit_views_form_autosave_validation",
+  "label": "Form Autosave + Validation",
+  "category": "Web App Builder/User Profiles Settings Panels/24A Profile Edit Views",
+  "description": "UX polish for edits",
+  "tags": [
+    "form_autosave_validation"
+  ],
+  "example_block_data": {
+    "content": "UX polish for edits"
+  },
+  "editable_fields": {
+    "content": "UX polish for edits"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 10,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "10e_app_lifecycle_npm_run_build_start_serve",
+  "label": "npm run build/start/serve",
+  "category": "Web App Builder/Deployment Environment Configuration/10E App Lifecycle",
+  "description": "Standard app build/start scripts",
+  "tags": [
+    "npm_run_build_start_serve"
+  ],
+  "example_block_data": {
+    "content": "Standard app build/start scripts"
+  },
+  "editable_fields": {
+    "content": "Standard app build/start scripts"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 12,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "12f_developer_docs_meta_architecture_diagram",
+  "label": "Architecture Diagram",
+  "category": "Web App Builder/Dev Tools DX Enhancements/12F Developer Docs Meta",
+  "description": "Maps component or feature flow",
+  "tags": [
+    "architecture_diagram"
+  ],
+  "example_block_data": {
+    "content": "Maps component or feature flow"
+  },
+  "editable_fields": {
+    "content": "Maps component or feature flow"
+  }
+}

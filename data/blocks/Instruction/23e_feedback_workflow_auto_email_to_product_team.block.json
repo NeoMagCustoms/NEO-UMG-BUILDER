@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 23,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "23e_feedback_workflow_auto_email_to_product_team",
+  "label": "Auto Email to Product Team",
+  "category": "Web App Builder/Product Feedback Surveys Voting/23E Feedback Workflow",
+  "description": "Forward raw input",
+  "tags": [
+    "auto_email_to_product_team"
+  ],
+  "example_block_data": {
+    "content": "Forward raw input"
+  },
+  "editable_fields": {
+    "content": "Forward raw input"
+  }
+}

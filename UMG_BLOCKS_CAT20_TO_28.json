@@ -1,0 +1,4142 @@
+[
+  {
+    "block_id": "deployment_mode",
+    "label": "Deployment Mode",
+    "category": "Deployment Type",
+    "description": "Type of deployment: API-only, frontend widget, PWA, mobile-native, CLI",
+    "molt_type": "Instruction",
+    "tags": [
+      "deployment_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\ude80"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Type of deployment: API-only, frontend widget, PWA, mobile-native, CLI This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Deployment Mode: Type of deployment: API-only, frontend widget, PWA, mobile-native, CLI"
+    }
+  },
+  {
+    "block_id": "host_environment",
+    "label": "Host Environment",
+    "category": "Deployment Type",
+    "description": "Target hosting platform (e.g., Replit, Vercel, AWS, Netlify)",
+    "molt_type": "Instruction",
+    "tags": [
+      "host_environment",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udda5\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Target hosting platform (e.g., Replit, Vercel, AWS, Netlify) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Host Environment: Target hosting platform (e.g., Replit, Vercel, AWS, Netlify)"
+    }
+  },
+  {
+    "block_id": "deployment_access_model",
+    "label": "Deployment Access Model",
+    "category": "Deployment Type",
+    "description": "Who can access it: public, invite-only, paywalled, org-specific",
+    "molt_type": "Instruction",
+    "tags": [
+      "deployment_access_model",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd10"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Who can access it: public, invite-only, paywalled, org-specific This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Deployment Access Model: Who can access it: public, invite-only, paywalled, org-specific"
+    }
+  },
+  {
+    "block_id": "bot_update_strategy",
+    "label": "Bot Update Strategy",
+    "category": "Deployment Type",
+    "description": "How updates are delivered (live push, versioned rollout, manual refresh)",
+    "molt_type": "Instruction",
+    "tags": [
+      "bot_update_strategy",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u267b\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How updates are delivered (live push, versioned rollout, manual refresh) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Bot Update Strategy: How updates are delivered (live push, versioned rollout, manual refresh)"
+    }
+  },
+  {
+    "block_id": "build_pipeline_integration",
+    "label": "Build Pipeline Integration",
+    "category": "Deployment Type",
+    "description": "CI/CD tools integrated (e.g., GitHub Actions, Supabase hooks)",
+    "molt_type": "Instruction",
+    "tags": [
+      "build_pipeline_integration",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2699\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "CI/CD tools integrated (e.g., GitHub Actions, Supabase hooks) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Build Pipeline Integration: CI/CD tools integrated (e.g., GitHub Actions, Supabase hooks)"
+    }
+  },
+  {
+    "block_id": "deployment_limits",
+    "label": "Deployment Limits",
+    "category": "Deployment Type",
+    "description": "Usage caps: sessions, requests, concurrent users",
+    "molt_type": "Instruction",
+    "tags": [
+      "deployment_limits",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Usage caps: sessions, requests, concurrent users This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Deployment Limits: Usage caps: sessions, requests, concurrent users"
+    }
+  },
+  {
+    "block_id": "offline_capability",
+    "label": "Offline Capability",
+    "category": "Deployment Type",
+    "description": "Whether the bot works offline or caches conversations",
+    "molt_type": "Instruction",
+    "tags": [
+      "offline_capability",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcf6"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether the bot works offline or caches conversations This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Offline Capability: Whether the bot works offline or caches conversations"
+    }
+  },
+  {
+    "block_id": "api_endpoint_availability",
+    "label": "API Endpoint Availability",
+    "category": "Deployment Type",
+    "description": "Is it accessible via REST, GraphQL, or WebSocket?",
+    "molt_type": "Instruction",
+    "tags": [
+      "api_endpoint_availability",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf10"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Is it accessible via REST, GraphQL, or WebSocket? This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "API Endpoint Availability: Is it accessible via REST, GraphQL, or WebSocket?"
+    }
+  },
+  {
+    "block_id": "monitoring_and_logs_enabled",
+    "label": "Monitoring and Logs Enabled",
+    "category": "Deployment Type",
+    "description": "Whether logs and errors are tracked and accessible",
+    "molt_type": "Instruction",
+    "tags": [
+      "monitoring_and_logs_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcca"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether logs and errors are tracked and accessible This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Monitoring and Logs Enabled: Whether logs and errors are tracked and accessible"
+    }
+  },
+  {
+    "block_id": "example_deployment_use_case",
+    "label": "Example Deployment Use Case",
+    "category": "Deployment Type",
+    "description": "Real-world description of the bot in use",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_deployment_use_case",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddea"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Real-world description of the bot in use This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Example Deployment Use Case: Real-world description of the bot in use"
+    }
+  },
+  {
+    "block_id": "token_tracking_enabled",
+    "label": "Token Tracking Enabled",
+    "category": "Token Cost + Limits Monitor",
+    "description": "Toggles tracking of token usage per interaction",
+    "molt_type": "Instruction",
+    "tags": [
+      "token_tracking_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd22"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Toggles tracking of token usage per interaction This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Token Tracking Enabled: Toggles tracking of token usage per interaction"
+    }
+  },
+  {
+    "block_id": "usage_limit_policy",
+    "label": "Usage Limit Policy",
+    "category": "Token Cost + Limits Monitor",
+    "description": "Defines usage caps (e.g., daily, session, per user)",
+    "molt_type": "Instruction",
+    "tags": [
+      "usage_limit_policy",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udccf"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Defines usage caps (e.g., daily, session, per user) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Usage Limit Policy: Defines usage caps (e.g., daily, session, per user)"
+    }
+  },
+  {
+    "block_id": "cost_estimation_mode",
+    "label": "Cost Estimation Mode",
+    "category": "Token Cost + Limits Monitor",
+    "description": "Displays estimated cost/token usage inline",
+    "molt_type": "Instruction",
+    "tags": [
+      "cost_estimation_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcb0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Displays estimated cost/token usage inline This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Cost Estimation Mode: Displays estimated cost/token usage inline"
+    }
+  },
+  {
+    "block_id": "user_usage_meter_ui",
+    "label": "User Usage Meter UI",
+    "category": "Token Cost + Limits Monitor",
+    "description": "Shows token/usage stats to the user",
+    "molt_type": "Instruction",
+    "tags": [
+      "user_usage_meter_ui",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdf"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Shows token/usage stats to the user This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "User Usage Meter UI: Shows token/usage stats to the user"
+    }
+  },
+  {
+    "block_id": "low_token_warning_trigger",
+    "label": "Low Token Warning Trigger",
+    "category": "Token Cost + Limits Monitor",
+    "description": "When to warn about nearing limit",
+    "molt_type": "Instruction",
+    "tags": [
+      "low_token_warning_trigger",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u26a0\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "When to warn about nearing limit This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Low Token Warning Trigger: When to warn about nearing limit"
+    }
+  },
+  {
+    "block_id": "overflow_token_response",
+    "label": "Overflow Token Response",
+    "category": "Token Cost + Limits Monitor",
+    "description": "What happens when token limit is exceeded",
+    "molt_type": "Instruction",
+    "tags": [
+      "overflow_token_response",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddef"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What happens when token limit is exceeded This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Overflow Token Response: What happens when token limit is exceeded"
+    }
+  },
+  {
+    "block_id": "usage_role_restriction_map",
+    "label": "Usage Role Restriction Map",
+    "category": "Token Cost + Limits Monitor",
+    "description": "Different rules by role (admin, guest, etc.)",
+    "molt_type": "Instruction",
+    "tags": [
+      "usage_role_restriction_map",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfad"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Different rules by role (admin, guest, etc.) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Usage Role Restriction Map: Different rules by role (admin, guest, etc.)"
+    }
+  },
+  {
+    "block_id": "usage_data_retention_period",
+    "label": "Usage Data Retention Period",
+    "category": "Token Cost + Limits Monitor",
+    "description": "How long usage data is stored",
+    "molt_type": "Instruction",
+    "tags": [
+      "usage_data_retention_period",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\uddc3\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How long usage data is stored This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Usage Data Retention Period: How long usage data is stored"
+    }
+  },
+  {
+    "block_id": "external_billing_sync_hook",
+    "label": "External Billing Sync Hook",
+    "category": "Token Cost + Limits Monitor",
+    "description": "Link to billing service (e.g., Stripe)",
+    "molt_type": "Instruction",
+    "tags": [
+      "external_billing_sync_hook",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd17"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Link to billing service (e.g., Stripe) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "External Billing Sync Hook: Link to billing service (e.g., Stripe)"
+    }
+  },
+  {
+    "block_id": "sample_usage_ui_layout",
+    "label": "Sample Usage UI Layout",
+    "category": "Token Cost + Limits Monitor",
+    "description": "Example UI for tracking cost, limits",
+    "molt_type": "Instruction",
+    "tags": [
+      "sample_usage_ui_layout",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddfe"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Example UI for tracking cost, limits This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Sample Usage UI Layout: Example UI for tracking cost, limits"
+    }
+  },
+  {
+    "block_id": "profanity_filter_enabled",
+    "label": "Profanity Filter Enabled",
+    "category": "Safety Filters + Guardrails",
+    "description": "Toggles filtering of offensive language",
+    "molt_type": "Instruction",
+    "tags": [
+      "profanity_filter_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udee1\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Toggles filtering of offensive language This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Profanity Filter Enabled: Toggles filtering of offensive language"
+    }
+  },
+  {
+    "block_id": "jailbreak_detection_ruleset",
+    "label": "Jailbreak Detection Ruleset",
+    "category": "Safety Filters + Guardrails",
+    "description": "Scans for prompt hacking",
+    "molt_type": "Instruction",
+    "tags": [
+      "jailbreak_detection_ruleset",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udea8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Scans for prompt hacking This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Jailbreak Detection Ruleset: Scans for prompt hacking"
+    }
+  },
+  {
+    "block_id": "content_filtering_level",
+    "label": "Content Filtering Level",
+    "category": "Safety Filters + Guardrails",
+    "description": "Levels of filtering (light, medium, strict)",
+    "molt_type": "Instruction",
+    "tags": [
+      "content_filtering_level",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf9a\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Levels of filtering (light, medium, strict) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Content Filtering Level: Levels of filtering (light, medium, strict)"
+    }
+  },
+  {
+    "block_id": "ethics_violation_policy",
+    "label": "Ethics Violation Policy",
+    "category": "Safety Filters + Guardrails",
+    "description": "Bot behavior when ethics are violated",
+    "molt_type": "Instruction",
+    "tags": [
+      "ethics_violation_policy",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2696\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Bot behavior when ethics are violated This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Ethics Violation Policy: Bot behavior when ethics are violated"
+    }
+  },
+  {
+    "block_id": "banned_input_keywords",
+    "label": "Banned Input Keywords",
+    "category": "Safety Filters + Guardrails",
+    "description": "List of blocked or flagged phrases",
+    "molt_type": "Instruction",
+    "tags": [
+      "banned_input_keywords",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udeab"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "List of blocked or flagged phrases This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Banned Input Keywords: List of blocked or flagged phrases"
+    }
+  },
+  {
+    "block_id": "sensitive_topic_redirects",
+    "label": "Sensitive Topic Redirects",
+    "category": "Safety Filters + Guardrails",
+    "description": "Rephrases or redirects sensitive queries",
+    "molt_type": "Instruction",
+    "tags": [
+      "sensitive_topic_redirects",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd04"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Rephrases or redirects sensitive queries This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Sensitive Topic Redirects: Rephrases or redirects sensitive queries"
+    }
+  },
+  {
+    "block_id": "model_guard_rails_enabled",
+    "label": "Model Guard Rails Enabled",
+    "category": "Safety Filters + Guardrails",
+    "description": "Forces bot to default persona or safety",
+    "molt_type": "Instruction",
+    "tags": [
+      "model_guard_rails_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddf1"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Forces bot to default persona or safety This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Model Guard Rails Enabled: Forces bot to default persona or safety"
+    }
+  },
+  {
+    "block_id": "user_safety_flagging_ui",
+    "label": "User Safety Flagging UI",
+    "category": "Safety Filters + Guardrails",
+    "description": "Lets users report bot issues",
+    "molt_type": "Instruction",
+    "tags": [
+      "user_safety_flagging_ui",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Lets users report bot issues This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "User Safety Flagging UI: Lets users report bot issues"
+    }
+  },
+  {
+    "block_id": "contextual_safety_classifier",
+    "label": "Contextual Safety Classifier",
+    "category": "Safety Filters + Guardrails",
+    "description": "AI classifier for prompt-based danger",
+    "molt_type": "Instruction",
+    "tags": [
+      "contextual_safety_classifier",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd2c"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "AI classifier for prompt-based danger This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Contextual Safety Classifier: AI classifier for prompt-based danger"
+    }
+  },
+  {
+    "block_id": "guardrail_response_snippets",
+    "label": "Guardrail Response Snippets",
+    "category": "Safety Filters + Guardrails",
+    "description": "Predefined replies when safety trips",
+    "molt_type": "Instruction",
+    "tags": [
+      "guardrail_response_snippets",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcce"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Predefined replies when safety trips This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Guardrail Response Snippets: Predefined replies when safety trips"
+    }
+  },
+  {
+    "block_id": "chat_logging_enabled",
+    "label": "Chat Logging Enabled",
+    "category": "Logs, Metrics, Feedback Loop",
+    "description": "Whether chats are stored temporarily or persistently",
+    "molt_type": "Instruction",
+    "tags": [
+      "chat_logging_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\uddc3\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether chats are stored temporarily or persistently This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Chat Logging Enabled: Whether chats are stored temporarily or persistently"
+    }
+  },
+  {
+    "block_id": "log_anonymization_mode",
+    "label": "Log Anonymization Mode",
+    "category": "Logs, Metrics, Feedback Loop",
+    "description": "Strips sensitive identity from logs",
+    "molt_type": "Instruction",
+    "tags": [
+      "log_anonymization_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Strips sensitive identity from logs This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Log Anonymization Mode: Strips sensitive identity from logs"
+    }
+  },
+  {
+    "block_id": "event_metric_tracking_scope",
+    "label": "Event Metric Tracking Scope",
+    "category": "Logs, Metrics, Feedback Loop",
+    "description": "What metrics are measured (e.g., fallback rate)",
+    "molt_type": "Instruction",
+    "tags": [
+      "event_metric_tracking_scope",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcca"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What metrics are measured (e.g., fallback rate) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Event Metric Tracking Scope: What metrics are measured (e.g., fallback rate)"
+    }
+  },
+  {
+    "block_id": "user_reaction_feedback_ui",
+    "label": "User Reaction Feedback UI",
+    "category": "Logs, Metrics, Feedback Loop",
+    "description": "UI for feedback: likes, emojis, comments",
+    "molt_type": "Instruction",
+    "tags": [
+      "user_reaction_feedback_ui",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udc4d"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "UI for feedback: likes, emojis, comments This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "User Reaction Feedback UI: UI for feedback: likes, emojis, comments"
+    }
+  },
+  {
+    "block_id": "feedback_submission_trigger",
+    "label": "Feedback Submission Trigger",
+    "category": "Logs, Metrics, Feedback Loop",
+    "description": "When to ask for feedback (e.g., end of chat)",
+    "molt_type": "Instruction",
+    "tags": [
+      "feedback_submission_trigger",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u23f2\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "When to ask for feedback (e.g., end of chat) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Feedback Submission Trigger: When to ask for feedback (e.g., end of chat)"
+    }
+  },
+  {
+    "block_id": "feedback_to_log_linkage",
+    "label": "Feedback to Log Linkage",
+    "category": "Logs, Metrics, Feedback Loop",
+    "description": "Can feedback be tied to specific messages?",
+    "molt_type": "Instruction",
+    "tags": [
+      "feedback_to_log_linkage",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd17"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Can feedback be tied to specific messages? This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Feedback to Log Linkage: Can feedback be tied to specific messages?"
+    }
+  },
+  {
+    "block_id": "metric_dashboard_access",
+    "label": "Metric Dashboard Access",
+    "category": "Logs, Metrics, Feedback Loop",
+    "description": "Who can see metrics: admin, team, public",
+    "molt_type": "Instruction",
+    "tags": [
+      "metric_dashboard_access",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Who can see metrics: admin, team, public This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Metric Dashboard Access: Who can see metrics: admin, team, public"
+    }
+  },
+  {
+    "block_id": "error_flagging_interface",
+    "label": "Error Flagging Interface",
+    "category": "Logs, Metrics, Feedback Loop",
+    "description": "Commands or UI to report misbehavior",
+    "molt_type": "Instruction",
+    "tags": [
+      "error_flagging_interface",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2757"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Commands or UI to report misbehavior This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Error Flagging Interface: Commands or UI to report misbehavior"
+    }
+  },
+  {
+    "block_id": "tuning_mode_trigger_hook",
+    "label": "Tuning Mode Trigger Hook",
+    "category": "Logs, Metrics, Feedback Loop",
+    "description": "Whether feedback adjusts live model logic",
+    "molt_type": "Instruction",
+    "tags": [
+      "tuning_mode_trigger_hook",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd01"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether feedback adjusts live model logic This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Tuning Mode Trigger Hook: Whether feedback adjusts live model logic"
+    }
+  },
+  {
+    "block_id": "sample_feedback_flow",
+    "label": "Sample Feedback Flow",
+    "category": "Logs, Metrics, Feedback Loop",
+    "description": "Example of feedback and result",
+    "molt_type": "Instruction",
+    "tags": [
+      "sample_feedback_flow",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Example of feedback and result This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Sample Feedback Flow: Example of feedback and result"
+    }
+  },
+  {
+    "block_id": "instruction_injection_enabled",
+    "label": "Instruction Injection Enabled",
+    "category": "Instruction Injection Blocks",
+    "description": "Toggle for allowing temporary injected logic",
+    "molt_type": "Instruction",
+    "tags": [
+      "instruction_injection_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Toggle for allowing temporary injected logic This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Instruction Injection Enabled: Toggle for allowing temporary injected logic"
+    }
+  },
+  {
+    "block_id": "temporary_instruction_scope",
+    "label": "Temporary Instruction Scope",
+    "category": "Instruction Injection Blocks",
+    "description": "Duration of effect (one message, full session)",
+    "molt_type": "Instruction",
+    "tags": [
+      "temporary_instruction_scope",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u23f3"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Duration of effect (one message, full session) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Temporary Instruction Scope: Duration of effect (one message, full session)"
+    }
+  },
+  {
+    "block_id": "user_instruction_ui_mode",
+    "label": "User Instruction UI Mode",
+    "category": "Instruction Injection Blocks",
+    "description": "How users provide override logic",
+    "molt_type": "Instruction",
+    "tags": [
+      "user_instruction_ui_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How users provide override logic This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "User Instruction UI Mode: How users provide override logic"
+    }
+  },
+  {
+    "block_id": "injection_priority_policy",
+    "label": "Injection Priority Policy",
+    "category": "Instruction Injection Blocks",
+    "description": "How injected instructions are merged",
+    "molt_type": "Instruction",
+    "tags": [
+      "injection_priority_policy",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\ude84"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How injected instructions are merged This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Injection Priority Policy: How injected instructions are merged"
+    }
+  },
+  {
+    "block_id": "revert_to_base_trigger",
+    "label": "Revert to Base Trigger",
+    "category": "Instruction Injection Blocks",
+    "description": "What cancels the override",
+    "molt_type": "Instruction",
+    "tags": [
+      "revert_to_base_trigger",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u21a9\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What cancels the override This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Revert to Base Trigger: What cancels the override"
+    }
+  },
+  {
+    "block_id": "injection_conflict_resolution",
+    "label": "Injection Conflict Resolution",
+    "category": "Instruction Injection Blocks",
+    "description": "If two injections conflict, what happens",
+    "molt_type": "Instruction",
+    "tags": [
+      "injection_conflict_resolution",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u26a0\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "If two injections conflict, what happens This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Injection Conflict Resolution: If two injections conflict, what happens"
+    }
+  },
+  {
+    "block_id": "system_injection_hooks",
+    "label": "System Injection Hooks",
+    "category": "Instruction Injection Blocks",
+    "description": "Internal logic injection capabilities",
+    "molt_type": "Instruction",
+    "tags": [
+      "system_injection_hooks",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd27"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Internal logic injection capabilities This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "System Injection Hooks: Internal logic injection capabilities"
+    }
+  },
+  {
+    "block_id": "instruction_injection_log_mode",
+    "label": "Instruction Injection Log Mode",
+    "category": "Instruction Injection Blocks",
+    "description": "Whether injections are logged and visible",
+    "molt_type": "Instruction",
+    "tags": [
+      "instruction_injection_log_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcd3"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether injections are logged and visible This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Instruction Injection Log Mode: Whether injections are logged and visible"
+    }
+  },
+  {
+    "block_id": "instruction_set_versioning",
+    "label": "Instruction Set Versioning",
+    "category": "Instruction Injection Blocks",
+    "description": "Track versions of injected logic",
+    "molt_type": "Instruction",
+    "tags": [
+      "instruction_set_versioning",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udd9a"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Track versions of injected logic This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Instruction Set Versioning: Track versions of injected logic"
+    }
+  },
+  {
+    "block_id": "example_instruction_payload",
+    "label": "Example Instruction Payload",
+    "category": "Instruction Injection Blocks",
+    "description": "Example override (e.g., act like Socrates)",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_instruction_payload",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\uddef\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Example override (e.g., act like Socrates) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Example Instruction Payload: Example override (e.g., act like Socrates)"
+    }
+  },
+  {
+    "block_id": "chat_history_enabled",
+    "label": "Chat History Enabled",
+    "category": "Chat History + Editing",
+    "description": "Is conversation log viewable or persistent?",
+    "molt_type": "Instruction",
+    "tags": [
+      "chat_history_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdc"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Is conversation log viewable or persistent? This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Chat History Enabled: Is conversation log viewable or persistent?"
+    }
+  },
+  {
+    "block_id": "conversation_thread_model",
+    "label": "Conversation Thread Model",
+    "category": "Chat History + Editing",
+    "description": "Single thread vs multi-thread memory",
+    "molt_type": "Instruction",
+    "tags": [
+      "conversation_thread_model",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddf5"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Single thread vs multi-thread memory This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Conversation Thread Model: Single thread vs multi-thread memory"
+    }
+  },
+  {
+    "block_id": "user_message_editing_enabled",
+    "label": "User Message Editing Enabled",
+    "category": "Chat History + Editing",
+    "description": "Can users edit prior messages?",
+    "molt_type": "Instruction",
+    "tags": [
+      "user_message_editing_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u270f\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Can users edit prior messages? This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "User Message Editing Enabled: Can users edit prior messages?"
+    }
+  },
+  {
+    "block_id": "fork_conversation_feature",
+    "label": "Fork Conversation Feature",
+    "category": "Chat History + Editing",
+    "description": "Can user branch conversation paths?",
+    "molt_type": "Instruction",
+    "tags": [
+      "fork_conversation_feature",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf3f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Can user branch conversation paths? This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Fork Conversation Feature: Can user branch conversation paths?"
+    }
+  },
+  {
+    "block_id": "history_storage_scope",
+    "label": "History Storage Scope",
+    "category": "Chat History + Editing",
+    "description": "Where memory is stored (local, cloud)",
+    "molt_type": "Instruction",
+    "tags": [
+      "history_storage_scope",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2601\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Where memory is stored (local, cloud) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "History Storage Scope: Where memory is stored (local, cloud)"
+    }
+  },
+  {
+    "block_id": "message_timestamps_visible",
+    "label": "Message Timestamps Visible",
+    "category": "Chat History + Editing",
+    "description": "Whether timestamps show for each line",
+    "molt_type": "Instruction",
+    "tags": [
+      "message_timestamps_visible",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd70\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether timestamps show for each line This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Message Timestamps Visible: Whether timestamps show for each line"
+    }
+  },
+  {
+    "block_id": "message_meta_panel",
+    "label": "Message Meta Panel",
+    "category": "Chat History + Editing",
+    "description": "View/edit tone/memory/injection for messages",
+    "molt_type": "Instruction",
+    "tags": [
+      "message_meta_panel",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd0e"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "View/edit tone/memory/injection for messages This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Message Meta Panel: View/edit tone/memory/injection for messages"
+    }
+  },
+  {
+    "block_id": "highlighted_message_pinning",
+    "label": "Highlighted Message Pinning",
+    "category": "Chat History + Editing",
+    "description": "Pin key messages in interface",
+    "molt_type": "Instruction",
+    "tags": [
+      "highlighted_message_pinning",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udccc"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Pin key messages in interface This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Highlighted Message Pinning: Pin key messages in interface"
+    }
+  },
+  {
+    "block_id": "history_export_format",
+    "label": "History Export Format",
+    "category": "Chat History + Editing",
+    "description": "Download formats: JSON, TXT, MD",
+    "molt_type": "Instruction",
+    "tags": [
+      "history_export_format",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Download formats: JSON, TXT, MD This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "History Export Format: Download formats: JSON, TXT, MD"
+    }
+  },
+  {
+    "block_id": "sample_history_edit_flow",
+    "label": "Sample History Edit Flow",
+    "category": "Chat History + Editing",
+    "description": "Example of user editing chat live",
+    "molt_type": "Instruction",
+    "tags": [
+      "sample_history_edit_flow",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\uddbc\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Example of user editing chat live This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Sample History Edit Flow: Example of user editing chat live"
+    }
+  },
+  {
+    "block_id": "language_mode_enabled",
+    "label": "Language Mode Enabled",
+    "category": "Language & i18n Settings",
+    "description": "Toggle multilingual mode",
+    "molt_type": "Instruction",
+    "tags": [
+      "language_mode_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf10"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Toggle multilingual mode This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Language Mode Enabled: Toggle multilingual mode"
+    }
+  },
+  {
+    "block_id": "supported_language_codes",
+    "label": "Supported Language Codes",
+    "category": "Language & i18n Settings",
+    "description": "Language list (e.g., en, es, zh)",
+    "molt_type": "Instruction",
+    "tags": [
+      "supported_language_codes",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd24"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Language list (e.g., en, es, zh) This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Supported Language Codes: Language list (e.g., en, es, zh)"
+    }
+  },
+  {
+    "block_id": "default_language_setting",
+    "label": "Default Language Setting",
+    "category": "Language & i18n Settings",
+    "description": "Fallback language",
+    "molt_type": "Instruction",
+    "tags": [
+      "default_language_setting",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udde3\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Fallback language This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Default Language Setting: Fallback language"
+    }
+  },
+  {
+    "block_id": "auto_language_detection_enabled",
+    "label": "Auto Language Detection Enabled",
+    "category": "Language & i18n Settings",
+    "description": "Detect language from input",
+    "molt_type": "Instruction",
+    "tags": [
+      "auto_language_detection_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udd16"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Detect language from input This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Auto Language Detection Enabled: Detect language from input"
+    }
+  },
+  {
+    "block_id": "manual_language_switch_ui",
+    "label": "Manual Language Switch UI",
+    "category": "Language & i18n Settings",
+    "description": "UI element to change languages",
+    "molt_type": "Instruction",
+    "tags": [
+      "manual_language_switch_ui",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf9b\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "UI element to change languages This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Manual Language Switch UI: UI element to change languages"
+    }
+  },
+  {
+    "block_id": "response_translation_layer",
+    "label": "Response Translation Layer",
+    "category": "Language & i18n Settings",
+    "description": "Translate replies from core prompt",
+    "molt_type": "Instruction",
+    "tags": [
+      "response_translation_layer",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd01"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Translate replies from core prompt This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Response Translation Layer: Translate replies from core prompt"
+    }
+  },
+  {
+    "block_id": "localized_prompt_templates",
+    "label": "Localized Prompt Templates",
+    "category": "Language & i18n Settings",
+    "description": "Prompt phrasing by language",
+    "molt_type": "Instruction",
+    "tags": [
+      "localized_prompt_templates",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcda"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Prompt phrasing by language This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Localized Prompt Templates: Prompt phrasing by language"
+    }
+  },
+  {
+    "block_id": "input_output_language_sync",
+    "label": "Input Output Language Sync",
+    "category": "Language & i18n Settings",
+    "description": "Bot replies in the same language as input",
+    "molt_type": "Instruction",
+    "tags": [
+      "input_output_language_sync",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd01"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Bot replies in the same language as input This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Input Output Language Sync: Bot replies in the same language as input"
+    }
+  },
+  {
+    "block_id": "date_number_currency_localization",
+    "label": "Date Number Currency Localization",
+    "category": "Language & i18n Settings",
+    "description": "Regional formatting logic",
+    "molt_type": "Instruction",
+    "tags": [
+      "date_number_currency_localization",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcb1"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Regional formatting logic This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Date Number Currency Localization: Regional formatting logic"
+    }
+  },
+  {
+    "block_id": "language_tagging_memory_model",
+    "label": "Language Tagging Memory Model",
+    "category": "Language & i18n Settings",
+    "description": "Memory per language or shared",
+    "molt_type": "Instruction",
+    "tags": [
+      "language_tagging_memory_model",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Memory per language or shared This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Language Tagging Memory Model: Memory per language or shared"
+    }
+  },
+  {
+    "block_id": "voice_output_enabled",
+    "label": "Voice Output Enabled",
+    "category": "Voice & Avatar Extensions",
+    "description": "Bot can speak replies via TTS",
+    "molt_type": "Instruction",
+    "tags": [
+      "voice_output_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd0a"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Bot can speak replies via TTS This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Voice Output Enabled: Bot can speak replies via TTS"
+    }
+  },
+  {
+    "block_id": "voice_engine_selection",
+    "label": "Voice Engine Selection",
+    "category": "Voice & Avatar Extensions",
+    "description": "Choose engine: ElevenLabs, Polly, Wavenet",
+    "molt_type": "Instruction",
+    "tags": [
+      "voice_engine_selection",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Choose engine: ElevenLabs, Polly, Wavenet This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Voice Engine Selection: Choose engine: ElevenLabs, Polly, Wavenet"
+    }
+  },
+  {
+    "block_id": "voice_profile_options",
+    "label": "Voice Profile Options",
+    "category": "Voice & Avatar Extensions",
+    "description": "Gender, tone, accent",
+    "molt_type": "Instruction",
+    "tags": [
+      "voice_profile_options",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfa4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Gender, tone, accent This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Voice Profile Options: Gender, tone, accent"
+    }
+  },
+  {
+    "block_id": "avatar_display_mode",
+    "label": "Avatar Display Mode",
+    "category": "Voice & Avatar Extensions",
+    "description": "Avatar: static, animated, 3D",
+    "molt_type": "Instruction",
+    "tags": [
+      "avatar_display_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddd1\u200d\ud83c\udfa4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Avatar: static, animated, 3D This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Avatar Display Mode: Avatar: static, animated, 3D"
+    }
+  },
+  {
+    "block_id": "lip_sync_enabled",
+    "label": "Lip Sync Enabled",
+    "category": "Voice & Avatar Extensions",
+    "description": "Matches avatar lip movement to voice",
+    "molt_type": "Instruction",
+    "tags": [
+      "lip_sync_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udc44"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Matches avatar lip movement to voice This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Lip Sync Enabled: Matches avatar lip movement to voice"
+    }
+  },
+  {
+    "block_id": "facial_expression_model",
+    "label": "Facial Expression Model",
+    "category": "Voice & Avatar Extensions",
+    "description": "Emotion layer on avatar",
+    "molt_type": "Instruction",
+    "tags": [
+      "facial_expression_model",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\ude0a"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Emotion layer on avatar This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Facial Expression Model: Emotion layer on avatar"
+    }
+  },
+  {
+    "block_id": "voice_input_enabled",
+    "label": "Voice Input Enabled",
+    "category": "Voice & Avatar Extensions",
+    "description": "Accept voice as input",
+    "molt_type": "Instruction",
+    "tags": [
+      "voice_input_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf99\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Accept voice as input This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Voice Input Enabled: Accept voice as input"
+    }
+  },
+  {
+    "block_id": "voice_response_latency_policy",
+    "label": "Voice Response Latency Policy",
+    "category": "Voice & Avatar Extensions",
+    "description": "Match delay of speech output",
+    "molt_type": "Instruction",
+    "tags": [
+      "voice_response_latency_policy",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u231b"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Match delay of speech output This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Voice Response Latency Policy: Match delay of speech output"
+    }
+  },
+  {
+    "block_id": "voice_toggle_ui_controls",
+    "label": "Voice Toggle UI Controls",
+    "category": "Voice & Avatar Extensions",
+    "description": "User toggle for voice",
+    "molt_type": "Instruction",
+    "tags": [
+      "voice_toggle_ui_controls",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd08"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "User toggle for voice This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Voice Toggle UI Controls: User toggle for voice"
+    }
+  },
+  {
+    "block_id": "sample_voice_avatar_config",
+    "label": "Sample Voice Avatar Config",
+    "category": "Voice & Avatar Extensions",
+    "description": "JSON example of TTS and avatar",
+    "molt_type": "Instruction",
+    "tags": [
+      "sample_voice_avatar_config",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddfe"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "JSON example of TTS and avatar This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Sample Voice Avatar Config: JSON example of TTS and avatar"
+    }
+  },
+  {
+    "block_id": "memory_panel_enabled",
+    "label": "Memory Panel Enabled",
+    "category": "Memory Editor Panel",
+    "description": "Toggle for UI memory editor",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_panel_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udee0\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Toggle for UI memory editor This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Memory Panel Enabled: Toggle for UI memory editor"
+    }
+  },
+  {
+    "block_id": "memory_view_scope",
+    "label": "Memory View Scope",
+    "category": "Memory Editor Panel",
+    "description": "Which memory types are visible",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_view_scope",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd0d"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Which memory types are visible This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Memory View Scope: Which memory types are visible"
+    }
+  },
+  {
+    "block_id": "manual_memory_editing_allowed",
+    "label": "Manual Memory Editing Allowed",
+    "category": "Memory Editor Panel",
+    "description": "Can user/dev manually change memory?",
+    "molt_type": "Instruction",
+    "tags": [
+      "manual_memory_editing_allowed",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u270d\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Can user/dev manually change memory? This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Manual Memory Editing Allowed: Can user/dev manually change memory?"
+    }
+  },
+  {
+    "block_id": "memory_tagging_system",
+    "label": "Memory Tagging System",
+    "category": "Memory Editor Panel",
+    "description": "Add tags to memory for sorting",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_tagging_system",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udff7\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Add tags to memory for sorting This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Memory Tagging System: Add tags to memory for sorting"
+    }
+  },
+  {
+    "block_id": "memory_deletion_control",
+    "label": "Memory Deletion Control",
+    "category": "Memory Editor Panel",
+    "description": "What memories can be erased and how",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_deletion_control",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u274c"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What memories can be erased and how This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Memory Deletion Control: What memories can be erased and how"
+    }
+  },
+  {
+    "block_id": "memory_export_import_format",
+    "label": "Memory Export/Import Format",
+    "category": "Memory Editor Panel",
+    "description": "Import/export formats: JSON, MD, YAML",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_export_import_format",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Import/export formats: JSON, MD, YAML This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Memory Export/Import Format: Import/export formats: JSON, MD, YAML"
+    }
+  },
+  {
+    "block_id": "memory_audit_log",
+    "label": "Memory Audit Log",
+    "category": "Memory Editor Panel",
+    "description": "Track edits, timestamps, author",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_audit_log",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcda"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Track edits, timestamps, author This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Memory Audit Log: Track edits, timestamps, author"
+    }
+  },
+  {
+    "block_id": "memory_chunking_view_mode",
+    "label": "Memory Chunking View Mode",
+    "category": "Memory Editor Panel",
+    "description": "View memory by type, topic, etc.",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_chunking_view_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd17"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "View memory by type, topic, etc. This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Memory Chunking View Mode: View memory by type, topic, etc."
+    }
+  },
+  {
+    "block_id": "memory_override_injection",
+    "label": "Memory Override Injection",
+    "category": "Memory Editor Panel",
+    "description": "Inject memory blocks temporarily",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_override_injection",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddec"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Inject memory blocks temporarily This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Memory Override Injection: Inject memory blocks temporarily"
+    }
+  },
+  {
+    "block_id": "sample_memory_edit_flow",
+    "label": "Sample Memory Edit Flow",
+    "category": "Memory Editor Panel",
+    "description": "Example of how UI editing works",
+    "molt_type": "Instruction",
+    "tags": [
+      "sample_memory_edit_flow",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddfe"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Example of how UI editing works This logic defines runtime or system-facing behavior accordingly."
+    },
+    "editable_fields": {
+      "content": "Sample Memory Edit Flow: Example of how UI editing works"
+    }
+  }
+]

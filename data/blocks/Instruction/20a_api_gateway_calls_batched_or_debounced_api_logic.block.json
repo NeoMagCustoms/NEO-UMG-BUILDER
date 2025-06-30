@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 20,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "20a_api_gateway_calls_batched_or_debounced_api_logic",
+  "label": "Batched or Debounced API Logic",
+  "category": "Web App Builder/Integrations APIs Third-Party/20A Api Gateway Calls",
+  "description": "Groups API calls efficiently",
+  "tags": [
+    "batched_or_debounced_api_logic"
+  ],
+  "example_block_data": {
+    "content": "Groups API calls efficiently"
+  },
+  "editable_fields": {
+    "content": "Groups API calls efficiently"
+  }
+}

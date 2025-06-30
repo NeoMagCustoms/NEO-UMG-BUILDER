@@ -1,0 +1,7 @@
+{
+  "block_id": "invite_referral_link",
+  "label": "Invite Code or Referral Link",
+  "category": "Web App/Gamification/27D",
+  "description": "Ties reward to inviter",
+  "molt_type": "Instruction"
+}

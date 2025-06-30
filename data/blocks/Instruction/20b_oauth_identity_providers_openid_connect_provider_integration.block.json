@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 20,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "20b_oauth_identity_providers_openid_connect_provider_integration",
+  "label": "OpenID Connect Provider Integration",
+  "category": "Web App Builder/Integrations APIs Third-Party/20B Oauth Identity Providers",
+  "description": "Enterprise login",
+  "tags": [
+    "openid_connect_provider_integration"
+  ],
+  "example_block_data": {
+    "content": "Enterprise login"
+  },
+  "editable_fields": {
+    "content": "Enterprise login"
+  }
+}

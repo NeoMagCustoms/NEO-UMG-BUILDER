@@ -1,0 +1,46 @@
+{
+  "block_id": "example_molt_merge_config",
+  "label": "Example MOLT Merge Config",
+  "category": "MOLT Builder + Snap Logic Engine",
+  "description": "Full example of merged MOLT logic",
+  "molt_type": "Instruction",
+  "tags": [
+    "example_molt_merge_config",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🧪"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Full example of merged MOLT logic This block defines how this logic operates during agent runtime."
+  },
+  "editable_fields": {
+    "content": "Example MOLT Merge Config: Full example of merged MOLT logic"
+  }
+}

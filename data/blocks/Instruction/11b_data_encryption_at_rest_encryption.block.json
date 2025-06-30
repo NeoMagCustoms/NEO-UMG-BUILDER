@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 11,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "11b_data_encryption_at_rest_encryption",
+  "label": "At-Rest Encryption",
+  "category": "Web App Builder/Security Compliance/11B Data Encryption",
+  "description": "Protects DB/file storage at rest",
+  "tags": [
+    "at_rest_encryption"
+  ],
+  "example_block_data": {
+    "content": "Protects DB/file storage at rest"
+  },
+  "editable_fields": {
+    "content": "Protects DB/file storage at rest"
+  }
+}

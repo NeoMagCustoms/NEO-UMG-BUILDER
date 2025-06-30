@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 24,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "24e_security_access_settings_suspicious_login_alert_email",
+  "label": "Suspicious Login Alert Email",
+  "category": "Web App Builder/User Profiles Settings Panels/24E Security Access Settings",
+  "description": "Protect account",
+  "tags": [
+    "suspicious_login_alert_email"
+  ],
+  "example_block_data": {
+    "content": "Protect account"
+  },
+  "editable_fields": {
+    "content": "Protect account"
+  }
+}

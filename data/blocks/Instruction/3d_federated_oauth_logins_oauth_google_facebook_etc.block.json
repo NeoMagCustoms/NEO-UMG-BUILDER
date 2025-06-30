@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3d_federated_oauth_logins_oauth_google_facebook_etc",
+  "label": "OAuth (Google, Facebook, etc.)",
+  "category": "Web App Builder/Authentication Identity/3D Federated Oauth Logins",
+  "description": "Login via third-party identity providers",
+  "tags": [
+    "oauth_google_facebook_etc"
+  ],
+  "example_block_data": {
+    "content": "Login via third-party identity providers"
+  },
+  "editable_fields": {
+    "content": "Login via third-party identity providers"
+  }
+}

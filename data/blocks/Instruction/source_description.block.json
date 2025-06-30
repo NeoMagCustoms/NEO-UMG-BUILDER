@@ -1,0 +1,46 @@
+{
+  "block_id": "source_description",
+  "label": "Source Description",
+  "category": "Chatbot Data Sources & Plugins",
+  "description": "Readable label for source",
+  "molt_type": "Instruction",
+  "tags": [
+    "source_description",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📖"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Readable label for source This is an example of applied logic for that trait."
+  },
+  "editable_fields": {
+    "content": "Source Description: Readable label for source"
+  }
+}

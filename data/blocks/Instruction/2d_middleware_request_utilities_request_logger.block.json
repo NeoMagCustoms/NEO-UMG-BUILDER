@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "2d_middleware_request_utilities_request_logger",
+  "label": "Request Logger",
+  "category": "Web App Builder/Backend Server Logic/2D Middleware Request Utilities",
+  "description": "Logs IP, user-agent, and route usage",
+  "tags": [
+    "request_logger"
+  ],
+  "example_block_data": {
+    "content": "Logs IP, user-agent, and route usage"
+  },
+  "editable_fields": {
+    "content": "Logs IP, user-agent, and route usage"
+  }
+}

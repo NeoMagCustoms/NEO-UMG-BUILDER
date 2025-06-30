@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 7,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "7b_device_breakpoints_breakpoint_definitions",
+  "label": "Breakpoint Definitions",
+  "category": "Web App Builder/Responsive PWA Framework/7B Device Breakpoints",
+  "description": "Base widths per device class (e.g., sm=640px)",
+  "tags": [
+    "breakpoint_definitions"
+  ],
+  "example_block_data": {
+    "content": "Base widths per device class (e.g., sm=640px)"
+  },
+  "editable_fields": {
+    "content": "Base widths per device class (e.g., sm=640px)"
+  }
+}

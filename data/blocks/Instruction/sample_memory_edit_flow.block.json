@@ -1,0 +1,46 @@
+{
+  "block_id": "sample_memory_edit_flow",
+  "label": "Sample Memory Edit Flow",
+  "category": "Memory Editor Panel",
+  "description": "Example of how UI editing works",
+  "molt_type": "Instruction",
+  "tags": [
+    "sample_memory_edit_flow",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🧾"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Example of how UI editing works This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "Sample Memory Edit Flow: Example of how UI editing works"
+  }
+}

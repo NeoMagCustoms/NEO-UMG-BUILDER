@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "1c_layout_responsive_layout_toggle_grid_list_etc",
+  "label": "Layout Toggle (Grid/List/etc.)",
+  "category": "Web App Builder/Frontend Architecture/1C Layout Responsive",
+  "description": "User-selectable layout views",
+  "tags": [
+    "layout_toggle_grid_list_etc"
+  ],
+  "example_block_data": {
+    "content": "User-selectable layout views"
+  },
+  "editable_fields": {
+    "content": "User-selectable layout views"
+  }
+}

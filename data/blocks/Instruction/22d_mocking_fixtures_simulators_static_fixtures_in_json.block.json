@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 22,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "22d_mocking_fixtures_simulators_static_fixtures_in_json",
+  "label": "Static Fixtures in JSON",
+  "category": "Web App Builder/Testing QA Deployment/22D Mocking Fixtures Simulators",
+  "description": "Replayable mock scenarios",
+  "tags": [
+    "static_fixtures_in_json"
+  ],
+  "example_block_data": {
+    "content": "Replayable mock scenarios"
+  },
+  "editable_fields": {
+    "content": "Replayable mock scenarios"
+  }
+}

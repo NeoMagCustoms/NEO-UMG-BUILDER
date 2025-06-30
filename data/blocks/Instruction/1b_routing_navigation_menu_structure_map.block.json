@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "1b_routing_navigation_menu_structure_map",
+  "label": "Menu Structure Map",
+  "category": "Web App Builder/Frontend Architecture/1B Routing Navigation",
+  "description": "Drawer/sidebar/topnav definitions",
+  "tags": [
+    "menu_structure_map"
+  ],
+  "example_block_data": {
+    "content": "Drawer/sidebar/topnav definitions"
+  },
+  "editable_fields": {
+    "content": "Drawer/sidebar/topnav definitions"
+  }
+}

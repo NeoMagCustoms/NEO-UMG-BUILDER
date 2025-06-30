@@ -1,0 +1,46 @@
+{
+  "block_id": "feedback_submission_trigger",
+  "label": "Feedback Submission Trigger",
+  "category": "Logs, Metrics, Feedback Loop",
+  "description": "When to ask for feedback (e.g., end of chat)",
+  "molt_type": "Instruction",
+  "tags": [
+    "feedback_submission_trigger",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "⏲️"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "When to ask for feedback (e.g., end of chat) This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "Feedback Submission Trigger: When to ask for feedback (e.g., end of chat)"
+  }
+}

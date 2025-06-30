@@ -1,0 +1,46 @@
+{
+  "block_id": "instruction_injection_log_mode",
+  "label": "Instruction Injection Log Mode",
+  "category": "Instruction Injection Blocks",
+  "description": "Whether injections are logged and visible",
+  "molt_type": "Instruction",
+  "tags": [
+    "instruction_injection_log_mode",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📓"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Whether injections are logged and visible This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "Instruction Injection Log Mode: Whether injections are logged and visible"
+  }
+}

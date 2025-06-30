@@ -1,0 +1,28 @@
+{
+  "block_id": "30e_persona_logic_roles",
+  "label": "Persona Logic & Role Switching",
+  "category": "webapp",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "persona_prompt"
+  ],
+  "tags": [
+    "persona",
+    "roles",
+    "LLM"
+  ],
+  "snap_config": {
+    "snap_to": "Persona",
+    "position": "top"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "code_modules": [],
+  "canto_overlay": {},
+  "export_config": {}
+}

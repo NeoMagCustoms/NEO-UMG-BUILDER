@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 14,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "14b_billing_plans_subscriptions_monthly_annual_billing_modes",
+  "label": "Monthly / Annual Billing Modes",
+  "category": "Web App Builder/Payment Billing Systems/14B Billing Plans Subscriptions",
+  "description": "Cycle control",
+  "tags": [
+    "monthly_annual_billing_modes"
+  ],
+  "example_block_data": {
+    "content": "Cycle control"
+  },
+  "editable_fields": {
+    "content": "Cycle control"
+  }
+}

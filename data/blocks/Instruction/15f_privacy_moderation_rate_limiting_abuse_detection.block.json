@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 15,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "15f_privacy_moderation_rate_limiting_abuse_detection",
+  "label": "Rate Limiting & Abuse Detection",
+  "category": "Web App Builder/Messaging Notifications Comms/15F Privacy Moderation",
+  "description": "Prevents bot flooding or spam",
+  "tags": [
+    "rate_limiting_abuse_detection"
+  ],
+  "example_block_data": {
+    "content": "Prevents bot flooding or spam"
+  },
+  "editable_fields": {
+    "content": "Prevents bot flooding or spam"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "block_id": "29d_save_to_db___trigger_email___update_record",
+  "label": "Save to DB / Trigger Email / Update Record",
+  "category": "Web App Builder/29_workflow_logic/29D",
+  "molt_type": "Instruction",
+  "description": "Data actions",
+  "tags": [
+    "workflow",
+    "automation",
+    "logic"
+  ],
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🧠"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Data actions"
+  },
+  "editable_fields": {
+    "content": "Data actions"
+  }
+}

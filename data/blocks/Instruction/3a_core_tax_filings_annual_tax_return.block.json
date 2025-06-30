@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3a_core_tax_filings_annual_tax_return",
+  "label": "Annual Tax Return",
+  "category": "Business Plans/Web App/Chatbot/3A Core Tax Filings",
+  "description": "Primary income tax document (Form 1120, 1065, etc.)",
+  "tags": [
+    "annual_tax_return"
+  ],
+  "example_block_data": {
+    "content": "Primary income tax document (Form 1120, 1065, etc.)"
+  },
+  "editable_fields": {
+    "content": "Primary income tax document (Form 1120, 1065, etc.)"
+  }
+}

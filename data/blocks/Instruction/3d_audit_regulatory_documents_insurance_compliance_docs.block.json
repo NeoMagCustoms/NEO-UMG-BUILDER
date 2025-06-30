@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3d_audit_regulatory_documents_insurance_compliance_docs",
+  "label": "Insurance Compliance Docs",
+  "category": "Business Plans/Web App/Chatbot/3D Audit Regulatory Documents",
+  "description": "Proof of liability, workers comp, etc.",
+  "tags": [
+    "insurance_compliance_docs"
+  ],
+  "example_block_data": {
+    "content": "Proof of liability, workers comp, etc."
+  },
+  "editable_fields": {
+    "content": "Proof of liability, workers comp, etc."
+  }
+}

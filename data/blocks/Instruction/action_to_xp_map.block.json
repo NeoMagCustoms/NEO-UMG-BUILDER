@@ -1,0 +1,7 @@
+{
+  "block_id": "action_to_xp_map",
+  "label": "Action-to-XP Map",
+  "category": "Web App/Gamification/27A",
+  "description": "Defines XP earned per action",
+  "molt_type": "Instruction"
+}

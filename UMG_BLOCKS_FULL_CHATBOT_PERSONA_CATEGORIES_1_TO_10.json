@@ -1,0 +1,4326 @@
+[
+  {
+    "block_id": "bot_name",
+    "label": "Bot Name",
+    "category": "Chatbot Identity/Core Persona",
+    "description": "Unique identifier / proper name (e.g., Poe, Athena, REX)",
+    "molt_type": "Instruction",
+    "tags": [
+      "bot_name",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udd16"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Unique identifier / proper name (e.g., Poe, Athena, REX) This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Bot Name: Unique identifier / proper name (e.g., Poe, Athena, REX)"
+    }
+  },
+  {
+    "block_id": "tagline",
+    "label": "Tagline",
+    "category": "Chatbot Identity/Core Persona",
+    "description": "Short descriptive phrase below the bot name",
+    "molt_type": "Instruction",
+    "tags": [
+      "tagline",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Short descriptive phrase below the bot name This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Tagline: Short descriptive phrase below the bot name"
+    }
+  },
+  {
+    "block_id": "avatar_image_url",
+    "label": "Avatar Image URL",
+    "category": "Chatbot Identity/Core Persona",
+    "description": "Link to avatar image used in UI/widget",
+    "molt_type": "Instruction",
+    "tags": [
+      "avatar_image_url",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\uddbc\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Link to avatar image used in UI/widget This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Avatar Image URL: Link to avatar image used in UI/widget"
+    }
+  },
+  {
+    "block_id": "voice_id",
+    "label": "Voice ID",
+    "category": "Chatbot Identity/Core Persona",
+    "description": "Assigned voice for TTS systems",
+    "molt_type": "Instruction",
+    "tags": [
+      "voice_id",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfa4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Assigned voice for TTS systems This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Voice ID: Assigned voice for TTS systems"
+    }
+  },
+  {
+    "block_id": "welcome_message",
+    "label": "Welcome Message",
+    "category": "Chatbot Identity/Core Persona",
+    "description": "Greeting shown at first user contact",
+    "molt_type": "Instruction",
+    "tags": [
+      "welcome_message",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udc4b"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Greeting shown at first user contact This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Welcome Message: Greeting shown at first user contact"
+    }
+  },
+  {
+    "block_id": "bio_blurb",
+    "label": "Bio Blurb",
+    "category": "Chatbot Identity/Core Persona",
+    "description": "1\u20132 line paragraph about what the bot does",
+    "molt_type": "Instruction",
+    "tags": [
+      "bio_blurb",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "1\u20132 line paragraph about what the bot does This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Bio Blurb: 1\u20132 line paragraph about what the bot does"
+    }
+  },
+  {
+    "block_id": "visibility",
+    "label": "Visibility",
+    "category": "Chatbot Identity/Core Persona",
+    "description": "Bot visibility setting: public/private/internal",
+    "molt_type": "Instruction",
+    "tags": [
+      "visibility",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd10"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Bot visibility setting: public/private/internal This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Visibility: Bot visibility setting: public/private/internal"
+    }
+  },
+  {
+    "block_id": "theme_color",
+    "label": "Theme Color",
+    "category": "Chatbot Identity/Core Persona",
+    "description": "UI accent or emotional tone color",
+    "molt_type": "Instruction",
+    "tags": [
+      "theme_color",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfa8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "UI accent or emotional tone color This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Theme Color: UI accent or emotional tone color"
+    }
+  },
+  {
+    "block_id": "greeting_animation",
+    "label": "Greeting Animation",
+    "category": "Chatbot Identity/Core Persona",
+    "description": "Optional animation shown during intro",
+    "molt_type": "Instruction",
+    "tags": [
+      "greeting_animation",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf9e\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Optional animation shown during intro This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Greeting Animation: Optional animation shown during intro"
+    }
+  },
+  {
+    "block_id": "primary_profession",
+    "label": "Primary Profession",
+    "category": "Chatbot Identity/Profession Role",
+    "description": "Main function or job identity of the bot",
+    "molt_type": "Instruction",
+    "tags": [
+      "primary_profession",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udc54"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Main function or job identity of the bot This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Primary Profession: Main function or job identity of the bot"
+    }
+  },
+  {
+    "block_id": "sub_specialty",
+    "label": "Sub Specialty",
+    "category": "Chatbot Identity/Profession Role",
+    "description": "Optional narrowed field of expertise",
+    "molt_type": "Instruction",
+    "tags": [
+      "sub_specialty",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd0d"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Optional narrowed field of expertise This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Sub Specialty: Optional narrowed field of expertise"
+    }
+  },
+  {
+    "block_id": "task_scope",
+    "label": "Task Scope",
+    "category": "Chatbot Identity/Profession Role",
+    "description": "List of tasks this bot performs in this role",
+    "molt_type": "Instruction",
+    "tags": [
+      "task_scope",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddfe"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "List of tasks this bot performs in this role This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Task Scope: List of tasks this bot performs in this role"
+    }
+  },
+  {
+    "block_id": "task_priority_order",
+    "label": "Task Priority Order",
+    "category": "Chatbot Identity/Profession Role",
+    "description": "Order of execution when multitasking",
+    "molt_type": "Instruction",
+    "tags": [
+      "task_priority_order",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u23f3"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Order of execution when multitasking This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Task Priority Order: Order of execution when multitasking"
+    }
+  },
+  {
+    "block_id": "knowledge_domain_tags",
+    "label": "Knowledge Domain Tags",
+    "category": "Chatbot Identity/Profession Role",
+    "description": "Keywords for domain relevance",
+    "molt_type": "Instruction",
+    "tags": [
+      "knowledge_domain_tags",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udff7\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Keywords for domain relevance This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Knowledge Domain Tags: Keywords for domain relevance"
+    }
+  },
+  {
+    "block_id": "example_queries",
+    "label": "Example Queries",
+    "category": "Chatbot Identity/Profession Role",
+    "description": "Sample user queries for calibration",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_queries",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2753"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Sample user queries for calibration This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Example Queries: Sample user queries for calibration"
+    }
+  },
+  {
+    "block_id": "skill_level_rating",
+    "label": "Skill Level Rating",
+    "category": "Chatbot Identity/Profession Role",
+    "description": "Rating of proficiency in role (basic\u2013expert)",
+    "molt_type": "Instruction",
+    "tags": [
+      "skill_level_rating",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcca"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Rating of proficiency in role (basic\u2013expert) This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Skill Level Rating: Rating of proficiency in role (basic\u2013expert)"
+    }
+  },
+  {
+    "block_id": "can_switch_roles",
+    "label": "Can Switch Roles",
+    "category": "Chatbot Identity/Profession Role",
+    "description": "Toggle for multi-role flexibility",
+    "molt_type": "Instruction",
+    "tags": [
+      "can_switch_roles",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd00"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Toggle for multi-role flexibility This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Can Switch Roles: Toggle for multi-role flexibility"
+    }
+  },
+  {
+    "block_id": "suggested_molt_merges",
+    "label": "Suggested MOLT Merges",
+    "category": "Chatbot Identity/Profession Role",
+    "description": "What to combine with this role",
+    "molt_type": "Instruction",
+    "tags": [
+      "suggested_molt_merges",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2795"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What to combine with this role This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Suggested MOLT Merges: What to combine with this role"
+    }
+  },
+  {
+    "block_id": "tone_profile",
+    "label": "Tone Profile",
+    "category": "Chatbot Identity/Tone & Attitude",
+    "description": "General vibe (e.g., stoic, cheerful)",
+    "molt_type": "Instruction",
+    "tags": [
+      "tone_profile",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfad"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "General vibe (e.g., stoic, cheerful) This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Tone Profile: General vibe (e.g., stoic, cheerful)"
+    }
+  },
+  {
+    "block_id": "formality_level",
+    "label": "Formality Level",
+    "category": "Chatbot Identity/Tone & Attitude",
+    "description": "Language style from casual to poetic",
+    "molt_type": "Instruction",
+    "tags": [
+      "formality_level",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcac"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Language style from casual to poetic This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Formality Level: Language style from casual to poetic"
+    }
+  },
+  {
+    "block_id": "emoji_usage_style",
+    "label": "Emoji Usage Style",
+    "category": "Chatbot Identity/Tone & Attitude",
+    "description": "How and how often emojis are used",
+    "molt_type": "Instruction",
+    "tags": [
+      "emoji_usage_style",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\ude00"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How and how often emojis are used This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Emoji Usage Style: How and how often emojis are used"
+    }
+  },
+  {
+    "block_id": "response_pacing_style",
+    "label": "Response Pacing Style",
+    "category": "Chatbot Identity/Tone & Attitude",
+    "description": "Simulated tempo of replies",
+    "molt_type": "Instruction",
+    "tags": [
+      "response_pacing_style",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u23f1\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Simulated tempo of replies This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Response Pacing Style: Simulated tempo of replies"
+    }
+  },
+  {
+    "block_id": "humor_style",
+    "label": "Humor Style",
+    "category": "Chatbot Identity/Tone & Attitude",
+    "description": "Humor type if used (dry, absurdist, pun)",
+    "molt_type": "Instruction",
+    "tags": [
+      "humor_style",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\ude06"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Humor type if used (dry, absurdist, pun) This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Humor Style: Humor type if used (dry, absurdist, pun)"
+    }
+  },
+  {
+    "block_id": "disagreement_protocol",
+    "label": "Disagreement Protocol",
+    "category": "Chatbot Identity/Tone & Attitude",
+    "description": "How bot handles user contradiction",
+    "molt_type": "Instruction",
+    "tags": [
+      "disagreement_protocol",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2696\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How bot handles user contradiction This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Disagreement Protocol: How bot handles user contradiction"
+    }
+  },
+  {
+    "block_id": "tone_switch_conditions",
+    "label": "Tone Switch Conditions",
+    "category": "Chatbot Identity/Tone & Attitude",
+    "description": "Triggers for tone shifts",
+    "molt_type": "Instruction",
+    "tags": [
+      "tone_switch_conditions",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd01"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Triggers for tone shifts This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Tone Switch Conditions: Triggers for tone shifts"
+    }
+  },
+  {
+    "block_id": "examples_of_attitude",
+    "label": "Examples of Attitude",
+    "category": "Chatbot Identity/Tone & Attitude",
+    "description": "Sample tone-rich responses",
+    "molt_type": "Instruction",
+    "tags": [
+      "examples_of_attitude",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddea"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Sample tone-rich responses This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Examples of Attitude: Sample tone-rich responses"
+    }
+  },
+  {
+    "block_id": "tone_is_locked",
+    "label": "Tone Is Locked",
+    "category": "Chatbot Identity/Tone & Attitude",
+    "description": "Whether tone is fixed or adaptive",
+    "molt_type": "Instruction",
+    "tags": [
+      "tone_is_locked",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd12"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether tone is fixed or adaptive This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Tone Is Locked: Whether tone is fixed or adaptive"
+    }
+  },
+  {
+    "block_id": "quirk_theme",
+    "label": "Quirk Theme",
+    "category": "Chatbot Identity/Style & Quirk",
+    "description": "Aesthetic overlay like pirate, noir, wizard",
+    "molt_type": "Instruction",
+    "tags": [
+      "quirk_theme",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfa9"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Aesthetic overlay like pirate, noir, wizard This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Quirk Theme: Aesthetic overlay like pirate, noir, wizard"
+    }
+  },
+  {
+    "block_id": "speech_patterns",
+    "label": "Speech Patterns",
+    "category": "Chatbot Identity/Style & Quirk",
+    "description": "Eccentric language habits or catchphrases",
+    "molt_type": "Instruction",
+    "tags": [
+      "speech_patterns",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udde3\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Eccentric language habits or catchphrases This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Speech Patterns: Eccentric language habits or catchphrases"
+    }
+  },
+  {
+    "block_id": "formatting_signature",
+    "label": "Formatting Signature",
+    "category": "Chatbot Identity/Style & Quirk",
+    "description": "Response structure style",
+    "molt_type": "Instruction",
+    "tags": [
+      "formatting_signature",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcd0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Response structure style This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Formatting Signature: Response structure style"
+    }
+  },
+  {
+    "block_id": "response_structuring",
+    "label": "Response Structuring",
+    "category": "Chatbot Identity/Style & Quirk",
+    "description": "Shaping logic (e.g., always end with Q)",
+    "molt_type": "Instruction",
+    "tags": [
+      "response_structuring",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcda"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Shaping logic (e.g., always end with Q) This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Response Structuring: Shaping logic (e.g., always end with Q)"
+    }
+  },
+  {
+    "block_id": "quirk_trigger_rules",
+    "label": "Quirk Trigger Rules",
+    "category": "Chatbot Identity/Style & Quirk",
+    "description": "When quirks activate",
+    "molt_type": "Instruction",
+    "tags": [
+      "quirk_trigger_rules",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udccd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "When quirks activate This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Quirk Trigger Rules: When quirks activate"
+    }
+  },
+  {
+    "block_id": "nonstandard_output_modes",
+    "label": "Nonstandard Output Modes",
+    "category": "Chatbot Identity/Style & Quirk",
+    "description": "ASCII art, rhyme, haiku, emoji",
+    "molt_type": "Instruction",
+    "tags": [
+      "nonstandard_output_modes",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd23"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "ASCII art, rhyme, haiku, emoji This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Nonstandard Output Modes: ASCII art, rhyme, haiku, emoji"
+    }
+  },
+  {
+    "block_id": "example_quirky_replies",
+    "label": "Example Quirky Replies",
+    "category": "Chatbot Identity/Style & Quirk",
+    "description": "Sample unique/quirky bot replies",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_quirky_replies",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Sample unique/quirky bot replies This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Example Quirky Replies: Sample unique/quirky bot replies"
+    }
+  },
+  {
+    "block_id": "quirk_is_toggleable",
+    "label": "Quirk Is Toggleable",
+    "category": "Chatbot Identity/Style & Quirk",
+    "description": "User toggle for style mode",
+    "molt_type": "Instruction",
+    "tags": [
+      "quirk_is_toggleable",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udfe2"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "User toggle for style mode This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Quirk Is Toggleable: User toggle for style mode"
+    }
+  },
+  {
+    "block_id": "quirk_origin_story",
+    "label": "Quirk Origin Story",
+    "category": "Chatbot Identity/Style & Quirk",
+    "description": "Optional lore or backstory for quirk",
+    "molt_type": "Instruction",
+    "tags": [
+      "quirk_origin_story",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcd6"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Optional lore or backstory for quirk This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Quirk Origin Story: Optional lore or backstory for quirk"
+    }
+  },
+  {
+    "block_id": "core_instruction_set",
+    "label": "Core Instruction Set",
+    "category": "Chatbot Logic/Instruction Layer",
+    "description": "Foundational logic principles",
+    "molt_type": "Instruction",
+    "tags": [
+      "core_instruction_set",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udded"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Foundational logic principles This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Core Instruction Set: Foundational logic principles"
+    }
+  },
+  {
+    "block_id": "task_following_rules",
+    "label": "Task Following Rules",
+    "category": "Chatbot Logic/Instruction Layer",
+    "description": "Execution and parsing rules",
+    "molt_type": "Instruction",
+    "tags": [
+      "task_following_rules",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcd8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Execution and parsing rules This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Task Following Rules: Execution and parsing rules"
+    }
+  },
+  {
+    "block_id": "refusal_conditions",
+    "label": "Refusal Conditions",
+    "category": "Chatbot Logic/Instruction Layer",
+    "description": "What the bot will decline",
+    "molt_type": "Instruction",
+    "tags": [
+      "refusal_conditions",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udeab"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What the bot will decline This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Refusal Conditions: What the bot will decline"
+    }
+  },
+  {
+    "block_id": "tone_modulation_logic",
+    "label": "Tone Modulation Logic",
+    "category": "Chatbot Logic/Instruction Layer",
+    "description": "How tone adjusts per context",
+    "molt_type": "Instruction",
+    "tags": [
+      "tone_modulation_logic",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf9a\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How tone adjusts per context This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Tone Modulation Logic: How tone adjusts per context"
+    }
+  },
+  {
+    "block_id": "role_overrides_allowed",
+    "label": "Role Overrides Allowed",
+    "category": "Chatbot Logic/Instruction Layer",
+    "description": "Can instruction override profession?",
+    "molt_type": "Instruction",
+    "tags": [
+      "role_overrides_allowed",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd27"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Can instruction override profession? This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Role Overrides Allowed: Can instruction override profession?"
+    }
+  },
+  {
+    "block_id": "instruction_priority_map",
+    "label": "Instruction Priority Map",
+    "category": "Chatbot Logic/Instruction Layer",
+    "description": "Precedence map of logic tiers",
+    "molt_type": "Instruction",
+    "tags": [
+      "instruction_priority_map",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcca"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Precedence map of logic tiers This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Instruction Priority Map: Precedence map of logic tiers"
+    }
+  },
+  {
+    "block_id": "custom_instruction_blocks",
+    "label": "Custom Instruction Blocks",
+    "category": "Chatbot Logic/Instruction Layer",
+    "description": "Manual logic blocks inserted",
+    "molt_type": "Instruction",
+    "tags": [
+      "custom_instruction_blocks",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde9"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Manual logic blocks inserted This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Custom Instruction Blocks: Manual logic blocks inserted"
+    }
+  },
+  {
+    "block_id": "system_directive_version",
+    "label": "System Directive Version",
+    "category": "Chatbot Logic/Instruction Layer",
+    "description": "Instruction logic versioning",
+    "molt_type": "Instruction",
+    "tags": [
+      "system_directive_version",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udd9a"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Instruction logic versioning This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "System Directive Version: Instruction logic versioning"
+    }
+  },
+  {
+    "block_id": "examples_of_instruction_response",
+    "label": "Examples of Instruction Response",
+    "category": "Chatbot Logic/Instruction Layer",
+    "description": "Instruction logic in practice",
+    "molt_type": "Instruction",
+    "tags": [
+      "examples_of_instruction_response",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udca1"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Instruction logic in practice This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Examples of Instruction Response: Instruction logic in practice"
+    }
+  },
+  {
+    "block_id": "philosophical_framework",
+    "label": "Philosophical Framework",
+    "category": "Chatbot Logic/Philosophy Layer",
+    "description": "Main worldview like Taoism or Love & Logic",
+    "molt_type": "Instruction",
+    "tags": [
+      "philosophical_framework",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdc"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Main worldview like Taoism or Love & Logic This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Philosophical Framework: Main worldview like Taoism or Love & Logic"
+    }
+  },
+  {
+    "block_id": "ethical_alignment",
+    "label": "Ethical Alignment",
+    "category": "Chatbot Logic/Philosophy Layer",
+    "description": "Core morality compass",
+    "molt_type": "Instruction",
+    "tags": [
+      "ethical_alignment",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2696\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Core morality compass This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Ethical Alignment: Core morality compass"
+    }
+  },
+  {
+    "block_id": "conflict_resolution_style",
+    "label": "Conflict Resolution Style",
+    "category": "Chatbot Logic/Philosophy Layer",
+    "description": "Approach to resolving friction",
+    "molt_type": "Instruction",
+    "tags": [
+      "conflict_resolution_style",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd4a\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Approach to resolving friction This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Conflict Resolution Style: Approach to resolving friction"
+    }
+  },
+  {
+    "block_id": "spiritual_or_cultural_flavor",
+    "label": "Spiritual or Cultural Flavor",
+    "category": "Chatbot Logic/Philosophy Layer",
+    "description": "Optional deep flavor overlay",
+    "molt_type": "Instruction",
+    "tags": [
+      "spiritual_or_cultural_flavor",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf0c"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Optional deep flavor overlay This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Spiritual or Cultural Flavor: Optional deep flavor overlay"
+    }
+  },
+  {
+    "block_id": "empathy_protocol",
+    "label": "Empathy Protocol",
+    "category": "Chatbot Logic/Philosophy Layer",
+    "description": "How empathy is handled",
+    "molt_type": "Instruction",
+    "tags": [
+      "empathy_protocol",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udc93"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How empathy is handled This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Empathy Protocol: How empathy is handled"
+    }
+  },
+  {
+    "block_id": "wisdom_expression_mode",
+    "label": "Wisdom Expression Mode",
+    "category": "Chatbot Logic/Philosophy Layer",
+    "description": "Delivery mode: parables, Socratic, direct",
+    "molt_type": "Instruction",
+    "tags": [
+      "wisdom_expression_mode",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\uddff"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Delivery mode: parables, Socratic, direct This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Wisdom Expression Mode: Delivery mode: parables, Socratic, direct"
+    }
+  },
+  {
+    "block_id": "philosophy_can_override_instruction",
+    "label": "Philosophy Can Override Instruction",
+    "category": "Chatbot Logic/Philosophy Layer",
+    "description": "If worldview trumps command",
+    "molt_type": "Instruction",
+    "tags": [
+      "philosophy_can_override_instruction",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd00"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "If worldview trumps command This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Philosophy Can Override Instruction: If worldview trumps command"
+    }
+  },
+  {
+    "block_id": "fallback_to_philosophy_when_uncertain",
+    "label": "Fallback to Philosophy When Uncertain",
+    "category": "Chatbot Logic/Philosophy Layer",
+    "description": "If unsure, default to worldview",
+    "molt_type": "Instruction",
+    "tags": [
+      "fallback_to_philosophy_when_uncertain",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddd8\u200d\u2642\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "If unsure, default to worldview This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Fallback to Philosophy When Uncertain: If unsure, default to worldview"
+    }
+  },
+  {
+    "block_id": "sample_philosophical_response",
+    "label": "Sample Philosophical Response",
+    "category": "Chatbot Logic/Philosophy Layer",
+    "description": "An example of philosophical output",
+    "molt_type": "Instruction",
+    "tags": [
+      "sample_philosophical_response",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf31"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "An example of philosophical output This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Sample Philosophical Response: An example of philosophical output"
+    }
+  },
+  {
+    "block_id": "task_title",
+    "label": "Task Title",
+    "category": "Chatbot Function/Primary Task",
+    "description": "Name of main task this bot performs",
+    "molt_type": "Instruction",
+    "tags": [
+      "task_title",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfaf"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Name of main task this bot performs This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Task Title: Name of main task this bot performs"
+    }
+  },
+  {
+    "block_id": "task_function_type",
+    "label": "Task Function Type",
+    "category": "Chatbot Function/Primary Task",
+    "description": "Classification: assistant, generative, simulation",
+    "molt_type": "Instruction",
+    "tags": [
+      "task_function_type",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Classification: assistant, generative, simulation This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Task Function Type: Classification: assistant, generative, simulation"
+    }
+  },
+  {
+    "block_id": "core_user_goals",
+    "label": "Core User Goals",
+    "category": "Chatbot Function/Primary Task",
+    "description": "Goals the user is trying to achieve",
+    "molt_type": "Instruction",
+    "tags": [
+      "core_user_goals",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udfc1"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Goals the user is trying to achieve This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Core User Goals: Goals the user is trying to achieve"
+    }
+  },
+  {
+    "block_id": "supported_output_modes",
+    "label": "Supported Output Modes",
+    "category": "Chatbot Function/Primary Task",
+    "description": "What formats the bot returns",
+    "molt_type": "Instruction",
+    "tags": [
+      "supported_output_modes",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What formats the bot returns This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Supported Output Modes: What formats the bot returns"
+    }
+  },
+  {
+    "block_id": "task_input_requirements",
+    "label": "Task Input Requirements",
+    "category": "Chatbot Function/Primary Task",
+    "description": "Minimum needed inputs",
+    "molt_type": "Instruction",
+    "tags": [
+      "task_input_requirements",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd11"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Minimum needed inputs This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Task Input Requirements: Minimum needed inputs"
+    }
+  },
+  {
+    "block_id": "preferred_prompt_structure",
+    "label": "Preferred Prompt Structure",
+    "category": "Chatbot Function/Primary Task",
+    "description": "Optimal phrasing pattern",
+    "molt_type": "Instruction",
+    "tags": [
+      "preferred_prompt_structure",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcdd"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Optimal phrasing pattern This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Preferred Prompt Structure: Optimal phrasing pattern"
+    }
+  },
+  {
+    "block_id": "task_success_criteria",
+    "label": "Task Success Criteria",
+    "category": "Chatbot Function/Primary Task",
+    "description": "How the bot knows it succeeded",
+    "molt_type": "Instruction",
+    "tags": [
+      "task_success_criteria",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u2705"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How the bot knows it succeeded This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Task Success Criteria: How the bot knows it succeeded"
+    }
+  },
+  {
+    "block_id": "multi_tasking_capable",
+    "label": "Multitasking Capable",
+    "category": "Chatbot Function/Primary Task",
+    "description": "Can it handle multiple subtasks?",
+    "molt_type": "Instruction",
+    "tags": [
+      "multi_tasking_capable",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd01"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Can it handle multiple subtasks? This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Multitasking Capable: Can it handle multiple subtasks?"
+    }
+  },
+  {
+    "block_id": "task_routing_logic",
+    "label": "Task Routing Logic",
+    "category": "Chatbot Function/Primary Task",
+    "description": "If multitasking, how routing works",
+    "molt_type": "Instruction",
+    "tags": [
+      "task_routing_logic",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udded"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "If multitasking, how routing works This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Task Routing Logic: If multitasking, how routing works"
+    }
+  },
+  {
+    "block_id": "example_input_output_pairs",
+    "label": "Example Input Output Pairs",
+    "category": "Chatbot Function/Primary Task",
+    "description": "Samples showing task logic",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_input_output_pairs",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd04"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Samples showing task logic This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Example Input Output Pairs: Samples showing task logic"
+    }
+  },
+  {
+    "block_id": "secondary_skill_name",
+    "label": "Secondary Skill Name",
+    "category": "Chatbot Function/Secondary Skills",
+    "description": "Optional extra skill module",
+    "molt_type": "Instruction",
+    "tags": [
+      "secondary_skill_name",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde9"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Optional extra skill module This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Secondary Skill Name: Optional extra skill module"
+    }
+  },
+  {
+    "block_id": "activation_method",
+    "label": "Activation Method",
+    "category": "Chatbot Function/Secondary Skills",
+    "description": "How the skill is triggered",
+    "molt_type": "Instruction",
+    "tags": [
+      "activation_method",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\ude80"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How the skill is triggered This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Activation Method: How the skill is triggered"
+    }
+  },
+  {
+    "block_id": "supported_input_types",
+    "label": "Supported Input Types",
+    "category": "Chatbot Function/Secondary Skills",
+    "description": "Input types allowed",
+    "molt_type": "Instruction",
+    "tags": [
+      "supported_input_types",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce5"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Input types allowed This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Supported Input Types: Input types allowed"
+    }
+  },
+  {
+    "block_id": "output_format",
+    "label": "Output Format",
+    "category": "Chatbot Function/Secondary Skills",
+    "description": "Format of result: list, markdown, image",
+    "molt_type": "Instruction",
+    "tags": [
+      "output_format",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Format of result: list, markdown, image This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Output Format: Format of result: list, markdown, image"
+    }
+  },
+  {
+    "block_id": "skill_scope_description",
+    "label": "Skill Scope Description",
+    "category": "Chatbot Function/Secondary Skills",
+    "description": "What the skill covers",
+    "molt_type": "Instruction",
+    "tags": [
+      "skill_scope_description",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcd8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What the skill covers This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Skill Scope Description: What the skill covers"
+    }
+  },
+  {
+    "block_id": "skill_limitations",
+    "label": "Skill Limitations",
+    "category": "Chatbot Function/Secondary Skills",
+    "description": "Known weaknesses or boundaries",
+    "molt_type": "Instruction",
+    "tags": [
+      "skill_limitations",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u26a0\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Known weaknesses or boundaries This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Skill Limitations: Known weaknesses or boundaries"
+    }
+  },
+  {
+    "block_id": "compatible_roles_only",
+    "label": "Compatible Roles Only",
+    "category": "Chatbot Function/Secondary Skills",
+    "description": "Only works with these roles",
+    "molt_type": "Instruction",
+    "tags": [
+      "compatible_roles_only",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udc65"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Only works with these roles This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Compatible Roles Only: Only works with these roles"
+    }
+  },
+  {
+    "block_id": "is_toggleable",
+    "label": "Is Toggleable",
+    "category": "Chatbot Function/Secondary Skills",
+    "description": "Whether skill can be turned on/off",
+    "molt_type": "Instruction",
+    "tags": [
+      "is_toggleable",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd18"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Whether skill can be turned on/off This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Is Toggleable: Whether skill can be turned on/off"
+    }
+  },
+  {
+    "block_id": "example_use_cases",
+    "label": "Example Use Cases",
+    "category": "Chatbot Function/Secondary Skills",
+    "description": "Real-life usage examples",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_use_cases",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddea"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Real-life usage examples This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Example Use Cases: Real-life usage examples"
+    }
+  },
+  {
+    "block_id": "tool_merge_logic",
+    "label": "Tool Merge Logic",
+    "category": "Chatbot Function/Secondary Skills",
+    "description": "Integration with other tools",
+    "molt_type": "Instruction",
+    "tags": [
+      "tool_merge_logic",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd17"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Integration with other tools This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Tool Merge Logic: Integration with other tools"
+    }
+  },
+  {
+    "block_id": "memory_type",
+    "label": "Memory Type",
+    "category": "Chatbot Memory Systems",
+    "description": "Short, long, hybrid, threaded",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_type",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Short, long, hybrid, threaded This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Memory Type: Short, long, hybrid, threaded"
+    }
+  },
+  {
+    "block_id": "memory_scope",
+    "label": "Memory Scope",
+    "category": "Chatbot Memory Systems",
+    "description": "What info is remembered",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_scope",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udccb"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What info is remembered This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Memory Scope: What info is remembered"
+    }
+  },
+  {
+    "block_id": "memory_duration_policy",
+    "label": "Memory Duration Policy",
+    "category": "Chatbot Memory Systems",
+    "description": "How long it\u2019s stored",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_duration_policy",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u23f1\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How long it\u2019s stored This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Memory Duration Policy: How long it\u2019s stored"
+    }
+  },
+  {
+    "block_id": "memory_recall_trigger",
+    "label": "Memory Recall Trigger",
+    "category": "Chatbot Memory Systems",
+    "description": "How memory is accessed",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_recall_trigger",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd01"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How memory is accessed This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Memory Recall Trigger: How memory is accessed"
+    }
+  },
+  {
+    "block_id": "thread_based_memory_rules",
+    "label": "Thread Based Memory Rules",
+    "category": "Chatbot Memory Systems",
+    "description": "Threaded chat memory handling",
+    "molt_type": "Instruction",
+    "tags": [
+      "thread_based_memory_rules",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddf5"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Threaded chat memory handling This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Thread Based Memory Rules: Threaded chat memory handling"
+    }
+  },
+  {
+    "block_id": "memory_overflow_behavior",
+    "label": "Memory Overflow Behavior",
+    "category": "Chatbot Memory Systems",
+    "description": "When context is full",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_overflow_behavior",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udca5"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "When context is full This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Memory Overflow Behavior: When context is full"
+    }
+  },
+  {
+    "block_id": "memory_editing_enabled",
+    "label": "Memory Editing Enabled",
+    "category": "Chatbot Memory Systems",
+    "description": "User/dev can modify memory?",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_editing_enabled",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\u270f\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "User/dev can modify memory? This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Memory Editing Enabled: User/dev can modify memory?"
+    }
+  },
+  {
+    "block_id": "memory_security_protocols",
+    "label": "Memory Security Protocols",
+    "category": "Chatbot Memory Systems",
+    "description": "Who can access/purge",
+    "molt_type": "Instruction",
+    "tags": [
+      "memory_security_protocols",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd10"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Who can access/purge This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Memory Security Protocols: Who can access/purge"
+    }
+  },
+  {
+    "block_id": "sample_memory_entries",
+    "label": "Sample Memory Entries",
+    "category": "Chatbot Memory Systems",
+    "description": "What memory looks like",
+    "molt_type": "Instruction",
+    "tags": [
+      "sample_memory_entries",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udce6"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What memory looks like This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Sample Memory Entries: What memory looks like"
+    }
+  },
+  {
+    "block_id": "vector_or_slot_based_memory",
+    "label": "Vector or Slot Based Memory",
+    "category": "Chatbot Memory Systems",
+    "description": "Semantic or explicit",
+    "molt_type": "Instruction",
+    "tags": [
+      "vector_or_slot_based_memory",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc8"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Semantic or explicit This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Vector or Slot Based Memory: Semantic or explicit"
+    }
+  },
+  {
+    "block_id": "source_type",
+    "label": "Source Type",
+    "category": "Chatbot Data Sources & Plugins",
+    "description": "PDF, API, URL, DB",
+    "molt_type": "Instruction",
+    "tags": [
+      "source_type",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd17"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "PDF, API, URL, DB This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Source Type: PDF, API, URL, DB"
+    }
+  },
+  {
+    "block_id": "source_description",
+    "label": "Source Description",
+    "category": "Chatbot Data Sources & Plugins",
+    "description": "Readable label for source",
+    "molt_type": "Instruction",
+    "tags": [
+      "source_description",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcd6"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Readable label for source This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Source Description: Readable label for source"
+    }
+  },
+  {
+    "block_id": "connection_method",
+    "label": "Connection Method",
+    "category": "Chatbot Data Sources & Plugins",
+    "description": "Upload, scrape, embed, API call",
+    "molt_type": "Instruction",
+    "tags": [
+      "connection_method",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd0c"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Upload, scrape, embed, API call This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Connection Method: Upload, scrape, embed, API call"
+    }
+  },
+  {
+    "block_id": "source_refresh_frequency",
+    "label": "Source Refresh Frequency",
+    "category": "Chatbot Data Sources & Plugins",
+    "description": "Update cadence",
+    "molt_type": "Instruction",
+    "tags": [
+      "source_refresh_frequency",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd01"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Update cadence This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Source Refresh Frequency: Update cadence"
+    }
+  },
+  {
+    "block_id": "chunking_or_embedding_method",
+    "label": "Chunking or Embedding Method",
+    "category": "Chatbot Data Sources & Plugins",
+    "description": "How long docs are split",
+    "molt_type": "Instruction",
+    "tags": [
+      "chunking_or_embedding_method",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde9"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How long docs are split This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Chunking or Embedding Method: How long docs are split"
+    }
+  },
+  {
+    "block_id": "search_or_query_logic",
+    "label": "Search or Query Logic",
+    "category": "Chatbot Data Sources & Plugins",
+    "description": "How the bot retrieves answers",
+    "molt_type": "Instruction",
+    "tags": [
+      "search_or_query_logic",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udd0d"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "How the bot retrieves answers This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Search or Query Logic: How the bot retrieves answers"
+    }
+  },
+  {
+    "block_id": "source_scope_restrictions",
+    "label": "Source Scope Restrictions",
+    "category": "Chatbot Data Sources & Plugins",
+    "description": "Limitations of access",
+    "molt_type": "Instruction",
+    "tags": [
+      "source_scope_restrictions",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udea7"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Limitations of access This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Source Scope Restrictions: Limitations of access"
+    }
+  },
+  {
+    "block_id": "source_fallback_behavior",
+    "label": "Source Fallback Behavior",
+    "category": "Chatbot Data Sources & Plugins",
+    "description": "What if data not found",
+    "molt_type": "Instruction",
+    "tags": [
+      "source_fallback_behavior",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\ude82"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "What if data not found This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Source Fallback Behavior: What if data not found"
+    }
+  },
+  {
+    "block_id": "active_source_toggle",
+    "label": "Active Source Toggle",
+    "category": "Chatbot Data Sources & Plugins",
+    "description": "User/dev can enable/disable?",
+    "molt_type": "Instruction",
+    "tags": [
+      "active_source_toggle",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83c\udf9a\ufe0f"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "User/dev can enable/disable? This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Active Source Toggle: User/dev can enable/disable?"
+    }
+  },
+  {
+    "block_id": "example_source_queries",
+    "label": "Example Source Queries",
+    "category": "Chatbot Data Sources & Plugins",
+    "description": "Sample questions using source",
+    "molt_type": "Instruction",
+    "tags": [
+      "example_source_queries",
+      "chatbot",
+      "modular"
+    ],
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 2,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\uddea"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Sample questions using source This is an example of applied logic for that trait."
+    },
+    "editable_fields": {
+      "content": "Example Source Queries: Sample questions using source"
+    }
+  }
+]

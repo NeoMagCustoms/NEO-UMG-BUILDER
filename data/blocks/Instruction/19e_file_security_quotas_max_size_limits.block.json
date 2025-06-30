@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 19,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "19e_file_security_quotas_max_size_limits",
+  "label": "Max Size Limits",
+  "category": "Web App Builder/File Handling Uploads Media/19E File Security Quotas",
+  "description": "Prevent server overuse",
+  "tags": [
+    "max_size_limits"
+  ],
+  "example_block_data": {
+    "content": "Prevent server overuse"
+  },
+  "editable_fields": {
+    "content": "Prevent server overuse"
+  }
+}

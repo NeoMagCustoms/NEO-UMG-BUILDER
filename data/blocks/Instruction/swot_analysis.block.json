@@ -1,0 +1,45 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📝"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "swot_analysis",
+  "label": "SWOT Analysis",
+  "category": "Business Plans/Web App/Chatbot/Business Plans",
+  "description": "Strengths, Weaknesses, Opportunities, Threats",
+  "tags": [
+    "swot",
+    "analysis"
+  ],
+  "example_block_data": {
+    "content": "Strengths, Weaknesses, Opportunities, Threats"
+  },
+  "editable_fields": {
+    "content": "Strengths, Weaknesses, Opportunities, Threats"
+  }
+}

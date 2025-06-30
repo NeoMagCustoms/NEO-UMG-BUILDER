@@ -1,0 +1,46 @@
+{
+  "block_id": "conversation_thread_per_agent",
+  "label": "Conversation Thread Per Agent",
+  "category": "Multi-Agent Interface / Agent Switchers",
+  "description": "Whether each agent maintains a unique thread",
+  "molt_type": "Instruction",
+  "tags": [
+    "conversation_thread_per_agent",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🧵"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Whether each agent maintains a unique thread This block defines how this logic operates during agent runtime."
+  },
+  "editable_fields": {
+    "content": "Conversation Thread Per Agent: Whether each agent maintains a unique thread"
+  }
+}
