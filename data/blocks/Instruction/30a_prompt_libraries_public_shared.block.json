@@ -20,7 +20,7 @@
       "Primary",
       "Subject"
     ],
-    "priority": 3,
+    "priority": 2,
     "accepts": [
       "Blueprint",
       "Directive",
@@ -45,5 +45,6 @@
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
     "merge_origin": "AUTO"
-  }
+  },
+  "stack_priority": 2
 }

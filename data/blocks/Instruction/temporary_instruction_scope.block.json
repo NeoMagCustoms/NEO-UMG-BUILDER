@@ -17,7 +17,8 @@
       "Blueprint",
       "Directive",
       "Philosophy"
-    ]
+    ],
+    "priority": 2
   },
   "merge_logic": {
     "merge_as": "instruction",
@@ -58,5 +59,6 @@
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
     "merge_origin": "AUTO"
-  }
+  },
+  "stack_priority": 2
 }

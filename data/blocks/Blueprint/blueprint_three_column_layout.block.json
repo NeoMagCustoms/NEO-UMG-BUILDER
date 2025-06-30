@@ -11,7 +11,8 @@
   "editable_fields": [],
   "snap_config": {
     "snap_to": "stack",
-    "accepts": []
+    "accepts": [],
+    "priority": 5
   },
   "merge_logic": {},
   "cantocore": {
@@ -37,5 +38,6 @@
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
     "merge_origin": "AUTO"
-  }
+  },
+  "stack_priority": 5
 }
