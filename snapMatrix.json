@@ -1,0 +1,38 @@
+{
+  "Primary": [
+    "Subject",
+    "Instruction",
+    "Directive",
+    "Philosophy",
+    "Blueprint"
+  ],
+  "Subject": [
+    "Instruction",
+    "Directive",
+    "Philosophy",
+    "Blueprint"
+  ],
+  "Instruction": [
+    "Blueprint",
+    "Directive",
+    "Philosophy"
+  ],
+  "Directive": [
+    "Instruction",
+    "Philosophy"
+  ],
+  "Philosophy": [
+    "Blueprint",
+    "Instruction",
+    "Directive"
+  ],
+  "Blueprint": [],
+  "Trigger": [
+    "Primary"
+  ],
+  "Deployment": [
+    "Primary",
+    "Instruction"
+  ],
+  "Off": []
+}

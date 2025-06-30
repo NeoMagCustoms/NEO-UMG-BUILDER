@@ -1,0 +1,33 @@
+{
+  "priority_order": [
+    "Trigger",
+    "Directive",
+    "Instruction",
+    "Subject",
+    "Primary",
+    "Merge",
+    "Philosophy",
+    "Blueprint",
+    "Off"
+  ],
+  "override_rules": {
+    "Directive": [
+      "Instruction",
+      "Philosophy"
+    ],
+    "Instruction": [
+      "Subject"
+    ],
+    "Subject": [],
+    "Primary": [],
+    "Philosophy": [],
+    "Blueprint": [],
+    "Trigger": [
+      "All"
+    ],
+    "Deployment": [
+      "Instruction",
+      "Directive"
+    ]
+  }
+}
