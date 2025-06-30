@@ -11,23 +11,13 @@
     "Off"
   ],
   "override_rules": {
-    "Directive": [
-      "Instruction",
-      "Philosophy"
-    ],
-    "Instruction": [
-      "Subject"
-    ],
+    "Directive": ["Instruction", "Philosophy"],
+    "Instruction": ["Subject"],
     "Subject": [],
     "Primary": [],
     "Philosophy": [],
     "Blueprint": [],
-    "Trigger": [
-      "All"
-    ],
-    "Deployment": [
-      "Instruction",
-      "Directive"
-    ]
+    "Trigger": ["All"],
+    "Deployment": ["Instruction", "Directive"]
   }
 }
