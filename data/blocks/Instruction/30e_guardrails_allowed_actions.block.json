@@ -1,7 +1,7 @@
 {
   "block_id": "30e_guardrails_allowed_actions",
   "label": "Guardrails + Allowed Actions",
-  "category": "Web App – Category 30: AI Agents & LLM Integration",
+  "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
   "molt_type": "Instruction",
   "color": "yellow",
   "editable_fields": [
@@ -20,7 +20,12 @@
       "Primary",
       "Subject"
     ],
-    "priority": 3
+    "priority": 3,
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ]
   },
   "ledger": {
     "originator": "Christopher L Haynes",
@@ -30,5 +35,15 @@
   },
   "canto_overlay": {},
   "code_modules": [],
-  "export_config": {}
+  "export_config": {},
+  "cantocore": "AUTO.FILL.CANTOCODE",
+  "display": {
+    "color": "gray",
+    "icon": "zap"
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  }
 }

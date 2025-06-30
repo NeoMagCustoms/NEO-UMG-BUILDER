@@ -3,7 +3,12 @@
   "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
   "snap_config": {
     "stack_priority": 17,
-    "supports_merge": true
+    "supports_merge": true,
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ]
   },
   "merge_logic": {
     "merge_as": "instruction",
@@ -16,12 +21,12 @@
   "ledger": {
     "originator": "Christopher L Haynes",
     "verified_by": "PoeUMG",
-    "created_at": "AUTO",
+    "created_at": "2025-06-30T18:00:18.208930",
     "edit_log": []
   },
   "display": {
     "color": "yellow",
-    "icon": "📄"
+    "icon": "\ud83d\udcc4"
   },
   "code_modules": [],
   "runtime_behavior_flags": {},
@@ -31,14 +36,25 @@
   "block_id": "17e_dynamic_user_preference_switching_auto_restore_from_previous_visit",
   "label": "Auto-Restore from Previous Visit",
   "category": "Web App Builder/Localization I18n Timezones/17E Dynamic User Preference Switching",
-  "description": "Remembers user’s last locale",
+  "description": "Remembers user\u2019s last locale",
   "tags": [
     "auto_restore_from_previous_visit"
   ],
   "example_block_data": {
-    "content": "Remembers user’s last locale"
+    "content": "Remembers user\u2019s last locale"
   },
   "editable_fields": {
-    "content": "Remembers user’s last locale"
+    "content": "Remembers user\u2019s last locale"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
   }
 }

@@ -1,0 +1,1202 @@
+[
+  {
+    "block_id": "training_satisfaction_survey",
+    "label": "Training Satisfaction Survey",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: training_satisfaction_survey",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "training_satisfaction_survey info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "learning_metrics_dashboard",
+    "label": "Learning Metrics Dashboard",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: learning_metrics_dashboard",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "learning_metrics_dashboard info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "retraining_trigger_protocol",
+    "label": "Retraining Trigger Protocol",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: retraining_trigger_protocol",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "retraining_trigger_protocol info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "unit_economics_summary",
+    "label": "Unit Economics Summary",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: unit_economics_summary",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "unit_economics_summary info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "market_size_model",
+    "label": "Market Size Model",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: market_size_model",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "market_size_model info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "assumptions_log",
+    "label": "Assumptions Log",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: assumptions_log",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "assumptions_log info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "financial_snapshot",
+    "label": "Financial Snapshot",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: financial_snapshot",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "financial_snapshot info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "risk_matrix",
+    "label": "Risk Matrix",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: risk_matrix",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "risk_matrix info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "scenario_modeling",
+    "label": "Scenario Modeling",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: scenario_modeling",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "scenario_modeling info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "go_to_market_plan",
+    "label": "Go To Market Plan",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: go_to_market_plan",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "go_to_market_plan info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "target_user_persona",
+    "label": "Target User Persona",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: target_user_persona",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "target_user_persona info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "competitive_landscape",
+    "label": "Competitive Landscape",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: competitive_landscape",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "competitive_landscape info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "executive_summary",
+    "label": "Executive Summary",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: executive_summary",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "executive_summary info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "investment_memo",
+    "label": "Investment Memo",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: investment_memo",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "investment_memo info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "use_of_funds_summary",
+    "label": "Use Of Funds Summary",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: use_of_funds_summary",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "use_of_funds_summary info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "traction_snapshot",
+    "label": "Traction Snapshot",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: traction_snapshot",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "traction_snapshot info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "market_sizing_report",
+    "label": "Market Sizing Report",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: market_sizing_report",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "market_sizing_report info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "convertible_note_tracker",
+    "label": "Convertible Note Tracker",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: convertible_note_tracker",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "convertible_note_tracker info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "term_sheet",
+    "label": "Term Sheet",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: term_sheet",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "term_sheet info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "safe_convertible_note",
+    "label": "Safe Convertible Note",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: safe_convertible_note",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "safe_convertible_note info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "share_purchase_agreement",
+    "label": "Share Purchase Agreement",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: share_purchase_agreement",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "share_purchase_agreement info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "founders_agreement",
+    "label": "Founders Agreement",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: founders_agreement",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "founders_agreement info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "voting_rights_agreement",
+    "label": "Voting Rights Agreement",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: voting_rights_agreement",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "voting_rights_agreement info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "risk_disclosure_report",
+    "label": "Risk Disclosure Report",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: risk_disclosure_report",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "risk_disclosure_report info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  },
+  {
+    "block_id": "data_room_index",
+    "label": "Data Room Index",
+    "category": "missing_blocks.set4",
+    "molt_type": "Subject",
+    "tags": [
+      "recovered",
+      "from_master_list",
+      "set4"
+    ],
+    "cantocore": {
+      "summary": "This block was missing from vault and has been recreated based on canonical list. Label: data_room_index",
+      "created_from": "master_yaml_list"
+    },
+    "snap_config": {
+      "snap_to": [
+        "Primary"
+      ],
+      "fit_score": 0.85
+    },
+    "merge_logic": {
+      "priority": "low",
+      "allow_overlay": true
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T15:58:03.636399",
+      "edit_log": []
+    },
+    "display": {
+      "color": "green",
+      "icon": "\ud83d\udce6"
+    },
+    "editable_fields": [
+      "label",
+      "cantocore.summary",
+      "tags"
+    ],
+    "example_block_data": {
+      "example": "data_room_index info goes here."
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": {},
+    "agent_orchestration": {},
+    "future_extensions": []
+  }
+]

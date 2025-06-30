@@ -1,0 +1,43 @@
+{
+  "block_id": "trigger_on_export",
+  "label": "Run before export",
+  "category": "system_trigger",
+  "molt_type": "Trigger",
+  "tags": [
+    "autogen",
+    "core_logic"
+  ],
+  "description": "Run before export",
+  "editable_fields": [],
+  "snap_config": {
+    "snap_to": "stack",
+    "accepts": [
+      "Primary"
+    ]
+  },
+  "merge_logic": {},
+  "cantocore": {
+    "summary": "Run before export"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T17:01:14.605766",
+    "edit_log": []
+  },
+  "display": {
+    "color": "Trigger",
+    "icon": "circle"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  }
+}
