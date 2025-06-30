@@ -1,0 +1,42 @@
+{
+  "block_id": "web__Subject_pages",
+  "label": "Web  Subject Pages",
+  "category": "autogen",
+  "description": "Auto-generated stub for web__Subject_pages",
+  "molt_type": "Subject",
+  "tags": [
+    "autogen",
+    "stub"
+  ],
+  "cantocore": "TEMPLATE.WEB__SUBJECT_PAGES",
+  "snap_config": {
+    "accepts": [],
+    "priority": 99
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "autogen"
+  },
+  "stack_priority": 1,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "autogen",
+    "fit_score": 0.8,
+    "display_hint": ""
+  },
+  "display": {
+    "color": "gray",
+    "icon": "\ud83e\udde9"
+  },
+  "editable_fields": [
+    "label",
+    "description"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:19:54.774351",
+    "edit_log": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "block_id": "bp__Philosophy_mission_driven",
+  "label": "Bp  Philosophy Mission Driven",
+  "category": "autogen",
+  "description": "Auto-generated stub for bp__Philosophy_mission_driven",
+  "molt_type": "Philosophy",
+  "tags": [
+    "autogen",
+    "stub"
+  ],
+  "cantocore": "TEMPLATE.BP__PHILOSOPHY_MISSION_DRIVEN",
+  "snap_config": {
+    "accepts": [],
+    "priority": 99
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "autogen"
+  },
+  "stack_priority": 4,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "autogen",
+    "fit_score": 0.8,
+    "display_hint": ""
+  },
+  "display": {
+    "color": "gray",
+    "icon": "\ud83e\udde9"
+  },
+  "editable_fields": [
+    "label",
+    "description"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:19:54.777312",
+    "edit_log": []
+  }
+}

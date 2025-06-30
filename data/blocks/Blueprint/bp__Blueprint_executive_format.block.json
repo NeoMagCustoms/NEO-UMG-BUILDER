@@ -1,0 +1,42 @@
+{
+  "block_id": "bp__Blueprint_executive_format",
+  "label": "Bp  Blueprint Executive Format",
+  "category": "autogen",
+  "description": "Auto-generated stub for bp__Blueprint_executive_format",
+  "molt_type": "Blueprint",
+  "tags": [
+    "autogen",
+    "stub"
+  ],
+  "cantocore": "TEMPLATE.BP__BLUEPRINT_EXECUTIVE_FORMAT",
+  "snap_config": {
+    "accepts": [],
+    "priority": 99
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "autogen"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "autogen",
+    "fit_score": 0.8,
+    "display_hint": ""
+  },
+  "display": {
+    "color": "gray",
+    "icon": "\ud83e\udde9"
+  },
+  "editable_fields": [
+    "label",
+    "description"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:19:54.778599",
+    "edit_log": []
+  }
+}
