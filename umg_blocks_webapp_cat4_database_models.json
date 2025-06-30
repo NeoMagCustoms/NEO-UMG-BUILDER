@@ -1,0 +1,1542 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4a_core_schema_modeling_entity_schema_definition",
+    "label": "Entity Schema Definition",
+    "category": "Web App Builder/Database Data Models/4A Core Schema Modeling",
+    "description": "Objects like User, Post, Product, etc.",
+    "tags": [
+      "entity_schema_definition"
+    ],
+    "example_block_data": {
+      "content": "Objects like User, Post, Product, etc."
+    },
+    "editable_fields": {
+      "content": "Objects like User, Post, Product, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4a_core_schema_modeling_field_types_null_rules",
+    "label": "Field Types + Null Rules",
+    "category": "Web App Builder/Database Data Models/4A Core Schema Modeling",
+    "description": "Define field names, types, required vs optional",
+    "tags": [
+      "field_types_null_rules"
+    ],
+    "example_block_data": {
+      "content": "Define field names, types, required vs optional"
+    },
+    "editable_fields": {
+      "content": "Define field names, types, required vs optional"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4a_core_schema_modeling_default_values_auto_fields",
+    "label": "Default Values & Auto Fields",
+    "category": "Web App Builder/Database Data Models/4A Core Schema Modeling",
+    "description": "Auto-generated timestamps, UUIDs, etc.",
+    "tags": [
+      "default_values_auto_fields"
+    ],
+    "example_block_data": {
+      "content": "Auto-generated timestamps, UUIDs, etc."
+    },
+    "editable_fields": {
+      "content": "Auto-generated timestamps, UUIDs, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4a_core_schema_modeling_schema_comments_docs",
+    "label": "Schema Comments & Docs",
+    "category": "Web App Builder/Database Data Models/4A Core Schema Modeling",
+    "description": "Developer-friendly model descriptions",
+    "tags": [
+      "schema_comments_docs"
+    ],
+    "example_block_data": {
+      "content": "Developer-friendly model descriptions"
+    },
+    "editable_fields": {
+      "content": "Developer-friendly model descriptions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4a_core_schema_modeling_id_strategy_uuid_snowflake",
+    "label": "ID Strategy (UUID, Snowflake)",
+    "category": "Web App Builder/Database Data Models/4A Core Schema Modeling",
+    "description": "Unique ID type per row",
+    "tags": [
+      "id_strategy_uuid_snowflake"
+    ],
+    "example_block_data": {
+      "content": "Unique ID type per row"
+    },
+    "editable_fields": {
+      "content": "Unique ID type per row"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4b_database_system_config_postgresql_mysql_sqlite",
+    "label": "PostgreSQL / MySQL / SQLite",
+    "category": "Web App Builder/Database Data Models/4B Database System Config",
+    "description": "Relational systems for strong typing",
+    "tags": [
+      "postgresql_mysql_sqlite"
+    ],
+    "example_block_data": {
+      "content": "Relational systems for strong typing"
+    },
+    "editable_fields": {
+      "content": "Relational systems for strong typing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4b_database_system_config_mongodb_firestore",
+    "label": "MongoDB / Firestore",
+    "category": "Web App Builder/Database Data Models/4B Database System Config",
+    "description": "NoSQL for flexible documents",
+    "tags": [
+      "mongodb_firestore"
+    ],
+    "example_block_data": {
+      "content": "NoSQL for flexible documents"
+    },
+    "editable_fields": {
+      "content": "NoSQL for flexible documents"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4b_database_system_config_supabase_planetscale",
+    "label": "Supabase / PlanetScale",
+    "category": "Web App Builder/Database Data Models/4B Database System Config",
+    "description": "Managed Postgres serverless platforms",
+    "tags": [
+      "supabase_planetscale"
+    ],
+    "example_block_data": {
+      "content": "Managed Postgres serverless platforms"
+    },
+    "editable_fields": {
+      "content": "Managed Postgres serverless platforms"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4b_database_system_config_connection_uri_pooling",
+    "label": "Connection URI & Pooling",
+    "category": "Web App Builder/Database Data Models/4B Database System Config",
+    "description": "Credentials and concurrent usage config",
+    "tags": [
+      "connection_uri_pooling"
+    ],
+    "example_block_data": {
+      "content": "Credentials and concurrent usage config"
+    },
+    "editable_fields": {
+      "content": "Credentials and concurrent usage config"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4b_database_system_config_environment_switching",
+    "label": "Environment Switching",
+    "category": "Web App Builder/Database Data Models/4B Database System Config",
+    "description": "Dev/test/prod DB toggles",
+    "tags": [
+      "environment_switching"
+    ],
+    "example_block_data": {
+      "content": "Dev/test/prod DB toggles"
+    },
+    "editable_fields": {
+      "content": "Dev/test/prod DB toggles"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4c_orm_query_logic_prisma_sequelize_typeorm",
+    "label": "Prisma / Sequelize / TypeORM",
+    "category": "Web App Builder/Database Data Models/4C Orm Query Logic",
+    "description": "Maps database to TypeScript objects",
+    "tags": [
+      "prisma_sequelize_typeorm"
+    ],
+    "example_block_data": {
+      "content": "Maps database to TypeScript objects"
+    },
+    "editable_fields": {
+      "content": "Maps database to TypeScript objects"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4c_orm_query_logic_custom_query_functions",
+    "label": "Custom Query Functions",
+    "category": "Web App Builder/Database Data Models/4C Orm Query Logic",
+    "description": "Search, filters, computed data",
+    "tags": [
+      "custom_query_functions"
+    ],
+    "example_block_data": {
+      "content": "Search, filters, computed data"
+    },
+    "editable_fields": {
+      "content": "Search, filters, computed data"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4c_orm_query_logic_raw_sql_or_native_queries",
+    "label": "Raw SQL or Native Queries",
+    "category": "Web App Builder/Database Data Models/4C Orm Query Logic",
+    "description": "Performance-tuned or complex joins",
+    "tags": [
+      "raw_sql_or_native_queries"
+    ],
+    "example_block_data": {
+      "content": "Performance-tuned or complex joins"
+    },
+    "editable_fields": {
+      "content": "Performance-tuned or complex joins"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4c_orm_query_logic_relationship_mapping_logic",
+    "label": "Relationship Mapping Logic",
+    "category": "Web App Builder/Database Data Models/4C Orm Query Logic",
+    "description": "One-to-many, many-to-many joins",
+    "tags": [
+      "relationship_mapping_logic"
+    ],
+    "example_block_data": {
+      "content": "One-to-many, many-to-many joins"
+    },
+    "editable_fields": {
+      "content": "One-to-many, many-to-many joins"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4c_orm_query_logic_pagination_ordering_utils",
+    "label": "Pagination & Ordering Utils",
+    "category": "Web App Builder/Database Data Models/4C Orm Query Logic",
+    "description": "Efficient cursor/page logic",
+    "tags": [
+      "pagination_ordering_utils"
+    ],
+    "example_block_data": {
+      "content": "Efficient cursor/page logic"
+    },
+    "editable_fields": {
+      "content": "Efficient cursor/page logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4d_migrations_seeds_migration_files",
+    "label": "Migration Files",
+    "category": "Web App Builder/Database Data Models/4D Migrations Seeds",
+    "description": "Schema change history",
+    "tags": [
+      "migration_files"
+    ],
+    "example_block_data": {
+      "content": "Schema change history"
+    },
+    "editable_fields": {
+      "content": "Schema change history"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4d_migrations_seeds_seed_scripts",
+    "label": "Seed Scripts",
+    "category": "Web App Builder/Database Data Models/4D Migrations Seeds",
+    "description": "Adds default data (admin, categories, etc.)",
+    "tags": [
+      "seed_scripts"
+    ],
+    "example_block_data": {
+      "content": "Adds default data (admin, categories, etc.)"
+    },
+    "editable_fields": {
+      "content": "Adds default data (admin, categories, etc.)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4d_migrations_seeds_rollback_scripts",
+    "label": "Rollback Scripts",
+    "category": "Web App Builder/Database Data Models/4D Migrations Seeds",
+    "description": "Undo broken migrations",
+    "tags": [
+      "rollback_scripts"
+    ],
+    "example_block_data": {
+      "content": "Undo broken migrations"
+    },
+    "editable_fields": {
+      "content": "Undo broken migrations"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4d_migrations_seeds_version_control_integration",
+    "label": "Version Control Integration",
+    "category": "Web App Builder/Database Data Models/4D Migrations Seeds",
+    "description": "Tie schema to git commits",
+    "tags": [
+      "version_control_integration"
+    ],
+    "example_block_data": {
+      "content": "Tie schema to git commits"
+    },
+    "editable_fields": {
+      "content": "Tie schema to git commits"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4d_migrations_seeds_auto_migration_tooling",
+    "label": "Auto-Migration Tooling",
+    "category": "Web App Builder/Database Data Models/4D Migrations Seeds",
+    "description": "Prisma push, drizzle sync, etc.",
+    "tags": [
+      "auto_migration_tooling"
+    ],
+    "example_block_data": {
+      "content": "Prisma push, drizzle sync, etc."
+    },
+    "editable_fields": {
+      "content": "Prisma push, drizzle sync, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4e_validation_constraints_field_length_format_checks",
+    "label": "Field Length / Format Checks",
+    "category": "Web App Builder/Database Data Models/4E Validation Constraints",
+    "description": "Ensures inputs are safe + valid",
+    "tags": [
+      "field_length_format_checks"
+    ],
+    "example_block_data": {
+      "content": "Ensures inputs are safe + valid"
+    },
+    "editable_fields": {
+      "content": "Ensures inputs are safe + valid"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4e_validation_constraints_unique_indexes",
+    "label": "Unique Indexes",
+    "category": "Web App Builder/Database Data Models/4E Validation Constraints",
+    "description": "Prevents duplicates (e.g., email)",
+    "tags": [
+      "unique_indexes"
+    ],
+    "example_block_data": {
+      "content": "Prevents duplicates (e.g., email)"
+    },
+    "editable_fields": {
+      "content": "Prevents duplicates (e.g., email)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4e_validation_constraints_foreign_keys_references",
+    "label": "Foreign Keys / References",
+    "category": "Web App Builder/Database Data Models/4E Validation Constraints",
+    "description": "Maintains relational integrity",
+    "tags": [
+      "foreign_keys_references"
+    ],
+    "example_block_data": {
+      "content": "Maintains relational integrity"
+    },
+    "editable_fields": {
+      "content": "Maintains relational integrity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4e_validation_constraints_soft_delete_flags",
+    "label": "Soft Delete Flags",
+    "category": "Web App Builder/Database Data Models/4E Validation Constraints",
+    "description": "Archive vs delete",
+    "tags": [
+      "soft_delete_flags"
+    ],
+    "example_block_data": {
+      "content": "Archive vs delete"
+    },
+    "editable_fields": {
+      "content": "Archive vs delete"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4e_validation_constraints_field_level_encryption",
+    "label": "Field-Level Encryption",
+    "category": "Web App Builder/Database Data Models/4E Validation Constraints",
+    "description": "Encrypts PII at DB level",
+    "tags": [
+      "field_level_encryption"
+    ],
+    "example_block_data": {
+      "content": "Encrypts PII at DB level"
+    },
+    "editable_fields": {
+      "content": "Encrypts PII at DB level"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4f_relational_document_patterns_join_tables",
+    "label": "Join Tables",
+    "category": "Web App Builder/Database Data Models/4F Relational Document Patterns",
+    "description": "Enables many-to-many (e.g., User-Role)",
+    "tags": [
+      "join_tables"
+    ],
+    "example_block_data": {
+      "content": "Enables many-to-many (e.g., User-Role)"
+    },
+    "editable_fields": {
+      "content": "Enables many-to-many (e.g., User-Role)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4f_relational_document_patterns_embedded_document_strategy",
+    "label": "Embedded Document Strategy",
+    "category": "Web App Builder/Database Data Models/4F Relational Document Patterns",
+    "description": "NoSQL nested records (e.g., user.preferences)",
+    "tags": [
+      "embedded_document_strategy"
+    ],
+    "example_block_data": {
+      "content": "NoSQL nested records (e.g., user.preferences)"
+    },
+    "editable_fields": {
+      "content": "NoSQL nested records (e.g., user.preferences)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4f_relational_document_patterns_denormalization",
+    "label": "Denormalization",
+    "category": "Web App Builder/Database Data Models/4F Relational Document Patterns",
+    "description": "Improve read speed, reduce joins",
+    "tags": [
+      "denormalization"
+    ],
+    "example_block_data": {
+      "content": "Improve read speed, reduce joins"
+    },
+    "editable_fields": {
+      "content": "Improve read speed, reduce joins"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4f_relational_document_patterns_history_tables",
+    "label": "History Tables",
+    "category": "Web App Builder/Database Data Models/4F Relational Document Patterns",
+    "description": "Change log per record",
+    "tags": [
+      "history_tables"
+    ],
+    "example_block_data": {
+      "content": "Change log per record"
+    },
+    "editable_fields": {
+      "content": "Change log per record"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4f_relational_document_patterns_partitioned_tables",
+    "label": "Partitioned Tables",
+    "category": "Web App Builder/Database Data Models/4F Relational Document Patterns",
+    "description": "Massive data scaling",
+    "tags": [
+      "partitioned_tables"
+    ],
+    "example_block_data": {
+      "content": "Massive data scaling"
+    },
+    "editable_fields": {
+      "content": "Massive data scaling"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4g_test_fixtures_mock_data_test_factories",
+    "label": "Test Factories",
+    "category": "Web App Builder/Database Data Models/4G Test Fixtures Mock Data",
+    "description": "Creates fake but valid records",
+    "tags": [
+      "test_factories"
+    ],
+    "example_block_data": {
+      "content": "Creates fake but valid records"
+    },
+    "editable_fields": {
+      "content": "Creates fake but valid records"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4g_test_fixtures_mock_data_scenario_seeds",
+    "label": "Scenario Seeds",
+    "category": "Web App Builder/Database Data Models/4G Test Fixtures Mock Data",
+    "description": "Populates data for UI testing",
+    "tags": [
+      "scenario_seeds"
+    ],
+    "example_block_data": {
+      "content": "Populates data for UI testing"
+    },
+    "editable_fields": {
+      "content": "Populates data for UI testing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4g_test_fixtures_mock_data_mock_db_adapters",
+    "label": "Mock DB Adapters",
+    "category": "Web App Builder/Database Data Models/4G Test Fixtures Mock Data",
+    "description": "Swap real DB for test runtime",
+    "tags": [
+      "mock_db_adapters"
+    ],
+    "example_block_data": {
+      "content": "Swap real DB for test runtime"
+    },
+    "editable_fields": {
+      "content": "Swap real DB for test runtime"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4g_test_fixtures_mock_data_cleanup_hooks",
+    "label": "Cleanup Hooks",
+    "category": "Web App Builder/Database Data Models/4G Test Fixtures Mock Data",
+    "description": "Reset DB after tests",
+    "tags": [
+      "cleanup_hooks"
+    ],
+    "example_block_data": {
+      "content": "Reset DB after tests"
+    },
+    "editable_fields": {
+      "content": "Reset DB after tests"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 4,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "4g_test_fixtures_mock_data_sandbox_databases",
+    "label": "Sandbox Databases",
+    "category": "Web App Builder/Database Data Models/4G Test Fixtures Mock Data",
+    "description": "Used for preview/testing environments",
+    "tags": [
+      "sandbox_databases"
+    ],
+    "example_block_data": {
+      "content": "Used for preview/testing environments"
+    },
+    "editable_fields": {
+      "content": "Used for preview/testing environments"
+    }
+  }
+]

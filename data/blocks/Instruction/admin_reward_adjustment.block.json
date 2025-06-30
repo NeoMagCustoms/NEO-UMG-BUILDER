@@ -1,0 +1,7 @@
+{
+  "block_id": "admin_reward_adjustment",
+  "label": "Admin Panel for Manual Adjustment",
+  "category": "Web App/Gamification/27F",
+  "description": "Fix or edit user rewards",
+  "molt_type": "Instruction"
+}

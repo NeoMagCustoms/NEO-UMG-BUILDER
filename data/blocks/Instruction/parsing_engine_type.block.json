@@ -1,0 +1,46 @@
+{
+  "block_id": "parsing_engine_type",
+  "label": "Parsing Engine Type",
+  "category": "File Upload & Data Parsing",
+  "description": "The method used to extract data (e.g., text-only, table-aware, NLP parser)",
+  "molt_type": "Instruction",
+  "tags": [
+    "parsing_engine_type",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🧠"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "The method used to extract data (e.g., text-only, table-aware, NLP parser) This defines how the bot will perform or respond using this input."
+  },
+  "editable_fields": {
+    "content": "Parsing Engine Type: The method used to extract data (e.g., text-only, table-aware, NLP parser)"
+  }
+}

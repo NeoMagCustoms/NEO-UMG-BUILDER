@@ -1,0 +1,2202 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9a_planning_roadmapping_project_brief",
+    "label": "Project Brief",
+    "category": "Business Plans/Web App/Chatbot/9A Planning Roadmapping",
+    "description": "Defines goal, scope, and context of a project",
+    "tags": [
+      "project_brief"
+    ],
+    "example_block_data": {
+      "content": "Defines goal, scope, and context of a project"
+    },
+    "editable_fields": {
+      "content": "Defines goal, scope, and context of a project"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9a_planning_roadmapping_project_roadmap",
+    "label": "Project Roadmap",
+    "category": "Business Plans/Web App/Chatbot/9A Planning Roadmapping",
+    "description": "Timeline of major phases or features",
+    "tags": [
+      "project_roadmap"
+    ],
+    "example_block_data": {
+      "content": "Timeline of major phases or features"
+    },
+    "editable_fields": {
+      "content": "Timeline of major phases or features"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9a_planning_roadmapping_gantt_chart",
+    "label": "Gantt Chart",
+    "category": "Business Plans/Web App/Chatbot/9A Planning Roadmapping",
+    "description": "Visual representation of tasks over time",
+    "tags": [
+      "gantt_chart"
+    ],
+    "example_block_data": {
+      "content": "Visual representation of tasks over time"
+    },
+    "editable_fields": {
+      "content": "Visual representation of tasks over time"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9a_planning_roadmapping_requirements_document",
+    "label": "Requirements Document",
+    "category": "Business Plans/Web App/Chatbot/9A Planning Roadmapping",
+    "description": "Technical or functional needs per feature",
+    "tags": [
+      "requirements_document"
+    ],
+    "example_block_data": {
+      "content": "Technical or functional needs per feature"
+    },
+    "editable_fields": {
+      "content": "Technical or functional needs per feature"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9a_planning_roadmapping_resource_allocation_plan",
+    "label": "Resource Allocation Plan",
+    "category": "Business Plans/Web App/Chatbot/9A Planning Roadmapping",
+    "description": "Who\u2019s doing what, when, with what capacity",
+    "tags": [
+      "resource_allocation_plan"
+    ],
+    "example_block_data": {
+      "content": "Who\u2019s doing what, when, with what capacity"
+    },
+    "editable_fields": {
+      "content": "Who\u2019s doing what, when, with what capacity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9b_execution_tracking_task_breakdown_sheet",
+    "label": "Task Breakdown Sheet",
+    "category": "Business Plans/Web App/Chatbot/9B Execution Tracking",
+    "description": "Itemized list of deliverables",
+    "tags": [
+      "task_breakdown_sheet"
+    ],
+    "example_block_data": {
+      "content": "Itemized list of deliverables"
+    },
+    "editable_fields": {
+      "content": "Itemized list of deliverables"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9b_execution_tracking_project_status_report",
+    "label": "Project Status Report",
+    "category": "Business Plans/Web App/Chatbot/9B Execution Tracking",
+    "description": "Weekly/monthly health check on goals, blockers, velocity",
+    "tags": [
+      "project_status_report"
+    ],
+    "example_block_data": {
+      "content": "Weekly/monthly health check on goals, blockers, velocity"
+    },
+    "editable_fields": {
+      "content": "Weekly/monthly health check on goals, blockers, velocity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9b_execution_tracking_sprint_planning_sheet",
+    "label": "Sprint Planning Sheet",
+    "category": "Business Plans/Web App/Chatbot/9B Execution Tracking",
+    "description": "For Agile teams: iteration goals and responsibilities",
+    "tags": [
+      "sprint_planning_sheet"
+    ],
+    "example_block_data": {
+      "content": "For Agile teams: iteration goals and responsibilities"
+    },
+    "editable_fields": {
+      "content": "For Agile teams: iteration goals and responsibilities"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9b_execution_tracking_kanban_board_export",
+    "label": "Kanban Board Export",
+    "category": "Business Plans/Web App/Chatbot/9B Execution Tracking",
+    "description": "Snapshot or export of live task board",
+    "tags": [
+      "kanban_board_export"
+    ],
+    "example_block_data": {
+      "content": "Snapshot or export of live task board"
+    },
+    "editable_fields": {
+      "content": "Snapshot or export of live task board"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9b_execution_tracking_time_tracking_summary",
+    "label": "Time Tracking Summary",
+    "category": "Business Plans/Web App/Chatbot/9B Execution Tracking",
+    "description": "Billable vs non-billable hours or general labor logs",
+    "tags": [
+      "time_tracking_summary"
+    ],
+    "example_block_data": {
+      "content": "Billable vs non-billable hours or general labor logs"
+    },
+    "editable_fields": {
+      "content": "Billable vs non-billable hours or general labor logs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9c_risk_change_blockers_risk_management_plan",
+    "label": "Risk Management Plan",
+    "category": "Business Plans/Web App/Chatbot/9C Risk Change Blockers",
+    "description": "Anticipated obstacles and mitigation tactics",
+    "tags": [
+      "risk_management_plan"
+    ],
+    "example_block_data": {
+      "content": "Anticipated obstacles and mitigation tactics"
+    },
+    "editable_fields": {
+      "content": "Anticipated obstacles and mitigation tactics"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9c_risk_change_blockers_issue_bug_tracker",
+    "label": "Issue/Bug Tracker",
+    "category": "Business Plans/Web App/Chatbot/9C Risk Change Blockers",
+    "description": "Central log of technical or client-facing problems",
+    "tags": [
+      "issue_bug_tracker"
+    ],
+    "example_block_data": {
+      "content": "Central log of technical or client-facing problems"
+    },
+    "editable_fields": {
+      "content": "Central log of technical or client-facing problems"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9c_risk_change_blockers_change_request_form",
+    "label": "Change Request Form",
+    "category": "Business Plans/Web App/Chatbot/9C Risk Change Blockers",
+    "description": "Template for mid-project feature changes",
+    "tags": [
+      "change_request_form"
+    ],
+    "example_block_data": {
+      "content": "Template for mid-project feature changes"
+    },
+    "editable_fields": {
+      "content": "Template for mid-project feature changes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9c_risk_change_blockers_blocker_resolution_log",
+    "label": "Blocker Resolution Log",
+    "category": "Business Plans/Web App/Chatbot/9C Risk Change Blockers",
+    "description": "Historic record of past issues and how they were solved",
+    "tags": [
+      "blocker_resolution_log"
+    ],
+    "example_block_data": {
+      "content": "Historic record of past issues and how they were solved"
+    },
+    "editable_fields": {
+      "content": "Historic record of past issues and how they were solved"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9c_risk_change_blockers_incident_report",
+    "label": "Incident Report",
+    "category": "Business Plans/Web App/Chatbot/9C Risk Change Blockers",
+    "description": "System or team failure documentation and aftermath report",
+    "tags": [
+      "incident_report"
+    ],
+    "example_block_data": {
+      "content": "System or team failure documentation and aftermath report"
+    },
+    "editable_fields": {
+      "content": "System or team failure documentation and aftermath report"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9d_closure_retrospective_project_completion_summary",
+    "label": "Project Completion Summary",
+    "category": "Business Plans/Web App/Chatbot/9D Closure Retrospective",
+    "description": "What was built, shipped, and accomplished",
+    "tags": [
+      "project_completion_summary"
+    ],
+    "example_block_data": {
+      "content": "What was built, shipped, and accomplished"
+    },
+    "editable_fields": {
+      "content": "What was built, shipped, and accomplished"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9d_closure_retrospective_retrospective_notes",
+    "label": "Retrospective Notes",
+    "category": "Business Plans/Web App/Chatbot/9D Closure Retrospective",
+    "description": "Team reflection on what went well and what didn\u2019t",
+    "tags": [
+      "retrospective_notes"
+    ],
+    "example_block_data": {
+      "content": "Team reflection on what went well and what didn\u2019t"
+    },
+    "editable_fields": {
+      "content": "Team reflection on what went well and what didn\u2019t"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9d_closure_retrospective_client_handoff_packet",
+    "label": "Client Handoff Packet",
+    "category": "Business Plans/Web App/Chatbot/9D Closure Retrospective",
+    "description": "Final delivery with how-tos and assets",
+    "tags": [
+      "client_handoff_packet"
+    ],
+    "example_block_data": {
+      "content": "Final delivery with how-tos and assets"
+    },
+    "editable_fields": {
+      "content": "Final delivery with how-tos and assets"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9d_closure_retrospective_success_metrics_report",
+    "label": "Success Metrics Report",
+    "category": "Business Plans/Web App/Chatbot/9D Closure Retrospective",
+    "description": "Results vs goals vs timelines",
+    "tags": [
+      "success_metrics_report"
+    ],
+    "example_block_data": {
+      "content": "Results vs goals vs timelines"
+    },
+    "editable_fields": {
+      "content": "Results vs goals vs timelines"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9d_closure_retrospective_archival_checklist",
+    "label": "Archival Checklist",
+    "category": "Business Plans/Web App/Chatbot/9D Closure Retrospective",
+    "description": "What to store, where, and in what format",
+    "tags": [
+      "archival_checklist"
+    ],
+    "example_block_data": {
+      "content": "What to store, where, and in what format"
+    },
+    "editable_fields": {
+      "content": "What to store, where, and in what format"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9e_team_communication_meeting_agenda_template",
+    "label": "Meeting Agenda Template",
+    "category": "Business Plans/Web App/Chatbot/9E Team Communication",
+    "description": "For structured internal meetings",
+    "tags": [
+      "meeting_agenda_template"
+    ],
+    "example_block_data": {
+      "content": "For structured internal meetings"
+    },
+    "editable_fields": {
+      "content": "For structured internal meetings"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9e_team_communication_meeting_notes_log",
+    "label": "Meeting Notes Log",
+    "category": "Business Plans/Web App/Chatbot/9E Team Communication",
+    "description": "Running notes and action items",
+    "tags": [
+      "meeting_notes_log"
+    ],
+    "example_block_data": {
+      "content": "Running notes and action items"
+    },
+    "editable_fields": {
+      "content": "Running notes and action items"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9e_team_communication_team_roles_contacts_sheet",
+    "label": "Team Roles & Contacts Sheet",
+    "category": "Business Plans/Web App/Chatbot/9E Team Communication",
+    "description": "Internal Who\u2019s Who",
+    "tags": [
+      "team_roles_contacts_sheet"
+    ],
+    "example_block_data": {
+      "content": "Internal Who\u2019s Who"
+    },
+    "editable_fields": {
+      "content": "Internal Who\u2019s Who"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9e_team_communication_communication_protocol_guide",
+    "label": "Communication Protocol Guide",
+    "category": "Business Plans/Web App/Chatbot/9E Team Communication",
+    "description": "How/when/where teams talk to each other",
+    "tags": [
+      "communication_protocol_guide"
+    ],
+    "example_block_data": {
+      "content": "How/when/where teams talk to each other"
+    },
+    "editable_fields": {
+      "content": "How/when/where teams talk to each other"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9e_team_communication_collaboration_platform_policy",
+    "label": "Collaboration Platform Policy",
+    "category": "Business Plans/Web App/Chatbot/9E Team Communication",
+    "description": "Slack, Notion, Jira, etc. rules of engagement",
+    "tags": [
+      "collaboration_platform_policy"
+    ],
+    "example_block_data": {
+      "content": "Slack, Notion, Jira, etc. rules of engagement"
+    },
+    "editable_fields": {
+      "content": "Slack, Notion, Jira, etc. rules of engagement"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10a_lesson_curriculum_teaching_plan",
+    "label": "Teaching Plan",
+    "category": "Business Plans/Web App/Chatbot/10A Lesson Curriculum",
+    "description": "A modular structure for an individual lesson",
+    "tags": [
+      "teaching_plan"
+    ],
+    "example_block_data": {
+      "content": "A modular structure for an individual lesson"
+    },
+    "editable_fields": {
+      "content": "A modular structure for an individual lesson"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10a_lesson_curriculum_multi_lesson_curriculum",
+    "label": "Multi-Lesson Curriculum",
+    "category": "Business Plans/Web App/Chatbot/10A Lesson Curriculum",
+    "description": "Sequential grouping of connected lessons",
+    "tags": [
+      "multi_lesson_curriculum"
+    ],
+    "example_block_data": {
+      "content": "Sequential grouping of connected lessons"
+    },
+    "editable_fields": {
+      "content": "Sequential grouping of connected lessons"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10a_lesson_curriculum_training_pathway_map",
+    "label": "Training Pathway Map",
+    "category": "Business Plans/Web App/Chatbot/10A Lesson Curriculum",
+    "description": "Tiered development roadmap (e.g. beginner \u2192 expert)",
+    "tags": [
+      "training_pathway_map"
+    ],
+    "example_block_data": {
+      "content": "Tiered development roadmap (e.g. beginner \u2192 expert)"
+    },
+    "editable_fields": {
+      "content": "Tiered development roadmap (e.g. beginner \u2192 expert)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10a_lesson_curriculum_objective_definition_sheet",
+    "label": "Objective Definition Sheet",
+    "category": "Business Plans/Web App/Chatbot/10A Lesson Curriculum",
+    "description": "What learners should understand or do",
+    "tags": [
+      "objective_definition_sheet"
+    ],
+    "example_block_data": {
+      "content": "What learners should understand or do"
+    },
+    "editable_fields": {
+      "content": "What learners should understand or do"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10a_lesson_curriculum_instructor_notes_template",
+    "label": "Instructor Notes Template",
+    "category": "Business Plans/Web App/Chatbot/10A Lesson Curriculum",
+    "description": "Behind-the-scenes teaching aids and instructions",
+    "tags": [
+      "instructor_notes_template"
+    ],
+    "example_block_data": {
+      "content": "Behind-the-scenes teaching aids and instructions"
+    },
+    "editable_fields": {
+      "content": "Behind-the-scenes teaching aids and instructions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10b_onboarding_role_training_department_onboarding_guide",
+    "label": "Department Onboarding Guide",
+    "category": "Business Plans/Web App/Chatbot/10B Onboarding Role Training",
+    "description": "Intro to specific team, tools, processes",
+    "tags": [
+      "department_onboarding_guide"
+    ],
+    "example_block_data": {
+      "content": "Intro to specific team, tools, processes"
+    },
+    "editable_fields": {
+      "content": "Intro to specific team, tools, processes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10b_onboarding_role_training_role_specific_training_packet",
+    "label": "Role-Specific Training Packet",
+    "category": "Business Plans/Web App/Chatbot/10B Onboarding Role Training",
+    "description": "SOPs, software, checklists for one role",
+    "tags": [
+      "role_specific_training_packet"
+    ],
+    "example_block_data": {
+      "content": "SOPs, software, checklists for one role"
+    },
+    "editable_fields": {
+      "content": "SOPs, software, checklists for one role"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10b_onboarding_role_training_probation_period_goals",
+    "label": "Probation Period Goals",
+    "category": "Business Plans/Web App/Chatbot/10B Onboarding Role Training",
+    "description": "Expected milestones in first 30/60/90 days",
+    "tags": [
+      "probation_period_goals"
+    ],
+    "example_block_data": {
+      "content": "Expected milestones in first 30/60/90 days"
+    },
+    "editable_fields": {
+      "content": "Expected milestones in first 30/60/90 days"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10b_onboarding_role_training_job_shadowing_schedule",
+    "label": "Job Shadowing Schedule",
+    "category": "Business Plans/Web App/Chatbot/10B Onboarding Role Training",
+    "description": "Who new hires observe and for how long",
+    "tags": [
+      "job_shadowing_schedule"
+    ],
+    "example_block_data": {
+      "content": "Who new hires observe and for how long"
+    },
+    "editable_fields": {
+      "content": "Who new hires observe and for how long"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10b_onboarding_role_training_welcome_orientation_script",
+    "label": "Welcome Orientation Script",
+    "category": "Business Plans/Web App/Chatbot/10B Onboarding Role Training",
+    "description": "First-day agenda and welcome content",
+    "tags": [
+      "welcome_orientation_script"
+    ],
+    "example_block_data": {
+      "content": "First-day agenda and welcome content"
+    },
+    "editable_fields": {
+      "content": "First-day agenda and welcome content"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10c_learning_materials_formats_slide_deck",
+    "label": "Slide Deck",
+    "category": "Business Plans/Web App/Chatbot/10C Learning Materials Formats",
+    "description": "Visual support for live or async lessons",
+    "tags": [
+      "slide_deck"
+    ],
+    "example_block_data": {
+      "content": "Visual support for live or async lessons"
+    },
+    "editable_fields": {
+      "content": "Visual support for live or async lessons"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10c_learning_materials_formats_interactive_worksheet",
+    "label": "Interactive Worksheet",
+    "category": "Business Plans/Web App/Chatbot/10C Learning Materials Formats",
+    "description": "Fillable learning exercise",
+    "tags": [
+      "interactive_worksheet"
+    ],
+    "example_block_data": {
+      "content": "Fillable learning exercise"
+    },
+    "editable_fields": {
+      "content": "Fillable learning exercise"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10c_learning_materials_formats_reading_packet",
+    "label": "Reading Packet",
+    "category": "Business Plans/Web App/Chatbot/10C Learning Materials Formats",
+    "description": "Required or supplemental reading materials",
+    "tags": [
+      "reading_packet"
+    ],
+    "example_block_data": {
+      "content": "Required or supplemental reading materials"
+    },
+    "editable_fields": {
+      "content": "Required or supplemental reading materials"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10c_learning_materials_formats_video_script_template",
+    "label": "Video Script Template",
+    "category": "Business Plans/Web App/Chatbot/10C Learning Materials Formats",
+    "description": "Guide for creating video walkthroughs",
+    "tags": [
+      "video_script_template"
+    ],
+    "example_block_data": {
+      "content": "Guide for creating video walkthroughs"
+    },
+    "editable_fields": {
+      "content": "Guide for creating video walkthroughs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10c_learning_materials_formats_self_paced_learning_portal_map",
+    "label": "Self-Paced Learning Portal Map",
+    "category": "Business Plans/Web App/Chatbot/10C Learning Materials Formats",
+    "description": "Architecture for asynchronous learning delivery",
+    "tags": [
+      "self_paced_learning_portal_map"
+    ],
+    "example_block_data": {
+      "content": "Architecture for asynchronous learning delivery"
+    },
+    "editable_fields": {
+      "content": "Architecture for asynchronous learning delivery"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10d_assessment_certification_quiz_test_template",
+    "label": "Quiz/Test Template",
+    "category": "Business Plans/Web App/Chatbot/10D Assessment Certification",
+    "description": "Knowledge checks tied to lessons",
+    "tags": [
+      "quiz_test_template"
+    ],
+    "example_block_data": {
+      "content": "Knowledge checks tied to lessons"
+    },
+    "editable_fields": {
+      "content": "Knowledge checks tied to lessons"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10d_assessment_certification_skills_demonstration_rubric",
+    "label": "Skills Demonstration Rubric",
+    "category": "Business Plans/Web App/Chatbot/10D Assessment Certification",
+    "description": "Checklist for evaluating applied knowledge",
+    "tags": [
+      "skills_demonstration_rubric"
+    ],
+    "example_block_data": {
+      "content": "Checklist for evaluating applied knowledge"
+    },
+    "editable_fields": {
+      "content": "Checklist for evaluating applied knowledge"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10d_assessment_certification_certification_criteria_sheet",
+    "label": "Certification Criteria Sheet",
+    "category": "Business Plans/Web App/Chatbot/10D Assessment Certification",
+    "description": "What defines 'passing' or 'certified'",
+    "tags": [
+      "certification_criteria_sheet"
+    ],
+    "example_block_data": {
+      "content": "What defines 'passing' or 'certified'"
+    },
+    "editable_fields": {
+      "content": "What defines 'passing' or 'certified'"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10d_assessment_certification_retake_recovery_guidelines",
+    "label": "Retake / Recovery Guidelines",
+    "category": "Business Plans/Web App/Chatbot/10D Assessment Certification",
+    "description": "What happens after failure to pass",
+    "tags": [
+      "retake_recovery_guidelines"
+    ],
+    "example_block_data": {
+      "content": "What happens after failure to pass"
+    },
+    "editable_fields": {
+      "content": "What happens after failure to pass"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10d_assessment_certification_learning_badge_generator_map",
+    "label": "Learning Badge Generator Map",
+    "category": "Business Plans/Web App/Chatbot/10D Assessment Certification",
+    "description": "Visual and logic map for issuing micro-credentials",
+    "tags": [
+      "learning_badge_generator_map"
+    ],
+    "example_block_data": {
+      "content": "Visual and logic map for issuing micro-credentials"
+    },
+    "editable_fields": {
+      "content": "Visual and logic map for issuing micro-credentials"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10e_reflection_feedback_learner_feedback_form",
+    "label": "Learner Feedback Form",
+    "category": "Business Plans/Web App/Chatbot/10E Reflection Feedback",
+    "description": "Anonymous or attributed reflections",
+    "tags": [
+      "learner_feedback_form"
+    ],
+    "example_block_data": {
+      "content": "Anonymous or attributed reflections"
+    },
+    "editable_fields": {
+      "content": "Anonymous or attributed reflections"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10e_reflection_feedback_instructor_reflection_log",
+    "label": "Instructor Reflection Log",
+    "category": "Business Plans/Web App/Chatbot/10E Reflection Feedback",
+    "description": "Post-lesson review and refinement notes",
+    "tags": [
+      "instructor_reflection_log"
+    ],
+    "example_block_data": {
+      "content": "Post-lesson review and refinement notes"
+    },
+    "editable_fields": {
+      "content": "Post-lesson review and refinement notes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10e_reflection_feedback_training_satisfaction_survey",
+    "label": "Training Satisfaction Survey",
+    "category": "Business Plans/Web App/Chatbot/10E Reflection Feedback",
+    "description": "Broader engagement feedback",
+    "tags": [
+      "training_satisfaction_survey"
+    ],
+    "example_block_data": {
+      "content": "Broader engagement feedback"
+    },
+    "editable_fields": {
+      "content": "Broader engagement feedback"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10e_reflection_feedback_learning_metrics_dashboard",
+    "label": "Learning Metrics Dashboard",
+    "category": "Business Plans/Web App/Chatbot/10E Reflection Feedback",
+    "description": "Completion rates, scores, engagement trends",
+    "tags": [
+      "learning_metrics_dashboard"
+    ],
+    "example_block_data": {
+      "content": "Completion rates, scores, engagement trends"
+    },
+    "editable_fields": {
+      "content": "Completion rates, scores, engagement trends"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10e_reflection_feedback_re_training_trigger_protocol",
+    "label": "Re-training Trigger Protocol",
+    "category": "Business Plans/Web App/Chatbot/10E Reflection Feedback",
+    "description": "Flags when retraining is necessary based on outcomes",
+    "tags": [
+      "re_training_trigger_protocol"
+    ],
+    "example_block_data": {
+      "content": "Flags when retraining is necessary based on outcomes"
+    },
+    "editable_fields": {
+      "content": "Flags when retraining is necessary based on outcomes"
+    }
+  }
+]

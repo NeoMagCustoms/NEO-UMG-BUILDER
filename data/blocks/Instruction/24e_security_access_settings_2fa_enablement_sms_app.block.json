@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 24,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "24e_security_access_settings_2fa_enablement_sms_app",
+  "label": "2FA Enablement (SMS/App)",
+  "category": "Web App Builder/User Profiles Settings Panels/24E Security Access Settings",
+  "description": "Optional second factor",
+  "tags": [
+    "2fa_enablement_sms_app"
+  ],
+  "example_block_data": {
+    "content": "Optional second factor"
+  },
+  "editable_fields": {
+    "content": "Optional second factor"
+  }
+}

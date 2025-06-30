@@ -1,0 +1,46 @@
+{
+  "block_id": "task_priority_order",
+  "label": "Task Priority Order",
+  "category": "Chatbot Identity/Profession Role",
+  "description": "Order of execution when multitasking",
+  "molt_type": "Instruction",
+  "tags": [
+    "task_priority_order",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "⏳"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Order of execution when multitasking This is an example of applied logic for that trait."
+  },
+  "editable_fields": {
+    "content": "Task Priority Order: Order of execution when multitasking"
+  }
+}

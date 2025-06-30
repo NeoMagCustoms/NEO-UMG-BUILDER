@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "4c_term_deal_agreements_voting_rights_agreement",
+  "label": "Voting Rights Agreement",
+  "category": "Business Plans/Web App/Chatbot/4C Term Deal Agreements",
+  "description": "Defines investor rights around decisions, board, exits",
+  "tags": [
+    "voting_rights_agreement"
+  ],
+  "example_block_data": {
+    "content": "Defines investor rights around decisions, board, exits"
+  },
+  "editable_fields": {
+    "content": "Defines investor rights around decisions, board, exits"
+  }
+}

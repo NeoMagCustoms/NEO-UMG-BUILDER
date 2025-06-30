@@ -1,0 +1,28 @@
+{
+  "block_id": "30f_token_cost_safety",
+  "label": "Token Cost & Safety Controls",
+  "category": "webapp",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "token_budget"
+  ],
+  "tags": [
+    "tokens",
+    "rate-limit",
+    "security"
+  ],
+  "snap_config": {
+    "snap_to": "Execution Layer",
+    "position": "bottom"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "code_modules": [],
+  "canto_overlay": {},
+  "export_config": {}
+}

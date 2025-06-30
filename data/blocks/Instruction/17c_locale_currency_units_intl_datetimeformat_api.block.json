@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 17,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "17c_locale_currency_units_intl_datetimeformat_api",
+  "label": "Intl.DateTimeFormat API",
+  "category": "Web App Builder/Localization I18n Timezones/17C Locale Currency Units",
+  "description": "Local calendar support",
+  "tags": [
+    "intl_datetimeformat_api"
+  ],
+  "example_block_data": {
+    "content": "Local calendar support"
+  },
+  "editable_fields": {
+    "content": "Local calendar support"
+  }
+}

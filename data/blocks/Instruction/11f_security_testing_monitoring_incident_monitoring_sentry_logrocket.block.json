@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 11,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "11f_security_testing_monitoring_incident_monitoring_sentry_logrocket",
+  "label": "Incident Monitoring (Sentry, LogRocket)",
+  "category": "Web App Builder/Security Compliance/11F Security Testing Monitoring",
+  "description": "Detects client/server-side issues",
+  "tags": [
+    "incident_monitoring_sentry_logrocket"
+  ],
+  "example_block_data": {
+    "content": "Detects client/server-side issues"
+  },
+  "editable_fields": {
+    "content": "Detects client/server-side issues"
+  }
+}

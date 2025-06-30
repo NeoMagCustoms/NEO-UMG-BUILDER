@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 20,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "20d_analytics_marketing_tools_attribution_tracking_logic",
+  "label": "Attribution Tracking Logic",
+  "category": "Web App Builder/Integrations APIs Third-Party/20D Analytics Marketing Tools",
+  "description": "Tracks source of users",
+  "tags": [
+    "attribution_tracking_logic"
+  ],
+  "example_block_data": {
+    "content": "Tracks source of users"
+  },
+  "editable_fields": {
+    "content": "Tracks source of users"
+  }
+}

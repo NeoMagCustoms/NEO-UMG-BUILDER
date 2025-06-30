@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 12,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "12e_cli_scripts_codegen_cli_feedback_logging",
+  "label": "CLI Feedback Logging",
+  "category": "Web App Builder/Dev Tools DX Enhancements/12E Cli Scripts Codegen",
+  "description": "Debug and trace tool output",
+  "tags": [
+    "cli_feedback_logging"
+  ],
+  "example_block_data": {
+    "content": "Debug and trace tool output"
+  },
+  "editable_fields": {
+    "content": "Debug and trace tool output"
+  }
+}

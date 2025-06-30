@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "2c_background_jobs_task_queues_data_cleanup_scripts",
+  "label": "Data Cleanup Scripts",
+  "category": "Web App Builder/Backend Server Logic/2C Background Jobs Task Queues",
+  "description": "Regular maintenance tasks",
+  "tags": [
+    "data_cleanup_scripts"
+  ],
+  "example_block_data": {
+    "content": "Regular maintenance tasks"
+  },
+  "editable_fields": {
+    "content": "Regular maintenance tasks"
+  }
+}

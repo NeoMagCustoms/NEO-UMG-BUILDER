@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3c_roles_access_levels_route_protection_middleware",
+  "label": "Route Protection Middleware",
+  "category": "Web App Builder/Authentication Identity/3C Roles Access Levels",
+  "description": "Verifies auth + permissions before rendering",
+  "tags": [
+    "route_protection_middleware"
+  ],
+  "example_block_data": {
+    "content": "Verifies auth + permissions before rendering"
+  },
+  "editable_fields": {
+    "content": "Verifies auth + permissions before rendering"
+  }
+}

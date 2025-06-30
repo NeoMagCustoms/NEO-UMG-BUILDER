@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 9,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "9b_event_tracking_scroll_depth_listener",
+  "label": "Scroll Depth Listener",
+  "category": "Web App Builder/Analytics Event Tracking/9B Event Tracking",
+  "description": "Captures how far down a page was viewed",
+  "tags": [
+    "scroll_depth_listener"
+  ],
+  "example_block_data": {
+    "content": "Captures how far down a page was viewed"
+  },
+  "editable_fields": {
+    "content": "Captures how far down a page was viewed"
+  }
+}

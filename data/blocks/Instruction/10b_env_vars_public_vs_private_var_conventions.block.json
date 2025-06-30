@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 10,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "10b_env_vars_public_vs_private_var_conventions",
+  "label": "Public vs Private Var Conventions",
+  "category": "Web App Builder/Deployment Environment Configuration/10B Env Vars",
+  "description": "Ensures secret vars aren’t exposed",
+  "tags": [
+    "public_vs_private_var_conventions"
+  ],
+  "example_block_data": {
+    "content": "Ensures secret vars aren’t exposed"
+  },
+  "editable_fields": {
+    "content": "Ensures secret vars aren’t exposed"
+  }
+}

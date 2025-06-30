@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 11,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "11e_compliance_legal_terms_of_service_usage_policy",
+  "label": "Terms of Service & Usage Policy",
+  "category": "Web App Builder/Security Compliance/11E Compliance Legal",
+  "description": "Legal usage contract",
+  "tags": [
+    "terms_of_service_usage_policy"
+  ],
+  "example_block_data": {
+    "content": "Legal usage contract"
+  },
+  "editable_fields": {
+    "content": "Legal usage contract"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "6a_strategy_positioning_marketing_plan",
+  "label": "Marketing Plan",
+  "category": "Business Plans/Web App/Chatbot/6A Strategy Positioning",
+  "description": "High-level campaign + budget roadmap",
+  "tags": [
+    "marketing_plan"
+  ],
+  "example_block_data": {
+    "content": "High-level campaign + budget roadmap"
+  },
+  "editable_fields": {
+    "content": "High-level campaign + budget roadmap"
+  }
+}

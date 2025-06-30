@@ -1,0 +1,46 @@
+{
+  "block_id": "manual_memory_editing_allowed",
+  "label": "Manual Memory Editing Allowed",
+  "category": "Memory Editor Panel",
+  "description": "Can user/dev manually change memory?",
+  "molt_type": "Instruction",
+  "tags": [
+    "manual_memory_editing_allowed",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "✍️"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Can user/dev manually change memory? This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "Manual Memory Editing Allowed: Can user/dev manually change memory?"
+  }
+}

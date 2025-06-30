@@ -1,0 +1,1382 @@
+[
+  {
+    "block_id": "29a_flowchart_canvas_drag_&_drop",
+    "label": "Flowchart Canvas (Drag & Drop)",
+    "category": "Web App Builder/29_workflow_logic/29A",
+    "molt_type": "Instruction",
+    "description": "Visual rule construction",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Visual rule construction"
+    },
+    "editable_fields": {
+      "content": "Visual rule construction"
+    }
+  },
+  {
+    "block_id": "29a_condition_blocks_if_else_switch",
+    "label": "Condition Blocks (if/else/switch)",
+    "category": "Web App Builder/29_workflow_logic/29A",
+    "molt_type": "Instruction",
+    "description": "Branching logic paths",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Branching logic paths"
+    },
+    "editable_fields": {
+      "content": "Branching logic paths"
+    }
+  },
+  {
+    "block_id": "29a_variable_connectors___input_nodes",
+    "label": "Variable Connectors / Input Nodes",
+    "category": "Web App Builder/29_workflow_logic/29A",
+    "molt_type": "Instruction",
+    "description": "Pass dynamic values",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Pass dynamic values"
+    },
+    "editable_fields": {
+      "content": "Pass dynamic values"
+    }
+  },
+  {
+    "block_id": "29a_labelled_inputs,_colors,_icons",
+    "label": "Labelled Inputs, Colors, Icons",
+    "category": "Web App Builder/29_workflow_logic/29A",
+    "molt_type": "Instruction",
+    "description": "Helps parse logic visually",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Helps parse logic visually"
+    },
+    "editable_fields": {
+      "content": "Helps parse logic visually"
+    }
+  },
+  {
+    "block_id": "29a_zoom,_collapse,_grouping_options",
+    "label": "Zoom, Collapse, Grouping Options",
+    "category": "Web App Builder/29_workflow_logic/29A",
+    "molt_type": "Instruction",
+    "description": "Organize complex flows",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Organize complex flows"
+    },
+    "editable_fields": {
+      "content": "Organize complex flows"
+    }
+  },
+  {
+    "block_id": "29b_event_based_triggers_on_save,_login",
+    "label": "Event-Based Triggers (on save, login)",
+    "category": "Web App Builder/29_workflow_logic/29B",
+    "molt_type": "Instruction",
+    "description": "Reactive workflows",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Reactive workflows"
+    },
+    "editable_fields": {
+      "content": "Reactive workflows"
+    }
+  },
+  {
+    "block_id": "29b_time_based_triggers_cron,_interval",
+    "label": "Time-Based Triggers (cron, interval)",
+    "category": "Web App Builder/29_workflow_logic/29B",
+    "molt_type": "Instruction",
+    "description": "Scheduled actions",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Scheduled actions"
+    },
+    "editable_fields": {
+      "content": "Scheduled actions"
+    }
+  },
+  {
+    "block_id": "29b_debounce_throttle_logic",
+    "label": "Debounce/Throttle Logic",
+    "category": "Web App Builder/29_workflow_logic/29B",
+    "molt_type": "Instruction",
+    "description": "Prevents over-triggering",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Prevents over-triggering"
+    },
+    "editable_fields": {
+      "content": "Prevents over-triggering"
+    }
+  },
+  {
+    "block_id": "29b_delay_&_timeout_blocks",
+    "label": "Delay & Timeout Blocks",
+    "category": "Web App Builder/29_workflow_logic/29B",
+    "molt_type": "Instruction",
+    "description": "Add wait time",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Add wait time"
+    },
+    "editable_fields": {
+      "content": "Add wait time"
+    }
+  },
+  {
+    "block_id": "29b_retry_on_failure_logic",
+    "label": "Retry on Failure Logic",
+    "category": "Web App Builder/29_workflow_logic/29B",
+    "molt_type": "Instruction",
+    "description": "Makes flow fault-tolerant",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Makes flow fault-tolerant"
+    },
+    "editable_fields": {
+      "content": "Makes flow fault-tolerant"
+    }
+  },
+  {
+    "block_id": "29c_expression_editor_ui",
+    "label": "Expression Editor UI",
+    "category": "Web App Builder/29_workflow_logic/29C",
+    "molt_type": "Instruction",
+    "description": "Write and test logic conditions",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Write and test logic conditions"
+    },
+    "editable_fields": {
+      "content": "Write and test logic conditions"
+    }
+  },
+  {
+    "block_id": "29c_and_or_nested_conditions",
+    "label": "AND/OR/NESTED Conditions",
+    "category": "Web App Builder/29_workflow_logic/29C",
+    "molt_type": "Instruction",
+    "description": "Complex matching criteria",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Complex matching criteria"
+    },
+    "editable_fields": {
+      "content": "Complex matching criteria"
+    }
+  },
+  {
+    "block_id": "29c_compare_fields___constants",
+    "label": "Compare Fields / Constants",
+    "category": "Web App Builder/29_workflow_logic/29C",
+    "molt_type": "Instruction",
+    "description": "Dynamic checks",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Dynamic checks"
+    },
+    "editable_fields": {
+      "content": "Dynamic checks"
+    }
+  },
+  {
+    "block_id": "29c_value_transformers_math,_concat",
+    "label": "Value Transformers (math, concat)",
+    "category": "Web App Builder/29_workflow_logic/29C",
+    "molt_type": "Instruction",
+    "description": "Modify data mid-flow",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Modify data mid-flow"
+    },
+    "editable_fields": {
+      "content": "Modify data mid-flow"
+    }
+  },
+  {
+    "block_id": "29c_eval_sandbox_safe_runtime_parser",
+    "label": "Eval Sandbox (safe runtime parser)",
+    "category": "Web App Builder/29_workflow_logic/29C",
+    "molt_type": "Instruction",
+    "description": "Runs logic securely",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Runs logic securely"
+    },
+    "editable_fields": {
+      "content": "Runs logic securely"
+    }
+  },
+  {
+    "block_id": "29d_sequential_block_execution",
+    "label": "Sequential Block Execution",
+    "category": "Web App Builder/29_workflow_logic/29D",
+    "molt_type": "Instruction",
+    "description": "Ordered automation",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Ordered automation"
+    },
+    "editable_fields": {
+      "content": "Ordered automation"
+    }
+  },
+  {
+    "block_id": "29d_branching_actions_per_condition",
+    "label": "Branching Actions Per Condition",
+    "category": "Web App Builder/29_workflow_logic/29D",
+    "molt_type": "Instruction",
+    "description": "Logic-driven result paths",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Logic-driven result paths"
+    },
+    "editable_fields": {
+      "content": "Logic-driven result paths"
+    }
+  },
+  {
+    "block_id": "29d_external_api_calls",
+    "label": "External API Calls",
+    "category": "Web App Builder/29_workflow_logic/29D",
+    "molt_type": "Instruction",
+    "description": "Extend via webhook",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Extend via webhook"
+    },
+    "editable_fields": {
+      "content": "Extend via webhook"
+    }
+  },
+  {
+    "block_id": "29d_save_to_db___trigger_email___update_record",
+    "label": "Save to DB / Trigger Email / Update Record",
+    "category": "Web App Builder/29_workflow_logic/29D",
+    "molt_type": "Instruction",
+    "description": "Data actions",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Data actions"
+    },
+    "editable_fields": {
+      "content": "Data actions"
+    }
+  },
+  {
+    "block_id": "29d_loop_or_iterate_block",
+    "label": "Loop or Iterate Block",
+    "category": "Web App Builder/29_workflow_logic/29D",
+    "molt_type": "Instruction",
+    "description": "Perform action X times",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Perform action X times"
+    },
+    "editable_fields": {
+      "content": "Perform action X times"
+    }
+  },
+  {
+    "block_id": "29e_save_block_as_template",
+    "label": "Save Block as Template",
+    "category": "Web App Builder/29_workflow_logic/29E",
+    "molt_type": "Instruction",
+    "description": "Reuse across workflows",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Reuse across workflows"
+    },
+    "editable_fields": {
+      "content": "Reuse across workflows"
+    }
+  },
+  {
+    "block_id": "29e_copy_logic_tree",
+    "label": "Copy Logic Tree",
+    "category": "Web App Builder/29_workflow_logic/29E",
+    "molt_type": "Instruction",
+    "description": "Clone part of flow",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Clone part of flow"
+    },
+    "editable_fields": {
+      "content": "Clone part of flow"
+    }
+  },
+  {
+    "block_id": "29e_shared_workflow_library",
+    "label": "Shared Workflow Library",
+    "category": "Web App Builder/29_workflow_logic/29E",
+    "molt_type": "Instruction",
+    "description": "Store common automations",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Store common automations"
+    },
+    "editable_fields": {
+      "content": "Store common automations"
+    }
+  },
+  {
+    "block_id": "29e_pre_built_block_marketplace",
+    "label": "Pre-Built Block Marketplace",
+    "category": "Web App Builder/29_workflow_logic/29E",
+    "molt_type": "Instruction",
+    "description": "Install community recipes",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Install community recipes"
+    },
+    "editable_fields": {
+      "content": "Install community recipes"
+    }
+  },
+  {
+    "block_id": "29e_import_export_json_logic",
+    "label": "Import/Export JSON Logic",
+    "category": "Web App Builder/29_workflow_logic/29E",
+    "molt_type": "Instruction",
+    "description": "Share and backup flows",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Share and backup flows"
+    },
+    "editable_fields": {
+      "content": "Share and backup flows"
+    }
+  },
+  {
+    "block_id": "29f_run_history_log",
+    "label": "Run History Log",
+    "category": "Web App Builder/29_workflow_logic/29F",
+    "molt_type": "Instruction",
+    "description": "View each run result",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "View each run result"
+    },
+    "editable_fields": {
+      "content": "View each run result"
+    }
+  },
+  {
+    "block_id": "29f_rollback_previous_state",
+    "label": "Rollback Previous State",
+    "category": "Web App Builder/29_workflow_logic/29F",
+    "molt_type": "Instruction",
+    "description": "Undo if error",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Undo if error"
+    },
+    "editable_fields": {
+      "content": "Undo if error"
+    }
+  },
+  {
+    "block_id": "29f_pause___resume_switch",
+    "label": "Pause / Resume Switch",
+    "category": "Web App Builder/29_workflow_logic/29F",
+    "molt_type": "Instruction",
+    "description": "Enable/disable workflow",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Enable/disable workflow"
+    },
+    "editable_fields": {
+      "content": "Enable/disable workflow"
+    }
+  },
+  {
+    "block_id": "29f_error_handler_block",
+    "label": "Error Handler Block",
+    "category": "Web App Builder/29_workflow_logic/29F",
+    "molt_type": "Instruction",
+    "description": "Catch & route failures",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Catch & route failures"
+    },
+    "editable_fields": {
+      "content": "Catch & route failures"
+    }
+  },
+  {
+    "block_id": "29f_admin_audit_trail",
+    "label": "Admin Audit Trail",
+    "category": "Web App Builder/29_workflow_logic/29F",
+    "molt_type": "Instruction",
+    "description": "Who ran what, when",
+    "tags": [
+      "workflow",
+      "automation",
+      "logic"
+    ],
+    "snap_config": {
+      "stack_priority": 3,
+      "supports_merge": true
+    },
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83e\udde0"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "example_block_data": {
+      "content": "Who ran what, when"
+    },
+    "editable_fields": {
+      "content": "Who ran what, when"
+    }
+  }
+]

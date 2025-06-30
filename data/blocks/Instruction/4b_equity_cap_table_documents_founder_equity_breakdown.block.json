@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "4b_equity_cap_table_documents_founder_equity_breakdown",
+  "label": "Founder Equity Breakdown",
+  "category": "Business Plans/Web App/Chatbot/4B Equity Cap Table Documents",
+  "description": "Shares owned by each founder, co-founder vesting plans",
+  "tags": [
+    "founder_equity_breakdown"
+  ],
+  "example_block_data": {
+    "content": "Shares owned by each founder, co-founder vesting plans"
+  },
+  "editable_fields": {
+    "content": "Shares owned by each founder, co-founder vesting plans"
+  }
+}

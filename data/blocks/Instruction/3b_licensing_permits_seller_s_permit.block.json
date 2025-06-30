@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3b_licensing_permits_seller_s_permit",
+  "label": "Seller’s Permit",
+  "category": "Business Plans/Web App/Chatbot/3B Licensing Permits",
+  "description": "Required for ecommerce businesses in many jurisdictions",
+  "tags": [
+    "seller_s_permit"
+  ],
+  "example_block_data": {
+    "content": "Required for ecommerce businesses in many jurisdictions"
+  },
+  "editable_fields": {
+    "content": "Required for ecommerce businesses in many jurisdictions"
+  }
+}

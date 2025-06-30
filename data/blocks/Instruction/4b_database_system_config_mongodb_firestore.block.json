@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 4,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "4b_database_system_config_mongodb_firestore",
+  "label": "MongoDB / Firestore",
+  "category": "Web App Builder/Database Data Models/4B Database System Config",
+  "description": "NoSQL for flexible documents",
+  "tags": [
+    "mongodb_firestore"
+  ],
+  "example_block_data": {
+    "content": "NoSQL for flexible documents"
+  },
+  "editable_fields": {
+    "content": "NoSQL for flexible documents"
+  }
+}

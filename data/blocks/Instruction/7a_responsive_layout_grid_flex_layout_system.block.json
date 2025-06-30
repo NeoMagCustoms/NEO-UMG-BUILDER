@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 7,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "7a_responsive_layout_grid_flex_layout_system",
+  "label": "Grid + Flex Layout System",
+  "category": "Web App Builder/Responsive PWA Framework/7A Responsive Layout",
+  "description": "Adjusts based on screen width",
+  "tags": [
+    "grid_flex_layout_system"
+  ],
+  "example_block_data": {
+    "content": "Adjusts based on screen width"
+  },
+  "editable_fields": {
+    "content": "Adjusts based on screen width"
+  }
+}

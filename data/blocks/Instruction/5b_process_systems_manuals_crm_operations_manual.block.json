@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "5b_process_systems_manuals_crm_operations_manual",
+  "label": "CRM Operations Manual",
+  "category": "Business Plans/Web App/Chatbot/5B Process Systems Manuals",
+  "description": "How the CRM is used, tagged, updated",
+  "tags": [
+    "crm_operations_manual"
+  ],
+  "example_block_data": {
+    "content": "How the CRM is used, tagged, updated"
+  },
+  "editable_fields": {
+    "content": "How the CRM is used, tagged, updated"
+  }
+}

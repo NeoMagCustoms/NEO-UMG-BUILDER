@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 22,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "22a_automated_testing_component_tests_react_testing_lib",
+  "label": "Component Tests (React Testing Lib)",
+  "category": "Web App Builder/Testing QA Deployment/22A Automated Testing",
+  "description": "Renders & interacts with UI",
+  "tags": [
+    "component_tests_react_testing_lib"
+  ],
+  "example_block_data": {
+    "content": "Renders & interacts with UI"
+  },
+  "editable_fields": {
+    "content": "Renders & interacts with UI"
+  }
+}

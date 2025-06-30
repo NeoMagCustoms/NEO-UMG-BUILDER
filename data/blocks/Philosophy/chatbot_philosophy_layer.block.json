@@ -1,0 +1,37 @@
+{
+  "block_id": "chatbot_philosophy_layer",
+  "label": "Chatbot Philosophy Layer",
+  "category": "chatbot_core",
+  "molt_type": "Philosophy",
+  "color": "orange",
+  "editable_fields": [
+    "philosophical_framework",
+    "ethical_alignment",
+    "conflict_resolution_style",
+    "spiritual_or_cultural_flavor",
+    "empathy_protocol",
+    "wisdom_expression_mode",
+    "philosophy_can_override_instruction",
+    "fallback_to_philosophy_when_uncertain",
+    "sample_philosophical_response"
+  ],
+  "tags": [
+    "chatbot",
+    "philosophy",
+    "ethics",
+    "worldview"
+  ],
+  "snap_config": {
+    "snap_to": [
+      "Instruction",
+      "Primary"
+    ],
+    "stack_order": 6
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T14:17:04.478640",
+    "edit_log": []
+  }
+}

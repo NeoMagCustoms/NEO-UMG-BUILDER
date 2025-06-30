@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3e_security_mfa_two_factor_authentication_2fa",
+  "label": "Two-Factor Authentication (2FA)",
+  "category": "Web App Builder/Authentication Identity/3E Security Mfa",
+  "description": "Adds layer with SMS, app, or email",
+  "tags": [
+    "two_factor_authentication_2fa"
+  ],
+  "example_block_data": {
+    "content": "Adds layer with SMS, app, or email"
+  },
+  "editable_fields": {
+    "content": "Adds layer with SMS, app, or email"
+  }
+}

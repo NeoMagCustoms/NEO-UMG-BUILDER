@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14a_payment_gateway_integration_stripe_paypal_paddle_sdks",
+    "label": "Stripe / PayPal / Paddle SDKs",
+    "category": "Web App Builder/Payment Billing Systems/14A Payment Gateway Integration",
+    "description": "Embedded payment flows",
+    "tags": [
+      "stripe_paypal_paddle_sdks"
+    ],
+    "example_block_data": {
+      "content": "Embedded payment flows"
+    },
+    "editable_fields": {
+      "content": "Embedded payment flows"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14a_payment_gateway_integration_hosted_checkout_pages",
+    "label": "Hosted Checkout Pages",
+    "category": "Web App Builder/Payment Billing Systems/14A Payment Gateway Integration",
+    "description": "Stripe-hosted or Paddle checkout",
+    "tags": [
+      "hosted_checkout_pages"
+    ],
+    "example_block_data": {
+      "content": "Stripe-hosted or Paddle checkout"
+    },
+    "editable_fields": {
+      "content": "Stripe-hosted or Paddle checkout"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14a_payment_gateway_integration_saved_payment_methods",
+    "label": "Saved Payment Methods",
+    "category": "Web App Builder/Payment Billing Systems/14A Payment Gateway Integration",
+    "description": "Save/update card on file",
+    "tags": [
+      "saved_payment_methods"
+    ],
+    "example_block_data": {
+      "content": "Save/update card on file"
+    },
+    "editable_fields": {
+      "content": "Save/update card on file"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14a_payment_gateway_integration_native_ui_components",
+    "label": "Native UI Components",
+    "category": "Web App Builder/Payment Billing Systems/14A Payment Gateway Integration",
+    "description": "Card input, Apple/Google Pay",
+    "tags": [
+      "native_ui_components"
+    ],
+    "example_block_data": {
+      "content": "Card input, Apple/Google Pay"
+    },
+    "editable_fields": {
+      "content": "Card input, Apple/Google Pay"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14a_payment_gateway_integration_payment_status_polling_redirects",
+    "label": "Payment Status Polling / Redirects",
+    "category": "Web App Builder/Payment Billing Systems/14A Payment Gateway Integration",
+    "description": "Detects success/failure of payment",
+    "tags": [
+      "payment_status_polling_redirects"
+    ],
+    "example_block_data": {
+      "content": "Detects success/failure of payment"
+    },
+    "editable_fields": {
+      "content": "Detects success/failure of payment"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14b_billing_plans_subscriptions_subscription_tiers_trials",
+    "label": "Subscription Tiers + Trials",
+    "category": "Web App Builder/Payment Billing Systems/14B Billing Plans Subscriptions",
+    "description": "Free, Pro, Premium, etc.",
+    "tags": [
+      "subscription_tiers_trials"
+    ],
+    "example_block_data": {
+      "content": "Free, Pro, Premium, etc."
+    },
+    "editable_fields": {
+      "content": "Free, Pro, Premium, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14b_billing_plans_subscriptions_monthly_annual_billing_modes",
+    "label": "Monthly / Annual Billing Modes",
+    "category": "Web App Builder/Payment Billing Systems/14B Billing Plans Subscriptions",
+    "description": "Cycle control",
+    "tags": [
+      "monthly_annual_billing_modes"
+    ],
+    "example_block_data": {
+      "content": "Cycle control"
+    },
+    "editable_fields": {
+      "content": "Cycle control"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14b_billing_plans_subscriptions_quantity_based_plans",
+    "label": "Quantity-Based Plans",
+    "category": "Web App Builder/Payment Billing Systems/14B Billing Plans Subscriptions",
+    "description": "Pay per user, team, request",
+    "tags": [
+      "quantity_based_plans"
+    ],
+    "example_block_data": {
+      "content": "Pay per user, team, request"
+    },
+    "editable_fields": {
+      "content": "Pay per user, team, request"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14b_billing_plans_subscriptions_proration_mid_cycle_adjustments",
+    "label": "Proration & Mid-Cycle Adjustments",
+    "category": "Web App Builder/Payment Billing Systems/14B Billing Plans Subscriptions",
+    "description": "Adjust bills on upgrade/downgrade",
+    "tags": [
+      "proration_mid_cycle_adjustments"
+    ],
+    "example_block_data": {
+      "content": "Adjust bills on upgrade/downgrade"
+    },
+    "editable_fields": {
+      "content": "Adjust bills on upgrade/downgrade"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14b_billing_plans_subscriptions_usage_metering_logic",
+    "label": "Usage Metering Logic",
+    "category": "Web App Builder/Payment Billing Systems/14B Billing Plans Subscriptions",
+    "description": "Tracks actual usage for variable cost",
+    "tags": [
+      "usage_metering_logic"
+    ],
+    "example_block_data": {
+      "content": "Tracks actual usage for variable cost"
+    },
+    "editable_fields": {
+      "content": "Tracks actual usage for variable cost"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14c_invoice_tax_currency_pdf_invoice_generation",
+    "label": "PDF Invoice Generation",
+    "category": "Web App Builder/Payment Billing Systems/14C Invoice Tax Currency",
+    "description": "Downloadable receipts",
+    "tags": [
+      "pdf_invoice_generation"
+    ],
+    "example_block_data": {
+      "content": "Downloadable receipts"
+    },
+    "editable_fields": {
+      "content": "Downloadable receipts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14c_invoice_tax_currency_line_item_breakdown",
+    "label": "Line Item Breakdown",
+    "category": "Web App Builder/Payment Billing Systems/14C Invoice Tax Currency",
+    "description": "Shows charges per feature/unit",
+    "tags": [
+      "line_item_breakdown"
+    ],
+    "example_block_data": {
+      "content": "Shows charges per feature/unit"
+    },
+    "editable_fields": {
+      "content": "Shows charges per feature/unit"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14c_invoice_tax_currency_vat_gst_support",
+    "label": "VAT / GST Support",
+    "category": "Web App Builder/Payment Billing Systems/14C Invoice Tax Currency",
+    "description": "Adds tax by region",
+    "tags": [
+      "vat_gst_support"
+    ],
+    "example_block_data": {
+      "content": "Adds tax by region"
+    },
+    "editable_fields": {
+      "content": "Adds tax by region"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14c_invoice_tax_currency_multi_currency_handling",
+    "label": "Multi-Currency Handling",
+    "category": "Web App Builder/Payment Billing Systems/14C Invoice Tax Currency",
+    "description": "Auto currency selection by location",
+    "tags": [
+      "multi_currency_handling"
+    ],
+    "example_block_data": {
+      "content": "Auto currency selection by location"
+    },
+    "editable_fields": {
+      "content": "Auto currency selection by location"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14c_invoice_tax_currency_legal_entity_metadata",
+    "label": "Legal Entity Metadata",
+    "category": "Web App Builder/Payment Billing Systems/14C Invoice Tax Currency",
+    "description": "Merchant and buyer info display",
+    "tags": [
+      "legal_entity_metadata"
+    ],
+    "example_block_data": {
+      "content": "Merchant and buyer info display"
+    },
+    "editable_fields": {
+      "content": "Merchant and buyer info display"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14d_billing_webhooks_events_payment_success_failure_hooks",
+    "label": "Payment Success & Failure Hooks",
+    "category": "Web App Builder/Payment Billing Systems/14D Billing Webhooks Events",
+    "description": "Triggers post-payment logic",
+    "tags": [
+      "payment_success_failure_hooks"
+    ],
+    "example_block_data": {
+      "content": "Triggers post-payment logic"
+    },
+    "editable_fields": {
+      "content": "Triggers post-payment logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14d_billing_webhooks_events_subscription_created_updated_hook",
+    "label": "Subscription Created/Updated Hook",
+    "category": "Web App Builder/Payment Billing Systems/14D Billing Webhooks Events",
+    "description": "Adjusts access/features",
+    "tags": [
+      "subscription_created_updated_hook"
+    ],
+    "example_block_data": {
+      "content": "Adjusts access/features"
+    },
+    "editable_fields": {
+      "content": "Adjusts access/features"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14d_billing_webhooks_events_retry_grace_period_logic",
+    "label": "Retry & Grace Period Logic",
+    "category": "Web App Builder/Payment Billing Systems/14D Billing Webhooks Events",
+    "description": "Soft-fail retry loops",
+    "tags": [
+      "retry_grace_period_logic"
+    ],
+    "example_block_data": {
+      "content": "Soft-fail retry loops"
+    },
+    "editable_fields": {
+      "content": "Soft-fail retry loops"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14d_billing_webhooks_events_cancel_resume_events",
+    "label": "Cancel / Resume Events",
+    "category": "Web App Builder/Payment Billing Systems/14D Billing Webhooks Events",
+    "description": "Handle lifecycle changes",
+    "tags": [
+      "cancel_resume_events"
+    ],
+    "example_block_data": {
+      "content": "Handle lifecycle changes"
+    },
+    "editable_fields": {
+      "content": "Handle lifecycle changes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14d_billing_webhooks_events_refund_event_tracker",
+    "label": "Refund Event Tracker",
+    "category": "Web App Builder/Payment Billing Systems/14D Billing Webhooks Events",
+    "description": "Manages partial or full refunds",
+    "tags": [
+      "refund_event_tracker"
+    ],
+    "example_block_data": {
+      "content": "Manages partial or full refunds"
+    },
+    "editable_fields": {
+      "content": "Manages partial or full refunds"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14e_security_compliance_pci_dss_secure_handling",
+    "label": "PCI-DSS Secure Handling",
+    "category": "Web App Builder/Payment Billing Systems/14E Security Compliance",
+    "description": "Tokenizes sensitive card data",
+    "tags": [
+      "pci_dss_secure_handling"
+    ],
+    "example_block_data": {
+      "content": "Tokenizes sensitive card data"
+    },
+    "editable_fields": {
+      "content": "Tokenizes sensitive card data"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14e_security_compliance_encrypted_vault_storage",
+    "label": "Encrypted Vault Storage",
+    "category": "Web App Builder/Payment Billing Systems/14E Security Compliance",
+    "description": "Keeps customer metadata safe",
+    "tags": [
+      "encrypted_vault_storage"
+    ],
+    "example_block_data": {
+      "content": "Keeps customer metadata safe"
+    },
+    "editable_fields": {
+      "content": "Keeps customer metadata safe"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14e_security_compliance_dpa_gdpr_compliant",
+    "label": "DPA / GDPR Compliant",
+    "category": "Web App Builder/Payment Billing Systems/14E Security Compliance",
+    "description": "Handles user rights for payments",
+    "tags": [
+      "dpa_gdpr_compliant"
+    ],
+    "example_block_data": {
+      "content": "Handles user rights for payments"
+    },
+    "editable_fields": {
+      "content": "Handles user rights for payments"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14e_security_compliance_card_validation_fraud_checks",
+    "label": "Card Validation & Fraud Checks",
+    "category": "Web App Builder/Payment Billing Systems/14E Security Compliance",
+    "description": "Pre-charge risk mitigation",
+    "tags": [
+      "card_validation_fraud_checks"
+    ],
+    "example_block_data": {
+      "content": "Pre-charge risk mitigation"
+    },
+    "editable_fields": {
+      "content": "Pre-charge risk mitigation"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14e_security_compliance_access_audit_trail",
+    "label": "Access Audit Trail",
+    "category": "Web App Builder/Payment Billing Systems/14E Security Compliance",
+    "description": "Logs all financial data access",
+    "tags": [
+      "access_audit_trail"
+    ],
+    "example_block_data": {
+      "content": "Logs all financial data access"
+    },
+    "editable_fields": {
+      "content": "Logs all financial data access"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14f_wallets_credits_rewards_user_wallet_balance_system",
+    "label": "User Wallet Balance System",
+    "category": "Web App Builder/Payment Billing Systems/14F Wallets Credits Rewards",
+    "description": "Tracks internal credits",
+    "tags": [
+      "user_wallet_balance_system"
+    ],
+    "example_block_data": {
+      "content": "Tracks internal credits"
+    },
+    "editable_fields": {
+      "content": "Tracks internal credits"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14f_wallets_credits_rewards_coupon_discount_engine",
+    "label": "Coupon & Discount Engine",
+    "category": "Web App Builder/Payment Billing Systems/14F Wallets Credits Rewards",
+    "description": "Applies promos via codes or links",
+    "tags": [
+      "coupon_discount_engine"
+    ],
+    "example_block_data": {
+      "content": "Applies promos via codes or links"
+    },
+    "editable_fields": {
+      "content": "Applies promos via codes or links"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14f_wallets_credits_rewards_referral_credit_program",
+    "label": "Referral Credit Program",
+    "category": "Web App Builder/Payment Billing Systems/14F Wallets Credits Rewards",
+    "description": "Awards for bringing new users",
+    "tags": [
+      "referral_credit_program"
+    ],
+    "example_block_data": {
+      "content": "Awards for bringing new users"
+    },
+    "editable_fields": {
+      "content": "Awards for bringing new users"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14f_wallets_credits_rewards_bonus_top_up_events",
+    "label": "Bonus Top-Up Events",
+    "category": "Web App Builder/Payment Billing Systems/14F Wallets Credits Rewards",
+    "description": "Free credit triggers",
+    "tags": [
+      "bonus_top_up_events"
+    ],
+    "example_block_data": {
+      "content": "Free credit triggers"
+    },
+    "editable_fields": {
+      "content": "Free credit triggers"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 14,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "14f_wallets_credits_rewards_usage_cap_top_off_logic",
+    "label": "Usage Cap + Top-Off Logic",
+    "category": "Web App Builder/Payment Billing Systems/14F Wallets Credits Rewards",
+    "description": "Alerts on low balance, auto-recharge",
+    "tags": [
+      "usage_cap_top_off_logic"
+    ],
+    "example_block_data": {
+      "content": "Alerts on low balance, auto-recharge"
+    },
+    "editable_fields": {
+      "content": "Alerts on low balance, auto-recharge"
+    }
+  }
+]

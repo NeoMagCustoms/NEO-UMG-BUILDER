@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 7,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "7a_contracts_agreements_statement_of_work_sow",
+  "label": "Statement of Work (SOW)",
+  "category": "Business Plans/Web App/Chatbot/7A Contracts Agreements",
+  "description": "Defines scope, deliverables, deadlines, fees",
+  "tags": [
+    "statement_of_work_sow"
+  ],
+  "example_block_data": {
+    "content": "Defines scope, deliverables, deadlines, fees"
+  },
+  "editable_fields": {
+    "content": "Defines scope, deliverables, deadlines, fees"
+  }
+}

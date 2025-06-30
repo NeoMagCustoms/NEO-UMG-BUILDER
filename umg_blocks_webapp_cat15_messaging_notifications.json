@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15a_system_notifications_toasts_snackbars",
+    "label": "Toasts / Snackbars",
+    "category": "Web App Builder/Messaging Notifications Comms/15A System Notifications",
+    "description": "Immediate feedback (e.g. \u201cSaved!\u201d)",
+    "tags": [
+      "toasts_snackbars"
+    ],
+    "example_block_data": {
+      "content": "Immediate feedback (e.g. \u201cSaved!\u201d)"
+    },
+    "editable_fields": {
+      "content": "Immediate feedback (e.g. \u201cSaved!\u201d)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15a_system_notifications_banner_announcements",
+    "label": "Banner Announcements",
+    "category": "Web App Builder/Messaging Notifications Comms/15A System Notifications",
+    "description": "Global messages for users",
+    "tags": [
+      "banner_announcements"
+    ],
+    "example_block_data": {
+      "content": "Global messages for users"
+    },
+    "editable_fields": {
+      "content": "Global messages for users"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15a_system_notifications_modal_notifications",
+    "label": "Modal Notifications",
+    "category": "Web App Builder/Messaging Notifications Comms/15A System Notifications",
+    "description": "Important confirmations, errors",
+    "tags": [
+      "modal_notifications"
+    ],
+    "example_block_data": {
+      "content": "Important confirmations, errors"
+    },
+    "editable_fields": {
+      "content": "Important confirmations, errors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15a_system_notifications_badge_counters",
+    "label": "Badge Counters",
+    "category": "Web App Builder/Messaging Notifications Comms/15A System Notifications",
+    "description": "Icons showing unseen items",
+    "tags": [
+      "badge_counters"
+    ],
+    "example_block_data": {
+      "content": "Icons showing unseen items"
+    },
+    "editable_fields": {
+      "content": "Icons showing unseen items"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15a_system_notifications_notification_drawer_center",
+    "label": "Notification Drawer / Center",
+    "category": "Web App Builder/Messaging Notifications Comms/15A System Notifications",
+    "description": "Shows full log of past alerts",
+    "tags": [
+      "notification_drawer_center"
+    ],
+    "example_block_data": {
+      "content": "Shows full log of past alerts"
+    },
+    "editable_fields": {
+      "content": "Shows full log of past alerts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15b_email_sms_push_email_service_integration_e_g_resend_sendgrid",
+    "label": "Email Service Integration (e.g. Resend, SendGrid)",
+    "category": "Web App Builder/Messaging Notifications Comms/15B Email Sms Push",
+    "description": "Sends transactional & marketing emails",
+    "tags": [
+      "email_service_integration_e_g_resend_sendgrid"
+    ],
+    "example_block_data": {
+      "content": "Sends transactional & marketing emails"
+    },
+    "editable_fields": {
+      "content": "Sends transactional & marketing emails"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15b_email_sms_push_sms_gateway_e_g_twilio_vonage",
+    "label": "SMS Gateway (e.g. Twilio, Vonage)",
+    "category": "Web App Builder/Messaging Notifications Comms/15B Email Sms Push",
+    "description": "Sends login codes, alerts",
+    "tags": [
+      "sms_gateway_e_g_twilio_vonage"
+    ],
+    "example_block_data": {
+      "content": "Sends login codes, alerts"
+    },
+    "editable_fields": {
+      "content": "Sends login codes, alerts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15b_email_sms_push_web_push_notifications",
+    "label": "Web Push Notifications",
+    "category": "Web App Builder/Messaging Notifications Comms/15B Email Sms Push",
+    "description": "Push to browser or mobile",
+    "tags": [
+      "web_push_notifications"
+    ],
+    "example_block_data": {
+      "content": "Push to browser or mobile"
+    },
+    "editable_fields": {
+      "content": "Push to browser or mobile"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15b_email_sms_push_template_based_messaging",
+    "label": "Template-Based Messaging",
+    "category": "Web App Builder/Messaging Notifications Comms/15B Email Sms Push",
+    "description": "Uses stored layouts",
+    "tags": [
+      "template_based_messaging"
+    ],
+    "example_block_data": {
+      "content": "Uses stored layouts"
+    },
+    "editable_fields": {
+      "content": "Uses stored layouts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15b_email_sms_push_delivery_retry_status_tracking",
+    "label": "Delivery Retry & Status Tracking",
+    "category": "Web App Builder/Messaging Notifications Comms/15B Email Sms Push",
+    "description": "Monitors send attempts",
+    "tags": [
+      "delivery_retry_status_tracking"
+    ],
+    "example_block_data": {
+      "content": "Monitors send attempts"
+    },
+    "editable_fields": {
+      "content": "Monitors send attempts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15c_realtime_communication_websocket_socket_io_integration",
+    "label": "WebSocket / Socket.IO Integration",
+    "category": "Web App Builder/Messaging Notifications Comms/15C Realtime Communication",
+    "description": "Realtime channel messaging",
+    "tags": [
+      "websocket_socket_io_integration"
+    ],
+    "example_block_data": {
+      "content": "Realtime channel messaging"
+    },
+    "editable_fields": {
+      "content": "Realtime channel messaging"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15c_realtime_communication_presence_system_online_offline",
+    "label": "Presence System (Online/Offline)",
+    "category": "Web App Builder/Messaging Notifications Comms/15C Realtime Communication",
+    "description": "Tracks user availability",
+    "tags": [
+      "presence_system_online_offline"
+    ],
+    "example_block_data": {
+      "content": "Tracks user availability"
+    },
+    "editable_fields": {
+      "content": "Tracks user availability"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15c_realtime_communication_typing_indicator",
+    "label": "Typing Indicator",
+    "category": "Web App Builder/Messaging Notifications Comms/15C Realtime Communication",
+    "description": "Shows when user is composing",
+    "tags": [
+      "typing_indicator"
+    ],
+    "example_block_data": {
+      "content": "Shows when user is composing"
+    },
+    "editable_fields": {
+      "content": "Shows when user is composing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15c_realtime_communication_chatroom_or_lobby_sync",
+    "label": "Chatroom or Lobby Sync",
+    "category": "Web App Builder/Messaging Notifications Comms/15C Realtime Communication",
+    "description": "Keeps group convos in sync",
+    "tags": [
+      "chatroom_or_lobby_sync"
+    ],
+    "example_block_data": {
+      "content": "Keeps group convos in sync"
+    },
+    "editable_fields": {
+      "content": "Keeps group convos in sync"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15c_realtime_communication_broadcast_pubsub_engine",
+    "label": "Broadcast / PubSub Engine",
+    "category": "Web App Builder/Messaging Notifications Comms/15C Realtime Communication",
+    "description": "Sends updates across client pool",
+    "tags": [
+      "broadcast_pubsub_engine"
+    ],
+    "example_block_data": {
+      "content": "Sends updates across client pool"
+    },
+    "editable_fields": {
+      "content": "Sends updates across client pool"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15d_notification_preferences_user_preferences_panel",
+    "label": "User Preferences Panel",
+    "category": "Web App Builder/Messaging Notifications Comms/15D Notification Preferences",
+    "description": "Sets which channels to receive",
+    "tags": [
+      "user_preferences_panel"
+    ],
+    "example_block_data": {
+      "content": "Sets which channels to receive"
+    },
+    "editable_fields": {
+      "content": "Sets which channels to receive"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15d_notification_preferences_per_type_toggle_settings",
+    "label": "Per-Type Toggle Settings",
+    "category": "Web App Builder/Messaging Notifications Comms/15D Notification Preferences",
+    "description": "Email vs push vs SMS",
+    "tags": [
+      "per_type_toggle_settings"
+    ],
+    "example_block_data": {
+      "content": "Email vs push vs SMS"
+    },
+    "editable_fields": {
+      "content": "Email vs push vs SMS"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15d_notification_preferences_quiet_hours_do_not_disturb",
+    "label": "Quiet Hours / Do Not Disturb",
+    "category": "Web App Builder/Messaging Notifications Comms/15D Notification Preferences",
+    "description": "Prevents alerts during certain times",
+    "tags": [
+      "quiet_hours_do_not_disturb"
+    ],
+    "example_block_data": {
+      "content": "Prevents alerts during certain times"
+    },
+    "editable_fields": {
+      "content": "Prevents alerts during certain times"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15d_notification_preferences_mute_thread_conversation_option",
+    "label": "Mute Thread / Conversation Option",
+    "category": "Web App Builder/Messaging Notifications Comms/15D Notification Preferences",
+    "description": "Hides notifications per topic",
+    "tags": [
+      "mute_thread_conversation_option"
+    ],
+    "example_block_data": {
+      "content": "Hides notifications per topic"
+    },
+    "editable_fields": {
+      "content": "Hides notifications per topic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15d_notification_preferences_admin_override_logic",
+    "label": "Admin Override Logic",
+    "category": "Web App Builder/Messaging Notifications Comms/15D Notification Preferences",
+    "description": "Bypasses for critical alerts",
+    "tags": [
+      "admin_override_logic"
+    ],
+    "example_block_data": {
+      "content": "Bypasses for critical alerts"
+    },
+    "editable_fields": {
+      "content": "Bypasses for critical alerts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15e_messaging_threads_direct_messages",
+    "label": "Direct Messages",
+    "category": "Web App Builder/Messaging Notifications Comms/15E Messaging Threads",
+    "description": "1:1 private conversation",
+    "tags": [
+      "direct_messages"
+    ],
+    "example_block_data": {
+      "content": "1:1 private conversation"
+    },
+    "editable_fields": {
+      "content": "1:1 private conversation"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15e_messaging_threads_group_chat",
+    "label": "Group Chat",
+    "category": "Web App Builder/Messaging Notifications Comms/15E Messaging Threads",
+    "description": "Multi-user thread",
+    "tags": [
+      "group_chat"
+    ],
+    "example_block_data": {
+      "content": "Multi-user thread"
+    },
+    "editable_fields": {
+      "content": "Multi-user thread"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15e_messaging_threads_threaded_conversation_support",
+    "label": "Threaded Conversation Support",
+    "category": "Web App Builder/Messaging Notifications Comms/15E Messaging Threads",
+    "description": "Replies grouped by topic",
+    "tags": [
+      "threaded_conversation_support"
+    ],
+    "example_block_data": {
+      "content": "Replies grouped by topic"
+    },
+    "editable_fields": {
+      "content": "Replies grouped by topic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15e_messaging_threads_message_read_receipts",
+    "label": "Message Read Receipts",
+    "category": "Web App Builder/Messaging Notifications Comms/15E Messaging Threads",
+    "description": "\u201cSeen\u201d or \u201cDelivered\u201d indicators",
+    "tags": [
+      "message_read_receipts"
+    ],
+    "example_block_data": {
+      "content": "\u201cSeen\u201d or \u201cDelivered\u201d indicators"
+    },
+    "editable_fields": {
+      "content": "\u201cSeen\u201d or \u201cDelivered\u201d indicators"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15e_messaging_threads_pinned_messages_links",
+    "label": "Pinned Messages & Links",
+    "category": "Web App Builder/Messaging Notifications Comms/15E Messaging Threads",
+    "description": "Highlights or bookmarks",
+    "tags": [
+      "pinned_messages_links"
+    ],
+    "example_block_data": {
+      "content": "Highlights or bookmarks"
+    },
+    "editable_fields": {
+      "content": "Highlights or bookmarks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15f_privacy_moderation_report_block_user_feature",
+    "label": "Report / Block User Feature",
+    "category": "Web App Builder/Messaging Notifications Comms/15F Privacy Moderation",
+    "description": "Prevents abuse or spam",
+    "tags": [
+      "report_block_user_feature"
+    ],
+    "example_block_data": {
+      "content": "Prevents abuse or spam"
+    },
+    "editable_fields": {
+      "content": "Prevents abuse or spam"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15f_privacy_moderation_message_filtering_spam_logic",
+    "label": "Message Filtering / Spam Logic",
+    "category": "Web App Builder/Messaging Notifications Comms/15F Privacy Moderation",
+    "description": "Auto-hides malicious content",
+    "tags": [
+      "message_filtering_spam_logic"
+    ],
+    "example_block_data": {
+      "content": "Auto-hides malicious content"
+    },
+    "editable_fields": {
+      "content": "Auto-hides malicious content"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15f_privacy_moderation_word_phrase_blocklist",
+    "label": "Word / Phrase Blocklist",
+    "category": "Web App Builder/Messaging Notifications Comms/15F Privacy Moderation",
+    "description": "Blocks sensitive terms",
+    "tags": [
+      "word_phrase_blocklist"
+    ],
+    "example_block_data": {
+      "content": "Blocks sensitive terms"
+    },
+    "editable_fields": {
+      "content": "Blocks sensitive terms"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15f_privacy_moderation_admin_panel_for_flagged_content",
+    "label": "Admin Panel for Flagged Content",
+    "category": "Web App Builder/Messaging Notifications Comms/15F Privacy Moderation",
+    "description": "Reviews reported messages",
+    "tags": [
+      "admin_panel_for_flagged_content"
+    ],
+    "example_block_data": {
+      "content": "Reviews reported messages"
+    },
+    "editable_fields": {
+      "content": "Reviews reported messages"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 15,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "15f_privacy_moderation_rate_limiting_abuse_detection",
+    "label": "Rate Limiting & Abuse Detection",
+    "category": "Web App Builder/Messaging Notifications Comms/15F Privacy Moderation",
+    "description": "Prevents bot flooding or spam",
+    "tags": [
+      "rate_limiting_abuse_detection"
+    ],
+    "example_block_data": {
+      "content": "Prevents bot flooding or spam"
+    },
+    "editable_fields": {
+      "content": "Prevents bot flooding or spam"
+    }
+  }
+]

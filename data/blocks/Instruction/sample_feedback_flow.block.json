@@ -1,0 +1,46 @@
+{
+  "block_id": "sample_feedback_flow",
+  "label": "Sample Feedback Flow",
+  "category": "Logs, Metrics, Feedback Loop",
+  "description": "Example of feedback and result",
+  "molt_type": "Instruction",
+  "tags": [
+    "sample_feedback_flow",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📨"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Example of feedback and result This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "Sample Feedback Flow: Example of feedback and result"
+  }
+}

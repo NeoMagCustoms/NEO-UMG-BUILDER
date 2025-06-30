@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 9,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "10e_reflection_feedback_re_training_trigger_protocol",
+  "label": "Re-training Trigger Protocol",
+  "category": "Business Plans/Web App/Chatbot/10E Reflection Feedback",
+  "description": "Flags when retraining is necessary based on outcomes",
+  "tags": [
+    "re_training_trigger_protocol"
+  ],
+  "example_block_data": {
+    "content": "Flags when retraining is necessary based on outcomes"
+  },
+  "editable_fields": {
+    "content": "Flags when retraining is necessary based on outcomes"
+  }
+}

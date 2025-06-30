@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "1e_performance_seo_meta_title_tag_manager",
+  "label": "Meta / Title Tag Manager",
+  "category": "Web App Builder/Frontend Architecture/1E Performance Seo",
+  "description": "SEO-relevant page titles and OG tags",
+  "tags": [
+    "meta_title_tag_manager"
+  ],
+  "example_block_data": {
+    "content": "SEO-relevant page titles and OG tags"
+  },
+  "editable_fields": {
+    "content": "SEO-relevant page titles and OG tags"
+  }
+}

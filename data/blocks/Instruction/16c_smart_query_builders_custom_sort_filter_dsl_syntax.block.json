@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 16,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "16c_smart_query_builders_custom_sort_filter_dsl_syntax",
+  "label": "Custom Sort + Filter DSL Syntax",
+  "category": "Web App Builder/Search Filters Sorting/16C Smart Query Builders",
+  "description": "For advanced power users",
+  "tags": [
+    "custom_sort_filter_dsl_syntax"
+  ],
+  "example_block_data": {
+    "content": "For advanced power users"
+  },
+  "editable_fields": {
+    "content": "For advanced power users"
+  }
+}

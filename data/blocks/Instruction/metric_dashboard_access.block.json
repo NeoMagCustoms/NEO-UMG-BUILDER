@@ -1,0 +1,46 @@
+{
+  "block_id": "metric_dashboard_access",
+  "label": "Metric Dashboard Access",
+  "category": "Logs, Metrics, Feedback Loop",
+  "description": "Who can see metrics: admin, team, public",
+  "molt_type": "Instruction",
+  "tags": [
+    "metric_dashboard_access",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📈"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Who can see metrics: admin, team, public This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "Metric Dashboard Access: Who can see metrics: admin, team, public"
+  }
+}

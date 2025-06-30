@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 21,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "21e_fine_grain_guards_field_level_redaction",
+  "label": "Field-Level Redaction",
+  "category": "Web App Builder/Access Control Permissions/21E Fine Grain Guards",
+  "description": "Hide input fields if not allowed",
+  "tags": [
+    "field_level_redaction"
+  ],
+  "example_block_data": {
+    "content": "Hide input fields if not allowed"
+  },
+  "editable_fields": {
+    "content": "Hide input fields if not allowed"
+  }
+}

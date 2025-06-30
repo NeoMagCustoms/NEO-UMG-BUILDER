@@ -1,0 +1,46 @@
+{
+  "block_id": "tool_security_flags",
+  "label": "Tool Security Flags",
+  "category": "External Tool Plugins",
+  "description": "Permissions and safety measures",
+  "molt_type": "Instruction",
+  "tags": [
+    "tool_security_flags",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🛡️"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Permissions and safety measures This defines how the bot will perform or respond using this input."
+  },
+  "editable_fields": {
+    "content": "Tool Security Flags: Permissions and safety measures"
+  }
+}

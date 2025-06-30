@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18a_form_builders_components_react_hook_form_formik",
+    "label": "React Hook Form / Formik",
+    "category": "Web App Builder/Forms Validation Input/18A Form Builders Components",
+    "description": "Form logic and bindings",
+    "tags": [
+      "react_hook_form_formik"
+    ],
+    "example_block_data": {
+      "content": "Form logic and bindings"
+    },
+    "editable_fields": {
+      "content": "Form logic and bindings"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18a_form_builders_components_ui_component_kits_e_g_shadcn_mui",
+    "label": "UI Component Kits (e.g., shadcn, MUI)",
+    "category": "Web App Builder/Forms Validation Input/18A Form Builders Components",
+    "description": "Ready-made input components",
+    "tags": [
+      "ui_component_kits_e_g_shadcn_mui"
+    ],
+    "example_block_data": {
+      "content": "Ready-made input components"
+    },
+    "editable_fields": {
+      "content": "Ready-made input components"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18a_form_builders_components_field_group_layouts_rows_cards",
+    "label": "Field Group Layouts (Rows, Cards)",
+    "category": "Web App Builder/Forms Validation Input/18A Form Builders Components",
+    "description": "Grouping related inputs",
+    "tags": [
+      "field_group_layouts_rows_cards"
+    ],
+    "example_block_data": {
+      "content": "Grouping related inputs"
+    },
+    "editable_fields": {
+      "content": "Grouping related inputs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18a_form_builders_components_reusable_form_blocks",
+    "label": "Reusable Form Blocks",
+    "category": "Web App Builder/Forms Validation Input/18A Form Builders Components",
+    "description": "Repeatable templates",
+    "tags": [
+      "reusable_form_blocks"
+    ],
+    "example_block_data": {
+      "content": "Repeatable templates"
+    },
+    "editable_fields": {
+      "content": "Repeatable templates"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18a_form_builders_components_styled_labels_help_text_tooltips",
+    "label": "Styled Labels, Help Text, Tooltips",
+    "category": "Web App Builder/Forms Validation Input/18A Form Builders Components",
+    "description": "Better UX for complex fields",
+    "tags": [
+      "styled_labels_help_text_tooltips"
+    ],
+    "example_block_data": {
+      "content": "Better UX for complex fields"
+    },
+    "editable_fields": {
+      "content": "Better UX for complex fields"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18b_validation_schema_engines_zod_yup_schema_validation",
+    "label": "Zod / Yup Schema Validation",
+    "category": "Web App Builder/Forms Validation Input/18B Validation Schema Engines",
+    "description": "Type-safe rules and schemas",
+    "tags": [
+      "zod_yup_schema_validation"
+    ],
+    "example_block_data": {
+      "content": "Type-safe rules and schemas"
+    },
+    "editable_fields": {
+      "content": "Type-safe rules and schemas"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18b_validation_schema_engines_synchronous_async_rules",
+    "label": "Synchronous & Async Rules",
+    "category": "Web App Builder/Forms Validation Input/18B Validation Schema Engines",
+    "description": "DB/email check, rate limits",
+    "tags": [
+      "synchronous_async_rules"
+    ],
+    "example_block_data": {
+      "content": "DB/email check, rate limits"
+    },
+    "editable_fields": {
+      "content": "DB/email check, rate limits"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18b_validation_schema_engines_field_level_form_level_logic",
+    "label": "Field-Level & Form-Level Logic",
+    "category": "Web App Builder/Forms Validation Input/18B Validation Schema Engines",
+    "description": "Local and holistic validation",
+    "tags": [
+      "field_level_form_level_logic"
+    ],
+    "example_block_data": {
+      "content": "Local and holistic validation"
+    },
+    "editable_fields": {
+      "content": "Local and holistic validation"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18b_validation_schema_engines_custom_error_messages_hints",
+    "label": "Custom Error Messages & Hints",
+    "category": "Web App Builder/Forms Validation Input/18B Validation Schema Engines",
+    "description": "Localized, user-friendly errors",
+    "tags": [
+      "custom_error_messages_hints"
+    ],
+    "example_block_data": {
+      "content": "Localized, user-friendly errors"
+    },
+    "editable_fields": {
+      "content": "Localized, user-friendly errors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18b_validation_schema_engines_show_on_blur_vs_realtime_vs_submit",
+    "label": "Show on Blur vs Realtime vs Submit",
+    "category": "Web App Builder/Forms Validation Input/18B Validation Schema Engines",
+    "description": "When validation appears",
+    "tags": [
+      "show_on_blur_vs_realtime_vs_submit"
+    ],
+    "example_block_data": {
+      "content": "When validation appears"
+    },
+    "editable_fields": {
+      "content": "When validation appears"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18c_dynamic_field_logic_conditional_visibility",
+    "label": "Conditional Visibility",
+    "category": "Web App Builder/Forms Validation Input/18C Dynamic Field Logic",
+    "description": "Show/hide based on prior answers",
+    "tags": [
+      "conditional_visibility"
+    ],
+    "example_block_data": {
+      "content": "Show/hide based on prior answers"
+    },
+    "editable_fields": {
+      "content": "Show/hide based on prior answers"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18c_dynamic_field_logic_repeatable_field_arrays",
+    "label": "Repeatable Field Arrays",
+    "category": "Web App Builder/Forms Validation Input/18C Dynamic Field Logic",
+    "description": "e.g., add multiple users/items",
+    "tags": [
+      "repeatable_field_arrays"
+    ],
+    "example_block_data": {
+      "content": "e.g., add multiple users/items"
+    },
+    "editable_fields": {
+      "content": "e.g., add multiple users/items"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18c_dynamic_field_logic_dynamic_selects_option_loaders",
+    "label": "Dynamic Selects & Option Loaders",
+    "category": "Web App Builder/Forms Validation Input/18C Dynamic Field Logic",
+    "description": "Load from API or state",
+    "tags": [
+      "dynamic_selects_option_loaders"
+    ],
+    "example_block_data": {
+      "content": "Load from API or state"
+    },
+    "editable_fields": {
+      "content": "Load from API or state"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18c_dynamic_field_logic_inter_field_dependency_logic",
+    "label": "Inter-Field Dependency Logic",
+    "category": "Web App Builder/Forms Validation Input/18C Dynamic Field Logic",
+    "description": "Fields that trigger or change others",
+    "tags": [
+      "inter_field_dependency_logic"
+    ],
+    "example_block_data": {
+      "content": "Fields that trigger or change others"
+    },
+    "editable_fields": {
+      "content": "Fields that trigger or change others"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18c_dynamic_field_logic_multi_step_form_wizards",
+    "label": "Multi-Step Form Wizards",
+    "category": "Web App Builder/Forms Validation Input/18C Dynamic Field Logic",
+    "description": "Progress through stages with memory",
+    "tags": [
+      "multi_step_form_wizards"
+    ],
+    "example_block_data": {
+      "content": "Progress through stages with memory"
+    },
+    "editable_fields": {
+      "content": "Progress through stages with memory"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18d_input_security_sanitization_input_masking_phone_cc_ssn",
+    "label": "Input Masking (Phone, CC, SSN)",
+    "category": "Web App Builder/Forms Validation Input/18D Input Security Sanitization",
+    "description": "Prevent format errors",
+    "tags": [
+      "input_masking_phone_cc_ssn"
+    ],
+    "example_block_data": {
+      "content": "Prevent format errors"
+    },
+    "editable_fields": {
+      "content": "Prevent format errors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18d_input_security_sanitization_html_escaping_injection_filter",
+    "label": "HTML Escaping / Injection Filter",
+    "category": "Web App Builder/Forms Validation Input/18D Input Security Sanitization",
+    "description": "Blocks XSS in text inputs",
+    "tags": [
+      "html_escaping_injection_filter"
+    ],
+    "example_block_data": {
+      "content": "Blocks XSS in text inputs"
+    },
+    "editable_fields": {
+      "content": "Blocks XSS in text inputs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18d_input_security_sanitization_rate_limiting_on_submission",
+    "label": "Rate-Limiting on Submission",
+    "category": "Web App Builder/Forms Validation Input/18D Input Security Sanitization",
+    "description": "Prevents spam attempts",
+    "tags": [
+      "rate_limiting_on_submission"
+    ],
+    "example_block_data": {
+      "content": "Prevents spam attempts"
+    },
+    "editable_fields": {
+      "content": "Prevents spam attempts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18d_input_security_sanitization_validation_rate_cap_logic",
+    "label": "Validation Rate Cap Logic",
+    "category": "Web App Builder/Forms Validation Input/18D Input Security Sanitization",
+    "description": "Limits validation API spam",
+    "tags": [
+      "validation_rate_cap_logic"
+    ],
+    "example_block_data": {
+      "content": "Limits validation API spam"
+    },
+    "editable_fields": {
+      "content": "Limits validation API spam"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18d_input_security_sanitization_password_strength_meter",
+    "label": "Password Strength Meter",
+    "category": "Web App Builder/Forms Validation Input/18D Input Security Sanitization",
+    "description": "Shows password requirements live",
+    "tags": [
+      "password_strength_meter"
+    ],
+    "example_block_data": {
+      "content": "Shows password requirements live"
+    },
+    "editable_fields": {
+      "content": "Shows password requirements live"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18e_submission_lifecycle_optimistic_vs_confirmed_submission",
+    "label": "Optimistic vs Confirmed Submission",
+    "category": "Web App Builder/Forms Validation Input/18E Submission Lifecycle",
+    "description": "Instant or post-server verify",
+    "tags": [
+      "optimistic_vs_confirmed_submission"
+    ],
+    "example_block_data": {
+      "content": "Instant or post-server verify"
+    },
+    "editable_fields": {
+      "content": "Instant or post-server verify"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18e_submission_lifecycle_form_reset_error_recovery",
+    "label": "Form Reset & Error Recovery",
+    "category": "Web App Builder/Forms Validation Input/18E Submission Lifecycle",
+    "description": "UX recovery from failure",
+    "tags": [
+      "form_reset_error_recovery"
+    ],
+    "example_block_data": {
+      "content": "UX recovery from failure"
+    },
+    "editable_fields": {
+      "content": "UX recovery from failure"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18e_submission_lifecycle_auto_save_drafts_timeouts",
+    "label": "Auto-Save Drafts & Timeouts",
+    "category": "Web App Builder/Forms Validation Input/18E Submission Lifecycle",
+    "description": "Prevents lost inputs",
+    "tags": [
+      "auto_save_drafts_timeouts"
+    ],
+    "example_block_data": {
+      "content": "Prevents lost inputs"
+    },
+    "editable_fields": {
+      "content": "Prevents lost inputs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18e_submission_lifecycle_hook_into_save_create_apis",
+    "label": "Hook Into Save/Create APIs",
+    "category": "Web App Builder/Forms Validation Input/18E Submission Lifecycle",
+    "description": "POST/PUT logic",
+    "tags": [
+      "hook_into_save_create_apis"
+    ],
+    "example_block_data": {
+      "content": "POST/PUT logic"
+    },
+    "editable_fields": {
+      "content": "POST/PUT logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18e_submission_lifecycle_multi_state_button_logic",
+    "label": "Multi-State Button Logic",
+    "category": "Web App Builder/Forms Validation Input/18E Submission Lifecycle",
+    "description": "Loading / Success / Error feedback",
+    "tags": [
+      "multi_state_button_logic"
+    ],
+    "example_block_data": {
+      "content": "Loading / Success / Error feedback"
+    },
+    "editable_fields": {
+      "content": "Loading / Success / Error feedback"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18f_custom_fields_ux_patterns_custom_input_types_tags_sliders",
+    "label": "Custom Input Types (Tags, Sliders)",
+    "category": "Web App Builder/Forms Validation Input/18F Custom Fields Ux Patterns",
+    "description": "Rich input fields",
+    "tags": [
+      "custom_input_types_tags_sliders"
+    ],
+    "example_block_data": {
+      "content": "Rich input fields"
+    },
+    "editable_fields": {
+      "content": "Rich input fields"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18f_custom_fields_ux_patterns_form_as_wizard_dialogue",
+    "label": "Form as Wizard / Dialogue",
+    "category": "Web App Builder/Forms Validation Input/18F Custom Fields Ux Patterns",
+    "description": "Progressive disclosure",
+    "tags": [
+      "form_as_wizard_dialogue"
+    ],
+    "example_block_data": {
+      "content": "Progressive disclosure"
+    },
+    "editable_fields": {
+      "content": "Progressive disclosure"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18f_custom_fields_ux_patterns_hidden_metadata_inputs",
+    "label": "Hidden Metadata Inputs",
+    "category": "Web App Builder/Forms Validation Input/18F Custom Fields Ux Patterns",
+    "description": "Track origin, campaign, etc.",
+    "tags": [
+      "hidden_metadata_inputs"
+    ],
+    "example_block_data": {
+      "content": "Track origin, campaign, etc."
+    },
+    "editable_fields": {
+      "content": "Track origin, campaign, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18f_custom_fields_ux_patterns_ai_autofill_or_predictive_entry",
+    "label": "AI-Autofill or Predictive Entry",
+    "category": "Web App Builder/Forms Validation Input/18F Custom Fields Ux Patterns",
+    "description": "Suggest values based on input",
+    "tags": [
+      "ai_autofill_or_predictive_entry"
+    ],
+    "example_block_data": {
+      "content": "Suggest values based on input"
+    },
+    "editable_fields": {
+      "content": "Suggest values based on input"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 18,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "18f_custom_fields_ux_patterns_keyboard_navigation_optimization",
+    "label": "Keyboard Navigation Optimization",
+    "category": "Web App Builder/Forms Validation Input/18F Custom Fields Ux Patterns",
+    "description": "Tab, enter, esc flow polish",
+    "tags": [
+      "keyboard_navigation_optimization"
+    ],
+    "example_block_data": {
+      "content": "Tab, enter, esc flow polish"
+    },
+    "editable_fields": {
+      "content": "Tab, enter, esc flow polish"
+    }
+  }
+]

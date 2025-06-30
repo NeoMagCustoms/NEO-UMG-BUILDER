@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 4,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "4f_relational_document_patterns_embedded_document_strategy",
+  "label": "Embedded Document Strategy",
+  "category": "Web App Builder/Database Data Models/4F Relational Document Patterns",
+  "description": "NoSQL nested records (e.g., user.preferences)",
+  "tags": [
+    "embedded_document_strategy"
+  ],
+  "example_block_data": {
+    "content": "NoSQL nested records (e.g., user.preferences)"
+  },
+  "editable_fields": {
+    "content": "NoSQL nested records (e.g., user.preferences)"
+  }
+}

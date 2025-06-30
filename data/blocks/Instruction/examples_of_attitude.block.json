@@ -1,0 +1,46 @@
+{
+  "block_id": "examples_of_attitude",
+  "label": "Examples of Attitude",
+  "category": "Chatbot Identity/Tone & Attitude",
+  "description": "Sample tone-rich responses",
+  "molt_type": "Instruction",
+  "tags": [
+    "examples_of_attitude",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🧪"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Sample tone-rich responses This is an example of applied logic for that trait."
+  },
+  "editable_fields": {
+    "content": "Examples of Attitude: Sample tone-rich responses"
+  }
+}

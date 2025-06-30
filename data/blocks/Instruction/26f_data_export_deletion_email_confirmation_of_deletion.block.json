@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 26,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "26f_data_export_deletion_email_confirmation_of_deletion",
+  "label": "Email Confirmation of Deletion",
+  "category": "Web App Builder/Legal Terms Consent/26F Data Export Deletion",
+  "description": "Proof to user",
+  "tags": [
+    "email_confirmation_of_deletion"
+  ],
+  "example_block_data": {
+    "content": "Proof to user"
+  },
+  "editable_fields": {
+    "content": "Proof to user"
+  }
+}

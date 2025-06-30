@@ -1,0 +1,7 @@
+{
+  "block_id": "cooldown_reward_loop",
+  "label": "Cooldown Timers for Reward Loops",
+  "category": "Web App/Gamification/27F",
+  "description": "Prevent farming",
+  "molt_type": "Instruction"
+}

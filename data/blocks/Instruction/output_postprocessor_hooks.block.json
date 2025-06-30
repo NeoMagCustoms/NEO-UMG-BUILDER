@@ -1,0 +1,46 @@
+{
+  "block_id": "output_postprocessor_hooks",
+  "label": "Output Postprocessor Hooks",
+  "category": "Output Style",
+  "description": "Styling or cleanup before render",
+  "molt_type": "Instruction",
+  "tags": [
+    "output_postprocessor_hooks",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🧼"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Styling or cleanup before render This defines how the bot will perform or respond using this input."
+  },
+  "editable_fields": {
+    "content": "Output Postprocessor Hooks: Styling or cleanup before render"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "1d_ui_framework_integration_material_ui_chakra_antd",
+  "label": "Material UI / Chakra / AntD",
+  "category": "Web App Builder/Frontend Architecture/1D Ui Framework Integration",
+  "description": "Pre-built design systems",
+  "tags": [
+    "material_ui_chakra_antd"
+  ],
+  "example_block_data": {
+    "content": "Pre-built design systems"
+  },
+  "editable_fields": {
+    "content": "Pre-built design systems"
+  }
+}

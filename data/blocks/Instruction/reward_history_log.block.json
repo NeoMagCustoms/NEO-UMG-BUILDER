@@ -1,0 +1,7 @@
+{
+  "block_id": "reward_history_log",
+  "label": "Reward History Log",
+  "category": "Web App/Gamification/27F",
+  "description": "Tracks issued rewards",
+  "molt_type": "Instruction"
+}

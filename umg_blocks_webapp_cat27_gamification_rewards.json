@@ -1,0 +1,212 @@
+[
+  {
+    "block_id": "action_to_xp_map",
+    "label": "Action-to-XP Map",
+    "category": "Web App/Gamification/27A",
+    "description": "Defines XP earned per action",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "level_thresholds_ranks",
+    "label": "Level Thresholds & Ranks",
+    "category": "Web App/Gamification/27A",
+    "description": "Sets XP for leveling up",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "xp_multipliers_events",
+    "label": "XP Multipliers (Events, Boosters)",
+    "category": "Web App/Gamification/27A",
+    "description": "Temporary reward amplification",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "negative_xp_penalties",
+    "label": "Negative XP / Penalties",
+    "category": "Web App/Gamification/27A",
+    "description": "Punishes abuse or mistakes",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "xp_progress_bar_ui",
+    "label": "XP Progress Bar UI",
+    "category": "Web App/Gamification/27A",
+    "description": "Shows leveling progress",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "collectible_badges",
+    "label": "Collectible Badges & Unlockables",
+    "category": "Web App/Gamification/27B",
+    "description": "Awarded for key milestones",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "daily_weekly_streaks",
+    "label": "Daily/Weekly Streak Systems",
+    "category": "Web App/Gamification/27B",
+    "description": "Encourage consistent return",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "trophy_display_showcase",
+    "label": "Trophy Cabinet / Badge Showcase",
+    "category": "Web App/Gamification/27B",
+    "description": "Display earned honors",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "surprise_drops",
+    "label": "Surprise Drops (Random Gifts)",
+    "category": "Web App/Gamification/27B",
+    "description": "Inject fun & unpredictability",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "role_title_rewards",
+    "label": "Role/Title Rewards",
+    "category": "Web App/Gamification/27B",
+    "description": "Gamified identity",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "point_shop_catalog",
+    "label": "Point Shop or Rewards Catalog",
+    "category": "Web App/Gamification/27C",
+    "description": "Spend points on perks",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "time_based_rewards",
+    "label": "Time-Based Reward Intervals",
+    "category": "Web App/Gamification/27C",
+    "description": "“Visit X days to earn Y”",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "custom_currency_naming",
+    "label": "Custom Currency Naming",
+    "category": "Web App/Gamification/27C",
+    "description": "Branded coin system",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "earnable_discount_tiers",
+    "label": "Earnable Discount Tiers",
+    "category": "Web App/Gamification/27C",
+    "description": "Loyalty → lower prices",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "punch_card_mechanics",
+    "label": "Punch Card Mechanics",
+    "category": "Web App/Gamification/27C",
+    "description": "Fill slots, get gift",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "invite_referral_link",
+    "label": "Invite Code or Referral Link",
+    "category": "Web App/Gamification/27D",
+    "description": "Ties reward to inviter",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "double_sided_rewards",
+    "label": "Double-Sided Reward Offers",
+    "category": "Web App/Gamification/27D",
+    "description": "Both inviter and invitee benefit",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "sharing_milestone_bonus",
+    "label": "Sharing Milestone Bonuses",
+    "category": "Web App/Gamification/27D",
+    "description": "Post X times → reward",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "social_platform_sharing",
+    "label": "Social Platform Sharing Hook",
+    "category": "Web App/Gamification/27D",
+    "description": "Native share buttons",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "invite_leaderboard",
+    "label": "Invite Leaderboard or Rankings",
+    "category": "Web App/Gamification/27D",
+    "description": "Gamifies growth contribution",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "xp_badge_in_header",
+    "label": "XP Bar, Level Badge in Header",
+    "category": "Web App/Gamification/27E",
+    "description": "Persistent progress cue",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "leaderboard_by_category",
+    "label": "Leaderboard by Category or Tier",
+    "category": "Web App/Gamification/27E",
+    "description": "Ranks users in context",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "next_reward_countdown",
+    "label": "“Next Reward” Countdown",
+    "category": "Web App/Gamification/27E",
+    "description": "Motivates toward goal",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "active_user_heatmap",
+    "label": "Heatmap of Active Users",
+    "category": "Web App/Gamification/27E",
+    "description": "Shows streak health",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "filtered_leaderboards",
+    "label": "Filtered Leaderboards",
+    "category": "Web App/Gamification/27E",
+    "description": "Compares within relevant group",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "cooldown_reward_loop",
+    "label": "Cooldown Timers for Reward Loops",
+    "category": "Web App/Gamification/27F",
+    "description": "Prevent farming",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "bot_detection_gamification",
+    "label": "Bot Detection Logic",
+    "category": "Web App/Gamification/27F",
+    "description": "Stops automated abuse",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "rate_limited_rewards",
+    "label": "Rate-Limited Reward Granting",
+    "category": "Web App/Gamification/27F",
+    "description": "Controls reward frequency",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "reward_history_log",
+    "label": "Reward History Log",
+    "category": "Web App/Gamification/27F",
+    "description": "Tracks issued rewards",
+    "molt_type": "Instruction"
+  },
+  {
+    "block_id": "admin_reward_adjustment",
+    "label": "Admin Panel for Manual Adjustment",
+    "category": "Web App/Gamification/27F",
+    "description": "Fix or edit user rewards",
+    "molt_type": "Instruction"
+  }
+]

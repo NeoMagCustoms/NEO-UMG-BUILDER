@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 11,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "embedded_report_scenario_modeling",
+  "label": "Scenario Modeling",
+  "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+  "description": "Sensitivity analysis or “what-if” scenario projections",
+  "tags": [
+    "scenario_modeling"
+  ],
+  "example_block_data": {
+    "content": "Sensitivity analysis or “what-if” scenario projections"
+  },
+  "editable_fields": {
+    "content": "Sensitivity analysis or “what-if” scenario projections"
+  }
+}

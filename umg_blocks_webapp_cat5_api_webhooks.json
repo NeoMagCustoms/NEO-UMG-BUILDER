@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5a_external_api_integration_rest_api_request_handlers",
+    "label": "REST API Request Handlers",
+    "category": "Web App Builder/API Integration Webhooks/5A External Api Integration",
+    "description": "Fetches external REST data (GET/POST/etc.)",
+    "tags": [
+      "rest_api_request_handlers"
+    ],
+    "example_block_data": {
+      "content": "Fetches external REST data (GET/POST/etc.)"
+    },
+    "editable_fields": {
+      "content": "Fetches external REST data (GET/POST/etc.)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5a_external_api_integration_graphql_client_config",
+    "label": "GraphQL Client Config",
+    "category": "Web App Builder/API Integration Webhooks/5A External Api Integration",
+    "description": "External GraphQL querying setup",
+    "tags": [
+      "graphql_client_config"
+    ],
+    "example_block_data": {
+      "content": "External GraphQL querying setup"
+    },
+    "editable_fields": {
+      "content": "External GraphQL querying setup"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5a_external_api_integration_retry_timeout_logic",
+    "label": "Retry & Timeout Logic",
+    "category": "Web App Builder/API Integration Webhooks/5A External Api Integration",
+    "description": "Handles flaky APIs gracefully",
+    "tags": [
+      "retry_timeout_logic"
+    ],
+    "example_block_data": {
+      "content": "Handles flaky APIs gracefully"
+    },
+    "editable_fields": {
+      "content": "Handles flaky APIs gracefully"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5a_external_api_integration_json_app_model_mapping",
+    "label": "JSON \u2192 App Model Mapping",
+    "category": "Web App Builder/API Integration Webhooks/5A External Api Integration",
+    "description": "Transforms 3rd-party schema to internal types",
+    "tags": [
+      "json_app_model_mapping"
+    ],
+    "example_block_data": {
+      "content": "Transforms 3rd-party schema to internal types"
+    },
+    "editable_fields": {
+      "content": "Transforms 3rd-party schema to internal types"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5a_external_api_integration_api_fetch_adapter_layer",
+    "label": "API Fetch Adapter Layer",
+    "category": "Web App Builder/API Integration Webhooks/5A External Api Integration",
+    "description": "Abstracts out fetch logic for reuse",
+    "tags": [
+      "api_fetch_adapter_layer"
+    ],
+    "example_block_data": {
+      "content": "Abstracts out fetch logic for reuse"
+    },
+    "editable_fields": {
+      "content": "Abstracts out fetch logic for reuse"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5b_webhook_receivers_webhook_endpoint_definition",
+    "label": "Webhook Endpoint Definition",
+    "category": "Web App Builder/API Integration Webhooks/5B Webhook Receivers",
+    "description": "URL that external service sends to",
+    "tags": [
+      "webhook_endpoint_definition"
+    ],
+    "example_block_data": {
+      "content": "URL that external service sends to"
+    },
+    "editable_fields": {
+      "content": "URL that external service sends to"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5b_webhook_receivers_signature_verification_logic",
+    "label": "Signature Verification Logic",
+    "category": "Web App Builder/API Integration Webhooks/5B Webhook Receivers",
+    "description": "Confirms payload authenticity (e.g., Stripe, Twilio)",
+    "tags": [
+      "signature_verification_logic"
+    ],
+    "example_block_data": {
+      "content": "Confirms payload authenticity (e.g., Stripe, Twilio)"
+    },
+    "editable_fields": {
+      "content": "Confirms payload authenticity (e.g., Stripe, Twilio)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5b_webhook_receivers_event_parser_router",
+    "label": "Event Parser / Router",
+    "category": "Web App Builder/API Integration Webhooks/5B Webhook Receivers",
+    "description": "Maps events to logic handlers",
+    "tags": [
+      "event_parser_router"
+    ],
+    "example_block_data": {
+      "content": "Maps events to logic handlers"
+    },
+    "editable_fields": {
+      "content": "Maps events to logic handlers"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5b_webhook_receivers_retry_policy_support",
+    "label": "Retry Policy Support",
+    "category": "Web App Builder/API Integration Webhooks/5B Webhook Receivers",
+    "description": "Handles retries for failed webhook deliveries",
+    "tags": [
+      "retry_policy_support"
+    ],
+    "example_block_data": {
+      "content": "Handles retries for failed webhook deliveries"
+    },
+    "editable_fields": {
+      "content": "Handles retries for failed webhook deliveries"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5b_webhook_receivers_logging_replay_tool",
+    "label": "Logging & Replay Tool",
+    "category": "Web App Builder/API Integration Webhooks/5B Webhook Receivers",
+    "description": "Inspect and replay past webhook events",
+    "tags": [
+      "logging_replay_tool"
+    ],
+    "example_block_data": {
+      "content": "Inspect and replay past webhook events"
+    },
+    "editable_fields": {
+      "content": "Inspect and replay past webhook events"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5c_sdk_wrappers_stripe_sdk_wrapper",
+    "label": "Stripe SDK Wrapper",
+    "category": "Web App Builder/API Integration Webhooks/5C Sdk Wrappers",
+    "description": "Manages payments, events, webhooks",
+    "tags": [
+      "stripe_sdk_wrapper"
+    ],
+    "example_block_data": {
+      "content": "Manages payments, events, webhooks"
+    },
+    "editable_fields": {
+      "content": "Manages payments, events, webhooks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5c_sdk_wrappers_openai_sdk_wrapper",
+    "label": "OpenAI SDK Wrapper",
+    "category": "Web App Builder/API Integration Webhooks/5C Sdk Wrappers",
+    "description": "Prompts, tools, embeddings, completions",
+    "tags": [
+      "openai_sdk_wrapper"
+    ],
+    "example_block_data": {
+      "content": "Prompts, tools, embeddings, completions"
+    },
+    "editable_fields": {
+      "content": "Prompts, tools, embeddings, completions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5c_sdk_wrappers_firebase_client",
+    "label": "Firebase Client",
+    "category": "Web App Builder/API Integration Webhooks/5C Sdk Wrappers",
+    "description": "Auth, Firestore, storage interfaces",
+    "tags": [
+      "firebase_client"
+    ],
+    "example_block_data": {
+      "content": "Auth, Firestore, storage interfaces"
+    },
+    "editable_fields": {
+      "content": "Auth, Firestore, storage interfaces"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5c_sdk_wrappers_google_apis_sdk",
+    "label": "Google APIs SDK",
+    "category": "Web App Builder/API Integration Webhooks/5C Sdk Wrappers",
+    "description": "Maps, Drive, Sheets, Gmail integrations",
+    "tags": [
+      "google_apis_sdk"
+    ],
+    "example_block_data": {
+      "content": "Maps, Drive, Sheets, Gmail integrations"
+    },
+    "editable_fields": {
+      "content": "Maps, Drive, Sheets, Gmail integrations"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5c_sdk_wrappers_custom_http_sdk",
+    "label": "Custom HTTP SDK",
+    "category": "Web App Builder/API Integration Webhooks/5C Sdk Wrappers",
+    "description": "Internal or partner APIs abstracted for reuse",
+    "tags": [
+      "custom_http_sdk"
+    ],
+    "example_block_data": {
+      "content": "Internal or partner APIs abstracted for reuse"
+    },
+    "editable_fields": {
+      "content": "Internal or partner APIs abstracted for reuse"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5d_outbound_webhooks_user_activity_trigger_logic",
+    "label": "User Activity Trigger Logic",
+    "category": "Web App Builder/API Integration Webhooks/5D Outbound Webhooks",
+    "description": "Sends POST to partner apps on user action",
+    "tags": [
+      "user_activity_trigger_logic"
+    ],
+    "example_block_data": {
+      "content": "Sends POST to partner apps on user action"
+    },
+    "editable_fields": {
+      "content": "Sends POST to partner apps on user action"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5d_outbound_webhooks_retry_backoff_queue",
+    "label": "Retry/Backoff Queue",
+    "category": "Web App Builder/API Integration Webhooks/5D Outbound Webhooks",
+    "description": "For webhook delivery failures",
+    "tags": [
+      "retry_backoff_queue"
+    ],
+    "example_block_data": {
+      "content": "For webhook delivery failures"
+    },
+    "editable_fields": {
+      "content": "For webhook delivery failures"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5d_outbound_webhooks_webhook_subscription_settings",
+    "label": "Webhook Subscription Settings",
+    "category": "Web App Builder/API Integration Webhooks/5D Outbound Webhooks",
+    "description": "Let users choose when/how to receive them",
+    "tags": [
+      "webhook_subscription_settings"
+    ],
+    "example_block_data": {
+      "content": "Let users choose when/how to receive them"
+    },
+    "editable_fields": {
+      "content": "Let users choose when/how to receive them"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5d_outbound_webhooks_delivery_format_templates",
+    "label": "Delivery Format Templates",
+    "category": "Web App Builder/API Integration Webhooks/5D Outbound Webhooks",
+    "description": "JSON payload builders",
+    "tags": [
+      "delivery_format_templates"
+    ],
+    "example_block_data": {
+      "content": "JSON payload builders"
+    },
+    "editable_fields": {
+      "content": "JSON payload builders"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5d_outbound_webhooks_rate_limited_dispatcher",
+    "label": "Rate-Limited Dispatcher",
+    "category": "Web App Builder/API Integration Webhooks/5D Outbound Webhooks",
+    "description": "Avoids API bans or throttling",
+    "tags": [
+      "rate_limited_dispatcher"
+    ],
+    "example_block_data": {
+      "content": "Avoids API bans or throttling"
+    },
+    "editable_fields": {
+      "content": "Avoids API bans or throttling"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5e_api_auth_and_rate_limiting_api_key_storage_rotation",
+    "label": "API Key Storage & Rotation",
+    "category": "Web App Builder/API Integration Webhooks/5E Api Auth And Rate Limiting",
+    "description": "For service accounts and integrations",
+    "tags": [
+      "api_key_storage_rotation"
+    ],
+    "example_block_data": {
+      "content": "For service accounts and integrations"
+    },
+    "editable_fields": {
+      "content": "For service accounts and integrations"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5e_api_auth_and_rate_limiting_oauth_client_logic",
+    "label": "OAuth Client Logic",
+    "category": "Web App Builder/API Integration Webhooks/5E Api Auth And Rate Limiting",
+    "description": "Access tokens for Google, GitHub, etc.",
+    "tags": [
+      "oauth_client_logic"
+    ],
+    "example_block_data": {
+      "content": "Access tokens for Google, GitHub, etc."
+    },
+    "editable_fields": {
+      "content": "Access tokens for Google, GitHub, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5e_api_auth_and_rate_limiting_rate_limit_config",
+    "label": "Rate Limit Config",
+    "category": "Web App Builder/API Integration Webhooks/5E Api Auth And Rate Limiting",
+    "description": "Caps on call volume/timeframe",
+    "tags": [
+      "rate_limit_config"
+    ],
+    "example_block_data": {
+      "content": "Caps on call volume/timeframe"
+    },
+    "editable_fields": {
+      "content": "Caps on call volume/timeframe"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5e_api_auth_and_rate_limiting_token_refresh_handling",
+    "label": "Token Refresh Handling",
+    "category": "Web App Builder/API Integration Webhooks/5E Api Auth And Rate Limiting",
+    "description": "Auto-refreshes expired credentials",
+    "tags": [
+      "token_refresh_handling"
+    ],
+    "example_block_data": {
+      "content": "Auto-refreshes expired credentials"
+    },
+    "editable_fields": {
+      "content": "Auto-refreshes expired credentials"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5e_api_auth_and_rate_limiting_retry_with_exponential_backoff",
+    "label": "Retry with Exponential Backoff",
+    "category": "Web App Builder/API Integration Webhooks/5E Api Auth And Rate Limiting",
+    "description": "Prevents hammering services too fast",
+    "tags": [
+      "retry_with_exponential_backoff"
+    ],
+    "example_block_data": {
+      "content": "Prevents hammering services too fast"
+    },
+    "editable_fields": {
+      "content": "Prevents hammering services too fast"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5f_testing_mocks_mock_api_routes",
+    "label": "Mock API Routes",
+    "category": "Web App Builder/API Integration Webhooks/5F Testing Mocks",
+    "description": "Fake responses for dev testing",
+    "tags": [
+      "mock_api_routes"
+    ],
+    "example_block_data": {
+      "content": "Fake responses for dev testing"
+    },
+    "editable_fields": {
+      "content": "Fake responses for dev testing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5f_testing_mocks_request_interceptor_msw_nock",
+    "label": "Request Interceptor (MSW/Nock)",
+    "category": "Web App Builder/API Integration Webhooks/5F Testing Mocks",
+    "description": "Simulates fetch/XHR in tests",
+    "tags": [
+      "request_interceptor_msw_nock"
+    ],
+    "example_block_data": {
+      "content": "Simulates fetch/XHR in tests"
+    },
+    "editable_fields": {
+      "content": "Simulates fetch/XHR in tests"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5f_testing_mocks_integration_test_suite",
+    "label": "Integration Test Suite",
+    "category": "Web App Builder/API Integration Webhooks/5F Testing Mocks",
+    "description": "Tests real API interactions",
+    "tags": [
+      "integration_test_suite"
+    ],
+    "example_block_data": {
+      "content": "Tests real API interactions"
+    },
+    "editable_fields": {
+      "content": "Tests real API interactions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5f_testing_mocks_contract_test_generator",
+    "label": "Contract Test Generator",
+    "category": "Web App Builder/API Integration Webhooks/5F Testing Mocks",
+    "description": "Ensures client/server agree on payload format",
+    "tags": [
+      "contract_test_generator"
+    ],
+    "example_block_data": {
+      "content": "Ensures client/server agree on payload format"
+    },
+    "editable_fields": {
+      "content": "Ensures client/server agree on payload format"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5f_testing_mocks_sandbox_credentials_handler",
+    "label": "Sandbox Credentials Handler",
+    "category": "Web App Builder/API Integration Webhooks/5F Testing Mocks",
+    "description": "Uses non-live API tokens for test mode",
+    "tags": [
+      "sandbox_credentials_handler"
+    ],
+    "example_block_data": {
+      "content": "Uses non-live API tokens for test mode"
+    },
+    "editable_fields": {
+      "content": "Uses non-live API tokens for test mode"
+    }
+  }
+]

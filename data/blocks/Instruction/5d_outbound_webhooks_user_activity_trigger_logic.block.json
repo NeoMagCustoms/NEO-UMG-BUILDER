@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "5d_outbound_webhooks_user_activity_trigger_logic",
+  "label": "User Activity Trigger Logic",
+  "category": "Web App Builder/API Integration Webhooks/5D Outbound Webhooks",
+  "description": "Sends POST to partner apps on user action",
+  "tags": [
+    "user_activity_trigger_logic"
+  ],
+  "example_block_data": {
+    "content": "Sends POST to partner apps on user action"
+  },
+  "editable_fields": {
+    "content": "Sends POST to partner apps on user action"
+  }
+}

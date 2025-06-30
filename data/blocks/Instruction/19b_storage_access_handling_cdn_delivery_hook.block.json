@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 19,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "19b_storage_access_handling_cdn_delivery_hook",
+  "label": "CDN Delivery Hook",
+  "category": "Web App Builder/File Handling Uploads Media/19B Storage Access Handling",
+  "description": "Fast delivery via global edge",
+  "tags": [
+    "cdn_delivery_hook"
+  ],
+  "example_block_data": {
+    "content": "Fast delivery via global edge"
+  },
+  "editable_fields": {
+    "content": "Fast delivery via global edge"
+  }
+}

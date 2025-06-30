@@ -1,0 +1,28 @@
+{
+  "block_id": "30c_agent_memory_coordination",
+  "label": "Agent Coordination & Memory",
+  "category": "webapp",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "memory_slots"
+  ],
+  "tags": [
+    "agents",
+    "memory",
+    "orchestration"
+  ],
+  "snap_config": {
+    "snap_to": "Agent Engine",
+    "position": "middle"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "code_modules": [],
+  "canto_overlay": {},
+  "export_config": {}
+}

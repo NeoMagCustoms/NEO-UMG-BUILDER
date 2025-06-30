@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 17,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "17b_timezones_and_date_logic_date_fns_luxon_moment",
+  "label": "date-fns / luxon / moment",
+  "category": "Web App Builder/Localization I18n Timezones/17B Timezones And Date Logic",
+  "description": "Time formatting libs",
+  "tags": [
+    "date_fns_luxon_moment"
+  ],
+  "example_block_data": {
+    "content": "Time formatting libs"
+  },
+  "editable_fields": {
+    "content": "Time formatting libs"
+  }
+}

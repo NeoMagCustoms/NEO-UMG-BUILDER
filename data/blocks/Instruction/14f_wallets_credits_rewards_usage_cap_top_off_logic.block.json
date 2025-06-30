@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 14,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "14f_wallets_credits_rewards_usage_cap_top_off_logic",
+  "label": "Usage Cap + Top-Off Logic",
+  "category": "Web App Builder/Payment Billing Systems/14F Wallets Credits Rewards",
+  "description": "Alerts on low balance, auto-recharge",
+  "tags": [
+    "usage_cap_top_off_logic"
+  ],
+  "example_block_data": {
+    "content": "Alerts on low balance, auto-recharge"
+  },
+  "editable_fields": {
+    "content": "Alerts on low balance, auto-recharge"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "6a_strategy_positioning_value_proposition_map",
+  "label": "Value Proposition Map",
+  "category": "Business Plans/Web App/Chatbot/6A Strategy Positioning",
+  "description": "What problems you solve, for whom, and why it matters",
+  "tags": [
+    "value_proposition_map"
+  ],
+  "example_block_data": {
+    "content": "What problems you solve, for whom, and why it matters"
+  },
+  "editable_fields": {
+    "content": "What problems you solve, for whom, and why it matters"
+  }
+}

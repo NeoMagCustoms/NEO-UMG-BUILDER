@@ -1,0 +1,37 @@
+{
+  "block_id": "chatbot_primary_task",
+  "label": "Chatbot Primary Task",
+  "category": "chatbot_core",
+  "molt_type": "Primary",
+  "color": "blue",
+  "editable_fields": [
+    "task_title",
+    "task_function_type",
+    "core_user_goals",
+    "supported_output_modes",
+    "task_input_requirements",
+    "preferred_prompt_structure",
+    "task_success_criteria",
+    "multi-tasking_capable",
+    "task_routing_logic",
+    "example_input_output_pairs"
+  ],
+  "tags": [
+    "chatbot",
+    "task",
+    "primary_function"
+  ],
+  "snap_config": {
+    "snap_to": [
+      "Subject",
+      "Instruction"
+    ],
+    "stack_order": 7
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T14:17:04.478658",
+    "edit_log": []
+  }
+}

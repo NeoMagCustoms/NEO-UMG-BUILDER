@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 16,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "16f_query_access_control_filter_by_user_role",
+  "label": "Filter by User Role",
+  "category": "Web App Builder/Search Filters Sorting/16F Query Access Control",
+  "description": "Hides private or admin-only data",
+  "tags": [
+    "filter_by_user_role"
+  ],
+  "example_block_data": {
+    "content": "Hides private or admin-only data"
+  },
+  "editable_fields": {
+    "content": "Hides private or admin-only data"
+  }
+}

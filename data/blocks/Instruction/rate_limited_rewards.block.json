@@ -1,0 +1,7 @@
+{
+  "block_id": "rate_limited_rewards",
+  "label": "Rate-Limited Reward Granting",
+  "category": "Web App/Gamification/27F",
+  "description": "Controls reward frequency",
+  "molt_type": "Instruction"
+}

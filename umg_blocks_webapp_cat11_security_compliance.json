@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11a_auth_access_control_role_based_access_enforcement_rbac",
+    "label": "Role-Based Access Enforcement (RBAC)",
+    "category": "Web App Builder/Security Compliance/11A Auth Access Control",
+    "description": "Ensures permissions by user type",
+    "tags": [
+      "role_based_access_enforcement_rbac"
+    ],
+    "example_block_data": {
+      "content": "Ensures permissions by user type"
+    },
+    "editable_fields": {
+      "content": "Ensures permissions by user type"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11a_auth_access_control_session_expiry_timeout_logic",
+    "label": "Session Expiry & Timeout Logic",
+    "category": "Web App Builder/Security Compliance/11A Auth Access Control",
+    "description": "Auto-logouts after inactivity",
+    "tags": [
+      "session_expiry_timeout_logic"
+    ],
+    "example_block_data": {
+      "content": "Auto-logouts after inactivity"
+    },
+    "editable_fields": {
+      "content": "Auto-logouts after inactivity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11a_auth_access_control_mfa_2fa_enforcement",
+    "label": "MFA / 2FA Enforcement",
+    "category": "Web App Builder/Security Compliance/11A Auth Access Control",
+    "description": "Adds security layer on login",
+    "tags": [
+      "mfa_2fa_enforcement"
+    ],
+    "example_block_data": {
+      "content": "Adds security layer on login"
+    },
+    "editable_fields": {
+      "content": "Adds security layer on login"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11a_auth_access_control_account_lockout_policy",
+    "label": "Account Lockout Policy",
+    "category": "Web App Builder/Security Compliance/11A Auth Access Control",
+    "description": "Limits failed login attempts",
+    "tags": [
+      "account_lockout_policy"
+    ],
+    "example_block_data": {
+      "content": "Limits failed login attempts"
+    },
+    "editable_fields": {
+      "content": "Limits failed login attempts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11a_auth_access_control_secure_cookie_config_httponly_samesite",
+    "label": "Secure Cookie Config (httpOnly, SameSite)",
+    "category": "Web App Builder/Security Compliance/11A Auth Access Control",
+    "description": "Prevents theft via browser",
+    "tags": [
+      "secure_cookie_config_httponly_samesite"
+    ],
+    "example_block_data": {
+      "content": "Prevents theft via browser"
+    },
+    "editable_fields": {
+      "content": "Prevents theft via browser"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11b_data_encryption_https_everywhere_ssl_tls",
+    "label": "HTTPS Everywhere (SSL/TLS)",
+    "category": "Web App Builder/Security Compliance/11B Data Encryption",
+    "description": "Encrypts data in transit",
+    "tags": [
+      "https_everywhere_ssl_tls"
+    ],
+    "example_block_data": {
+      "content": "Encrypts data in transit"
+    },
+    "editable_fields": {
+      "content": "Encrypts data in transit"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11b_data_encryption_at_rest_encryption",
+    "label": "At-Rest Encryption",
+    "category": "Web App Builder/Security Compliance/11B Data Encryption",
+    "description": "Protects DB/file storage at rest",
+    "tags": [
+      "at_rest_encryption"
+    ],
+    "example_block_data": {
+      "content": "Protects DB/file storage at rest"
+    },
+    "editable_fields": {
+      "content": "Protects DB/file storage at rest"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11b_data_encryption_field_level_encryption",
+    "label": "Field-Level Encryption",
+    "category": "Web App Builder/Security Compliance/11B Data Encryption",
+    "description": "Secures sensitive fields (e.g. SSN, credit card)",
+    "tags": [
+      "field_level_encryption"
+    ],
+    "example_block_data": {
+      "content": "Secures sensitive fields (e.g. SSN, credit card)"
+    },
+    "editable_fields": {
+      "content": "Secures sensitive fields (e.g. SSN, credit card)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11b_data_encryption_password_hashing_bcrypt_argon2",
+    "label": "Password Hashing (bcrypt, argon2)",
+    "category": "Web App Builder/Security Compliance/11B Data Encryption",
+    "description": "Prevents password theft",
+    "tags": [
+      "password_hashing_bcrypt_argon2"
+    ],
+    "example_block_data": {
+      "content": "Prevents password theft"
+    },
+    "editable_fields": {
+      "content": "Prevents password theft"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11b_data_encryption_key_rotation_policy",
+    "label": "Key Rotation Policy",
+    "category": "Web App Builder/Security Compliance/11B Data Encryption",
+    "description": "Rotates encryption keys regularly",
+    "tags": [
+      "key_rotation_policy"
+    ],
+    "example_block_data": {
+      "content": "Rotates encryption keys regularly"
+    },
+    "editable_fields": {
+      "content": "Rotates encryption keys regularly"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11c_api_route_security_auth_middleware_on_protected_routes",
+    "label": "Auth Middleware on Protected Routes",
+    "category": "Web App Builder/Security Compliance/11C Api Route Security",
+    "description": "Prevents unauthenticated access",
+    "tags": [
+      "auth_middleware_on_protected_routes"
+    ],
+    "example_block_data": {
+      "content": "Prevents unauthenticated access"
+    },
+    "editable_fields": {
+      "content": "Prevents unauthenticated access"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11c_api_route_security_rate_limiting_throttling",
+    "label": "Rate Limiting / Throttling",
+    "category": "Web App Builder/Security Compliance/11C Api Route Security",
+    "description": "Mitigates abuse and brute force",
+    "tags": [
+      "rate_limiting_throttling"
+    ],
+    "example_block_data": {
+      "content": "Mitigates abuse and brute force"
+    },
+    "editable_fields": {
+      "content": "Mitigates abuse and brute force"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11c_api_route_security_cors_policy_configuration",
+    "label": "CORS Policy Configuration",
+    "category": "Web App Builder/Security Compliance/11C Api Route Security",
+    "description": "Restricts origin access to APIs",
+    "tags": [
+      "cors_policy_configuration"
+    ],
+    "example_block_data": {
+      "content": "Restricts origin access to APIs"
+    },
+    "editable_fields": {
+      "content": "Restricts origin access to APIs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11c_api_route_security_input_sanitization",
+    "label": "Input Sanitization",
+    "category": "Web App Builder/Security Compliance/11C Api Route Security",
+    "description": "Prevents XSS, injection attacks",
+    "tags": [
+      "input_sanitization"
+    ],
+    "example_block_data": {
+      "content": "Prevents XSS, injection attacks"
+    },
+    "editable_fields": {
+      "content": "Prevents XSS, injection attacks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11c_api_route_security_signature_validation_for_webhooks",
+    "label": "Signature Validation (for webhooks)",
+    "category": "Web App Builder/Security Compliance/11C Api Route Security",
+    "description": "Confirms trusted sender",
+    "tags": [
+      "signature_validation_for_webhooks"
+    ],
+    "example_block_data": {
+      "content": "Confirms trusted sender"
+    },
+    "editable_fields": {
+      "content": "Confirms trusted sender"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11d_infra_hosting_security_firewall_network_acls",
+    "label": "Firewall / Network ACLs",
+    "category": "Web App Builder/Security Compliance/11D Infra Hosting Security",
+    "description": "Controls incoming traffic",
+    "tags": [
+      "firewall_network_acls"
+    ],
+    "example_block_data": {
+      "content": "Controls incoming traffic"
+    },
+    "editable_fields": {
+      "content": "Controls incoming traffic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11d_infra_hosting_security_secure_deployment_scripts",
+    "label": "Secure Deployment Scripts",
+    "category": "Web App Builder/Security Compliance/11D Infra Hosting Security",
+    "description": "Reduces risk of open ports/config leaks",
+    "tags": [
+      "secure_deployment_scripts"
+    ],
+    "example_block_data": {
+      "content": "Reduces risk of open ports/config leaks"
+    },
+    "editable_fields": {
+      "content": "Reduces risk of open ports/config leaks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11d_infra_hosting_security_isolated_database_credentials",
+    "label": "Isolated Database Credentials",
+    "category": "Web App Builder/Security Compliance/11D Infra Hosting Security",
+    "description": "DB access restricted per environment",
+    "tags": [
+      "isolated_database_credentials"
+    ],
+    "example_block_data": {
+      "content": "DB access restricted per environment"
+    },
+    "editable_fields": {
+      "content": "DB access restricted per environment"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11d_infra_hosting_security_ssh_key_rotation",
+    "label": "SSH Key Rotation",
+    "category": "Web App Builder/Security Compliance/11D Infra Hosting Security",
+    "description": "Secures access to production servers",
+    "tags": [
+      "ssh_key_rotation"
+    ],
+    "example_block_data": {
+      "content": "Secures access to production servers"
+    },
+    "editable_fields": {
+      "content": "Secures access to production servers"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11d_infra_hosting_security_ddos_protection_layer",
+    "label": "DDoS Protection Layer",
+    "category": "Web App Builder/Security Compliance/11D Infra Hosting Security",
+    "description": "Mitigates large-scale attacks",
+    "tags": [
+      "ddos_protection_layer"
+    ],
+    "example_block_data": {
+      "content": "Mitigates large-scale attacks"
+    },
+    "editable_fields": {
+      "content": "Mitigates large-scale attacks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11e_compliance_legal_gdpr_ccpa_consent_handling",
+    "label": "GDPR/CCPA Consent Handling",
+    "category": "Web App Builder/Security Compliance/11E Compliance Legal",
+    "description": "Ensures user rights to data",
+    "tags": [
+      "gdpr_ccpa_consent_handling"
+    ],
+    "example_block_data": {
+      "content": "Ensures user rights to data"
+    },
+    "editable_fields": {
+      "content": "Ensures user rights to data"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11e_compliance_legal_privacy_policy_page",
+    "label": "Privacy Policy Page",
+    "category": "Web App Builder/Security Compliance/11E Compliance Legal",
+    "description": "Required disclosure of tracking/data use",
+    "tags": [
+      "privacy_policy_page"
+    ],
+    "example_block_data": {
+      "content": "Required disclosure of tracking/data use"
+    },
+    "editable_fields": {
+      "content": "Required disclosure of tracking/data use"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11e_compliance_legal_audit_logs_change_tracking",
+    "label": "Audit Logs & Change Tracking",
+    "category": "Web App Builder/Security Compliance/11E Compliance Legal",
+    "description": "Logs access/edit events",
+    "tags": [
+      "audit_logs_change_tracking"
+    ],
+    "example_block_data": {
+      "content": "Logs access/edit events"
+    },
+    "editable_fields": {
+      "content": "Logs access/edit events"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11e_compliance_legal_terms_of_service_usage_policy",
+    "label": "Terms of Service & Usage Policy",
+    "category": "Web App Builder/Security Compliance/11E Compliance Legal",
+    "description": "Legal usage contract",
+    "tags": [
+      "terms_of_service_usage_policy"
+    ],
+    "example_block_data": {
+      "content": "Legal usage contract"
+    },
+    "editable_fields": {
+      "content": "Legal usage contract"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11e_compliance_legal_data_breach_notification_system",
+    "label": "Data Breach Notification System",
+    "category": "Web App Builder/Security Compliance/11E Compliance Legal",
+    "description": "Alerts in case of exposure",
+    "tags": [
+      "data_breach_notification_system"
+    ],
+    "example_block_data": {
+      "content": "Alerts in case of exposure"
+    },
+    "editable_fields": {
+      "content": "Alerts in case of exposure"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11f_security_testing_monitoring_penetration_test_support",
+    "label": "Penetration Test Support",
+    "category": "Web App Builder/Security Compliance/11F Security Testing Monitoring",
+    "description": "Simulated attacks to reveal flaws",
+    "tags": [
+      "penetration_test_support"
+    ],
+    "example_block_data": {
+      "content": "Simulated attacks to reveal flaws"
+    },
+    "editable_fields": {
+      "content": "Simulated attacks to reveal flaws"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11f_security_testing_monitoring_sast_dast_integration",
+    "label": "SAST / DAST Integration",
+    "category": "Web App Builder/Security Compliance/11F Security Testing Monitoring",
+    "description": "Static/dynamic code scanning",
+    "tags": [
+      "sast_dast_integration"
+    ],
+    "example_block_data": {
+      "content": "Static/dynamic code scanning"
+    },
+    "editable_fields": {
+      "content": "Static/dynamic code scanning"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11f_security_testing_monitoring_vulnerability_scanner_e_g_snyk",
+    "label": "Vulnerability Scanner (e.g. Snyk)",
+    "category": "Web App Builder/Security Compliance/11F Security Testing Monitoring",
+    "description": "Finds package-level risks",
+    "tags": [
+      "vulnerability_scanner_e_g_snyk"
+    ],
+    "example_block_data": {
+      "content": "Finds package-level risks"
+    },
+    "editable_fields": {
+      "content": "Finds package-level risks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11f_security_testing_monitoring_incident_monitoring_sentry_logrocket",
+    "label": "Incident Monitoring (Sentry, LogRocket)",
+    "category": "Web App Builder/Security Compliance/11F Security Testing Monitoring",
+    "description": "Detects client/server-side issues",
+    "tags": [
+      "incident_monitoring_sentry_logrocket"
+    ],
+    "example_block_data": {
+      "content": "Detects client/server-side issues"
+    },
+    "editable_fields": {
+      "content": "Detects client/server-side issues"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "11f_security_testing_monitoring_rate_limit_abuse_alert_system",
+    "label": "Rate-Limit Abuse Alert System",
+    "category": "Web App Builder/Security Compliance/11F Security Testing Monitoring",
+    "description": "Flags excessive usage patterns",
+    "tags": [
+      "rate_limit_abuse_alert_system"
+    ],
+    "example_block_data": {
+      "content": "Flags excessive usage patterns"
+    },
+    "editable_fields": {
+      "content": "Flags excessive usage patterns"
+    }
+  }
+]

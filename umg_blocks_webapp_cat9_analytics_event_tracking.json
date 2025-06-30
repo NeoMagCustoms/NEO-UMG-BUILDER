@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9a_analytics_initialization_google_analytics_ga4_integration",
+    "label": "Google Analytics / GA4 Integration",
+    "category": "Web App Builder/Analytics Event Tracking/9A Analytics Initialization",
+    "description": "Tracks pageviews, sessions, sources",
+    "tags": [
+      "google_analytics_ga4_integration"
+    ],
+    "example_block_data": {
+      "content": "Tracks pageviews, sessions, sources"
+    },
+    "editable_fields": {
+      "content": "Tracks pageviews, sessions, sources"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9a_analytics_initialization_plausible_posthog_mixpanel",
+    "label": "Plausible / PostHog / Mixpanel",
+    "category": "Web App Builder/Analytics Event Tracking/9A Analytics Initialization",
+    "description": "Privacy-first or product-specific tools",
+    "tags": [
+      "plausible_posthog_mixpanel"
+    ],
+    "example_block_data": {
+      "content": "Privacy-first or product-specific tools"
+    },
+    "editable_fields": {
+      "content": "Privacy-first or product-specific tools"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9a_analytics_initialization_script_injection_logic",
+    "label": "Script Injection Logic",
+    "category": "Web App Builder/Analytics Event Tracking/9A Analytics Initialization",
+    "description": "Conditionally loads scripts in head",
+    "tags": [
+      "script_injection_logic"
+    ],
+    "example_block_data": {
+      "content": "Conditionally loads scripts in head"
+    },
+    "editable_fields": {
+      "content": "Conditionally loads scripts in head"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9a_analytics_initialization_data_layer_bootstrapping",
+    "label": "Data Layer Bootstrapping",
+    "category": "Web App Builder/Analytics Event Tracking/9A Analytics Initialization",
+    "description": "Initializes app-wide event store",
+    "tags": [
+      "data_layer_bootstrapping"
+    ],
+    "example_block_data": {
+      "content": "Initializes app-wide event store"
+    },
+    "editable_fields": {
+      "content": "Initializes app-wide event store"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9a_analytics_initialization_multi_tool_support_switching",
+    "label": "Multi-Tool Support & Switching",
+    "category": "Web App Builder/Analytics Event Tracking/9A Analytics Initialization",
+    "description": "Allows multiple services or runtime toggles",
+    "tags": [
+      "multi_tool_support_switching"
+    ],
+    "example_block_data": {
+      "content": "Allows multiple services or runtime toggles"
+    },
+    "editable_fields": {
+      "content": "Allows multiple services or runtime toggles"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9b_event_tracking_trackevent_utility",
+    "label": "trackEvent() Utility",
+    "category": "Web App Builder/Analytics Event Tracking/9B Event Tracking",
+    "description": "Core hook or function for logging",
+    "tags": [
+      "trackevent_utility"
+    ],
+    "example_block_data": {
+      "content": "Core hook or function for logging"
+    },
+    "editable_fields": {
+      "content": "Core hook or function for logging"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9b_event_tracking_page_view_tracker",
+    "label": "Page View Tracker",
+    "category": "Web App Builder/Analytics Event Tracking/9B Event Tracking",
+    "description": "Logs route/view changes",
+    "tags": [
+      "page_view_tracker"
+    ],
+    "example_block_data": {
+      "content": "Logs route/view changes"
+    },
+    "editable_fields": {
+      "content": "Logs route/view changes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9b_event_tracking_cta_button_clicks_tracker",
+    "label": "CTA / Button Clicks Tracker",
+    "category": "Web App Builder/Analytics Event Tracking/9B Event Tracking",
+    "description": "Monitors interaction with key buttons",
+    "tags": [
+      "cta_button_clicks_tracker"
+    ],
+    "example_block_data": {
+      "content": "Monitors interaction with key buttons"
+    },
+    "editable_fields": {
+      "content": "Monitors interaction with key buttons"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9b_event_tracking_scroll_depth_listener",
+    "label": "Scroll Depth Listener",
+    "category": "Web App Builder/Analytics Event Tracking/9B Event Tracking",
+    "description": "Captures how far down a page was viewed",
+    "tags": [
+      "scroll_depth_listener"
+    ],
+    "example_block_data": {
+      "content": "Captures how far down a page was viewed"
+    },
+    "editable_fields": {
+      "content": "Captures how far down a page was viewed"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9b_event_tracking_feature_usage_tracking",
+    "label": "Feature Usage Tracking",
+    "category": "Web App Builder/Analytics Event Tracking/9B Event Tracking",
+    "description": "Logs toggles, modes, feature launches",
+    "tags": [
+      "feature_usage_tracking"
+    ],
+    "example_block_data": {
+      "content": "Logs toggles, modes, feature launches"
+    },
+    "editable_fields": {
+      "content": "Logs toggles, modes, feature launches"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9c_user_metrics_session_duration_tracker",
+    "label": "Session Duration Tracker",
+    "category": "Web App Builder/Analytics Event Tracking/9C User Metrics",
+    "description": "Captures active time",
+    "tags": [
+      "session_duration_tracker"
+    ],
+    "example_block_data": {
+      "content": "Captures active time"
+    },
+    "editable_fields": {
+      "content": "Captures active time"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9c_user_metrics_bounce_dropoff_analysis",
+    "label": "Bounce / Dropoff Analysis",
+    "category": "Web App Builder/Analytics Event Tracking/9C User Metrics",
+    "description": "Where users leave workflows",
+    "tags": [
+      "bounce_dropoff_analysis"
+    ],
+    "example_block_data": {
+      "content": "Where users leave workflows"
+    },
+    "editable_fields": {
+      "content": "Where users leave workflows"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9c_user_metrics_click_heatmaps",
+    "label": "Click Heatmaps",
+    "category": "Web App Builder/Analytics Event Tracking/9C User Metrics",
+    "description": "Optional layer for interaction zones",
+    "tags": [
+      "click_heatmaps"
+    ],
+    "example_block_data": {
+      "content": "Optional layer for interaction zones"
+    },
+    "editable_fields": {
+      "content": "Optional layer for interaction zones"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9c_user_metrics_mouseflow_hotjar_session_replays",
+    "label": "Mouseflow / Hotjar Session Replays",
+    "category": "Web App Builder/Analytics Event Tracking/9C User Metrics",
+    "description": "Replay user actions",
+    "tags": [
+      "mouseflow_hotjar_session_replays"
+    ],
+    "example_block_data": {
+      "content": "Replay user actions"
+    },
+    "editable_fields": {
+      "content": "Replay user actions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9c_user_metrics_conversion_events",
+    "label": "Conversion Events",
+    "category": "Web App Builder/Analytics Event Tracking/9C User Metrics",
+    "description": "Completion of signup, purchase, share, etc.",
+    "tags": [
+      "conversion_events"
+    ],
+    "example_block_data": {
+      "content": "Completion of signup, purchase, share, etc."
+    },
+    "editable_fields": {
+      "content": "Completion of signup, purchase, share, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9d_performance_monitoring_core_web_vitals",
+    "label": "Core Web Vitals",
+    "category": "Web App Builder/Analytics Event Tracking/9D Performance Monitoring",
+    "description": "Largest Contentful Paint, CLS, FID",
+    "tags": [
+      "core_web_vitals"
+    ],
+    "example_block_data": {
+      "content": "Largest Contentful Paint, CLS, FID"
+    },
+    "editable_fields": {
+      "content": "Largest Contentful Paint, CLS, FID"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9d_performance_monitoring_lighthouse_pagespeed_integration",
+    "label": "Lighthouse / PageSpeed Integration",
+    "category": "Web App Builder/Analytics Event Tracking/9D Performance Monitoring",
+    "description": "Continuous scoring and audits",
+    "tags": [
+      "lighthouse_pagespeed_integration"
+    ],
+    "example_block_data": {
+      "content": "Continuous scoring and audits"
+    },
+    "editable_fields": {
+      "content": "Continuous scoring and audits"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9d_performance_monitoring_client_side_error_logging",
+    "label": "Client-Side Error Logging",
+    "category": "Web App Builder/Analytics Event Tracking/9D Performance Monitoring",
+    "description": "JS console and error boundary logs",
+    "tags": [
+      "client_side_error_logging"
+    ],
+    "example_block_data": {
+      "content": "JS console and error boundary logs"
+    },
+    "editable_fields": {
+      "content": "JS console and error boundary logs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9d_performance_monitoring_sentry_bugsnag_integration",
+    "label": "Sentry / Bugsnag Integration",
+    "category": "Web App Builder/Analytics Event Tracking/9D Performance Monitoring",
+    "description": "Stack traces and alerting",
+    "tags": [
+      "sentry_bugsnag_integration"
+    ],
+    "example_block_data": {
+      "content": "Stack traces and alerting"
+    },
+    "editable_fields": {
+      "content": "Stack traces and alerting"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9d_performance_monitoring_time_to_interactive_tti_metric",
+    "label": "Time to Interactive (TTI) Metric",
+    "category": "Web App Builder/Analytics Event Tracking/9D Performance Monitoring",
+    "description": "Time before app becomes usable",
+    "tags": [
+      "time_to_interactive_tti_metric"
+    ],
+    "example_block_data": {
+      "content": "Time before app becomes usable"
+    },
+    "editable_fields": {
+      "content": "Time before app becomes usable"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9e_funnels_aggregation_multi_step_funnel_builder",
+    "label": "Multi-Step Funnel Builder",
+    "category": "Web App Builder/Analytics Event Tracking/9E Funnels Aggregation",
+    "description": "Dropoff rates per screen/page",
+    "tags": [
+      "multi_step_funnel_builder"
+    ],
+    "example_block_data": {
+      "content": "Dropoff rates per screen/page"
+    },
+    "editable_fields": {
+      "content": "Dropoff rates per screen/page"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9e_funnels_aggregation_goal_completions_tracker",
+    "label": "Goal Completions Tracker",
+    "category": "Web App Builder/Analytics Event Tracking/9E Funnels Aggregation",
+    "description": "Logs completion of desired workflows",
+    "tags": [
+      "goal_completions_tracker"
+    ],
+    "example_block_data": {
+      "content": "Logs completion of desired workflows"
+    },
+    "editable_fields": {
+      "content": "Logs completion of desired workflows"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9e_funnels_aggregation_attribute_segmentation_engine",
+    "label": "Attribute Segmentation Engine",
+    "category": "Web App Builder/Analytics Event Tracking/9E Funnels Aggregation",
+    "description": "Filters by user role, country, device",
+    "tags": [
+      "attribute_segmentation_engine"
+    ],
+    "example_block_data": {
+      "content": "Filters by user role, country, device"
+    },
+    "editable_fields": {
+      "content": "Filters by user role, country, device"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9e_funnels_aggregation_funnel_visualization_dashboard",
+    "label": "Funnel Visualization Dashboard",
+    "category": "Web App Builder/Analytics Event Tracking/9E Funnels Aggregation",
+    "description": "Visualizes conversion pipelines",
+    "tags": [
+      "funnel_visualization_dashboard"
+    ],
+    "example_block_data": {
+      "content": "Visualizes conversion pipelines"
+    },
+    "editable_fields": {
+      "content": "Visualizes conversion pipelines"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9e_funnels_aggregation_a_b_test_outcome_logging",
+    "label": "A/B Test Outcome Logging",
+    "category": "Web App Builder/Analytics Event Tracking/9E Funnels Aggregation",
+    "description": "Records variant performance",
+    "tags": [
+      "a_b_test_outcome_logging"
+    ],
+    "example_block_data": {
+      "content": "Records variant performance"
+    },
+    "editable_fields": {
+      "content": "Records variant performance"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9f_privacy_consent_gdpr_ccpa_consent_banner",
+    "label": "GDPR/CCPA Consent Banner",
+    "category": "Web App Builder/Analytics Event Tracking/9F Privacy Consent",
+    "description": "User choice for tracking",
+    "tags": [
+      "gdpr_ccpa_consent_banner"
+    ],
+    "example_block_data": {
+      "content": "User choice for tracking"
+    },
+    "editable_fields": {
+      "content": "User choice for tracking"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9f_privacy_consent_consent_storage_logic",
+    "label": "Consent Storage Logic",
+    "category": "Web App Builder/Analytics Event Tracking/9F Privacy Consent",
+    "description": "Stores/recalls cookie preferences",
+    "tags": [
+      "consent_storage_logic"
+    ],
+    "example_block_data": {
+      "content": "Stores/recalls cookie preferences"
+    },
+    "editable_fields": {
+      "content": "Stores/recalls cookie preferences"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9f_privacy_consent_anonymized_id_system",
+    "label": "Anonymized ID System",
+    "category": "Web App Builder/Analytics Event Tracking/9F Privacy Consent",
+    "description": "Tracks users without direct PII",
+    "tags": [
+      "anonymized_id_system"
+    ],
+    "example_block_data": {
+      "content": "Tracks users without direct PII"
+    },
+    "editable_fields": {
+      "content": "Tracks users without direct PII"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9f_privacy_consent_opt_out_link_handling",
+    "label": "Opt-Out Link Handling",
+    "category": "Web App Builder/Analytics Event Tracking/9F Privacy Consent",
+    "description": "Disables tracking globally",
+    "tags": [
+      "opt_out_link_handling"
+    ],
+    "example_block_data": {
+      "content": "Disables tracking globally"
+    },
+    "editable_fields": {
+      "content": "Disables tracking globally"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 9,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "9f_privacy_consent_region_based_tracking_rules",
+    "label": "Region-Based Tracking Rules",
+    "category": "Web App Builder/Analytics Event Tracking/9F Privacy Consent",
+    "description": "Varies script injection by IP/geolocation",
+    "tags": [
+      "region_based_tracking_rules"
+    ],
+    "example_block_data": {
+      "content": "Varies script injection by IP/geolocation"
+    },
+    "editable_fields": {
+      "content": "Varies script injection by IP/geolocation"
+    }
+  }
+]

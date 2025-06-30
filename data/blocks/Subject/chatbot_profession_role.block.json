@@ -1,0 +1,36 @@
+{
+  "block_id": "chatbot_profession_role",
+  "label": "Profession / Role MOLTs",
+  "category": "chatbot_config",
+  "molt_type": "Subject",
+  "color": "green",
+  "editable_fields": [
+    "primary_profession",
+    "sub_specialty",
+    "task_scope",
+    "task_priority_order",
+    "knowledge_domain_tags",
+    "example_queries",
+    "skill_level_rating",
+    "can_switch_roles",
+    "suggested_molt_merges"
+  ],
+  "tags": [
+    "role",
+    "task",
+    "domain"
+  ],
+  "snap_config": {
+    "snap_to": [
+      "Instruction",
+      "Tone"
+    ],
+    "priority": 2
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T14:14:42.117465",
+    "edit_log": []
+  }
+}

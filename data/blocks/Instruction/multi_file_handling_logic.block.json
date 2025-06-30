@@ -1,0 +1,46 @@
+{
+  "block_id": "multi_file_handling_logic",
+  "label": "Multi File Handling Logic",
+  "category": "File Upload & Data Parsing",
+  "description": "Can the bot process multiple files at once or compare across files?",
+  "molt_type": "Instruction",
+  "tags": [
+    "multi_file_handling_logic",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📚"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Can the bot process multiple files at once or compare across files? This defines how the bot will perform or respond using this input."
+  },
+  "editable_fields": {
+    "content": "Multi File Handling Logic: Can the bot process multiple files at once or compare across files?"
+  }
+}

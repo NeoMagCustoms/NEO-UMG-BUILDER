@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10a_build_targets_vite_next_js_webpack_config",
+    "label": "Vite / Next.js / Webpack Config",
+    "category": "Web App Builder/Deployment Environment Configuration/10A Build Targets",
+    "description": "Defines how the app compiles",
+    "tags": [
+      "vite_next_js_webpack_config"
+    ],
+    "example_block_data": {
+      "content": "Defines how the app compiles"
+    },
+    "editable_fields": {
+      "content": "Defines how the app compiles"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10a_build_targets_dev_stage_prod_target_files",
+    "label": "Dev/Stage/Prod Target Files",
+    "category": "Web App Builder/Deployment Environment Configuration/10A Build Targets",
+    "description": "Per-env config (e.g., next.config.js)",
+    "tags": [
+      "dev_stage_prod_target_files"
+    ],
+    "example_block_data": {
+      "content": "Per-env config (e.g., next.config.js)"
+    },
+    "editable_fields": {
+      "content": "Per-env config (e.g., next.config.js)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10a_build_targets_pwa_static_ssr_toggle_logic",
+    "label": "PWA / Static / SSR Toggle Logic",
+    "category": "Web App Builder/Deployment Environment Configuration/10A Build Targets",
+    "description": "Chooses output style",
+    "tags": [
+      "pwa_static_ssr_toggle_logic"
+    ],
+    "example_block_data": {
+      "content": "Chooses output style"
+    },
+    "editable_fields": {
+      "content": "Chooses output style"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10a_build_targets_adapter_config_vercel_netlify",
+    "label": "Adapter Config (Vercel, Netlify)",
+    "category": "Web App Builder/Deployment Environment Configuration/10A Build Targets",
+    "description": "Maps builds to host platform",
+    "tags": [
+      "adapter_config_vercel_netlify"
+    ],
+    "example_block_data": {
+      "content": "Maps builds to host platform"
+    },
+    "editable_fields": {
+      "content": "Maps builds to host platform"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10a_build_targets_dockerfile",
+    "label": "Dockerfile",
+    "category": "Web App Builder/Deployment Environment Configuration/10A Build Targets",
+    "description": "Optional Docker container logic",
+    "tags": [
+      "dockerfile"
+    ],
+    "example_block_data": {
+      "content": "Optional Docker container logic"
+    },
+    "editable_fields": {
+      "content": "Optional Docker container logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10b_env_vars_env_local_env_production",
+    "label": ".env.local / .env.production",
+    "category": "Web App Builder/Deployment Environment Configuration/10B Env Vars",
+    "description": "Env-specific config files",
+    "tags": [
+      "env_local_env_production"
+    ],
+    "example_block_data": {
+      "content": "Env-specific config files"
+    },
+    "editable_fields": {
+      "content": "Env-specific config files"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10b_env_vars_runtime_variable_injection",
+    "label": "Runtime Variable Injection",
+    "category": "Web App Builder/Deployment Environment Configuration/10B Env Vars",
+    "description": "Makes values available in browser/server",
+    "tags": [
+      "runtime_variable_injection"
+    ],
+    "example_block_data": {
+      "content": "Makes values available in browser/server"
+    },
+    "editable_fields": {
+      "content": "Makes values available in browser/server"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10b_env_vars_public_vs_private_var_conventions",
+    "label": "Public vs Private Var Conventions",
+    "category": "Web App Builder/Deployment Environment Configuration/10B Env Vars",
+    "description": "Ensures secret vars aren\u2019t exposed",
+    "tags": [
+      "public_vs_private_var_conventions"
+    ],
+    "example_block_data": {
+      "content": "Ensures secret vars aren\u2019t exposed"
+    },
+    "editable_fields": {
+      "content": "Ensures secret vars aren\u2019t exposed"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10b_env_vars_fallback_default_values",
+    "label": "Fallback/Default Values",
+    "category": "Web App Builder/Deployment Environment Configuration/10B Env Vars",
+    "description": "Prevents breakage when missing",
+    "tags": [
+      "fallback_default_values"
+    ],
+    "example_block_data": {
+      "content": "Prevents breakage when missing"
+    },
+    "editable_fields": {
+      "content": "Prevents breakage when missing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10b_env_vars_cross_environment_overrides",
+    "label": "Cross-Environment Overrides",
+    "category": "Web App Builder/Deployment Environment Configuration/10B Env Vars",
+    "description": "Overwrites for preview, staging, A/B",
+    "tags": [
+      "cross_environment_overrides"
+    ],
+    "example_block_data": {
+      "content": "Overwrites for preview, staging, A/B"
+    },
+    "editable_fields": {
+      "content": "Overwrites for preview, staging, A/B"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10c_ci_cd_pipeline_github_actions_gitlab_ci",
+    "label": "GitHub Actions / GitLab CI",
+    "category": "Web App Builder/Deployment Environment Configuration/10C Ci Cd Pipeline",
+    "description": "Defines steps to deploy app",
+    "tags": [
+      "github_actions_gitlab_ci"
+    ],
+    "example_block_data": {
+      "content": "Defines steps to deploy app"
+    },
+    "editable_fields": {
+      "content": "Defines steps to deploy app"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10c_ci_cd_pipeline_build_test_lint_steps",
+    "label": "Build, Test, Lint Steps",
+    "category": "Web App Builder/Deployment Environment Configuration/10C Ci Cd Pipeline",
+    "description": "Automated validation before release",
+    "tags": [
+      "build_test_lint_steps"
+    ],
+    "example_block_data": {
+      "content": "Automated validation before release"
+    },
+    "editable_fields": {
+      "content": "Automated validation before release"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10c_ci_cd_pipeline_preview_deployments_pr_based",
+    "label": "Preview Deployments (PR-based)",
+    "category": "Web App Builder/Deployment Environment Configuration/10C Ci Cd Pipeline",
+    "description": "Auto-deploy branches for review",
+    "tags": [
+      "preview_deployments_pr_based"
+    ],
+    "example_block_data": {
+      "content": "Auto-deploy branches for review"
+    },
+    "editable_fields": {
+      "content": "Auto-deploy branches for review"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10c_ci_cd_pipeline_build_cache_logic",
+    "label": "Build Cache Logic",
+    "category": "Web App Builder/Deployment Environment Configuration/10C Ci Cd Pipeline",
+    "description": "Speeds up repeat builds",
+    "tags": [
+      "build_cache_logic"
+    ],
+    "example_block_data": {
+      "content": "Speeds up repeat builds"
+    },
+    "editable_fields": {
+      "content": "Speeds up repeat builds"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10c_ci_cd_pipeline_auto_tagging_versioning",
+    "label": "Auto Tagging / Versioning",
+    "category": "Web App Builder/Deployment Environment Configuration/10C Ci Cd Pipeline",
+    "description": "Increments release versions",
+    "tags": [
+      "auto_tagging_versioning"
+    ],
+    "example_block_data": {
+      "content": "Increments release versions"
+    },
+    "editable_fields": {
+      "content": "Increments release versions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10d_infrastructure_as_code_terraform_pulumi_scripts",
+    "label": "Terraform / Pulumi Scripts",
+    "category": "Web App Builder/Deployment Environment Configuration/10D Infrastructure As Code",
+    "description": "Cloud resources as code",
+    "tags": [
+      "terraform_pulumi_scripts"
+    ],
+    "example_block_data": {
+      "content": "Cloud resources as code"
+    },
+    "editable_fields": {
+      "content": "Cloud resources as code"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10d_infrastructure_as_code_dns_config_files",
+    "label": "DNS Config Files",
+    "category": "Web App Builder/Deployment Environment Configuration/10D Infrastructure As Code",
+    "description": "Domain routing and record logic",
+    "tags": [
+      "dns_config_files"
+    ],
+    "example_block_data": {
+      "content": "Domain routing and record logic"
+    },
+    "editable_fields": {
+      "content": "Domain routing and record logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10d_infrastructure_as_code_s3_bucket_config",
+    "label": "S3 / Bucket Config",
+    "category": "Web App Builder/Deployment Environment Configuration/10D Infrastructure As Code",
+    "description": "Static file storage",
+    "tags": [
+      "s3_bucket_config"
+    ],
+    "example_block_data": {
+      "content": "Static file storage"
+    },
+    "editable_fields": {
+      "content": "Static file storage"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10d_infrastructure_as_code_cloud_permissions_policies",
+    "label": "Cloud Permissions Policies",
+    "category": "Web App Builder/Deployment Environment Configuration/10D Infrastructure As Code",
+    "description": "IAM roles, access rules",
+    "tags": [
+      "cloud_permissions_policies"
+    ],
+    "example_block_data": {
+      "content": "IAM roles, access rules"
+    },
+    "editable_fields": {
+      "content": "IAM roles, access rules"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10d_infrastructure_as_code_custom_hosting_logic",
+    "label": "Custom Hosting Logic",
+    "category": "Web App Builder/Deployment Environment Configuration/10D Infrastructure As Code",
+    "description": "Route rules, geo routing, edge logic",
+    "tags": [
+      "custom_hosting_logic"
+    ],
+    "example_block_data": {
+      "content": "Route rules, geo routing, edge logic"
+    },
+    "editable_fields": {
+      "content": "Route rules, geo routing, edge logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10e_app_lifecycle_npm_run_build_start_serve",
+    "label": "npm run build/start/serve",
+    "category": "Web App Builder/Deployment Environment Configuration/10E App Lifecycle",
+    "description": "Standard app build/start scripts",
+    "tags": [
+      "npm_run_build_start_serve"
+    ],
+    "example_block_data": {
+      "content": "Standard app build/start scripts"
+    },
+    "editable_fields": {
+      "content": "Standard app build/start scripts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10e_app_lifecycle_predeploy_postdeploy_hooks",
+    "label": "Predeploy / Postdeploy Hooks",
+    "category": "Web App Builder/Deployment Environment Configuration/10E App Lifecycle",
+    "description": "Cleanup or notification logic",
+    "tags": [
+      "predeploy_postdeploy_hooks"
+    ],
+    "example_block_data": {
+      "content": "Cleanup or notification logic"
+    },
+    "editable_fields": {
+      "content": "Cleanup or notification logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10e_app_lifecycle_healthcheck_endpoint_health",
+    "label": "Healthcheck Endpoint (/health)",
+    "category": "Web App Builder/Deployment Environment Configuration/10E App Lifecycle",
+    "description": "Confirms app is running",
+    "tags": [
+      "healthcheck_endpoint_health"
+    ],
+    "example_block_data": {
+      "content": "Confirms app is running"
+    },
+    "editable_fields": {
+      "content": "Confirms app is running"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10e_app_lifecycle_auto_restart_pm2_systemd",
+    "label": "Auto Restart (PM2, systemd)",
+    "category": "Web App Builder/Deployment Environment Configuration/10E App Lifecycle",
+    "description": "Ensures app stays online",
+    "tags": [
+      "auto_restart_pm2_systemd"
+    ],
+    "example_block_data": {
+      "content": "Ensures app stays online"
+    },
+    "editable_fields": {
+      "content": "Ensures app stays online"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10e_app_lifecycle_cli_deploy_tools_vercel_supabase",
+    "label": "CLI Deploy Tools (vercel, supabase)",
+    "category": "Web App Builder/Deployment Environment Configuration/10E App Lifecycle",
+    "description": "Terminal push logic",
+    "tags": [
+      "cli_deploy_tools_vercel_supabase"
+    ],
+    "example_block_data": {
+      "content": "Terminal push logic"
+    },
+    "editable_fields": {
+      "content": "Terminal push logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10f_secrets_vaults_env_secrets_or_vault_provider",
+    "label": ".env.secrets or Vault Provider",
+    "category": "Web App Builder/Deployment Environment Configuration/10F Secrets Vaults",
+    "description": "Centralized secrets storage",
+    "tags": [
+      "env_secrets_or_vault_provider"
+    ],
+    "example_block_data": {
+      "content": "Centralized secrets storage"
+    },
+    "editable_fields": {
+      "content": "Centralized secrets storage"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10f_secrets_vaults_secrets_access_api_sdk",
+    "label": "Secrets Access API / SDK",
+    "category": "Web App Builder/Deployment Environment Configuration/10F Secrets Vaults",
+    "description": "Secure runtime access",
+    "tags": [
+      "secrets_access_api_sdk"
+    ],
+    "example_block_data": {
+      "content": "Secure runtime access"
+    },
+    "editable_fields": {
+      "content": "Secure runtime access"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10f_secrets_vaults_role_based_secret_access",
+    "label": "Role-Based Secret Access",
+    "category": "Web App Builder/Deployment Environment Configuration/10F Secrets Vaults",
+    "description": "Restricts secret visibility",
+    "tags": [
+      "role_based_secret_access"
+    ],
+    "example_block_data": {
+      "content": "Restricts secret visibility"
+    },
+    "editable_fields": {
+      "content": "Restricts secret visibility"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10f_secrets_vaults_vault_rotation_logic",
+    "label": "Vault Rotation Logic",
+    "category": "Web App Builder/Deployment Environment Configuration/10F Secrets Vaults",
+    "description": "Automatically replaces old keys",
+    "tags": [
+      "vault_rotation_logic"
+    ],
+    "example_block_data": {
+      "content": "Automatically replaces old keys"
+    },
+    "editable_fields": {
+      "content": "Automatically replaces old keys"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 10,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "10f_secrets_vaults_encryption_at_rest_in_transit",
+    "label": "Encryption at Rest & In Transit",
+    "category": "Web App Builder/Deployment Environment Configuration/10F Secrets Vaults",
+    "description": "Secures secrets on disk/network",
+    "tags": [
+      "encryption_at_rest_in_transit"
+    ],
+    "example_block_data": {
+      "content": "Secures secrets on disk/network"
+    },
+    "editable_fields": {
+      "content": "Secures secrets on disk/network"
+    }
+  }
+]

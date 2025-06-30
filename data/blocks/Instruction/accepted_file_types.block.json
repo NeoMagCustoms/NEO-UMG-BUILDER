@@ -1,0 +1,46 @@
+{
+  "block_id": "accepted_file_types",
+  "label": "Accepted File Types",
+  "category": "File Upload & Data Parsing",
+  "description": "File formats supported (e.g., .pdf, .csv, .txt, .docx, .json)",
+  "molt_type": "Instruction",
+  "tags": [
+    "accepted_file_types",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📁"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "File formats supported (e.g., .pdf, .csv, .txt, .docx, .json) This defines how the bot will perform or respond using this input."
+  },
+  "editable_fields": {
+    "content": "Accepted File Types: File formats supported (e.g., .pdf, .csv, .txt, .docx, .json)"
+  }
+}

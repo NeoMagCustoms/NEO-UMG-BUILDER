@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 7,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "7c_pwa_service_worker_workbox_or_custom_sw_tools",
+  "label": "Workbox or Custom SW Tools",
+  "category": "Web App Builder/Responsive PWA Framework/7C Pwa Service Worker",
+  "description": "Higher-level service worker toolkit",
+  "tags": [
+    "workbox_or_custom_sw_tools"
+  ],
+  "example_block_data": {
+    "content": "Higher-level service worker toolkit"
+  },
+  "editable_fields": {
+    "content": "Higher-level service worker toolkit"
+  }
+}

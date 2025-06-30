@@ -1,0 +1,442 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "embedded_report_swot_analysis",
+    "label": "Swot Analysis",
+    "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+    "description": "Internal/external Strengths, Weaknesses, Opportunities, Threats",
+    "tags": [
+      "swot_analysis"
+    ],
+    "example_block_data": {
+      "content": "Internal/external Strengths, Weaknesses, Opportunities, Threats"
+    },
+    "editable_fields": {
+      "content": "Internal/external Strengths, Weaknesses, Opportunities, Threats"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "embedded_report_market_size_model",
+    "label": "Market Size Model",
+    "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+    "description": "TAM/SAM/SOM breakdown (Total, Addressable, Serviceable markets)",
+    "tags": [
+      "market_size_model"
+    ],
+    "example_block_data": {
+      "content": "TAM/SAM/SOM breakdown (Total, Addressable, Serviceable markets)"
+    },
+    "editable_fields": {
+      "content": "TAM/SAM/SOM breakdown (Total, Addressable, Serviceable markets)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "embedded_report_unit_economics_summary",
+    "label": "Unit Economics Summary",
+    "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+    "description": "Key customer value metrics: CAC, LTV, margin, churn",
+    "tags": [
+      "unit_economics_summary"
+    ],
+    "example_block_data": {
+      "content": "Key customer value metrics: CAC, LTV, margin, churn"
+    },
+    "editable_fields": {
+      "content": "Key customer value metrics: CAC, LTV, margin, churn"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "embedded_report_go_to_market_plan",
+    "label": "Go To Market Plan",
+    "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+    "description": "Embedded GTM summary within a plan (channels, budget, timeline)",
+    "tags": [
+      "go_to_market_plan"
+    ],
+    "example_block_data": {
+      "content": "Embedded GTM summary within a plan (channels, budget, timeline)"
+    },
+    "editable_fields": {
+      "content": "Embedded GTM summary within a plan (channels, budget, timeline)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "embedded_report_competitive_landscape",
+    "label": "Competitive Landscape",
+    "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+    "description": "Chart or table of competitive positioning",
+    "tags": [
+      "competitive_landscape"
+    ],
+    "example_block_data": {
+      "content": "Chart or table of competitive positioning"
+    },
+    "editable_fields": {
+      "content": "Chart or table of competitive positioning"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "embedded_report_target_user_persona",
+    "label": "Target User Persona",
+    "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+    "description": "Summary blocks of intended user profiles or segments",
+    "tags": [
+      "target_user_persona"
+    ],
+    "example_block_data": {
+      "content": "Summary blocks of intended user profiles or segments"
+    },
+    "editable_fields": {
+      "content": "Summary blocks of intended user profiles or segments"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "embedded_report_assumptions_log",
+    "label": "Assumptions Log",
+    "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+    "description": "Critical \u201cassumptions slide\u201d embedded in strategy decks",
+    "tags": [
+      "assumptions_log"
+    ],
+    "example_block_data": {
+      "content": "Critical \u201cassumptions slide\u201d embedded in strategy decks"
+    },
+    "editable_fields": {
+      "content": "Critical \u201cassumptions slide\u201d embedded in strategy decks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "embedded_report_financial_snapshot",
+    "label": "Financial Snapshot",
+    "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+    "description": "Key financials within a single deck slide (revenue, burn, runway)",
+    "tags": [
+      "financial_snapshot"
+    ],
+    "example_block_data": {
+      "content": "Key financials within a single deck slide (revenue, burn, runway)"
+    },
+    "editable_fields": {
+      "content": "Key financials within a single deck slide (revenue, burn, runway)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "embedded_report_risk_matrix",
+    "label": "Risk Matrix",
+    "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+    "description": "Visualized or tabular risk assessments and mitigation paths",
+    "tags": [
+      "risk_matrix"
+    ],
+    "example_block_data": {
+      "content": "Visualized or tabular risk assessments and mitigation paths"
+    },
+    "editable_fields": {
+      "content": "Visualized or tabular risk assessments and mitigation paths"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 11,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "embedded_report_scenario_modeling",
+    "label": "Scenario Modeling",
+    "category": "Business Plans/Web App/Chatbot/Embedded Reports (Inside Plans)",
+    "description": "Sensitivity analysis or \u201cwhat-if\u201d scenario projections",
+    "tags": [
+      "scenario_modeling"
+    ],
+    "example_block_data": {
+      "content": "Sensitivity analysis or \u201cwhat-if\u201d scenario projections"
+    },
+    "editable_fields": {
+      "content": "Sensitivity analysis or \u201cwhat-if\u201d scenario projections"
+    }
+  }
+]

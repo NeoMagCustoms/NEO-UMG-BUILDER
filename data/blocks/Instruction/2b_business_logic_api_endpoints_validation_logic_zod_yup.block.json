@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "2b_business_logic_api_endpoints_validation_logic_zod_yup",
+  "label": "Validation Logic (Zod/Yup)",
+  "category": "Web App Builder/Backend Server Logic/2B Business Logic Api Endpoints",
+  "description": "Validates payloads before logic runs",
+  "tags": [
+    "validation_logic_zod_yup"
+  ],
+  "example_block_data": {
+    "content": "Validates payloads before logic runs"
+  },
+  "editable_fields": {
+    "content": "Validates payloads before logic runs"
+  }
+}

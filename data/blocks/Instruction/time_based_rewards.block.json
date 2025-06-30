@@ -1,0 +1,7 @@
+{
+  "block_id": "time_based_rewards",
+  "label": "Time-Based Reward Intervals",
+  "category": "Web App/Gamification/27C",
+  "description": "“Visit X days to earn Y”",
+  "molt_type": "Instruction"
+}

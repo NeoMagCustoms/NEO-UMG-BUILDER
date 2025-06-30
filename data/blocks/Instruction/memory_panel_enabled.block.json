@@ -1,0 +1,46 @@
+{
+  "block_id": "memory_panel_enabled",
+  "label": "Memory Panel Enabled",
+  "category": "Memory Editor Panel",
+  "description": "Toggle for UI memory editor",
+  "molt_type": "Instruction",
+  "tags": [
+    "memory_panel_enabled",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🛠️"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Toggle for UI memory editor This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "Memory Panel Enabled: Toggle for UI memory editor"
+  }
+}

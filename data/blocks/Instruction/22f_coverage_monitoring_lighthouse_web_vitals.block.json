@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 22,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "22f_coverage_monitoring_lighthouse_web_vitals",
+  "label": "Lighthouse / Web Vitals",
+  "category": "Web App Builder/Testing QA Deployment/22F Coverage Monitoring",
+  "description": "Performance audits",
+  "tags": [
+    "lighthouse_web_vitals"
+  ],
+  "example_block_data": {
+    "content": "Performance audits"
+  },
+  "editable_fields": {
+    "content": "Performance audits"
+  }
+}

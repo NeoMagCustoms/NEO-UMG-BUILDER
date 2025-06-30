@@ -1,0 +1,46 @@
+{
+  "block_id": "user_usage_meter_ui",
+  "label": "User Usage Meter UI",
+  "category": "Token Cost + Limits Monitor",
+  "description": "Shows token/usage stats to the user",
+  "molt_type": "Instruction",
+  "tags": [
+    "user_usage_meter_ui",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📟"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Shows token/usage stats to the user This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "User Usage Meter UI: Shows token/usage stats to the user"
+  }
+}

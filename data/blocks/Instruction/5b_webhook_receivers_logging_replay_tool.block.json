@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "5b_webhook_receivers_logging_replay_tool",
+  "label": "Logging & Replay Tool",
+  "category": "Web App Builder/API Integration Webhooks/5B Webhook Receivers",
+  "description": "Inspect and replay past webhook events",
+  "tags": [
+    "logging_replay_tool"
+  ],
+  "example_block_data": {
+    "content": "Inspect and replay past webhook events"
+  },
+  "editable_fields": {
+    "content": "Inspect and replay past webhook events"
+  }
+}

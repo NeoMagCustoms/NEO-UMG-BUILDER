@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20a_api_gateway_calls_axios_fetch_wrapper_with_retry",
+    "label": "Axios / Fetch Wrapper with Retry",
+    "category": "Web App Builder/Integrations APIs Third-Party/20A Api Gateway Calls",
+    "description": "Standardized API calling",
+    "tags": [
+      "axios_fetch_wrapper_with_retry"
+    ],
+    "example_block_data": {
+      "content": "Standardized API calling"
+    },
+    "editable_fields": {
+      "content": "Standardized API calling"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20a_api_gateway_calls_central_api_call_handler",
+    "label": "Central API Call Handler",
+    "category": "Web App Builder/Integrations APIs Third-Party/20A Api Gateway Calls",
+    "description": "Logs, errors, reauth",
+    "tags": [
+      "central_api_call_handler"
+    ],
+    "example_block_data": {
+      "content": "Logs, errors, reauth"
+    },
+    "editable_fields": {
+      "content": "Logs, errors, reauth"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20a_api_gateway_calls_global_auth_token_injection",
+    "label": "Global Auth Token Injection",
+    "category": "Web App Builder/Integrations APIs Third-Party/20A Api Gateway Calls",
+    "description": "Secures outgoing calls",
+    "tags": [
+      "global_auth_token_injection"
+    ],
+    "example_block_data": {
+      "content": "Secures outgoing calls"
+    },
+    "editable_fields": {
+      "content": "Secures outgoing calls"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20a_api_gateway_calls_rate_limit_watcher",
+    "label": "Rate Limit Watcher",
+    "category": "Web App Builder/Integrations APIs Third-Party/20A Api Gateway Calls",
+    "description": "Prevents API spam",
+    "tags": [
+      "rate_limit_watcher"
+    ],
+    "example_block_data": {
+      "content": "Prevents API spam"
+    },
+    "editable_fields": {
+      "content": "Prevents API spam"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20a_api_gateway_calls_batched_or_debounced_api_logic",
+    "label": "Batched or Debounced API Logic",
+    "category": "Web App Builder/Integrations APIs Third-Party/20A Api Gateway Calls",
+    "description": "Groups API calls efficiently",
+    "tags": [
+      "batched_or_debounced_api_logic"
+    ],
+    "example_block_data": {
+      "content": "Groups API calls efficiently"
+    },
+    "editable_fields": {
+      "content": "Groups API calls efficiently"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20b_oauth_identity_providers_google_github_discord_login",
+    "label": "Google / GitHub / Discord Login",
+    "category": "Web App Builder/Integrations APIs Third-Party/20B Oauth Identity Providers",
+    "description": "OAuth2 login flows",
+    "tags": [
+      "google_github_discord_login"
+    ],
+    "example_block_data": {
+      "content": "OAuth2 login flows"
+    },
+    "editable_fields": {
+      "content": "OAuth2 login flows"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20b_oauth_identity_providers_openid_connect_provider_integration",
+    "label": "OpenID Connect Provider Integration",
+    "category": "Web App Builder/Integrations APIs Third-Party/20B Oauth Identity Providers",
+    "description": "Enterprise login",
+    "tags": [
+      "openid_connect_provider_integration"
+    ],
+    "example_block_data": {
+      "content": "Enterprise login"
+    },
+    "editable_fields": {
+      "content": "Enterprise login"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20b_oauth_identity_providers_refresh_token_storage",
+    "label": "Refresh Token Storage",
+    "category": "Web App Builder/Integrations APIs Third-Party/20B Oauth Identity Providers",
+    "description": "Keeps sessions alive",
+    "tags": [
+      "refresh_token_storage"
+    ],
+    "example_block_data": {
+      "content": "Keeps sessions alive"
+    },
+    "editable_fields": {
+      "content": "Keeps sessions alive"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20b_oauth_identity_providers_consent_screen_scope_setup",
+    "label": "Consent Screen Scope Setup",
+    "category": "Web App Builder/Integrations APIs Third-Party/20B Oauth Identity Providers",
+    "description": "User permission control",
+    "tags": [
+      "consent_screen_scope_setup"
+    ],
+    "example_block_data": {
+      "content": "User permission control"
+    },
+    "editable_fields": {
+      "content": "User permission control"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20b_oauth_identity_providers_token_revocation_logout_handling",
+    "label": "Token Revocation & Logout Handling",
+    "category": "Web App Builder/Integrations APIs Third-Party/20B Oauth Identity Providers",
+    "description": "Log out across systems",
+    "tags": [
+      "token_revocation_logout_handling"
+    ],
+    "example_block_data": {
+      "content": "Log out across systems"
+    },
+    "editable_fields": {
+      "content": "Log out across systems"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20c_third_party_saas_tools_zapier_make_com_connector",
+    "label": "Zapier / Make.com Connector",
+    "category": "Web App Builder/Integrations APIs Third-Party/20C Third Party Saas Tools",
+    "description": "No-code workflows",
+    "tags": [
+      "zapier_make_com_connector"
+    ],
+    "example_block_data": {
+      "content": "No-code workflows"
+    },
+    "editable_fields": {
+      "content": "No-code workflows"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20c_third_party_saas_tools_slack_discord_teams_bots",
+    "label": "Slack / Discord / Teams Bots",
+    "category": "Web App Builder/Integrations APIs Third-Party/20C Third Party Saas Tools",
+    "description": "Sends alerts to users",
+    "tags": [
+      "slack_discord_teams_bots"
+    ],
+    "example_block_data": {
+      "content": "Sends alerts to users"
+    },
+    "editable_fields": {
+      "content": "Sends alerts to users"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20c_third_party_saas_tools_notion_airtable_google_sheets",
+    "label": "Notion / Airtable / Google Sheets",
+    "category": "Web App Builder/Integrations APIs Third-Party/20C Third Party Saas Tools",
+    "description": "Data syncing",
+    "tags": [
+      "notion_airtable_google_sheets"
+    ],
+    "example_block_data": {
+      "content": "Data syncing"
+    },
+    "editable_fields": {
+      "content": "Data syncing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20c_third_party_saas_tools_shopify_stripe_printful_sync",
+    "label": "Shopify / Stripe / Printful Sync",
+    "category": "Web App Builder/Integrations APIs Third-Party/20C Third Party Saas Tools",
+    "description": "E-commerce logic",
+    "tags": [
+      "shopify_stripe_printful_sync"
+    ],
+    "example_block_data": {
+      "content": "E-commerce logic"
+    },
+    "editable_fields": {
+      "content": "E-commerce logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20c_third_party_saas_tools_salesforce_hubspot_api",
+    "label": "Salesforce / Hubspot API",
+    "category": "Web App Builder/Integrations APIs Third-Party/20C Third Party Saas Tools",
+    "description": "CRM logic",
+    "tags": [
+      "salesforce_hubspot_api"
+    ],
+    "example_block_data": {
+      "content": "CRM logic"
+    },
+    "editable_fields": {
+      "content": "CRM logic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20d_analytics_marketing_tools_google_analytics_mixpanel",
+    "label": "Google Analytics / Mixpanel",
+    "category": "Web App Builder/Integrations APIs Third-Party/20D Analytics Marketing Tools",
+    "description": "Pageview + user tracking",
+    "tags": [
+      "google_analytics_mixpanel"
+    ],
+    "example_block_data": {
+      "content": "Pageview + user tracking"
+    },
+    "editable_fields": {
+      "content": "Pageview + user tracking"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20d_analytics_marketing_tools_segment_rudderstack_hook",
+    "label": "Segment / RudderStack Hook",
+    "category": "Web App Builder/Integrations APIs Third-Party/20D Analytics Marketing Tools",
+    "description": "Unified data layer",
+    "tags": [
+      "segment_rudderstack_hook"
+    ],
+    "example_block_data": {
+      "content": "Unified data layer"
+    },
+    "editable_fields": {
+      "content": "Unified data layer"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20d_analytics_marketing_tools_facebook_pixel_twitter_tag",
+    "label": "Facebook Pixel / Twitter Tag",
+    "category": "Web App Builder/Integrations APIs Third-Party/20D Analytics Marketing Tools",
+    "description": "Ads & retargeting",
+    "tags": [
+      "facebook_pixel_twitter_tag"
+    ],
+    "example_block_data": {
+      "content": "Ads & retargeting"
+    },
+    "editable_fields": {
+      "content": "Ads & retargeting"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20d_analytics_marketing_tools_email_automation_apis_mailchimp",
+    "label": "Email Automation APIs (Mailchimp)",
+    "category": "Web App Builder/Integrations APIs Third-Party/20D Analytics Marketing Tools",
+    "description": "Sends marketing flows",
+    "tags": [
+      "email_automation_apis_mailchimp"
+    ],
+    "example_block_data": {
+      "content": "Sends marketing flows"
+    },
+    "editable_fields": {
+      "content": "Sends marketing flows"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20d_analytics_marketing_tools_attribution_tracking_logic",
+    "label": "Attribution Tracking Logic",
+    "category": "Web App Builder/Integrations APIs Third-Party/20D Analytics Marketing Tools",
+    "description": "Tracks source of users",
+    "tags": [
+      "attribution_tracking_logic"
+    ],
+    "example_block_data": {
+      "content": "Tracks source of users"
+    },
+    "editable_fields": {
+      "content": "Tracks source of users"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20e_api_secrets_limits_encrypted_api_key_vault",
+    "label": "Encrypted API Key Vault",
+    "category": "Web App Builder/Integrations APIs Third-Party/20E Api Secrets Limits",
+    "description": "Stores provider credentials",
+    "tags": [
+      "encrypted_api_key_vault"
+    ],
+    "example_block_data": {
+      "content": "Stores provider credentials"
+    },
+    "editable_fields": {
+      "content": "Stores provider credentials"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20e_api_secrets_limits_role_based_api_credential_access",
+    "label": "Role-Based API Credential Access",
+    "category": "Web App Builder/Integrations APIs Third-Party/20E Api Secrets Limits",
+    "description": "Protects secrets per role",
+    "tags": [
+      "role_based_api_credential_access"
+    ],
+    "example_block_data": {
+      "content": "Protects secrets per role"
+    },
+    "editable_fields": {
+      "content": "Protects secrets per role"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20e_api_secrets_limits_quota_monitor_logic",
+    "label": "Quota Monitor Logic",
+    "category": "Web App Builder/Integrations APIs Third-Party/20E Api Secrets Limits",
+    "description": "Flags nearing limits",
+    "tags": [
+      "quota_monitor_logic"
+    ],
+    "example_block_data": {
+      "content": "Flags nearing limits"
+    },
+    "editable_fields": {
+      "content": "Flags nearing limits"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20e_api_secrets_limits_proxy_gateway_for_hidden_calls",
+    "label": "Proxy Gateway for Hidden Calls",
+    "category": "Web App Builder/Integrations APIs Third-Party/20E Api Secrets Limits",
+    "description": "Prevents frontend exposure",
+    "tags": [
+      "proxy_gateway_for_hidden_calls"
+    ],
+    "example_block_data": {
+      "content": "Prevents frontend exposure"
+    },
+    "editable_fields": {
+      "content": "Prevents frontend exposure"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20e_api_secrets_limits_obfuscated_key_naming_convention",
+    "label": "Obfuscated Key Naming Convention",
+    "category": "Web App Builder/Integrations APIs Third-Party/20E Api Secrets Limits",
+    "description": "Hides sensitive references",
+    "tags": [
+      "obfuscated_key_naming_convention"
+    ],
+    "example_block_data": {
+      "content": "Hides sensitive references"
+    },
+    "editable_fields": {
+      "content": "Hides sensitive references"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20f_integration_health_sync_status_page_or_health_check_logic",
+    "label": "Status Page or Health Check Logic",
+    "category": "Web App Builder/Integrations APIs Third-Party/20F Integration Health Sync",
+    "description": "Shows uptime/errors",
+    "tags": [
+      "status_page_or_health_check_logic"
+    ],
+    "example_block_data": {
+      "content": "Shows uptime/errors"
+    },
+    "editable_fields": {
+      "content": "Shows uptime/errors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20f_integration_health_sync_retry_failed_api_syncs",
+    "label": "Retry Failed API Syncs",
+    "category": "Web App Builder/Integrations APIs Third-Party/20F Integration Health Sync",
+    "description": "Auto-resend on error",
+    "tags": [
+      "retry_failed_api_syncs"
+    ],
+    "example_block_data": {
+      "content": "Auto-resend on error"
+    },
+    "editable_fields": {
+      "content": "Auto-resend on error"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20f_integration_health_sync_integration_event_logs",
+    "label": "Integration Event Logs",
+    "category": "Web App Builder/Integrations APIs Third-Party/20F Integration Health Sync",
+    "description": "Tracks sync or webhook events",
+    "tags": [
+      "integration_event_logs"
+    ],
+    "example_block_data": {
+      "content": "Tracks sync or webhook events"
+    },
+    "editable_fields": {
+      "content": "Tracks sync or webhook events"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20f_integration_health_sync_manual_resync_button",
+    "label": "Manual Resync Button",
+    "category": "Web App Builder/Integrations APIs Third-Party/20F Integration Health Sync",
+    "description": "Restarts connection",
+    "tags": [
+      "manual_resync_button"
+    ],
+    "example_block_data": {
+      "content": "Restarts connection"
+    },
+    "editable_fields": {
+      "content": "Restarts connection"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 20,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "20f_integration_health_sync_stale_data_alerts",
+    "label": "Stale Data Alerts",
+    "category": "Web App Builder/Integrations APIs Third-Party/20F Integration Health Sync",
+    "description": "Flags old data from failed syncs",
+    "tags": [
+      "stale_data_alerts"
+    ],
+    "example_block_data": {
+      "content": "Flags old data from failed syncs"
+    },
+    "editable_fields": {
+      "content": "Flags old data from failed syncs"
+    }
+  }
+]

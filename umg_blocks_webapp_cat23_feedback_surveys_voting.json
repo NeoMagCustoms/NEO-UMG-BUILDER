@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23a_feedback_widgets_in_app_feedback_button",
+    "label": "In-App Feedback Button",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23A Feedback Widgets",
+    "description": "Quick user thoughts",
+    "tags": [
+      "in_app_feedback_button"
+    ],
+    "example_block_data": {
+      "content": "Quick user thoughts"
+    },
+    "editable_fields": {
+      "content": "Quick user thoughts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23a_feedback_widgets_floating_feedback_widget",
+    "label": "Floating Feedback Widget",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23A Feedback Widgets",
+    "description": "Persistent input UI",
+    "tags": [
+      "floating_feedback_widget"
+    ],
+    "example_block_data": {
+      "content": "Persistent input UI"
+    },
+    "editable_fields": {
+      "content": "Persistent input UI"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23a_feedback_widgets_page_specific_feedback_triggers",
+    "label": "Page-Specific Feedback Triggers",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23A Feedback Widgets",
+    "description": "Context-aware responses",
+    "tags": [
+      "page_specific_feedback_triggers"
+    ],
+    "example_block_data": {
+      "content": "Context-aware responses"
+    },
+    "editable_fields": {
+      "content": "Context-aware responses"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23a_feedback_widgets_emoji_star_thumbs_rating",
+    "label": "Emoji / Star / Thumbs Rating",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23A Feedback Widgets",
+    "description": "Quick sentiment input",
+    "tags": [
+      "emoji_star_thumbs_rating"
+    ],
+    "example_block_data": {
+      "content": "Quick sentiment input"
+    },
+    "editable_fields": {
+      "content": "Quick sentiment input"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23a_feedback_widgets_screenshot_annotate_tool",
+    "label": "Screenshot + Annotate Tool",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23A Feedback Widgets",
+    "description": "Visual bug reporting",
+    "tags": [
+      "screenshot_annotate_tool"
+    ],
+    "example_block_data": {
+      "content": "Visual bug reporting"
+    },
+    "editable_fields": {
+      "content": "Visual bug reporting"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23b_survey_logic_nps_net_promoter_score_flow",
+    "label": "NPS (Net Promoter Score) Flow",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23B Survey Logic",
+    "description": "0\u201310 scoring w/ optional comment",
+    "tags": [
+      "nps_net_promoter_score_flow"
+    ],
+    "example_block_data": {
+      "content": "0\u201310 scoring w/ optional comment"
+    },
+    "editable_fields": {
+      "content": "0\u201310 scoring w/ optional comment"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23b_survey_logic_one_question_polls",
+    "label": "One-Question Polls",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23B Survey Logic",
+    "description": "A/B or yes/no prompts",
+    "tags": [
+      "one_question_polls"
+    ],
+    "example_block_data": {
+      "content": "A/B or yes/no prompts"
+    },
+    "editable_fields": {
+      "content": "A/B or yes/no prompts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23b_survey_logic_multi_step_survey_builder",
+    "label": "Multi-Step Survey Builder",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23B Survey Logic",
+    "description": "UX-optimized question flows",
+    "tags": [
+      "multi_step_survey_builder"
+    ],
+    "example_block_data": {
+      "content": "UX-optimized question flows"
+    },
+    "editable_fields": {
+      "content": "UX-optimized question flows"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23b_survey_logic_anonymous_vs_identified_mode",
+    "label": "Anonymous vs Identified Mode",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23B Survey Logic",
+    "description": "Privacy settings",
+    "tags": [
+      "anonymous_vs_identified_mode"
+    ],
+    "example_block_data": {
+      "content": "Privacy settings"
+    },
+    "editable_fields": {
+      "content": "Privacy settings"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23b_survey_logic_trigger_rules_time_action_page",
+    "label": "Trigger Rules (time, action, page)",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23B Survey Logic",
+    "description": "When surveys appear",
+    "tags": [
+      "trigger_rules_time_action_page"
+    ],
+    "example_block_data": {
+      "content": "When surveys appear"
+    },
+    "editable_fields": {
+      "content": "When surveys appear"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23c_feature_voting_public_idea_submission",
+    "label": "Public Idea Submission",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23C Feature Voting",
+    "description": "Users post ideas",
+    "tags": [
+      "public_idea_submission"
+    ],
+    "example_block_data": {
+      "content": "Users post ideas"
+    },
+    "editable_fields": {
+      "content": "Users post ideas"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23c_feature_voting_upvote_downvote_controls",
+    "label": "Upvote / Downvote Controls",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23C Feature Voting",
+    "description": "Rank suggestions",
+    "tags": [
+      "upvote_downvote_controls"
+    ],
+    "example_block_data": {
+      "content": "Rank suggestions"
+    },
+    "editable_fields": {
+      "content": "Rank suggestions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23c_feature_voting_tagging_categorization",
+    "label": "Tagging + Categorization",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23C Feature Voting",
+    "description": "Group ideas by area",
+    "tags": [
+      "tagging_categorization"
+    ],
+    "example_block_data": {
+      "content": "Group ideas by area"
+    },
+    "editable_fields": {
+      "content": "Group ideas by area"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23c_feature_voting_admin_set_status_labels",
+    "label": "Admin-Set Status Labels",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23C Feature Voting",
+    "description": "\u201cPlanned\u201d, \u201cIn Review\u201d, etc.",
+    "tags": [
+      "admin_set_status_labels"
+    ],
+    "example_block_data": {
+      "content": "\u201cPlanned\u201d, \u201cIn Review\u201d, etc."
+    },
+    "editable_fields": {
+      "content": "\u201cPlanned\u201d, \u201cIn Review\u201d, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23c_feature_voting_merge_collapse_duplicate_ideas",
+    "label": "Merge / Collapse Duplicate Ideas",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23C Feature Voting",
+    "description": "Avoids clutter",
+    "tags": [
+      "merge_collapse_duplicate_ideas"
+    ],
+    "example_block_data": {
+      "content": "Avoids clutter"
+    },
+    "editable_fields": {
+      "content": "Avoids clutter"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23d_feedback_analytics_top_feedback_by_frequency",
+    "label": "Top Feedback by Frequency",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23D Feedback Analytics",
+    "description": "Most common themes",
+    "tags": [
+      "top_feedback_by_frequency"
+    ],
+    "example_block_data": {
+      "content": "Most common themes"
+    },
+    "editable_fields": {
+      "content": "Most common themes"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23d_feedback_analytics_sentiment_heatmap",
+    "label": "Sentiment Heatmap",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23D Feedback Analytics",
+    "description": "Positive/neutral/negative clusters",
+    "tags": [
+      "sentiment_heatmap"
+    ],
+    "example_block_data": {
+      "content": "Positive/neutral/negative clusters"
+    },
+    "editable_fields": {
+      "content": "Positive/neutral/negative clusters"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23d_feedback_analytics_user_score_segmentation",
+    "label": "User Score Segmentation",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23D Feedback Analytics",
+    "description": "NPS slices by plan, location, etc.",
+    "tags": [
+      "user_score_segmentation"
+    ],
+    "example_block_data": {
+      "content": "NPS slices by plan, location, etc."
+    },
+    "editable_fields": {
+      "content": "NPS slices by plan, location, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23d_feedback_analytics_feedback_funnel_analysis",
+    "label": "Feedback Funnel Analysis",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23D Feedback Analytics",
+    "description": "Drop-off points in survey flow",
+    "tags": [
+      "feedback_funnel_analysis"
+    ],
+    "example_block_data": {
+      "content": "Drop-off points in survey flow"
+    },
+    "editable_fields": {
+      "content": "Drop-off points in survey flow"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23d_feedback_analytics_export_to_csv_airtable",
+    "label": "Export to CSV / Airtable",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23D Feedback Analytics",
+    "description": "Analyze offline",
+    "tags": [
+      "export_to_csv_airtable"
+    ],
+    "example_block_data": {
+      "content": "Analyze offline"
+    },
+    "editable_fields": {
+      "content": "Analyze offline"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23e_feedback_workflow_feedback_github_issue_link",
+    "label": "Feedback \u2192 GitHub Issue Link",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23E Feedback Workflow",
+    "description": "Route feedback to backlog",
+    "tags": [
+      "feedback_github_issue_link"
+    ],
+    "example_block_data": {
+      "content": "Route feedback to backlog"
+    },
+    "editable_fields": {
+      "content": "Route feedback to backlog"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23e_feedback_workflow_auto_email_to_product_team",
+    "label": "Auto Email to Product Team",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23E Feedback Workflow",
+    "description": "Forward raw input",
+    "tags": [
+      "auto_email_to_product_team"
+    ],
+    "example_block_data": {
+      "content": "Forward raw input"
+    },
+    "editable_fields": {
+      "content": "Forward raw input"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23e_feedback_workflow_acknowledgement_auto_responder",
+    "label": "Acknowledgement Auto-Responder",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23E Feedback Workflow",
+    "description": "\u201cWe got your feedback!\u201d",
+    "tags": [
+      "acknowledgement_auto_responder"
+    ],
+    "example_block_data": {
+      "content": "\u201cWe got your feedback!\u201d"
+    },
+    "editable_fields": {
+      "content": "\u201cWe got your feedback!\u201d"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23e_feedback_workflow_status_update_emails",
+    "label": "Status Update Emails",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23E Feedback Workflow",
+    "description": "\u201cYour idea is now in progress\u201d",
+    "tags": [
+      "status_update_emails"
+    ],
+    "example_block_data": {
+      "content": "\u201cYour idea is now in progress\u201d"
+    },
+    "editable_fields": {
+      "content": "\u201cYour idea is now in progress\u201d"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23e_feedback_workflow_slack_integration_for_realtime_feed",
+    "label": "Slack Integration for Realtime Feed",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23E Feedback Workflow",
+    "description": "Sends alerts to team",
+    "tags": [
+      "slack_integration_for_realtime_feed"
+    ],
+    "example_block_data": {
+      "content": "Sends alerts to team"
+    },
+    "editable_fields": {
+      "content": "Sends alerts to team"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23f_feedback_privacy_moderation_email_collection_consent_check",
+    "label": "Email Collection + Consent Check",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23F Feedback Privacy Moderation",
+    "description": "GDPR-safe surveys",
+    "tags": [
+      "email_collection_consent_check"
+    ],
+    "example_block_data": {
+      "content": "GDPR-safe surveys"
+    },
+    "editable_fields": {
+      "content": "GDPR-safe surveys"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23f_feedback_privacy_moderation_rate_limit_per_user",
+    "label": "Rate-Limit Per User",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23F Feedback Privacy Moderation",
+    "description": "Avoid spam voting",
+    "tags": [
+      "rate_limit_per_user"
+    ],
+    "example_block_data": {
+      "content": "Avoid spam voting"
+    },
+    "editable_fields": {
+      "content": "Avoid spam voting"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23f_feedback_privacy_moderation_admin_moderation_panel",
+    "label": "Admin Moderation Panel",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23F Feedback Privacy Moderation",
+    "description": "Approve, hide, or delete posts",
+    "tags": [
+      "admin_moderation_panel"
+    ],
+    "example_block_data": {
+      "content": "Approve, hide, or delete posts"
+    },
+    "editable_fields": {
+      "content": "Approve, hide, or delete posts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23f_feedback_privacy_moderation_participation_visibility_settings",
+    "label": "Participation Visibility Settings",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23F Feedback Privacy Moderation",
+    "description": "Public vs private ideas",
+    "tags": [
+      "participation_visibility_settings"
+    ],
+    "example_block_data": {
+      "content": "Public vs private ideas"
+    },
+    "editable_fields": {
+      "content": "Public vs private ideas"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 23,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "23f_feedback_privacy_moderation_ip_user_filtering_for_abuse_control",
+    "label": "IP/User Filtering for Abuse Control",
+    "category": "Web App Builder/Product Feedback Surveys Voting/23F Feedback Privacy Moderation",
+    "description": "Blocks repeat abuse or bots",
+    "tags": [
+      "ip_user_filtering_for_abuse_control"
+    ],
+    "example_block_data": {
+      "content": "Blocks repeat abuse or bots"
+    },
+    "editable_fields": {
+      "content": "Blocks repeat abuse or bots"
+    }
+  }
+]

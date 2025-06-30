@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 14,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "14c_invoice_tax_currency_pdf_invoice_generation",
+  "label": "PDF Invoice Generation",
+  "category": "Web App Builder/Payment Billing Systems/14C Invoice Tax Currency",
+  "description": "Downloadable receipts",
+  "tags": [
+    "pdf_invoice_generation"
+  ],
+  "example_block_data": {
+    "content": "Downloadable receipts"
+  },
+  "editable_fields": {
+    "content": "Downloadable receipts"
+  }
+}

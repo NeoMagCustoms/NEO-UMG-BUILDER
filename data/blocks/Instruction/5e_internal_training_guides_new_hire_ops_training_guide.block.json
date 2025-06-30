@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "5e_internal_training_guides_new_hire_ops_training_guide",
+  "label": "New Hire Ops Training Guide",
+  "category": "Business Plans/Web App/Chatbot/5E Internal Training Guides",
+  "description": "How ops works, tools, who to ask",
+  "tags": [
+    "new_hire_ops_training_guide"
+  ],
+  "example_block_data": {
+    "content": "How ops works, tools, who to ask"
+  },
+  "editable_fields": {
+    "content": "How ops works, tools, who to ask"
+  }
+}

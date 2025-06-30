@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 10,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "10b_env_vars_runtime_variable_injection",
+  "label": "Runtime Variable Injection",
+  "category": "Web App Builder/Deployment Environment Configuration/10B Env Vars",
+  "description": "Makes values available in browser/server",
+  "tags": [
+    "runtime_variable_injection"
+  ],
+  "example_block_data": {
+    "content": "Makes values available in browser/server"
+  },
+  "editable_fields": {
+    "content": "Makes values available in browser/server"
+  }
+}

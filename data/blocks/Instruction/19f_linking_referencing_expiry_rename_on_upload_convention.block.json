@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 19,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "19f_linking_referencing_expiry_rename_on_upload_convention",
+  "label": "Rename-on-Upload Convention",
+  "category": "Web App Builder/File Handling Uploads Media/19F Linking Referencing Expiry",
+  "description": "Prevent collisions",
+  "tags": [
+    "rename_on_upload_convention"
+  ],
+  "example_block_data": {
+    "content": "Prevent collisions"
+  },
+  "editable_fields": {
+    "content": "Prevent collisions"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "block_id": "calendar_grid_ui",
+  "label": "Month/Week/Day View Calendar Grid",
+  "category": "Web App/Category 28/Scheduling & Calendar",
+  "molt_type": "Instruction",
+  "description": "Visual interface for events",
+  "tags": [
+    "calendar",
+    "ui",
+    "grid"
+  ],
+  "editable_fields": {
+    "content": "Visual interface for events"
+  },
+  "display": {
+    "color": "yellow"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  }
+}

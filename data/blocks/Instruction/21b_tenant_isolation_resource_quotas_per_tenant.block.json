@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 21,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "21b_tenant_isolation_resource_quotas_per_tenant",
+  "label": "Resource Quotas Per Tenant",
+  "category": "Web App Builder/Access Control Permissions/21B Tenant Isolation",
+  "description": "Limits tied to tenant account",
+  "tags": [
+    "resource_quotas_per_tenant"
+  ],
+  "example_block_data": {
+    "content": "Limits tied to tenant account"
+  },
+  "editable_fields": {
+    "content": "Limits tied to tenant account"
+  }
+}

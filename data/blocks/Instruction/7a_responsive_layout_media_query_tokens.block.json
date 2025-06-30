@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 7,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "7a_responsive_layout_media_query_tokens",
+  "label": "Media Query Tokens",
+  "category": "Web App Builder/Responsive PWA Framework/7A Responsive Layout",
+  "description": "sm, md, lg, etc. reused consistently",
+  "tags": [
+    "media_query_tokens"
+  ],
+  "example_block_data": {
+    "content": "sm, md, lg, etc. reused consistently"
+  },
+  "editable_fields": {
+    "content": "sm, md, lg, etc. reused consistently"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 26,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "26b_consent_flows_ux_dynamic_consent_by_country_region",
+  "label": "Dynamic Consent by Country/Region",
+  "category": "Web App Builder/Legal Terms Consent/26B Consent Flows Ux",
+  "description": "Complies with global laws",
+  "tags": [
+    "dynamic_consent_by_country_region"
+  ],
+  "example_block_data": {
+    "content": "Complies with global laws"
+  },
+  "editable_fields": {
+    "content": "Complies with global laws"
+  }
+}

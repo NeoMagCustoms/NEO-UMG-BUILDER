@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "6a_strategy_positioning_product_positioning_brief",
+  "label": "Product Positioning Brief",
+  "category": "Business Plans/Web App/Chatbot/6A Strategy Positioning",
+  "description": "Defines how the product is perceived vs. competitors",
+  "tags": [
+    "product_positioning_brief"
+  ],
+  "example_block_data": {
+    "content": "Defines how the product is perceived vs. competitors"
+  },
+  "editable_fields": {
+    "content": "Defines how the product is perceived vs. competitors"
+  }
+}

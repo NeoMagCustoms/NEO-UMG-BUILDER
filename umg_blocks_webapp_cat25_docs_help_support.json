@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25a_help_center_ui_full_help_center_page",
+    "label": "Full Help Center Page",
+    "category": "Web App Builder/Documentation Help Support/25A Help Center Ui",
+    "description": "Search + category layout",
+    "tags": [
+      "full_help_center_page"
+    ],
+    "example_block_data": {
+      "content": "Search + category layout"
+    },
+    "editable_fields": {
+      "content": "Search + category layout"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25a_help_center_ui_support_portal_or_knowledge_hub",
+    "label": "Support Portal or Knowledge Hub",
+    "category": "Web App Builder/Documentation Help Support/25A Help Center Ui",
+    "description": "Collection of how-tos & policies",
+    "tags": [
+      "support_portal_or_knowledge_hub"
+    ],
+    "example_block_data": {
+      "content": "Collection of how-tos & policies"
+    },
+    "editable_fields": {
+      "content": "Collection of how-tos & policies"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25a_help_center_ui_feedback_form_below_articles",
+    "label": "Feedback Form Below Articles",
+    "category": "Web App Builder/Documentation Help Support/25A Help Center Ui",
+    "description": "\u201cWas this helpful?\u201d",
+    "tags": [
+      "feedback_form_below_articles"
+    ],
+    "example_block_data": {
+      "content": "\u201cWas this helpful?\u201d"
+    },
+    "editable_fields": {
+      "content": "\u201cWas this helpful?\u201d"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25a_help_center_ui_submit_ticket_contact_page",
+    "label": "\u201cSubmit Ticket\u201d / Contact Page",
+    "category": "Web App Builder/Documentation Help Support/25A Help Center Ui",
+    "description": "User-initiated support requests",
+    "tags": [
+      "submit_ticket_contact_page"
+    ],
+    "example_block_data": {
+      "content": "User-initiated support requests"
+    },
+    "editable_fields": {
+      "content": "User-initiated support requests"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25a_help_center_ui_markdown_or_rich_editor_for_docs",
+    "label": "Markdown or Rich Editor for Docs",
+    "category": "Web App Builder/Documentation Help Support/25A Help Center Ui",
+    "description": "Internal team authoring",
+    "tags": [
+      "markdown_or_rich_editor_for_docs"
+    ],
+    "example_block_data": {
+      "content": "Internal team authoring"
+    },
+    "editable_fields": {
+      "content": "Internal team authoring"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25b_inline_tooltips_walkthroughs_hover_tooltips_info_icons",
+    "label": "Hover Tooltips & Info Icons",
+    "category": "Web App Builder/Documentation Help Support/25B Inline Tooltips Walkthroughs",
+    "description": "On-demand clarity",
+    "tags": [
+      "hover_tooltips_info_icons"
+    ],
+    "example_block_data": {
+      "content": "On-demand clarity"
+    },
+    "editable_fields": {
+      "content": "On-demand clarity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25b_inline_tooltips_walkthroughs_walkthrough_overlays_step_tours",
+    "label": "Walkthrough Overlays / Step Tours",
+    "category": "Web App Builder/Documentation Help Support/25B Inline Tooltips Walkthroughs",
+    "description": "Guides new users through flows",
+    "tags": [
+      "walkthrough_overlays_step_tours"
+    ],
+    "example_block_data": {
+      "content": "Guides new users through flows"
+    },
+    "editable_fields": {
+      "content": "Guides new users through flows"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25b_inline_tooltips_walkthroughs_field_by_field_descriptions",
+    "label": "Field-by-Field Descriptions",
+    "category": "Web App Builder/Documentation Help Support/25B Inline Tooltips Walkthroughs",
+    "description": "Beneath or beside inputs",
+    "tags": [
+      "field_by_field_descriptions"
+    ],
+    "example_block_data": {
+      "content": "Beneath or beside inputs"
+    },
+    "editable_fields": {
+      "content": "Beneath or beside inputs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25b_inline_tooltips_walkthroughs_hotspot_help_onboarding_e_g_intro_js",
+    "label": "Hotspot Help Onboarding (e.g., Intro.js)",
+    "category": "Web App Builder/Documentation Help Support/25B Inline Tooltips Walkthroughs",
+    "description": "Stepwise discovery UI",
+    "tags": [
+      "hotspot_help_onboarding_e_g_intro_js"
+    ],
+    "example_block_data": {
+      "content": "Stepwise discovery UI"
+    },
+    "editable_fields": {
+      "content": "Stepwise discovery UI"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25b_inline_tooltips_walkthroughs_embedded_video_help_loom_youtube",
+    "label": "Embedded Video Help (Loom, YouTube)",
+    "category": "Web App Builder/Documentation Help Support/25B Inline Tooltips Walkthroughs",
+    "description": "Multimedia onboarding",
+    "tags": [
+      "embedded_video_help_loom_youtube"
+    ],
+    "example_block_data": {
+      "content": "Multimedia onboarding"
+    },
+    "editable_fields": {
+      "content": "Multimedia onboarding"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25c_ai_live_support_intercom_crisp_tawk_to_widget",
+    "label": "Intercom / Crisp / Tawk.to Widget",
+    "category": "Web App Builder/Documentation Help Support/25C Ai Live Support",
+    "description": "Chat with real agent",
+    "tags": [
+      "intercom_crisp_tawk_to_widget"
+    ],
+    "example_block_data": {
+      "content": "Chat with real agent"
+    },
+    "editable_fields": {
+      "content": "Chat with real agent"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25c_ai_live_support_ai_helpbot_trained_on_docs",
+    "label": "AI Helpbot Trained on Docs",
+    "category": "Web App Builder/Documentation Help Support/25C Ai Live Support",
+    "description": "Auto-answers basic questions",
+    "tags": [
+      "ai_helpbot_trained_on_docs"
+    ],
+    "example_block_data": {
+      "content": "Auto-answers basic questions"
+    },
+    "editable_fields": {
+      "content": "Auto-answers basic questions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25c_ai_live_support_handoff_to_human_escalation_logic",
+    "label": "Handoff to Human Escalation Logic",
+    "category": "Web App Builder/Documentation Help Support/25C Ai Live Support",
+    "description": "From bot \u2192 agent",
+    "tags": [
+      "handoff_to_human_escalation_logic"
+    ],
+    "example_block_data": {
+      "content": "From bot \u2192 agent"
+    },
+    "editable_fields": {
+      "content": "From bot \u2192 agent"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25c_ai_live_support_support_availability_scheduler",
+    "label": "Support Availability Scheduler",
+    "category": "Web App Builder/Documentation Help Support/25C Ai Live Support",
+    "description": "Show agent online hours",
+    "tags": [
+      "support_availability_scheduler"
+    ],
+    "example_block_data": {
+      "content": "Show agent online hours"
+    },
+    "editable_fields": {
+      "content": "Show agent online hours"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25c_ai_live_support_email_or_sms_ticket_confirmations",
+    "label": "Email or SMS Ticket Confirmations",
+    "category": "Web App Builder/Documentation Help Support/25C Ai Live Support",
+    "description": "Logs ticket activity",
+    "tags": [
+      "email_or_sms_ticket_confirmations"
+    ],
+    "example_block_data": {
+      "content": "Logs ticket activity"
+    },
+    "editable_fields": {
+      "content": "Logs ticket activity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25d_doc_structure_search_category_subcategory_trees",
+    "label": "Category \u2192 Subcategory Trees",
+    "category": "Web App Builder/Documentation Help Support/25D Doc Structure Search",
+    "description": "Logical doc hierarchy",
+    "tags": [
+      "category_subcategory_trees"
+    ],
+    "example_block_data": {
+      "content": "Logical doc hierarchy"
+    },
+    "editable_fields": {
+      "content": "Logical doc hierarchy"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25d_doc_structure_search_article_tagging_related_docs",
+    "label": "Article Tagging & Related Docs",
+    "category": "Web App Builder/Documentation Help Support/25D Doc Structure Search",
+    "description": "Suggests similar info",
+    "tags": [
+      "article_tagging_related_docs"
+    ],
+    "example_block_data": {
+      "content": "Suggests similar info"
+    },
+    "editable_fields": {
+      "content": "Suggests similar info"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25d_doc_structure_search_search_bar_with_typo_tolerance",
+    "label": "Search Bar with Typo Tolerance",
+    "category": "Web App Builder/Documentation Help Support/25D Doc Structure Search",
+    "description": "Fast, fuzzy lookup",
+    "tags": [
+      "search_bar_with_typo_tolerance"
+    ],
+    "example_block_data": {
+      "content": "Fast, fuzzy lookup"
+    },
+    "editable_fields": {
+      "content": "Fast, fuzzy lookup"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25d_doc_structure_search_doc_view_counter_popularity_rank",
+    "label": "Doc View Counter / Popularity Rank",
+    "category": "Web App Builder/Documentation Help Support/25D Doc Structure Search",
+    "description": "See most-used guides",
+    "tags": [
+      "doc_view_counter_popularity_rank"
+    ],
+    "example_block_data": {
+      "content": "See most-used guides"
+    },
+    "editable_fields": {
+      "content": "See most-used guides"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25d_doc_structure_search_doc_edit_history_versioning",
+    "label": "Doc Edit History & Versioning",
+    "category": "Web App Builder/Documentation Help Support/25D Doc Structure Search",
+    "description": "Tracks doc updates",
+    "tags": [
+      "doc_edit_history_versioning"
+    ],
+    "example_block_data": {
+      "content": "Tracks doc updates"
+    },
+    "editable_fields": {
+      "content": "Tracks doc updates"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25e_support_feedback_analytics_was_this_helpful_ratings",
+    "label": "Was This Helpful? Ratings",
+    "category": "Web App Builder/Documentation Help Support/25E Support Feedback Analytics",
+    "description": "Article usefulness check",
+    "tags": [
+      "was_this_helpful_ratings"
+    ],
+    "example_block_data": {
+      "content": "Article usefulness check"
+    },
+    "editable_fields": {
+      "content": "Article usefulness check"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25e_support_feedback_analytics_thumbs_up_down_text_response",
+    "label": "Thumbs Up / Down & Text Response",
+    "category": "Web App Builder/Documentation Help Support/25E Support Feedback Analytics",
+    "description": "Quick feedback after answers",
+    "tags": [
+      "thumbs_up_down_text_response"
+    ],
+    "example_block_data": {
+      "content": "Quick feedback after answers"
+    },
+    "editable_fields": {
+      "content": "Quick feedback after answers"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25e_support_feedback_analytics_time_to_resolution_metric",
+    "label": "Time to Resolution Metric",
+    "category": "Web App Builder/Documentation Help Support/25E Support Feedback Analytics",
+    "description": "Support team performance",
+    "tags": [
+      "time_to_resolution_metric"
+    ],
+    "example_block_data": {
+      "content": "Support team performance"
+    },
+    "editable_fields": {
+      "content": "Support team performance"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25e_support_feedback_analytics_support_volume_dashboard",
+    "label": "Support Volume Dashboard",
+    "category": "Web App Builder/Documentation Help Support/25E Support Feedback Analytics",
+    "description": "Tracks contact frequency",
+    "tags": [
+      "support_volume_dashboard"
+    ],
+    "example_block_data": {
+      "content": "Tracks contact frequency"
+    },
+    "editable_fields": {
+      "content": "Tracks contact frequency"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25e_support_feedback_analytics_agent_feedback_surveys",
+    "label": "Agent Feedback Surveys",
+    "category": "Web App Builder/Documentation Help Support/25E Support Feedback Analytics",
+    "description": "Evaluate human interactions",
+    "tags": [
+      "agent_feedback_surveys"
+    ],
+    "example_block_data": {
+      "content": "Evaluate human interactions"
+    },
+    "editable_fields": {
+      "content": "Evaluate human interactions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25f_doc_content_access_control_public_vs_private_doc_toggle",
+    "label": "Public vs Private Doc Toggle",
+    "category": "Web App Builder/Documentation Help Support/25F Doc Content Access Control",
+    "description": "Controls who sees what",
+    "tags": [
+      "public_vs_private_doc_toggle"
+    ],
+    "example_block_data": {
+      "content": "Controls who sees what"
+    },
+    "editable_fields": {
+      "content": "Controls who sees what"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25f_doc_content_access_control_internal_only_article_flags",
+    "label": "Internal-Only Article Flags",
+    "category": "Web App Builder/Documentation Help Support/25F Doc Content Access Control",
+    "description": "Staff guides hidden from users",
+    "tags": [
+      "internal_only_article_flags"
+    ],
+    "example_block_data": {
+      "content": "Staff guides hidden from users"
+    },
+    "editable_fields": {
+      "content": "Staff guides hidden from users"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25f_doc_content_access_control_user_role_based_visibility",
+    "label": "User Role-Based Visibility",
+    "category": "Web App Builder/Documentation Help Support/25F Doc Content Access Control",
+    "description": "Show by team/admin/user level",
+    "tags": [
+      "user_role_based_visibility"
+    ],
+    "example_block_data": {
+      "content": "Show by team/admin/user level"
+    },
+    "editable_fields": {
+      "content": "Show by team/admin/user level"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25f_doc_content_access_control_region_or_language_restriction",
+    "label": "Region or Language Restriction",
+    "category": "Web App Builder/Documentation Help Support/25F Doc Content Access Control",
+    "description": "i18n of help content",
+    "tags": [
+      "region_or_language_restriction"
+    ],
+    "example_block_data": {
+      "content": "i18n of help content"
+    },
+    "editable_fields": {
+      "content": "i18n of help content"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 25,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "25f_doc_content_access_control_expiring_article_links",
+    "label": "Expiring Article Links",
+    "category": "Web App Builder/Documentation Help Support/25F Doc Content Access Control",
+    "description": "Time-sensitive access logic",
+    "tags": [
+      "expiring_article_links"
+    ],
+    "example_block_data": {
+      "content": "Time-sensitive access logic"
+    },
+    "editable_fields": {
+      "content": "Time-sensitive access logic"
+    }
+  }
+]

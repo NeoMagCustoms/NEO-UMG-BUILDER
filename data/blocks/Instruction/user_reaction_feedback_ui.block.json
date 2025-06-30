@@ -1,0 +1,46 @@
+{
+  "block_id": "user_reaction_feedback_ui",
+  "label": "User Reaction Feedback UI",
+  "category": "Logs, Metrics, Feedback Loop",
+  "description": "UI for feedback: likes, emojis, comments",
+  "molt_type": "Instruction",
+  "tags": [
+    "user_reaction_feedback_ui",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "👍"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "UI for feedback: likes, emojis, comments This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "User Reaction Feedback UI: UI for feedback: likes, emojis, comments"
+  }
+}

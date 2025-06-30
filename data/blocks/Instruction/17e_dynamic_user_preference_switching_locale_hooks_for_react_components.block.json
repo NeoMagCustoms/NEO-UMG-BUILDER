@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 17,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "17e_dynamic_user_preference_switching_locale_hooks_for_react_components",
+  "label": "Locale Hooks for React Components",
+  "category": "Web App Builder/Localization I18n Timezones/17E Dynamic User Preference Switching",
+  "description": "Auto-re-render on change",
+  "tags": [
+    "locale_hooks_for_react_components"
+  ],
+  "example_block_data": {
+    "content": "Auto-re-render on change"
+  },
+  "editable_fields": {
+    "content": "Auto-re-render on change"
+  }
+}

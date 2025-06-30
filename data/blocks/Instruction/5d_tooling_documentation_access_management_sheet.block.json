@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "5d_tooling_documentation_access_management_sheet",
+  "label": "Access Management Sheet",
+  "category": "Business Plans/Web App/Chatbot/5D Tooling Documentation",
+  "description": "Who has what permissions",
+  "tags": [
+    "access_management_sheet"
+  ],
+  "example_block_data": {
+    "content": "Who has what permissions"
+  },
+  "editable_fields": {
+    "content": "Who has what permissions"
+  }
+}

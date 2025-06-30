@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 25,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "25f_doc_content_access_control_internal_only_article_flags",
+  "label": "Internal-Only Article Flags",
+  "category": "Web App Builder/Documentation Help Support/25F Doc Content Access Control",
+  "description": "Staff guides hidden from users",
+  "tags": [
+    "internal_only_article_flags"
+  ],
+  "example_block_data": {
+    "content": "Staff guides hidden from users"
+  },
+  "editable_fields": {
+    "content": "Staff guides hidden from users"
+  }
+}

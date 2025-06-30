@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24a_profile_edit_views_public_profile_page",
+    "label": "Public Profile Page",
+    "category": "Web App Builder/User Profiles Settings Panels/24A Profile Edit Views",
+    "description": "Shareable user presence",
+    "tags": [
+      "public_profile_page"
+    ],
+    "example_block_data": {
+      "content": "Shareable user presence"
+    },
+    "editable_fields": {
+      "content": "Shareable user presence"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24a_profile_edit_views_private_settings_panel",
+    "label": "Private Settings Panel",
+    "category": "Web App Builder/User Profiles Settings Panels/24A Profile Edit Views",
+    "description": "Change name, info, etc.",
+    "tags": [
+      "private_settings_panel"
+    ],
+    "example_block_data": {
+      "content": "Change name, info, etc."
+    },
+    "editable_fields": {
+      "content": "Change name, info, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24a_profile_edit_views_form_autosave_validation",
+    "label": "Form Autosave + Validation",
+    "category": "Web App Builder/User Profiles Settings Panels/24A Profile Edit Views",
+    "description": "UX polish for edits",
+    "tags": [
+      "form_autosave_validation"
+    ],
+    "example_block_data": {
+      "content": "UX polish for edits"
+    },
+    "editable_fields": {
+      "content": "UX polish for edits"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24a_profile_edit_views_profile_tabs_activity_settings",
+    "label": "Profile Tabs (Activity, Settings)",
+    "category": "Web App Builder/User Profiles Settings Panels/24A Profile Edit Views",
+    "description": "Nav structure for info zones",
+    "tags": [
+      "profile_tabs_activity_settings"
+    ],
+    "example_block_data": {
+      "content": "Nav structure for info zones"
+    },
+    "editable_fields": {
+      "content": "Nav structure for info zones"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24a_profile_edit_views_profile_completion_meter",
+    "label": "Profile Completion % Meter",
+    "category": "Web App Builder/User Profiles Settings Panels/24A Profile Edit Views",
+    "description": "Gamify completion",
+    "tags": [
+      "profile_completion_meter"
+    ],
+    "example_block_data": {
+      "content": "Gamify completion"
+    },
+    "editable_fields": {
+      "content": "Gamify completion"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24b_visual_identity_avatars_avatar_uploader_crop_tool",
+    "label": "Avatar Uploader + Crop Tool",
+    "category": "Web App Builder/User Profiles Settings Panels/24B Visual Identity Avatars",
+    "description": "Upload + center face",
+    "tags": [
+      "avatar_uploader_crop_tool"
+    ],
+    "example_block_data": {
+      "content": "Upload + center face"
+    },
+    "editable_fields": {
+      "content": "Upload + center face"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24b_visual_identity_avatars_default_avatar_generator",
+    "label": "Default Avatar Generator",
+    "category": "Web App Builder/User Profiles Settings Panels/24B Visual Identity Avatars",
+    "description": "Identicons, emojis, initials",
+    "tags": [
+      "default_avatar_generator"
+    ],
+    "example_block_data": {
+      "content": "Identicons, emojis, initials"
+    },
+    "editable_fields": {
+      "content": "Identicons, emojis, initials"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24b_visual_identity_avatars_banner_upload_reposition",
+    "label": "Banner Upload + Reposition",
+    "category": "Web App Builder/User Profiles Settings Panels/24B Visual Identity Avatars",
+    "description": "Wide-format visual styling",
+    "tags": [
+      "banner_upload_reposition"
+    ],
+    "example_block_data": {
+      "content": "Wide-format visual styling"
+    },
+    "editable_fields": {
+      "content": "Wide-format visual styling"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24b_visual_identity_avatars_bio_headline_section",
+    "label": "Bio + Headline Section",
+    "category": "Web App Builder/User Profiles Settings Panels/24B Visual Identity Avatars",
+    "description": "Optional personal intro",
+    "tags": [
+      "bio_headline_section"
+    ],
+    "example_block_data": {
+      "content": "Optional personal intro"
+    },
+    "editable_fields": {
+      "content": "Optional personal intro"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24b_visual_identity_avatars_profile_theme_or_color_accent",
+    "label": "Profile Theme or Color Accent",
+    "category": "Web App Builder/User Profiles Settings Panels/24B Visual Identity Avatars",
+    "description": "Personal visual brand",
+    "tags": [
+      "profile_theme_or_color_accent"
+    ],
+    "example_block_data": {
+      "content": "Personal visual brand"
+    },
+    "editable_fields": {
+      "content": "Personal visual brand"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24c_user_preferences_dark_mode_toggle",
+    "label": "Dark Mode Toggle",
+    "category": "Web App Builder/User Profiles Settings Panels/24C User Preferences",
+    "description": "UI preference",
+    "tags": [
+      "dark_mode_toggle"
+    ],
+    "example_block_data": {
+      "content": "UI preference"
+    },
+    "editable_fields": {
+      "content": "UI preference"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24c_user_preferences_email_notification_preferences",
+    "label": "Email / Notification Preferences",
+    "category": "Web App Builder/User Profiles Settings Panels/24C User Preferences",
+    "description": "Frequency and type",
+    "tags": [
+      "email_notification_preferences"
+    ],
+    "example_block_data": {
+      "content": "Frequency and type"
+    },
+    "editable_fields": {
+      "content": "Frequency and type"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24c_user_preferences_language_region_preferences",
+    "label": "Language / Region Preferences",
+    "category": "Web App Builder/User Profiles Settings Panels/24C User Preferences",
+    "description": "i18n per user",
+    "tags": [
+      "language_region_preferences"
+    ],
+    "example_block_data": {
+      "content": "i18n per user"
+    },
+    "editable_fields": {
+      "content": "i18n per user"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24c_user_preferences_dashboard_layout_selection",
+    "label": "Dashboard Layout Selection",
+    "category": "Web App Builder/User Profiles Settings Panels/24C User Preferences",
+    "description": "Compact vs Expanded",
+    "tags": [
+      "dashboard_layout_selection"
+    ],
+    "example_block_data": {
+      "content": "Compact vs Expanded"
+    },
+    "editable_fields": {
+      "content": "Compact vs Expanded"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24c_user_preferences_mobile_desktop_behavior_tweak",
+    "label": "Mobile/Desktop Behavior Tweak",
+    "category": "Web App Builder/User Profiles Settings Panels/24C User Preferences",
+    "description": "Adjust platform behavior",
+    "tags": [
+      "mobile_desktop_behavior_tweak"
+    ],
+    "example_block_data": {
+      "content": "Adjust platform behavior"
+    },
+    "editable_fields": {
+      "content": "Adjust platform behavior"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24d_account_linking_sync_oauth_connection_panel",
+    "label": "OAuth Connection Panel",
+    "category": "Web App Builder/User Profiles Settings Panels/24D Account Linking Sync",
+    "description": "Link Google, GitHub, etc.",
+    "tags": [
+      "oauth_connection_panel"
+    ],
+    "example_block_data": {
+      "content": "Link Google, GitHub, etc."
+    },
+    "editable_fields": {
+      "content": "Link Google, GitHub, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24d_account_linking_sync_email_change_verification",
+    "label": "Email Change + Verification",
+    "category": "Web App Builder/User Profiles Settings Panels/24D Account Linking Sync",
+    "description": "Update credentials",
+    "tags": [
+      "email_change_verification"
+    ],
+    "example_block_data": {
+      "content": "Update credentials"
+    },
+    "editable_fields": {
+      "content": "Update credentials"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24d_account_linking_sync_linked_accounts_dashboard",
+    "label": "Linked Accounts Dashboard",
+    "category": "Web App Builder/User Profiles Settings Panels/24D Account Linking Sync",
+    "description": "See and manage connections",
+    "tags": [
+      "linked_accounts_dashboard"
+    ],
+    "example_block_data": {
+      "content": "See and manage connections"
+    },
+    "editable_fields": {
+      "content": "See and manage connections"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24d_account_linking_sync_delete_account_button",
+    "label": "Delete Account Button",
+    "category": "Web App Builder/User Profiles Settings Panels/24D Account Linking Sync",
+    "description": "Erase identity",
+    "tags": [
+      "delete_account_button"
+    ],
+    "example_block_data": {
+      "content": "Erase identity"
+    },
+    "editable_fields": {
+      "content": "Erase identity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24d_account_linking_sync_merge_duplicate_accounts_logic",
+    "label": "Merge Duplicate Accounts Logic",
+    "category": "Web App Builder/User Profiles Settings Panels/24D Account Linking Sync",
+    "description": "Consolidate via email match",
+    "tags": [
+      "merge_duplicate_accounts_logic"
+    ],
+    "example_block_data": {
+      "content": "Consolidate via email match"
+    },
+    "editable_fields": {
+      "content": "Consolidate via email match"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24e_security_access_settings_change_password_reset_flow",
+    "label": "Change Password / Reset Flow",
+    "category": "Web App Builder/User Profiles Settings Panels/24E Security Access Settings",
+    "description": "Full auth lifecycle",
+    "tags": [
+      "change_password_reset_flow"
+    ],
+    "example_block_data": {
+      "content": "Full auth lifecycle"
+    },
+    "editable_fields": {
+      "content": "Full auth lifecycle"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24e_security_access_settings_2fa_enablement_sms_app",
+    "label": "2FA Enablement (SMS/App)",
+    "category": "Web App Builder/User Profiles Settings Panels/24E Security Access Settings",
+    "description": "Optional second factor",
+    "tags": [
+      "2fa_enablement_sms_app"
+    ],
+    "example_block_data": {
+      "content": "Optional second factor"
+    },
+    "editable_fields": {
+      "content": "Optional second factor"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24e_security_access_settings_session_expiry_settings",
+    "label": "Session Expiry Settings",
+    "category": "Web App Builder/User Profiles Settings Panels/24E Security Access Settings",
+    "description": "Control logout behavior",
+    "tags": [
+      "session_expiry_settings"
+    ],
+    "example_block_data": {
+      "content": "Control logout behavior"
+    },
+    "editable_fields": {
+      "content": "Control logout behavior"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24e_security_access_settings_device_location_history_log",
+    "label": "Device + Location History Log",
+    "category": "Web App Builder/User Profiles Settings Panels/24E Security Access Settings",
+    "description": "List of login activity",
+    "tags": [
+      "device_location_history_log"
+    ],
+    "example_block_data": {
+      "content": "List of login activity"
+    },
+    "editable_fields": {
+      "content": "List of login activity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24e_security_access_settings_suspicious_login_alert_email",
+    "label": "Suspicious Login Alert Email",
+    "category": "Web App Builder/User Profiles Settings Panels/24E Security Access Settings",
+    "description": "Protect account",
+    "tags": [
+      "suspicious_login_alert_email"
+    ],
+    "example_block_data": {
+      "content": "Protect account"
+    },
+    "editable_fields": {
+      "content": "Protect account"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24f_identity_growth_onboarding_guided_profile_setup_flow",
+    "label": "Guided Profile Setup Flow",
+    "category": "Web App Builder/User Profiles Settings Panels/24F Identity Growth Onboarding",
+    "description": "Step-by-step onboarding",
+    "tags": [
+      "guided_profile_setup_flow"
+    ],
+    "example_block_data": {
+      "content": "Step-by-step onboarding"
+    },
+    "editable_fields": {
+      "content": "Step-by-step onboarding"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24f_identity_growth_onboarding_profile_tips_contextual_prompts",
+    "label": "Profile Tips / Contextual Prompts",
+    "category": "Web App Builder/User Profiles Settings Panels/24F Identity Growth Onboarding",
+    "description": "Helps fill in empty fields",
+    "tags": [
+      "profile_tips_contextual_prompts"
+    ],
+    "example_block_data": {
+      "content": "Helps fill in empty fields"
+    },
+    "editable_fields": {
+      "content": "Helps fill in empty fields"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24f_identity_growth_onboarding_suggested_connections_interests",
+    "label": "Suggested Connections / Interests",
+    "category": "Web App Builder/User Profiles Settings Panels/24F Identity Growth Onboarding",
+    "description": "Social or algorithmic",
+    "tags": [
+      "suggested_connections_interests"
+    ],
+    "example_block_data": {
+      "content": "Social or algorithmic"
+    },
+    "editable_fields": {
+      "content": "Social or algorithmic"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24f_identity_growth_onboarding_invite_friends_button",
+    "label": "Invite Friends Button",
+    "category": "Web App Builder/User Profiles Settings Panels/24F Identity Growth Onboarding",
+    "description": "Viral growth",
+    "tags": [
+      "invite_friends_button"
+    ],
+    "example_block_data": {
+      "content": "Viral growth"
+    },
+    "editable_fields": {
+      "content": "Viral growth"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 24,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "24f_identity_growth_onboarding_welcome_email_personalization",
+    "label": "Welcome Email & Personalization",
+    "category": "Web App Builder/User Profiles Settings Panels/24F Identity Growth Onboarding",
+    "description": "Sets tone of brand",
+    "tags": [
+      "welcome_email_personalization"
+    ],
+    "example_block_data": {
+      "content": "Sets tone of brand"
+    },
+    "editable_fields": {
+      "content": "Sets tone of brand"
+    }
+  }
+]

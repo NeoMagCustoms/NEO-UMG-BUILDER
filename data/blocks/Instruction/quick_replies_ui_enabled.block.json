@@ -1,0 +1,46 @@
+{
+  "block_id": "quick_replies_ui_enabled",
+  "label": "Quick Replies UI Enabled",
+  "category": "Chat UI Type",
+  "description": "Are tappable suggestions shown?",
+  "molt_type": "Instruction",
+  "tags": [
+    "quick_replies_ui_enabled",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "⚡"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Are tappable suggestions shown? This defines how the bot will perform or respond using this input."
+  },
+  "editable_fields": {
+    "content": "Quick Replies UI Enabled: Are tappable suggestions shown?"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 9,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "9b_execution_tracking_sprint_planning_sheet",
+  "label": "Sprint Planning Sheet",
+  "category": "Business Plans/Web App/Chatbot/9B Execution Tracking",
+  "description": "For Agile teams: iteration goals and responsibilities",
+  "tags": [
+    "sprint_planning_sheet"
+  ],
+  "example_block_data": {
+    "content": "For Agile teams: iteration goals and responsibilities"
+  },
+  "editable_fields": {
+    "content": "For Agile teams: iteration goals and responsibilities"
+  }
+}

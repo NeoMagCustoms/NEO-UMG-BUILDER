@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 12,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "12c_hot_reload_preview_component_scoped_hot_reload",
+  "label": "Component-Scoped Hot Reload",
+  "category": "Web App Builder/Dev Tools DX Enhancements/12C Hot Reload Preview",
+  "description": "Refreshes only the changed section",
+  "tags": [
+    "component_scoped_hot_reload"
+  ],
+  "example_block_data": {
+    "content": "Refreshes only the changed section"
+  },
+  "editable_fields": {
+    "content": "Refreshes only the changed section"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "block_id": "negative_xp_penalties",
+  "label": "Negative XP / Penalties",
+  "category": "Web App/Gamification/27A",
+  "description": "Punishes abuse or mistakes",
+  "molt_type": "Instruction"
+}

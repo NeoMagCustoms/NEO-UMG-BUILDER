@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "5b_webhook_receivers_webhook_endpoint_definition",
+  "label": "Webhook Endpoint Definition",
+  "category": "Web App Builder/API Integration Webhooks/5B Webhook Receivers",
+  "description": "URL that external service sends to",
+  "tags": [
+    "webhook_endpoint_definition"
+  ],
+  "example_block_data": {
+    "content": "URL that external service sends to"
+  },
+  "editable_fields": {
+    "content": "URL that external service sends to"
+  }
+}

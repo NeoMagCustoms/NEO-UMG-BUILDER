@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "5d_outbound_webhooks_webhook_subscription_settings",
+  "label": "Webhook Subscription Settings",
+  "category": "Web App Builder/API Integration Webhooks/5D Outbound Webhooks",
+  "description": "Let users choose when/how to receive them",
+  "tags": [
+    "webhook_subscription_settings"
+  ],
+  "example_block_data": {
+    "content": "Let users choose when/how to receive them"
+  },
+  "editable_fields": {
+    "content": "Let users choose when/how to receive them"
+  }
+}

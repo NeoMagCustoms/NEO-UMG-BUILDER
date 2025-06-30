@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3f_admin_account_tools_api_key_management",
+  "label": "API Key Management",
+  "category": "Web App Builder/Authentication Identity/3F Admin Account Tools",
+  "description": "Tokens for programmatic access",
+  "tags": [
+    "api_key_management"
+  ],
+  "example_block_data": {
+    "content": "Tokens for programmatic access"
+  },
+  "editable_fields": {
+    "content": "Tokens for programmatic access"
+  }
+}

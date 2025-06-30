@@ -1,0 +1,46 @@
+{
+  "block_id": "quirk_theme",
+  "label": "Quirk Theme",
+  "category": "Chatbot Identity/Style & Quirk",
+  "description": "Aesthetic overlay like pirate, noir, wizard",
+  "molt_type": "Instruction",
+  "tags": [
+    "quirk_theme",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🎩"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Aesthetic overlay like pirate, noir, wizard This is an example of applied logic for that trait."
+  },
+  "editable_fields": {
+    "content": "Quirk Theme: Aesthetic overlay like pirate, noir, wizard"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 1,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "1g_app_entry_shell_page_tsx_layout_tsx",
+  "label": "Page.tsx / Layout.tsx",
+  "category": "Web App Builder/Frontend Architecture/1G App Entry Shell",
+  "description": "Page-layer wrappers (often with <Outlet />)",
+  "tags": [
+    "page_tsx_layout_tsx"
+  ],
+  "example_block_data": {
+    "content": "Page-layer wrappers (often with <Outlet />)"
+  },
+  "editable_fields": {
+    "content": "Page-layer wrappers (often with <Outlet />)"
+  }
+}

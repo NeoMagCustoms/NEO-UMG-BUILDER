@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 9,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "10b_onboarding_role_training_probation_period_goals",
+  "label": "Probation Period Goals",
+  "category": "Business Plans/Web App/Chatbot/10B Onboarding Role Training",
+  "description": "Expected milestones in first 30/60/90 days",
+  "tags": [
+    "probation_period_goals"
+  ],
+  "example_block_data": {
+    "content": "Expected milestones in first 30/60/90 days"
+  },
+  "editable_fields": {
+    "content": "Expected milestones in first 30/60/90 days"
+  }
+}

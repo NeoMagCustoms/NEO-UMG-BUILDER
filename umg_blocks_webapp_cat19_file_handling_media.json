@@ -1,0 +1,1322 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19a_upload_ui_ux_drag_and_drop_zones",
+    "label": "Drag-and-Drop Zones",
+    "category": "Web App Builder/File Handling Uploads Media/19A Upload Ui Ux",
+    "description": "Easy file drop",
+    "tags": [
+      "drag_and_drop_zones"
+    ],
+    "example_block_data": {
+      "content": "Easy file drop"
+    },
+    "editable_fields": {
+      "content": "Easy file drop"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19a_upload_ui_ux_file_picker_with_type_restrictions",
+    "label": "File Picker with Type Restrictions",
+    "category": "Web App Builder/File Handling Uploads Media/19A Upload Ui Ux",
+    "description": "Limit to images/docs/etc.",
+    "tags": [
+      "file_picker_with_type_restrictions"
+    ],
+    "example_block_data": {
+      "content": "Limit to images/docs/etc."
+    },
+    "editable_fields": {
+      "content": "Limit to images/docs/etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19a_upload_ui_ux_file_size_display",
+    "label": "File Size Display",
+    "category": "Web App Builder/File Handling Uploads Media/19A Upload Ui Ux",
+    "description": "Shows progress + size",
+    "tags": [
+      "file_size_display"
+    ],
+    "example_block_data": {
+      "content": "Shows progress + size"
+    },
+    "editable_fields": {
+      "content": "Shows progress + size"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19a_upload_ui_ux_upload_progress_bar",
+    "label": "Upload Progress Bar",
+    "category": "Web App Builder/File Handling Uploads Media/19A Upload Ui Ux",
+    "description": "User feedback",
+    "tags": [
+      "upload_progress_bar"
+    ],
+    "example_block_data": {
+      "content": "User feedback"
+    },
+    "editable_fields": {
+      "content": "User feedback"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19a_upload_ui_ux_retry_cancel_upload_buttons",
+    "label": "Retry / Cancel Upload Buttons",
+    "category": "Web App Builder/File Handling Uploads Media/19A Upload Ui Ux",
+    "description": "Manage mid-transfer",
+    "tags": [
+      "retry_cancel_upload_buttons"
+    ],
+    "example_block_data": {
+      "content": "Manage mid-transfer"
+    },
+    "editable_fields": {
+      "content": "Manage mid-transfer"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19b_storage_access_handling_supabase_s3_firebase_buckets",
+    "label": "Supabase / S3 / Firebase Buckets",
+    "category": "Web App Builder/File Handling Uploads Media/19B Storage Access Handling",
+    "description": "File storage backends",
+    "tags": [
+      "supabase_s3_firebase_buckets"
+    ],
+    "example_block_data": {
+      "content": "File storage backends"
+    },
+    "editable_fields": {
+      "content": "File storage backends"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19b_storage_access_handling_private_vs_public_acls",
+    "label": "Private vs Public ACLs",
+    "category": "Web App Builder/File Handling Uploads Media/19B Storage Access Handling",
+    "description": "Control who can access what",
+    "tags": [
+      "private_vs_public_acls"
+    ],
+    "example_block_data": {
+      "content": "Control who can access what"
+    },
+    "editable_fields": {
+      "content": "Control who can access what"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19b_storage_access_handling_signed_url_generation",
+    "label": "Signed URL Generation",
+    "category": "Web App Builder/File Handling Uploads Media/19B Storage Access Handling",
+    "description": "Temporary access links",
+    "tags": [
+      "signed_url_generation"
+    ],
+    "example_block_data": {
+      "content": "Temporary access links"
+    },
+    "editable_fields": {
+      "content": "Temporary access links"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19b_storage_access_handling_cdn_delivery_hook",
+    "label": "CDN Delivery Hook",
+    "category": "Web App Builder/File Handling Uploads Media/19B Storage Access Handling",
+    "description": "Fast delivery via global edge",
+    "tags": [
+      "cdn_delivery_hook"
+    ],
+    "example_block_data": {
+      "content": "Fast delivery via global edge"
+    },
+    "editable_fields": {
+      "content": "Fast delivery via global edge"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19b_storage_access_handling_folder_path_convention",
+    "label": "Folder/Path Convention",
+    "category": "Web App Builder/File Handling Uploads Media/19B Storage Access Handling",
+    "description": "Keeps files organized by user/type",
+    "tags": [
+      "folder_path_convention"
+    ],
+    "example_block_data": {
+      "content": "Keeps files organized by user/type"
+    },
+    "editable_fields": {
+      "content": "Keeps files organized by user/type"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19c_media_processing_image_resizing_compression",
+    "label": "Image Resizing + Compression",
+    "category": "Web App Builder/File Handling Uploads Media/19C Media Processing",
+    "description": "Optimize for web",
+    "tags": [
+      "image_resizing_compression"
+    ],
+    "example_block_data": {
+      "content": "Optimize for web"
+    },
+    "editable_fields": {
+      "content": "Optimize for web"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19c_media_processing_video_transcode_hls_mp4_etc",
+    "label": "Video Transcode (HLS, MP4, etc.)",
+    "category": "Web App Builder/File Handling Uploads Media/19C Media Processing",
+    "description": "Playable across devices",
+    "tags": [
+      "video_transcode_hls_mp4_etc"
+    ],
+    "example_block_data": {
+      "content": "Playable across devices"
+    },
+    "editable_fields": {
+      "content": "Playable across devices"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19c_media_processing_audio_format_conversion",
+    "label": "Audio Format Conversion",
+    "category": "Web App Builder/File Handling Uploads Media/19C Media Processing",
+    "description": "MP3 \u2194 WAV \u2194 OGG",
+    "tags": [
+      "audio_format_conversion"
+    ],
+    "example_block_data": {
+      "content": "MP3 \u2194 WAV \u2194 OGG"
+    },
+    "editable_fields": {
+      "content": "MP3 \u2194 WAV \u2194 OGG"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19c_media_processing_pdf_preview_page_extraction",
+    "label": "PDF Preview Page Extraction",
+    "category": "Web App Builder/File Handling Uploads Media/19C Media Processing",
+    "description": "First-page preview",
+    "tags": [
+      "pdf_preview_page_extraction"
+    ],
+    "example_block_data": {
+      "content": "First-page preview"
+    },
+    "editable_fields": {
+      "content": "First-page preview"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19c_media_processing_convert_to_text_ocr_optional",
+    "label": "Convert-to-Text OCR (optional)",
+    "category": "Web App Builder/File Handling Uploads Media/19C Media Processing",
+    "description": "Extract text from image/PDF",
+    "tags": [
+      "convert_to_text_ocr_optional"
+    ],
+    "example_block_data": {
+      "content": "Extract text from image/PDF"
+    },
+    "editable_fields": {
+      "content": "Extract text from image/PDF"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19d_preview_thumbs_metadata_preview_renderer_image_video",
+    "label": "Preview Renderer (image/video)",
+    "category": "Web App Builder/File Handling Uploads Media/19D Preview Thumbs Metadata",
+    "description": "Show before download",
+    "tags": [
+      "preview_renderer_image_video"
+    ],
+    "example_block_data": {
+      "content": "Show before download"
+    },
+    "editable_fields": {
+      "content": "Show before download"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19d_preview_thumbs_metadata_exif_or_file_metadata_extraction",
+    "label": "EXIF or File Metadata Extraction",
+    "category": "Web App Builder/File Handling Uploads Media/19D Preview Thumbs Metadata",
+    "description": "Image resolution, device, etc.",
+    "tags": [
+      "exif_or_file_metadata_extraction"
+    ],
+    "example_block_data": {
+      "content": "Image resolution, device, etc."
+    },
+    "editable_fields": {
+      "content": "Image resolution, device, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19d_preview_thumbs_metadata_thumbnail_generation",
+    "label": "Thumbnail Generation",
+    "category": "Web App Builder/File Handling Uploads Media/19D Preview Thumbs Metadata",
+    "description": "Auto-saves small preview",
+    "tags": [
+      "thumbnail_generation"
+    ],
+    "example_block_data": {
+      "content": "Auto-saves small preview"
+    },
+    "editable_fields": {
+      "content": "Auto-saves small preview"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19d_preview_thumbs_metadata_aspect_ratio_orientation_check",
+    "label": "Aspect Ratio & Orientation Check",
+    "category": "Web App Builder/File Handling Uploads Media/19D Preview Thumbs Metadata",
+    "description": "Detects flipped/cropped files",
+    "tags": [
+      "aspect_ratio_orientation_check"
+    ],
+    "example_block_data": {
+      "content": "Detects flipped/cropped files"
+    },
+    "editable_fields": {
+      "content": "Detects flipped/cropped files"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19d_preview_thumbs_metadata_mime_type_detection",
+    "label": "Mime Type Detection",
+    "category": "Web App Builder/File Handling Uploads Media/19D Preview Thumbs Metadata",
+    "description": "Prevent spoofed formats",
+    "tags": [
+      "mime_type_detection"
+    ],
+    "example_block_data": {
+      "content": "Prevent spoofed formats"
+    },
+    "editable_fields": {
+      "content": "Prevent spoofed formats"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19e_file_security_quotas_file_type_whitelist_blacklist",
+    "label": "File Type Whitelist / Blacklist",
+    "category": "Web App Builder/File Handling Uploads Media/19E File Security Quotas",
+    "description": "Allow only safe types",
+    "tags": [
+      "file_type_whitelist_blacklist"
+    ],
+    "example_block_data": {
+      "content": "Allow only safe types"
+    },
+    "editable_fields": {
+      "content": "Allow only safe types"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19e_file_security_quotas_virus_scanner_integration_e_g_clamav",
+    "label": "Virus Scanner Integration (e.g., ClamAV)",
+    "category": "Web App Builder/File Handling Uploads Media/19E File Security Quotas",
+    "description": "Prevent malware uploads",
+    "tags": [
+      "virus_scanner_integration_e_g_clamav"
+    ],
+    "example_block_data": {
+      "content": "Prevent malware uploads"
+    },
+    "editable_fields": {
+      "content": "Prevent malware uploads"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19e_file_security_quotas_max_size_limits",
+    "label": "Max Size Limits",
+    "category": "Web App Builder/File Handling Uploads Media/19E File Security Quotas",
+    "description": "Prevent server overuse",
+    "tags": [
+      "max_size_limits"
+    ],
+    "example_block_data": {
+      "content": "Prevent server overuse"
+    },
+    "editable_fields": {
+      "content": "Prevent server overuse"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19e_file_security_quotas_per_user_storage_quotas",
+    "label": "Per-User Storage Quotas",
+    "category": "Web App Builder/File Handling Uploads Media/19E File Security Quotas",
+    "description": "Limit file count or size",
+    "tags": [
+      "per_user_storage_quotas"
+    ],
+    "example_block_data": {
+      "content": "Limit file count or size"
+    },
+    "editable_fields": {
+      "content": "Limit file count or size"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19e_file_security_quotas_encrypted_upload_stream",
+    "label": "Encrypted Upload Stream",
+    "category": "Web App Builder/File Handling Uploads Media/19E File Security Quotas",
+    "description": "Protects uploads in-flight",
+    "tags": [
+      "encrypted_upload_stream"
+    ],
+    "example_block_data": {
+      "content": "Protects uploads in-flight"
+    },
+    "editable_fields": {
+      "content": "Protects uploads in-flight"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19f_linking_referencing_expiry_expiring_download_links",
+    "label": "Expiring Download Links",
+    "category": "Web App Builder/File Handling Uploads Media/19F Linking Referencing Expiry",
+    "description": "Temporary file access",
+    "tags": [
+      "expiring_download_links"
+    ],
+    "example_block_data": {
+      "content": "Temporary file access"
+    },
+    "editable_fields": {
+      "content": "Temporary file access"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19f_linking_referencing_expiry_file_to_entity_linking",
+    "label": "File-to-Entity Linking",
+    "category": "Web App Builder/File Handling Uploads Media/19F Linking Referencing Expiry",
+    "description": "Associate file with DB entity",
+    "tags": [
+      "file_to_entity_linking"
+    ],
+    "example_block_data": {
+      "content": "Associate file with DB entity"
+    },
+    "editable_fields": {
+      "content": "Associate file with DB entity"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19f_linking_referencing_expiry_auto_cleanup_logic",
+    "label": "Auto-Cleanup Logic",
+    "category": "Web App Builder/File Handling Uploads Media/19F Linking Referencing Expiry",
+    "description": "Deletes expired/unreferenced files",
+    "tags": [
+      "auto_cleanup_logic"
+    ],
+    "example_block_data": {
+      "content": "Deletes expired/unreferenced files"
+    },
+    "editable_fields": {
+      "content": "Deletes expired/unreferenced files"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19f_linking_referencing_expiry_rename_on_upload_convention",
+    "label": "Rename-on-Upload Convention",
+    "category": "Web App Builder/File Handling Uploads Media/19F Linking Referencing Expiry",
+    "description": "Prevent collisions",
+    "tags": [
+      "rename_on_upload_convention"
+    ],
+    "example_block_data": {
+      "content": "Prevent collisions"
+    },
+    "editable_fields": {
+      "content": "Prevent collisions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 19,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "19f_linking_referencing_expiry_audit_trail_for_file_changes",
+    "label": "Audit Trail for File Changes",
+    "category": "Web App Builder/File Handling Uploads Media/19F Linking Referencing Expiry",
+    "description": "Tracks edits, deletes, renames",
+    "tags": [
+      "audit_trail_for_file_changes"
+    ],
+    "example_block_data": {
+      "content": "Tracks edits, deletes, renames"
+    },
+    "editable_fields": {
+      "content": "Tracks edits, deletes, renames"
+    }
+  }
+]

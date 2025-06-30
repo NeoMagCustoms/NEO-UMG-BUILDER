@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 10,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "10a_build_targets_dockerfile",
+  "label": "Dockerfile",
+  "category": "Web App Builder/Deployment Environment Configuration/10A Build Targets",
+  "description": "Optional Docker container logic",
+  "tags": [
+    "dockerfile"
+  ],
+  "example_block_data": {
+    "content": "Optional Docker container logic"
+  },
+  "editable_fields": {
+    "content": "Optional Docker container logic"
+  }
+}

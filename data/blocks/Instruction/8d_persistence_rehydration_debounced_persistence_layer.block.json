@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 8,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "8d_persistence_rehydration_debounced_persistence_layer",
+  "label": "Debounced Persistence Layer",
+  "category": "Web App Builder/State Context Management/8D Persistence Rehydration",
+  "description": "Save state efficiently over time",
+  "tags": [
+    "debounced_persistence_layer"
+  ],
+  "example_block_data": {
+    "content": "Save state efficiently over time"
+  },
+  "editable_fields": {
+    "content": "Save state efficiently over time"
+  }
+}

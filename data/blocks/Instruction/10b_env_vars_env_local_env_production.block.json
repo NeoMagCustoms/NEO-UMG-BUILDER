@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 10,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "10b_env_vars_env_local_env_production",
+  "label": ".env.local / .env.production",
+  "category": "Web App Builder/Deployment Environment Configuration/10B Env Vars",
+  "description": "Env-specific config files",
+  "tags": [
+    "env_local_env_production"
+  ],
+  "example_block_data": {
+    "content": "Env-specific config files"
+  },
+  "editable_fields": {
+    "content": "Env-specific config files"
+  }
+}

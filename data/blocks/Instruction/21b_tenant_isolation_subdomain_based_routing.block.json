@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 21,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "21b_tenant_isolation_subdomain_based_routing",
+  "label": "Subdomain-Based Routing",
+  "category": "Web App Builder/Access Control Permissions/21B Tenant Isolation",
+  "description": "org.example.com routing",
+  "tags": [
+    "subdomain_based_routing"
+  ],
+  "example_block_data": {
+    "content": "org.example.com routing"
+  },
+  "editable_fields": {
+    "content": "org.example.com routing"
+  }
+}

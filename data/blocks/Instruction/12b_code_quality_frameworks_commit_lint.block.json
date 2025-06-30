@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 12,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "12b_code_quality_frameworks_commit_lint",
+  "label": "Commit Lint",
+  "category": "Web App Builder/Dev Tools DX Enhancements/12B Code Quality Frameworks",
+  "description": "Enforces commit message style",
+  "tags": [
+    "commit_lint"
+  ],
+  "example_block_data": {
+    "content": "Enforces commit message style"
+  },
+  "editable_fields": {
+    "content": "Enforces commit message style"
+  }
+}

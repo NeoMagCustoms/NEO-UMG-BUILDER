@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 9,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "10a_lesson_curriculum_objective_definition_sheet",
+  "label": "Objective Definition Sheet",
+  "category": "Business Plans/Web App/Chatbot/10A Lesson Curriculum",
+  "description": "What learners should understand or do",
+  "tags": [
+    "objective_definition_sheet"
+  ],
+  "example_block_data": {
+    "content": "What learners should understand or do"
+  },
+  "editable_fields": {
+    "content": "What learners should understand or do"
+  }
+}

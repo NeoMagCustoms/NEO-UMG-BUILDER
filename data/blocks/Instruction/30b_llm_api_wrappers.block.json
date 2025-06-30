@@ -1,0 +1,28 @@
+{
+  "block_id": "30b_llm_api_wrappers",
+  "label": "LLM API Wrappers",
+  "category": "webapp",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "api_list"
+  ],
+  "tags": [
+    "LLM",
+    "API",
+    "integration"
+  ],
+  "snap_config": {
+    "snap_to": "LLM Integration",
+    "position": "middle"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "code_modules": [],
+  "canto_overlay": {},
+  "export_config": {}
+}

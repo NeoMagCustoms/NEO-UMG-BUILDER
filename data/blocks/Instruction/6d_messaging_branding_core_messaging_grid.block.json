@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "6d_messaging_branding_core_messaging_grid",
+  "label": "Core Messaging Grid",
+  "category": "Business Plans/Web App/Chatbot/6D Messaging Branding",
+  "description": "Pain points + benefits = sentence bank",
+  "tags": [
+    "core_messaging_grid"
+  ],
+  "example_block_data": {
+    "content": "Pain points + benefits = sentence bank"
+  },
+  "editable_fields": {
+    "content": "Pain points + benefits = sentence bank"
+  }
+}

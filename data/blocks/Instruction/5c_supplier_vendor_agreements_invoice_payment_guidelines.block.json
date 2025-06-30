@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 5,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "5c_supplier_vendor_agreements_invoice_payment_guidelines",
+  "label": "Invoice + Payment Guidelines",
+  "category": "Business Plans/Web App/Chatbot/5C Supplier Vendor Agreements",
+  "description": "When and how vendors get paid",
+  "tags": [
+    "invoice_payment_guidelines"
+  ],
+  "example_block_data": {
+    "content": "When and how vendors get paid"
+  },
+  "editable_fields": {
+    "content": "When and how vendors get paid"
+  }
+}

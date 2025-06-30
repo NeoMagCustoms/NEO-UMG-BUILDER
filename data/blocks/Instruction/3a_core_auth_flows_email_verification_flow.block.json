@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3a_core_auth_flows_email_verification_flow",
+  "label": "Email Verification Flow",
+  "category": "Web App Builder/Authentication Identity/3A Core Auth Flows",
+  "description": "Confirms email ownership before login",
+  "tags": [
+    "email_verification_flow"
+  ],
+  "example_block_data": {
+    "content": "Confirms email ownership before login"
+  },
+  "editable_fields": {
+    "content": "Confirms email ownership before login"
+  }
+}

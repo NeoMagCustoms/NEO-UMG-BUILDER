@@ -1,0 +1,46 @@
+{
+  "block_id": "response_signature_toggle",
+  "label": "Response Signature Toggle",
+  "category": "Output Style",
+  "description": "Whether bot signs off",
+  "molt_type": "Instruction",
+  "tags": [
+    "response_signature_toggle",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🖊️"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Whether bot signs off This defines how the bot will perform or respond using this input."
+  },
+  "editable_fields": {
+    "content": "Response Signature Toggle: Whether bot signs off"
+  }
+}

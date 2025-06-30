@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 24,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "24f_identity_growth_onboarding_invite_friends_button",
+  "label": "Invite Friends Button",
+  "category": "Web App Builder/User Profiles Settings Panels/24F Identity Growth Onboarding",
+  "description": "Viral growth",
+  "tags": [
+    "invite_friends_button"
+  ],
+  "example_block_data": {
+    "content": "Viral growth"
+  },
+  "editable_fields": {
+    "content": "Viral growth"
+  }
+}

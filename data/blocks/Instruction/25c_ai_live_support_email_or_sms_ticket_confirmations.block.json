@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 25,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "25c_ai_live_support_email_or_sms_ticket_confirmations",
+  "label": "Email or SMS Ticket Confirmations",
+  "category": "Web App Builder/Documentation Help Support/25C Ai Live Support",
+  "description": "Logs ticket activity",
+  "tags": [
+    "email_or_sms_ticket_confirmations"
+  ],
+  "example_block_data": {
+    "content": "Logs ticket activity"
+  },
+  "editable_fields": {
+    "content": "Logs ticket activity"
+  }
+}

@@ -1,0 +1,2026 @@
+[
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5a_standard_procedures_standard_operating_procedures_sops",
+    "label": "Standard Operating Procedures (SOPs)",
+    "category": "Business Plans/Web App/Chatbot/5A Standard Procedures",
+    "description": "Step-by-step breakdowns of repeatable tasks",
+    "tags": [
+      "standard_operating_procedures_sops"
+    ],
+    "example_block_data": {
+      "content": "Step-by-step breakdowns of repeatable tasks"
+    },
+    "editable_fields": {
+      "content": "Step-by-step breakdowns of repeatable tasks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5a_standard_procedures_incident_response_protocols",
+    "label": "Incident Response Protocols",
+    "category": "Business Plans/Web App/Chatbot/5A Standard Procedures",
+    "description": "What to do in emergencies or failures",
+    "tags": [
+      "incident_response_protocols"
+    ],
+    "example_block_data": {
+      "content": "What to do in emergencies or failures"
+    },
+    "editable_fields": {
+      "content": "What to do in emergencies or failures"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5a_standard_procedures_escalation_pathways",
+    "label": "Escalation Pathways",
+    "category": "Business Plans/Web App/Chatbot/5A Standard Procedures",
+    "description": "When/how to elevate internal issues",
+    "tags": [
+      "escalation_pathways"
+    ],
+    "example_block_data": {
+      "content": "When/how to elevate internal issues"
+    },
+    "editable_fields": {
+      "content": "When/how to elevate internal issues"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5a_standard_procedures_daily_weekly_checklists",
+    "label": "Daily/Weekly Checklists",
+    "category": "Business Plans/Web App/Chatbot/5A Standard Procedures",
+    "description": "Routines for roles or departments",
+    "tags": [
+      "daily_weekly_checklists"
+    ],
+    "example_block_data": {
+      "content": "Routines for roles or departments"
+    },
+    "editable_fields": {
+      "content": "Routines for roles or departments"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5a_standard_procedures_quality_assurance_workflows",
+    "label": "Quality Assurance Workflows",
+    "category": "Business Plans/Web App/Chatbot/5A Standard Procedures",
+    "description": "How to check for consistency and errors",
+    "tags": [
+      "quality_assurance_workflows"
+    ],
+    "example_block_data": {
+      "content": "How to check for consistency and errors"
+    },
+    "editable_fields": {
+      "content": "How to check for consistency and errors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5b_process_systems_manuals_internal_process_maps",
+    "label": "Internal Process Maps",
+    "category": "Business Plans/Web App/Chatbot/5B Process Systems Manuals",
+    "description": "Flow diagrams or tables for key workflows",
+    "tags": [
+      "internal_process_maps"
+    ],
+    "example_block_data": {
+      "content": "Flow diagrams or tables for key workflows"
+    },
+    "editable_fields": {
+      "content": "Flow diagrams or tables for key workflows"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5b_process_systems_manuals_automation_scripts_macros",
+    "label": "Automation Scripts & Macros",
+    "category": "Business Plans/Web App/Chatbot/5B Process Systems Manuals",
+    "description": "Systemized repetitive tasks",
+    "tags": [
+      "automation_scripts_macros"
+    ],
+    "example_block_data": {
+      "content": "Systemized repetitive tasks"
+    },
+    "editable_fields": {
+      "content": "Systemized repetitive tasks"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5b_process_systems_manuals_crm_operations_manual",
+    "label": "CRM Operations Manual",
+    "category": "Business Plans/Web App/Chatbot/5B Process Systems Manuals",
+    "description": "How the CRM is used, tagged, updated",
+    "tags": [
+      "crm_operations_manual"
+    ],
+    "example_block_data": {
+      "content": "How the CRM is used, tagged, updated"
+    },
+    "editable_fields": {
+      "content": "How the CRM is used, tagged, updated"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5b_process_systems_manuals_finance_system_playbook",
+    "label": "Finance System Playbook",
+    "category": "Business Plans/Web App/Chatbot/5B Process Systems Manuals",
+    "description": "How money flows, gets reported",
+    "tags": [
+      "finance_system_playbook"
+    ],
+    "example_block_data": {
+      "content": "How money flows, gets reported"
+    },
+    "editable_fields": {
+      "content": "How money flows, gets reported"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5b_process_systems_manuals_customer_service_playbook",
+    "label": "Customer Service Playbook",
+    "category": "Business Plans/Web App/Chatbot/5B Process Systems Manuals",
+    "description": "Support channels, tone, macros, scripts",
+    "tags": [
+      "customer_service_playbook"
+    ],
+    "example_block_data": {
+      "content": "Support channels, tone, macros, scripts"
+    },
+    "editable_fields": {
+      "content": "Support channels, tone, macros, scripts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5c_supplier_vendor_agreements_vendor_contract_template",
+    "label": "Vendor Contract Template",
+    "category": "Business Plans/Web App/Chatbot/5C Supplier Vendor Agreements",
+    "description": "Core deliverables, timelines, terms",
+    "tags": [
+      "vendor_contract_template"
+    ],
+    "example_block_data": {
+      "content": "Core deliverables, timelines, terms"
+    },
+    "editable_fields": {
+      "content": "Core deliverables, timelines, terms"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5c_supplier_vendor_agreements_sla_service_level_agreement",
+    "label": "SLA (Service Level Agreement)",
+    "category": "Business Plans/Web App/Chatbot/5C Supplier Vendor Agreements",
+    "description": "Expected performance and penalty clauses",
+    "tags": [
+      "sla_service_level_agreement"
+    ],
+    "example_block_data": {
+      "content": "Expected performance and penalty clauses"
+    },
+    "editable_fields": {
+      "content": "Expected performance and penalty clauses"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5c_supplier_vendor_agreements_onboarding_guide_for_vendors",
+    "label": "Onboarding Guide for Vendors",
+    "category": "Business Plans/Web App/Chatbot/5C Supplier Vendor Agreements",
+    "description": "How new partners integrate into systems",
+    "tags": [
+      "onboarding_guide_for_vendors"
+    ],
+    "example_block_data": {
+      "content": "How new partners integrate into systems"
+    },
+    "editable_fields": {
+      "content": "How new partners integrate into systems"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5c_supplier_vendor_agreements_invoice_payment_guidelines",
+    "label": "Invoice + Payment Guidelines",
+    "category": "Business Plans/Web App/Chatbot/5C Supplier Vendor Agreements",
+    "description": "When and how vendors get paid",
+    "tags": [
+      "invoice_payment_guidelines"
+    ],
+    "example_block_data": {
+      "content": "When and how vendors get paid"
+    },
+    "editable_fields": {
+      "content": "When and how vendors get paid"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5d_tooling_documentation_tech_stack_index",
+    "label": "Tech Stack Index",
+    "category": "Business Plans/Web App/Chatbot/5D Tooling Documentation",
+    "description": "Master list of tools used (internal + customer-facing)",
+    "tags": [
+      "tech_stack_index"
+    ],
+    "example_block_data": {
+      "content": "Master list of tools used (internal + customer-facing)"
+    },
+    "editable_fields": {
+      "content": "Master list of tools used (internal + customer-facing)"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5d_tooling_documentation_access_management_sheet",
+    "label": "Access Management Sheet",
+    "category": "Business Plans/Web App/Chatbot/5D Tooling Documentation",
+    "description": "Who has what permissions",
+    "tags": [
+      "access_management_sheet"
+    ],
+    "example_block_data": {
+      "content": "Who has what permissions"
+    },
+    "editable_fields": {
+      "content": "Who has what permissions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5d_tooling_documentation_internal_tool_instructions",
+    "label": "Internal Tool Instructions",
+    "category": "Business Plans/Web App/Chatbot/5D Tooling Documentation",
+    "description": "How to use company-specific tools",
+    "tags": [
+      "internal_tool_instructions"
+    ],
+    "example_block_data": {
+      "content": "How to use company-specific tools"
+    },
+    "editable_fields": {
+      "content": "How to use company-specific tools"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5d_tooling_documentation_backup_redundancy_protocol",
+    "label": "Backup & Redundancy Protocol",
+    "category": "Business Plans/Web App/Chatbot/5D Tooling Documentation",
+    "description": "What happens when systems fail",
+    "tags": [
+      "backup_redundancy_protocol"
+    ],
+    "example_block_data": {
+      "content": "What happens when systems fail"
+    },
+    "editable_fields": {
+      "content": "What happens when systems fail"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5e_internal_training_guides_new_hire_ops_training_guide",
+    "label": "New Hire Ops Training Guide",
+    "category": "Business Plans/Web App/Chatbot/5E Internal Training Guides",
+    "description": "How ops works, tools, who to ask",
+    "tags": [
+      "new_hire_ops_training_guide"
+    ],
+    "example_block_data": {
+      "content": "How ops works, tools, who to ask"
+    },
+    "editable_fields": {
+      "content": "How ops works, tools, who to ask"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5e_internal_training_guides_department_runbook",
+    "label": "Department Runbook",
+    "category": "Business Plans/Web App/Chatbot/5E Internal Training Guides",
+    "description": "Overview of how each team functions",
+    "tags": [
+      "department_runbook"
+    ],
+    "example_block_data": {
+      "content": "Overview of how each team functions"
+    },
+    "editable_fields": {
+      "content": "Overview of how each team functions"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5e_internal_training_guides_internal_wiki_pages",
+    "label": "Internal Wiki Pages",
+    "category": "Business Plans/Web App/Chatbot/5E Internal Training Guides",
+    "description": "Evergreen knowledge base",
+    "tags": [
+      "internal_wiki_pages"
+    ],
+    "example_block_data": {
+      "content": "Evergreen knowledge base"
+    },
+    "editable_fields": {
+      "content": "Evergreen knowledge base"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "5e_internal_training_guides_change_management_template",
+    "label": "Change Management Template",
+    "category": "Business Plans/Web App/Chatbot/5E Internal Training Guides",
+    "description": "When systems/processes change and how that\u2019s communicated",
+    "tags": [
+      "change_management_template"
+    ],
+    "example_block_data": {
+      "content": "When systems/processes change and how that\u2019s communicated"
+    },
+    "editable_fields": {
+      "content": "When systems/processes change and how that\u2019s communicated"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6a_strategy_positioning_marketing_plan",
+    "label": "Marketing Plan",
+    "category": "Business Plans/Web App/Chatbot/6A Strategy Positioning",
+    "description": "High-level campaign + budget roadmap",
+    "tags": [
+      "marketing_plan"
+    ],
+    "example_block_data": {
+      "content": "High-level campaign + budget roadmap"
+    },
+    "editable_fields": {
+      "content": "High-level campaign + budget roadmap"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6a_strategy_positioning_product_positioning_brief",
+    "label": "Product Positioning Brief",
+    "category": "Business Plans/Web App/Chatbot/6A Strategy Positioning",
+    "description": "Defines how the product is perceived vs. competitors",
+    "tags": [
+      "product_positioning_brief"
+    ],
+    "example_block_data": {
+      "content": "Defines how the product is perceived vs. competitors"
+    },
+    "editable_fields": {
+      "content": "Defines how the product is perceived vs. competitors"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6a_strategy_positioning_value_proposition_map",
+    "label": "Value Proposition Map",
+    "category": "Business Plans/Web App/Chatbot/6A Strategy Positioning",
+    "description": "What problems you solve, for whom, and why it matters",
+    "tags": [
+      "value_proposition_map"
+    ],
+    "example_block_data": {
+      "content": "What problems you solve, for whom, and why it matters"
+    },
+    "editable_fields": {
+      "content": "What problems you solve, for whom, and why it matters"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6a_strategy_positioning_brand_strategy_deck",
+    "label": "Brand Strategy Deck",
+    "category": "Business Plans/Web App/Chatbot/6A Strategy Positioning",
+    "description": "Identity, tone, archetype, key messages",
+    "tags": [
+      "brand_strategy_deck"
+    ],
+    "example_block_data": {
+      "content": "Identity, tone, archetype, key messages"
+    },
+    "editable_fields": {
+      "content": "Identity, tone, archetype, key messages"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6a_strategy_positioning_gtm_go_to_market_plan",
+    "label": "GTM (Go-to-Market) Plan",
+    "category": "Business Plans/Web App/Chatbot/6A Strategy Positioning",
+    "description": "Launch checklist + channel rollout sequence",
+    "tags": [
+      "gtm_go_to_market_plan"
+    ],
+    "example_block_data": {
+      "content": "Launch checklist + channel rollout sequence"
+    },
+    "editable_fields": {
+      "content": "Launch checklist + channel rollout sequence"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6b_market_research_personas_customer_persona_sheet",
+    "label": "Customer Persona Sheet",
+    "category": "Business Plans/Web App/Chatbot/6B Market Research Personas",
+    "description": "Demographics, behavior, pain points",
+    "tags": [
+      "customer_persona_sheet"
+    ],
+    "example_block_data": {
+      "content": "Demographics, behavior, pain points"
+    },
+    "editable_fields": {
+      "content": "Demographics, behavior, pain points"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6b_market_research_personas_voice_of_customer_report",
+    "label": "Voice of Customer Report",
+    "category": "Business Plans/Web App/Chatbot/6B Market Research Personas",
+    "description": "Interviews, quotes, social listening",
+    "tags": [
+      "voice_of_customer_report"
+    ],
+    "example_block_data": {
+      "content": "Interviews, quotes, social listening"
+    },
+    "editable_fields": {
+      "content": "Interviews, quotes, social listening"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6b_market_research_personas_competitive_landscape_map",
+    "label": "Competitive Landscape Map",
+    "category": "Business Plans/Web App/Chatbot/6B Market Research Personas",
+    "description": "Feature/pricing comparison + SWOTs",
+    "tags": [
+      "competitive_landscape_map"
+    ],
+    "example_block_data": {
+      "content": "Feature/pricing comparison + SWOTs"
+    },
+    "editable_fields": {
+      "content": "Feature/pricing comparison + SWOTs"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6b_market_research_personas_industry_trend_report",
+    "label": "Industry Trend Report",
+    "category": "Business Plans/Web App/Chatbot/6B Market Research Personas",
+    "description": "Emerging patterns, regulatory threats, tools",
+    "tags": [
+      "industry_trend_report"
+    ],
+    "example_block_data": {
+      "content": "Emerging patterns, regulatory threats, tools"
+    },
+    "editable_fields": {
+      "content": "Emerging patterns, regulatory threats, tools"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6b_market_research_personas_tam_sam_som_analysis",
+    "label": "TAM/SAM/SOM Analysis",
+    "category": "Business Plans/Web App/Chatbot/6B Market Research Personas",
+    "description": "Market size breakdown, used in fundraising too",
+    "tags": [
+      "tam_sam_som_analysis"
+    ],
+    "example_block_data": {
+      "content": "Market size breakdown, used in fundraising too"
+    },
+    "editable_fields": {
+      "content": "Market size breakdown, used in fundraising too"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6c_campaign_planning_execution_campaign_brief_template",
+    "label": "Campaign Brief Template",
+    "category": "Business Plans/Web App/Chatbot/6C Campaign Planning Execution",
+    "description": "Goal, audience, offer, channel, CTA",
+    "tags": [
+      "campaign_brief_template"
+    ],
+    "example_block_data": {
+      "content": "Goal, audience, offer, channel, CTA"
+    },
+    "editable_fields": {
+      "content": "Goal, audience, offer, channel, CTA"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6c_campaign_planning_execution_media_plan",
+    "label": "Media Plan",
+    "category": "Business Plans/Web App/Chatbot/6C Campaign Planning Execution",
+    "description": "Budget by channel or phase",
+    "tags": [
+      "media_plan"
+    ],
+    "example_block_data": {
+      "content": "Budget by channel or phase"
+    },
+    "editable_fields": {
+      "content": "Budget by channel or phase"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6c_campaign_planning_execution_promotional_calendar",
+    "label": "Promotional Calendar",
+    "category": "Business Plans/Web App/Chatbot/6C Campaign Planning Execution",
+    "description": "Upcoming launches, holidays, events",
+    "tags": [
+      "promotional_calendar"
+    ],
+    "example_block_data": {
+      "content": "Upcoming launches, holidays, events"
+    },
+    "editable_fields": {
+      "content": "Upcoming launches, holidays, events"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6c_campaign_planning_execution_funnel_architecture_doc",
+    "label": "Funnel Architecture Doc",
+    "category": "Business Plans/Web App/Chatbot/6C Campaign Planning Execution",
+    "description": "Awareness \u2192 Action breakdown",
+    "tags": [
+      "funnel_architecture_doc"
+    ],
+    "example_block_data": {
+      "content": "Awareness \u2192 Action breakdown"
+    },
+    "editable_fields": {
+      "content": "Awareness \u2192 Action breakdown"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6c_campaign_planning_execution_utm_strategy_sheet",
+    "label": "UTM Strategy Sheet",
+    "category": "Business Plans/Web App/Chatbot/6C Campaign Planning Execution",
+    "description": "How traffic is tagged + tracked by source",
+    "tags": [
+      "utm_strategy_sheet"
+    ],
+    "example_block_data": {
+      "content": "How traffic is tagged + tracked by source"
+    },
+    "editable_fields": {
+      "content": "How traffic is tagged + tracked by source"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6d_messaging_branding_brand_voice_guide",
+    "label": "Brand Voice Guide",
+    "category": "Business Plans/Web App/Chatbot/6D Messaging Branding",
+    "description": "Tone, word choice, taboos, dialect preferences",
+    "tags": [
+      "brand_voice_guide"
+    ],
+    "example_block_data": {
+      "content": "Tone, word choice, taboos, dialect preferences"
+    },
+    "editable_fields": {
+      "content": "Tone, word choice, taboos, dialect preferences"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6d_messaging_branding_tagline_cta_sheet",
+    "label": "Tagline & CTA Sheet",
+    "category": "Business Plans/Web App/Chatbot/6D Messaging Branding",
+    "description": "Approved phrases for email, ads, buttons",
+    "tags": [
+      "tagline_cta_sheet"
+    ],
+    "example_block_data": {
+      "content": "Approved phrases for email, ads, buttons"
+    },
+    "editable_fields": {
+      "content": "Approved phrases for email, ads, buttons"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6d_messaging_branding_core_messaging_grid",
+    "label": "Core Messaging Grid",
+    "category": "Business Plans/Web App/Chatbot/6D Messaging Branding",
+    "description": "Pain points + benefits = sentence bank",
+    "tags": [
+      "core_messaging_grid"
+    ],
+    "example_block_data": {
+      "content": "Pain points + benefits = sentence bank"
+    },
+    "editable_fields": {
+      "content": "Pain points + benefits = sentence bank"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6d_messaging_branding_elevator_pitch_sheet",
+    "label": "Elevator Pitch Sheet",
+    "category": "Business Plans/Web App/Chatbot/6D Messaging Branding",
+    "description": "30/60/90 second versions for various contexts",
+    "tags": [
+      "elevator_pitch_sheet"
+    ],
+    "example_block_data": {
+      "content": "30/60/90 second versions for various contexts"
+    },
+    "editable_fields": {
+      "content": "30/60/90 second versions for various contexts"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6e_content_operations_editorial_calendar",
+    "label": "Editorial Calendar",
+    "category": "Business Plans/Web App/Chatbot/6E Content Operations",
+    "description": "Planned blog posts, newsletters, etc.",
+    "tags": [
+      "editorial_calendar"
+    ],
+    "example_block_data": {
+      "content": "Planned blog posts, newsletters, etc."
+    },
+    "editable_fields": {
+      "content": "Planned blog posts, newsletters, etc."
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6e_content_operations_social_media_playbook",
+    "label": "Social Media Playbook",
+    "category": "Business Plans/Web App/Chatbot/6E Content Operations",
+    "description": "Platforms, content types, timing rules",
+    "tags": [
+      "social_media_playbook"
+    ],
+    "example_block_data": {
+      "content": "Platforms, content types, timing rules"
+    },
+    "editable_fields": {
+      "content": "Platforms, content types, timing rules"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6e_content_operations_content_audit_tracker",
+    "label": "Content Audit Tracker",
+    "category": "Business Plans/Web App/Chatbot/6E Content Operations",
+    "description": "What exists, how it\u2019s performing",
+    "tags": [
+      "content_audit_tracker"
+    ],
+    "example_block_data": {
+      "content": "What exists, how it\u2019s performing"
+    },
+    "editable_fields": {
+      "content": "What exists, how it\u2019s performing"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6e_content_operations_asset_folder_structure",
+    "label": "Asset Folder Structure",
+    "category": "Business Plans/Web App/Chatbot/6E Content Operations",
+    "description": "Naming conventions + repo structure",
+    "tags": [
+      "asset_folder_structure"
+    ],
+    "example_block_data": {
+      "content": "Naming conventions + repo structure"
+    },
+    "editable_fields": {
+      "content": "Naming conventions + repo structure"
+    }
+  },
+  {
+    "molt_type": "Instruction",
+    "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+    "snap_config": {
+      "stack_priority": 5,
+      "supports_merge": true
+    },
+    "merge_logic": {
+      "merge_as": "instruction",
+      "accepts": [
+        "Primary",
+        "Blueprint",
+        "Directive"
+      ]
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "yellow",
+      "icon": "\ud83d\udcc4"
+    },
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "agent_orchestration": {},
+    "integration_layer": {},
+    "future_extensions": [],
+    "block_id": "6e_content_operations_brand_asset_kit",
+    "label": "Brand Asset Kit",
+    "category": "Business Plans/Web App/Chatbot/6E Content Operations",
+    "description": "Logos, typefaces, color values, icons, samples",
+    "tags": [
+      "brand_asset_kit"
+    ],
+    "example_block_data": {
+      "content": "Logos, typefaces, color values, icons, samples"
+    },
+    "editable_fields": {
+      "content": "Logos, typefaces, color values, icons, samples"
+    }
+  }
+]

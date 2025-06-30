@@ -1,0 +1,44 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 16,
+    "supports_merge": true
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "📄"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "16d_sort_pagination_logic_pagination_vs_infinite_scroll",
+  "label": "Pagination vs Infinite Scroll",
+  "category": "Web App Builder/Search Filters Sorting/16D Sort Pagination Logic",
+  "description": "UX and performance tuning",
+  "tags": [
+    "pagination_vs_infinite_scroll"
+  ],
+  "example_block_data": {
+    "content": "UX and performance tuning"
+  },
+  "editable_fields": {
+    "content": "UX and performance tuning"
+  }
+}

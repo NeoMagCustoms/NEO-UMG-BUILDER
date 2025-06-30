@@ -1,0 +1,46 @@
+{
+  "block_id": "29f_admin_audit_trail",
+  "label": "Admin Audit Trail",
+  "category": "Web App Builder/29_workflow_logic/29F",
+  "molt_type": "Instruction",
+  "description": "Who ran what, when",
+  "tags": [
+    "workflow",
+    "automation",
+    "logic"
+  ],
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true
+  },
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "🧠"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Who ran what, when"
+  },
+  "editable_fields": {
+    "content": "Who ran what, when"
+  }
+}
