@@ -1,0 +1,25 @@
+{
+  "Primary": [
+    "bp__Primary_business_core"
+  ],
+  "Subject": [
+    "bp__Subject_market_analysis",
+    "bp__Subject_team_structure"
+  ],
+  "Instruction": [
+    "bp__Instruction_financial_modeling",
+    "bp__Instruction_growth_strategy"
+  ],
+  "Philosophy": [
+    "bp__Philosophy_mission_driven"
+  ],
+  "Blueprint": [
+    "bp__Blueprint_executive_format"
+  ],
+  "Directive": [
+    "bp__Directive_focus_sustainability"
+  ],
+  "Trigger": [],
+  "Deployment": [],
+  "Off": []
+}

@@ -1,0 +1,25 @@
+{
+  "Primary": [
+    "cb__Primary_chatbot_core"
+  ],
+  "Subject": [
+    "cb__Subject_user_goals",
+    "cb__Subject_nlu_domains"
+  ],
+  "Instruction": [
+    "cb__Instruction_intent_handling",
+    "cb__Instruction_response_generation"
+  ],
+  "Philosophy": [
+    "cb__Philosophy_friendly"
+  ],
+  "Blueprint": [
+    "cb__Blueprint_message_flow"
+  ],
+  "Directive": [
+    "cb__Directive_minimize_friction"
+  ],
+  "Trigger": [],
+  "Deployment": [],
+  "Off": []
+}
