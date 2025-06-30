@@ -1,0 +1,727 @@
+[
+  {
+    "block_id": "blueprint_three_column_layout",
+    "label": "Layout for 3-column builder",
+    "category": "system_blueprint",
+    "molt_type": "Blueprint",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Layout for 3-column builder",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Layout for 3-column builder"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Blueprint",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "blueprint_color_by_molt_type",
+    "label": "Color logic by MOLT",
+    "category": "system_blueprint",
+    "molt_type": "Blueprint",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Color logic by MOLT",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Color logic by MOLT"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Blueprint",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "blueprint_compact_stack_view",
+    "label": "Compact display mode",
+    "category": "system_blueprint",
+    "molt_type": "Blueprint",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Compact display mode",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Compact display mode"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Blueprint",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "blueprint_outline_export_format",
+    "label": "Markdown outline format",
+    "category": "system_blueprint",
+    "molt_type": "Blueprint",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Markdown outline format",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Markdown outline format"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Blueprint",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "blueprint_block_preview_card",
+    "label": "Card layout preview",
+    "category": "system_blueprint",
+    "molt_type": "Blueprint",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Card layout preview",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Card layout preview"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Blueprint",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "builder_directive_minimal_mode",
+    "label": "Minimal builder interface",
+    "category": "system_directive",
+    "molt_type": "Directive",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Minimal builder interface",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Minimal builder interface"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Directive",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "builder_directive_theme_adaptive",
+    "label": "Adapt UI by theme",
+    "category": "system_directive",
+    "molt_type": "Directive",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Adapt UI by theme",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Adapt UI by theme"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Directive",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "builder_directive_readonly_preview",
+    "label": "Read-only published stacks",
+    "category": "system_directive",
+    "molt_type": "Directive",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Read-only published stacks",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Read-only published stacks"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Directive",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "builder_directive_snap_override",
+    "label": "Stacking override logic",
+    "category": "system_directive",
+    "molt_type": "Directive",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Stacking override logic",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Stacking override logic"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Directive",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "builder_directive_fast_draft_mode",
+    "label": "Fast create/draft mode",
+    "category": "system_directive",
+    "molt_type": "Directive",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Fast create/draft mode",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Fast create/draft mode"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Directive",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "trigger_on_export",
+    "label": "Run before export",
+    "category": "system_trigger",
+    "molt_type": "Trigger",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Run before export",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Run before export"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Trigger",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "trigger_on_stack_load",
+    "label": "Initialize logic",
+    "category": "system_trigger",
+    "molt_type": "Trigger",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Initialize logic",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Initialize logic"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Trigger",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "trigger_on_user_role_change",
+    "label": "Adjust on role switch",
+    "category": "system_trigger",
+    "molt_type": "Trigger",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Adjust on role switch",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Adjust on role switch"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Trigger",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "trigger_on_block_edit",
+    "label": "Flag edits",
+    "category": "system_trigger",
+    "molt_type": "Trigger",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Flag edits",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Flag edits"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Trigger",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "trigger_on_plan_select",
+    "label": "Change plan logic",
+    "category": "system_trigger",
+    "molt_type": "Trigger",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Change plan logic",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Change plan logic"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Trigger",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "deploy_local_dev_preview",
+    "label": "Dev preview mode",
+    "category": "system_deployment",
+    "molt_type": "Deployment",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Dev preview mode",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Dev preview mode"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Deployment",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "deploy_to_gh_pages",
+    "label": "GH Pages deploy",
+    "category": "system_deployment",
+    "molt_type": "Deployment",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "GH Pages deploy",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "GH Pages deploy"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Deployment",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "deploy_bundle_export_structure",
+    "label": "Export structure",
+    "category": "system_deployment",
+    "molt_type": "Deployment",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Export structure",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Export structure"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Deployment",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "deploy_with_metadata_manifest",
+    "label": "Manifest wrapped export",
+    "category": "system_deployment",
+    "molt_type": "Deployment",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Manifest wrapped export",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Manifest wrapped export"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Deployment",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "deploy_toggle_pwa",
+    "label": "Toggle PWA",
+    "category": "system_deployment",
+    "molt_type": "Deployment",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Toggle PWA",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Toggle PWA"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Deployment",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "off_disable_block_validation",
+    "label": "Disable validation",
+    "category": "system_off",
+    "molt_type": "Off",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Disable validation",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Disable validation"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Off",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "off_hide_unused_roles",
+    "label": "Hide unused types",
+    "category": "system_off",
+    "molt_type": "Off",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Hide unused types",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Hide unused types"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Off",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "off_no_edit_mode",
+    "label": "Disable editing",
+    "category": "system_off",
+    "molt_type": "Off",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Disable editing",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Disable editing"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Off",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "off_sandbox_test_only",
+    "label": "Sandbox only",
+    "category": "system_off",
+    "molt_type": "Off",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Sandbox only",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Sandbox only"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Off",
+      "icon": "circle"
+    }
+  },
+  {
+    "block_id": "off_ui_render_preview_only",
+    "label": "Preview only render",
+    "category": "system_off",
+    "molt_type": "Off",
+    "tags": [
+      "autogen",
+      "core_logic"
+    ],
+    "description": "Preview only render",
+    "editable_fields": [],
+    "snap_config": {
+      "snap_to": "stack"
+    },
+    "merge_logic": {},
+    "cantocore": {
+      "summary": "Preview only render"
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "2025-06-30T17:01:14.605766",
+      "edit_log": []
+    },
+    "display": {
+      "color": "Off",
+      "icon": "circle"
+    }
+  }
+]

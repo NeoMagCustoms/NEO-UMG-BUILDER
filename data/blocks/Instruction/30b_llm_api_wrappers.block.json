@@ -14,15 +14,30 @@
   ],
   "snap_config": {
     "snap_to": "LLM Integration",
-    "position": "middle"
+    "position": "middle",
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ]
   },
   "ledger": {
     "originator": "Christopher L Haynes",
     "verified_by": "PoeUMG",
-    "created_at": "AUTO",
+    "created_at": "2025-06-30T18:00:18.208930",
     "edit_log": []
   },
   "code_modules": [],
   "canto_overlay": {},
-  "export_config": {}
+  "export_config": {},
+  "cantocore": "AUTO.FILL.CANTOCODE",
+  "display": {
+    "color": "gray",
+    "icon": "zap"
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  }
 }

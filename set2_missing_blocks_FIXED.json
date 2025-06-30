@@ -1,0 +1,866 @@
+[
+  {
+    "block_id": "internal_plan",
+    "label": "Internal Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "feasibility_plan",
+    "label": "Feasibility Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "operational_plan",
+    "label": "Operational Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "growth_plan",
+    "label": "Growth Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "exit_plan",
+    "label": "Exit Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "acquisition_plan",
+    "label": "Acquisition Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "franchise_plan",
+    "label": "Franchise Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "nonprofit_plan",
+    "label": "Nonprofit Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "business_continuity_plan",
+    "label": "Business Continuity Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "marketplace_plan",
+    "label": "Marketplace Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "saas_plan",
+    "label": "Saas Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "ecommerce_plan",
+    "label": "Ecommerce Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "app_launch_plan",
+    "label": "App Launch Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "creator_media_plan",
+    "label": "Creator Media Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "education_plan",
+    "label": "Education Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "subscription_box_plan",
+    "label": "Subscription Box Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "local_goods_farm_plan",
+    "label": "Local Goods Farm Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "hybrid_plan",
+    "label": "Hybrid Plan",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "balance_sheet",
+    "label": "Balance Sheet",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "cash_flow_statement",
+    "label": "Cash Flow Statement",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "financial_forecast",
+    "label": "Financial Forecast",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "break_even_analysis",
+    "label": "Break Even Analysis",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "budget_forecast",
+    "label": "Budget Forecast",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  },
+  {
+    "block_id": "sales_forecast",
+    "label": "Sales Forecast",
+    "category": "set2_missing_blocks",
+    "molt_type": "Primary",
+    "tags": [
+      "missing",
+      "auto_generated",
+      "recovery"
+    ],
+    "cantocore": {
+      "snap_stack": "auto.recover.set2",
+      "fit_score": 0.95
+    },
+    "ledger": {
+      "originator": "Christopher L Haynes",
+      "verified_by": "PoeUMG",
+      "created_at": "AUTO",
+      "edit_log": []
+    },
+    "display": {
+      "color": "blue",
+      "icon": "\ud83e\udde9"
+    },
+    "editable_fields": [
+      "label",
+      "tags",
+      "cantocore"
+    ],
+    "example_block_data": {},
+    "code_modules": [],
+    "runtime_behavior_flags": {},
+    "integration_layer": null,
+    "agent_orchestration": null,
+    "future_extensions": []
+  }
+]

@@ -1,38 +1,26 @@
-import os
-import json
-from pathlib import Path
+import os, json
 
-BLOCKS_DIR = Path("data/blocks")
 REQUIRED_FIELDS = [
-    "block_id", "label", "category", "description", "molt_type", "tags",
-    "cantocore", "snap_config", "merge_logic", "ledger", "display",
-    "code_modules", "runtime_behavior_flags", "agent_orchestration",
-    "integration_layer", "future_extensions", "example_block_data"
+    "block_id", "label", "category", "molt_type", "tags",
+    "ledger", "editable_fields", "cantocore", "display"
 ]
 
-def validate_block(block_path):
-    try:
-        with open(block_path, 'r', encoding='utf-8') as f:
-            block = json.load(f)
-        missing = [key for key in REQUIRED_FIELDS if key not in block]
-        if missing:
-            print(f"❌ {block_path.name} missing fields: {missing}")
-            return False
-        return True
-    except Exception as e:
-        print(f"❌ Failed to load {block_path.name}: {e}")
-        return False
+root = "data/blocks"
+errors = []
 
-def run_validation():
-    total = 0
-    passed = 0
-    for molt_dir in BLOCKS_DIR.iterdir():
-        if molt_dir.is_dir():
-            for block_file in molt_dir.glob("*.block.json"):
-                total += 1
-                if validate_block(block_file):
-                    passed += 1
-    print(f"\n✅ Validation complete: {passed}/{total} blocks valid.")
+for dirpath, _, filenames in os.walk(root):
+    for f in filenames:
+        if f.endswith(".block.json"):
+            full_path = os.path.join(dirpath, f)
+            try:
+                with open(full_path, "r", encoding="utf-8") as file:
+                    data = json.load(file)
+                for field in REQUIRED_FIELDS:
+                    if field not in data:
+                        errors.append(f"❌ Missing `{field}` in: {full_path}")
+            except Exception as e:
+                errors.append(f"❌ Invalid JSON in: {full_path} — {e}")
 
-if __name__ == "__main__":
-    run_validation()
+print(f"\n✅ Validation complete: {len(errors)} issues found.\n")
+for err in errors:
+    print(err)

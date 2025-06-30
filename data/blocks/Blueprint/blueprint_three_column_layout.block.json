@@ -1,0 +1,41 @@
+{
+  "block_id": "blueprint_three_column_layout",
+  "label": "Layout for 3-column builder",
+  "category": "system_blueprint",
+  "molt_type": "Blueprint",
+  "tags": [
+    "autogen",
+    "core_logic"
+  ],
+  "description": "Layout for 3-column builder",
+  "editable_fields": [],
+  "snap_config": {
+    "snap_to": "stack",
+    "accepts": []
+  },
+  "merge_logic": {},
+  "cantocore": {
+    "summary": "Layout for 3-column builder"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T17:01:14.605766",
+    "edit_log": []
+  },
+  "display": {
+    "color": "Blueprint",
+    "icon": "circle"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  }
+}

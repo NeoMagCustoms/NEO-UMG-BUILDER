@@ -1,0 +1,41 @@
+{
+  "block_id": "off_no_edit_mode",
+  "label": "Disable editing",
+  "category": "system_off",
+  "molt_type": "Off",
+  "tags": [
+    "autogen",
+    "core_logic"
+  ],
+  "description": "Disable editing",
+  "editable_fields": [],
+  "snap_config": {
+    "snap_to": "stack",
+    "accepts": []
+  },
+  "merge_logic": {},
+  "cantocore": {
+    "summary": "Disable editing"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T17:01:14.605766",
+    "edit_log": []
+  },
+  "display": {
+    "color": "Off",
+    "icon": "circle"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  }
+}
