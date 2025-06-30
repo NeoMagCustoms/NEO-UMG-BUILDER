@@ -1,0 +1,263 @@
+UMG Block Schema Reference
+
+This document defines the complete schema for a UMG block within the NEO-UMG-BUILDER system. UMG blocks are modular cognitive units used to build plans, logic engines, websites, agents, and more. Each block carries metadata, behavior rules, and structural context.
+
+Required Fields
+
+Field
+
+Type
+
+Description
+
+block_id
+
+string
+
+Unique identifier for this block. Prefer lowercase, snake_case.
+
+label
+
+string
+
+Human-readable title for the block (displayed in UI).
+
+category
+
+string
+
+Folder or grouping context (e.g., business_plan, chatbot_builder).
+
+description
+
+string
+
+Short description of what the block does.
+
+molt_type
+
+string
+
+One of: Primary, Subject, Instruction, Philosophy, Blueprint, Directive, Trigger, Deployment, Off, Merge.
+
+tags
+
+array[string]
+
+Keywords for search and organization.
+
+editable_fields
+
+array[string]
+
+Names of fields a user can modify (used in manual edit panel).
+
+cantocore
+
+string
+
+Optional poetic or semantic description of the block’s logic.
+
+snap_config
+
+object
+
+Controls block snapping behavior (stacking, overlays). See below.
+
+merge_logic
+
+object
+
+Optional logic for combining with other blocks (e.g., strategy: replace_if_empty).
+
+ledger
+
+object
+
+Provenance of the block. See Ledger Format.
+
+display
+
+object
+
+Visual UI cues. Must include color, may include icon, size.
+
+code_modules
+
+array[object]
+
+Optional injected code logic. See Code Modules.
+
+runtime_behavior_flags
+
+object
+
+Toggles for behaviors like is_primary_directive, parent_context_mode.
+
+integration_layer
+
+string
+
+Notes on external tools used (e.g., LangChain, OpenAI).
+
+agent_orchestration
+
+object
+
+If this block governs agents or memory behavior, specify here.
+
+future_extensions
+
+array[object]
+
+Placeholder for advanced use or speculative logic.
+
+Example Block File
+
+{
+  "block_id": "startup_primary_vision",
+  "label": "Startup Vision Statement",
+  "category": "business_plan",
+  "description": "Defines the core purpose and future goal of the startup.",
+  "molt_type": "Primary",
+  "tags": ["vision", "startup", "founder", "mission"],
+  "editable_fields": ["description", "cantocore"],
+  "cantocore": "To change the world through modular intelligence.",
+  "snap_config": {
+    "stack_group": "business_plan_core",
+    "stack_priority": 1,
+    "snap_type": "vertical"
+  },
+  "merge_logic": {
+    "strategy": "preserve_if_user_edited"
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30",
+    "edit_log": []
+  },
+  "display": {
+    "color": "blue",
+    "icon": "target"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {
+    "is_primary_directive": true
+  },
+  "integration_layer": null,
+  "agent_orchestration": null,
+  "future_extensions": []
+}
+
+Snap Config Format
+
+{
+  "stack_group": "business_plan_core",
+  "stack_priority": 1,
+  "snap_type": "vertical"
+}
+
+Ledger Format
+
+{
+  "originator": "Christopher L Haynes",
+  "verified_by": "PoeUMG",
+  "created_at": "AUTO",
+  "edit_log": []
+}
+
+Use edit_log to track future updates:
+
+{
+  "edit_log": [
+    {
+      "editor": "PoeUMG",
+      "date": "2025-07-01",
+      "changes": "Updated tag list and display color."
+    }
+  ]
+}
+
+Code Modules (Optional)
+
+Blocks can inject logic modules used at runtime, stored in the code_modules array.
+
+{
+  "slot": "openai_function",
+  "name": "summarizePlan",
+  "language": "javascript",
+  "source": "function summarizePlan(blocks) { return blocks.map(b => b.label).join(', '); }"
+}
+
+MOLT Type Color Reference
+
+Type
+
+Color
+
+Primary
+
+blue
+
+Subject
+
+green
+
+Instruction
+
+yellow
+
+Philosophy
+
+orange
+
+Blueprint
+
+teal
+
+Directive
+
+purple
+
+Trigger
+
+red
+
+Deployment
+
+black
+
+Off
+
+gray
+
+Merge (state)
+
+outline/badge only
+
+Block Validation Notes
+
+All .block.json files are validated using scripts/validate_blocks.py. This checks:
+
+Required fields present
+
+Valid molt_type
+
+JSON schema integrity
+
+Editable fields match block content
+
+Future Features
+
+Dynamic field hinting via templates
+
+In-block localization (EN/ES/JP)
+
+Field-level locking by originator
+
+Live merge previews
+
+Git commit hooks tied to block ledger
+
+"Blocks remember where they came from, snap into where they belong, and yield to where they must evolve."
