@@ -1,0 +1,49 @@
+{
+  "block_id": "directive_lock_primary_block",
+  "label": "Directive: Lock Primary Block",
+  "category": "directive",
+  "description": "A strategic behavior modifier: Lock Primary Block",
+  "molt_type": "Directive",
+  "tags": [
+    "directive",
+    "logic",
+    "lock primary block"
+  ],
+  "cantocore": "OVERLAY.DIRECTIVE.LOCK_PRIMARY_BLOCK",
+  "snap_config": {
+    "accepts": [
+      "Instruction",
+      "Philosophy"
+    ],
+    "priority": 3
+  },
+  "merge_behavior": {
+    "merge_as": "directive_overlay",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "Lock Primary Block"
+  },
+  "stack_priority": 3,
+  "canto_overlay": {
+    "snap_to": [
+      "Instruction"
+    ],
+    "preferred_context": "behavior_mod",
+    "fit_score": 0.91,
+    "display_hint": "Applies directive: Lock Primary Block"
+  },
+  "display": {
+    "color": "purple",
+    "icon": "\u2699\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:43:19.095127",
+    "edit_log": []
+  }
+}

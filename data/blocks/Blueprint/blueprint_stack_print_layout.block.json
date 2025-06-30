@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_stack_print_layout",
+  "label": "Stack Print Layout",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Stack Print Layout.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "stack print layout"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.STACK_PRINT_LAYOUT",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Stack Print Layout"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Stack Print Layout"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.654097",
+    "edit_log": []
+  }
+}

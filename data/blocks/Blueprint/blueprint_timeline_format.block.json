@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_timeline_format",
+  "label": "Timeline Format",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Timeline Format.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "timeline format"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.TIMELINE_FORMAT",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Timeline Format"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Timeline Format"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.646086",
+    "edit_log": []
+  }
+}

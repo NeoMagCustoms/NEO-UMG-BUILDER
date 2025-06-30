@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_nested_stack_display",
+  "label": "Nested Stack Display",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Nested Stack Display.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "nested stack display"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.NESTED_STACK_DISPLAY",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Nested Stack Display"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Nested Stack Display"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.649058",
+    "edit_log": []
+  }
+}

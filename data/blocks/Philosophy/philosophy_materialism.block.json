@@ -1,0 +1,51 @@
+{
+  "block_id": "philosophy_materialism",
+  "label": "Materialism",
+  "category": "philosophy",
+  "description": "A modular philosophy overlay block rooted in Materialism.",
+  "molt_type": "Philosophy",
+  "tags": [
+    "philosophy",
+    "overlay",
+    "materialism"
+  ],
+  "cantocore": "OVERLAY.PHILOSOPHY.MATERIALISM",
+  "snap_config": {
+    "accepts": [
+      "Blueprint",
+      "Instruction",
+      "Directive"
+    ],
+    "priority": 4
+  },
+  "merge_behavior": {
+    "merge_as": "philosophy_overlay",
+    "merge_strategy": "soft_tone_merge",
+    "merge_origin": "Materialism"
+  },
+  "stack_priority": 4,
+  "canto_overlay": {
+    "snap_to": [
+      "Instruction",
+      "Directive"
+    ],
+    "preferred_context": "ethical_lens",
+    "fit_score": 0.88,
+    "display_hint": "Applies Materialism as a soft alignment philosophy."
+  },
+  "display": {
+    "color": "orange",
+    "icon": "\ud83d\udcd8"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:41:07.233865",
+    "edit_log": []
+  }
+}

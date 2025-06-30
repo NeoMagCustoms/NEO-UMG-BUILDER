@@ -1,0 +1,51 @@
+{
+  "block_id": "philosophy_bold",
+  "label": "Philosophy: Bold",
+  "category": "philosophy",
+  "description": "A tone-setting block reflecting a bold mindset.",
+  "molt_type": "Philosophy",
+  "tags": [
+    "philosophy",
+    "overlay",
+    "bold"
+  ],
+  "cantocore": "OVERLAY.PHILOSOPHY.BOLD",
+  "snap_config": {
+    "accepts": [
+      "Blueprint",
+      "Instruction",
+      "Directive"
+    ],
+    "priority": 4
+  },
+  "merge_behavior": {
+    "merge_as": "philosophy_overlay",
+    "merge_strategy": "soft_tone_merge",
+    "merge_origin": "Bold"
+  },
+  "stack_priority": 4,
+  "canto_overlay": {
+    "snap_to": [
+      "Instruction",
+      "Directive"
+    ],
+    "preferred_context": "tone_enrichment",
+    "fit_score": 0.9,
+    "display_hint": "Philosophical tone: Bold"
+  },
+  "display": {
+    "color": "orange",
+    "icon": "\ud83e\udde0"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:40:08.905760",
+    "edit_log": []
+  }
+}

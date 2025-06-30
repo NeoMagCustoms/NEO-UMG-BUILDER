@@ -1,0 +1,51 @@
+{
+  "block_id": "philosophy_ethical",
+  "label": "Philosophy: Ethical",
+  "category": "philosophy",
+  "description": "A tone-setting block reflecting a ethical mindset.",
+  "molt_type": "Philosophy",
+  "tags": [
+    "philosophy",
+    "overlay",
+    "ethical"
+  ],
+  "cantocore": "OVERLAY.PHILOSOPHY.ETHICAL",
+  "snap_config": {
+    "accepts": [
+      "Blueprint",
+      "Instruction",
+      "Directive"
+    ],
+    "priority": 4
+  },
+  "merge_behavior": {
+    "merge_as": "philosophy_overlay",
+    "merge_strategy": "soft_tone_merge",
+    "merge_origin": "Ethical"
+  },
+  "stack_priority": 4,
+  "canto_overlay": {
+    "snap_to": [
+      "Instruction",
+      "Directive"
+    ],
+    "preferred_context": "tone_enrichment",
+    "fit_score": 0.9,
+    "display_hint": "Philosophical tone: Ethical"
+  },
+  "display": {
+    "color": "orange",
+    "icon": "\ud83e\udde0"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:40:08.912024",
+    "edit_log": []
+  }
+}

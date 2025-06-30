@@ -1,0 +1,49 @@
+{
+  "block_id": "directive_enable_developer_tools",
+  "label": "Directive: Enable Developer Tools",
+  "category": "directive",
+  "description": "A strategic behavior modifier: Enable Developer Tools",
+  "molt_type": "Directive",
+  "tags": [
+    "directive",
+    "logic",
+    "enable developer tools"
+  ],
+  "cantocore": "OVERLAY.DIRECTIVE.ENABLE_DEVELOPER_TOOLS",
+  "snap_config": {
+    "accepts": [
+      "Instruction",
+      "Philosophy"
+    ],
+    "priority": 3
+  },
+  "merge_behavior": {
+    "merge_as": "directive_overlay",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "Enable Developer Tools"
+  },
+  "stack_priority": 3,
+  "canto_overlay": {
+    "snap_to": [
+      "Instruction"
+    ],
+    "preferred_context": "behavior_mod",
+    "fit_score": 0.91,
+    "display_hint": "Applies directive: Enable Developer Tools"
+  },
+  "display": {
+    "color": "purple",
+    "icon": "\u2699\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:43:19.088446",
+    "edit_log": []
+  }
+}

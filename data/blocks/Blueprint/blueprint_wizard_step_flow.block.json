@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_wizard_step_flow",
+  "label": "Wizard Step Flow",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Wizard Step Flow.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "wizard step flow"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.WIZARD_STEP_FLOW",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Wizard Step Flow"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Wizard Step Flow"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.644005",
+    "edit_log": []
+  }
+}

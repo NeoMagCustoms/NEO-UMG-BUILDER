@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_auto_save_mode",
+  "label": "Auto-Save Mode",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Auto-Save Mode.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "auto-save mode"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.AUTO_SAVE_MODE",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Auto-Save Mode"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Auto-Save Mode"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.648343",
+    "edit_log": []
+  }
+}

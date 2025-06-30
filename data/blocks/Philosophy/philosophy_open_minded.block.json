@@ -1,0 +1,51 @@
+{
+  "block_id": "philosophy_open_minded",
+  "label": "Philosophy: Open-Minded",
+  "category": "philosophy",
+  "description": "A tone-setting block reflecting a open-minded mindset.",
+  "molt_type": "Philosophy",
+  "tags": [
+    "philosophy",
+    "overlay",
+    "open-minded"
+  ],
+  "cantocore": "OVERLAY.PHILOSOPHY.OPEN_MINDED",
+  "snap_config": {
+    "accepts": [
+      "Blueprint",
+      "Instruction",
+      "Directive"
+    ],
+    "priority": 4
+  },
+  "merge_behavior": {
+    "merge_as": "philosophy_overlay",
+    "merge_strategy": "soft_tone_merge",
+    "merge_origin": "Open-Minded"
+  },
+  "stack_priority": 4,
+  "canto_overlay": {
+    "snap_to": [
+      "Instruction",
+      "Directive"
+    ],
+    "preferred_context": "tone_enrichment",
+    "fit_score": 0.9,
+    "display_hint": "Philosophical tone: Open-Minded"
+  },
+  "display": {
+    "color": "orange",
+    "icon": "\ud83e\udde0"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:40:08.904088",
+    "edit_log": []
+  }
+}

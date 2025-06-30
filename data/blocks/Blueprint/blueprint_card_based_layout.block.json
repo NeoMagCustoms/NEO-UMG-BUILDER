@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_card_based_layout",
+  "label": "Card-Based Layout",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Card-Based Layout.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "card-based layout"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.CARD_BASED_LAYOUT",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Card-Based Layout"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Card-Based Layout"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.645343",
+    "edit_log": []
+  }
+}
