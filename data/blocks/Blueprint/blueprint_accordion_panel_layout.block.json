@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_accordion_panel_layout",
+  "label": "Accordion Panel Layout",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Accordion Panel Layout.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "accordion panel layout"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.ACCORDION_PANEL_LAYOUT",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Accordion Panel Layout"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Accordion Panel Layout"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.651564",
+    "edit_log": []
+  }
+}

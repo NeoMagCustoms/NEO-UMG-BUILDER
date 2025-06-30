@@ -1,0 +1,44 @@
+{
+  "block_id": "deployment_export_as_agent_overlay",
+  "label": "Export As Agent Overlay",
+  "category": "deployment",
+  "description": "Deployment logic block for: Export As Agent Overlay",
+  "molt_type": "Deployment",
+  "tags": [
+    "deployment",
+    "runtime",
+    "export as agent overlay"
+  ],
+  "cantocore": "DEPLOYMENT.DEPLOYMENT_EXPORT_AS_AGENT_OVERLAY",
+  "snap_config": {
+    "accepts": [],
+    "priority": 7
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "autogen"
+  },
+  "stack_priority": 7,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "runtime_ops",
+    "fit_score": 0.9,
+    "display_hint": "Deployment block for system-level logic: Export As Agent Overlay"
+  },
+  "display": {
+    "color": "gold",
+    "icon": "\ud83d\udce6"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:45:35.910428",
+    "edit_log": []
+  }
+}

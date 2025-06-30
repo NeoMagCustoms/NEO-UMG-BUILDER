@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_multi_page_plan_format",
+  "label": "Multi-Page Plan Format",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Multi-Page Plan Format.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "multi-page plan format"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.MULTI_PAGE_PLAN_FORMAT",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Multi-Page Plan Format"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Multi-Page Plan Format"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.652058",
+    "edit_log": []
+  }
+}

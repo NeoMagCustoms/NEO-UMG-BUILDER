@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_form_first_layout",
+  "label": "Form-First Layout",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Form-First Layout.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "form-first layout"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.FORM_FIRST_LAYOUT",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Form-First Layout"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Form-First Layout"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.646473",
+    "edit_log": []
+  }
+}

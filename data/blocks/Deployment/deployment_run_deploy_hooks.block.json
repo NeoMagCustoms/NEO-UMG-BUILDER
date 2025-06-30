@@ -1,0 +1,44 @@
+{
+  "block_id": "deployment_run_deploy_hooks",
+  "label": "Run Deploy Hooks",
+  "category": "deployment",
+  "description": "Deployment logic block for: Run Deploy Hooks",
+  "molt_type": "Deployment",
+  "tags": [
+    "deployment",
+    "runtime",
+    "run deploy hooks"
+  ],
+  "cantocore": "DEPLOYMENT.DEPLOYMENT_RUN_DEPLOY_HOOKS",
+  "snap_config": {
+    "accepts": [],
+    "priority": 7
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "autogen"
+  },
+  "stack_priority": 7,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "runtime_ops",
+    "fit_score": 0.9,
+    "display_hint": "Deployment block for system-level logic: Run Deploy Hooks"
+  },
+  "display": {
+    "color": "gold",
+    "icon": "\ud83d\udce6"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:45:35.911253",
+    "edit_log": []
+  }
+}

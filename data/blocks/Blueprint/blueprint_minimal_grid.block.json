@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_minimal_grid",
+  "label": "Minimal Grid",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Minimal Grid.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "minimal grid"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.MINIMAL_GRID",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Minimal Grid"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Minimal Grid"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.641927",
+    "edit_log": []
+  }
+}

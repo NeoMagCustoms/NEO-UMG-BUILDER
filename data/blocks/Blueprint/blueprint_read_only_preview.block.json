@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_read_only_preview",
+  "label": "Read-Only Preview",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Read-Only Preview.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "read-only preview"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.READ_ONLY_PREVIEW",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Read-Only Preview"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Read-Only Preview"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.647912",
+    "edit_log": []
+  }
+}

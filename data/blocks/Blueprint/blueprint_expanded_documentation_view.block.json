@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_expanded_documentation_view",
+  "label": "Expanded Documentation View",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Expanded Documentation View.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "expanded documentation view"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.EXPANDED_DOCUMENTATION_VIEW",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Expanded Documentation View"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Expanded Documentation View"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.647531",
+    "edit_log": []
+  }
+}

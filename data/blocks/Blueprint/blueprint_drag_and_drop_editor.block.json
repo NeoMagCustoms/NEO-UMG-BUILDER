@@ -1,0 +1,44 @@
+{
+  "block_id": "blueprint_drag_and_drop_editor",
+  "label": "Drag-and-Drop Editor",
+  "category": "blueprint",
+  "description": "A display logic blueprint for: Drag-and-Drop Editor.",
+  "molt_type": "Blueprint",
+  "tags": [
+    "blueprint",
+    "layout",
+    "drag-and-drop editor"
+  ],
+  "cantocore": "OVERLAY.BLUEPRINT.DRAG_AND_DROP_EDITOR",
+  "snap_config": {
+    "accepts": [],
+    "priority": 5
+  },
+  "merge_behavior": {
+    "merge_as": "layout_overlay",
+    "merge_strategy": "no_conflict",
+    "merge_origin": "Drag-and-Drop Editor"
+  },
+  "stack_priority": 5,
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "layout_rendering",
+    "fit_score": 0.87,
+    "display_hint": "Blueprint layout: Drag-and-Drop Editor"
+  },
+  "display": {
+    "color": "teal",
+    "icon": "\ud83d\uddc2\ufe0f"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:42:15.650489",
+    "edit_log": []
+  }
+}

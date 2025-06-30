@@ -1,0 +1,51 @@
+{
+  "block_id": "philosophy_skeptical",
+  "label": "Philosophy: Skeptical",
+  "category": "philosophy",
+  "description": "A tone-setting block reflecting a skeptical mindset.",
+  "molt_type": "Philosophy",
+  "tags": [
+    "philosophy",
+    "overlay",
+    "skeptical"
+  ],
+  "cantocore": "OVERLAY.PHILOSOPHY.SKEPTICAL",
+  "snap_config": {
+    "accepts": [
+      "Blueprint",
+      "Instruction",
+      "Directive"
+    ],
+    "priority": 4
+  },
+  "merge_behavior": {
+    "merge_as": "philosophy_overlay",
+    "merge_strategy": "soft_tone_merge",
+    "merge_origin": "Skeptical"
+  },
+  "stack_priority": 4,
+  "canto_overlay": {
+    "snap_to": [
+      "Instruction",
+      "Directive"
+    ],
+    "preferred_context": "tone_enrichment",
+    "fit_score": 0.9,
+    "display_hint": "Philosophical tone: Skeptical"
+  },
+  "display": {
+    "color": "orange",
+    "icon": "\ud83e\udde0"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:40:08.899826",
+    "edit_log": []
+  }
+}

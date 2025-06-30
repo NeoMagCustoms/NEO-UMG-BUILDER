@@ -1,0 +1,51 @@
+{
+  "block_id": "philosophy_absurdism",
+  "label": "Absurdism",
+  "category": "philosophy",
+  "description": "A modular philosophy overlay block rooted in Absurdism.",
+  "molt_type": "Philosophy",
+  "tags": [
+    "philosophy",
+    "overlay",
+    "absurdism"
+  ],
+  "cantocore": "OVERLAY.PHILOSOPHY.ABSURDISM",
+  "snap_config": {
+    "accepts": [
+      "Blueprint",
+      "Instruction",
+      "Directive"
+    ],
+    "priority": 4
+  },
+  "merge_behavior": {
+    "merge_as": "philosophy_overlay",
+    "merge_strategy": "soft_tone_merge",
+    "merge_origin": "Absurdism"
+  },
+  "stack_priority": 4,
+  "canto_overlay": {
+    "snap_to": [
+      "Instruction",
+      "Directive"
+    ],
+    "preferred_context": "ethical_lens",
+    "fit_score": 0.88,
+    "display_hint": "Applies Absurdism as a soft alignment philosophy."
+  },
+  "display": {
+    "color": "orange",
+    "icon": "\ud83d\udcd8"
+  },
+  "editable_fields": [
+    "label",
+    "description",
+    "tags"
+  ],
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T19:41:07.236226",
+    "edit_log": []
+  }
+}
