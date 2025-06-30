@@ -15,9 +15,9 @@ This project enables:
 
 ## 🔗 Key Features
 
-- **Static file logic** — no DB required
-- **Fully recursive** block metadata system
-- **Drag and drop support** (frontend-ready)
+- **Static file logic** — no DB required  
+- **Fully recursive** block metadata system  
+- **Drag and drop support** (frontend-ready)  
 - **Script-powered logic injection** via Python
 
 ---
