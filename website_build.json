@@ -1,0 +1,25 @@
+{
+  "Primary": [
+    "web__Primary_site_goal"
+  ],
+  "Subject": [
+    "web__Subject_userflow",
+    "web__Subject_pages"
+  ],
+  "Instruction": [
+    "web__Instruction_responsive_layout",
+    "web__Instruction_accessibility"
+  ],
+  "Philosophy": [
+    "web__Philosophy_simple_ui"
+  ],
+  "Blueprint": [
+    "web__Blueprint_grid_design"
+  ],
+  "Directive": [
+    "web__Directive_optimize_navigation"
+  ],
+  "Trigger": [],
+  "Deployment": [],
+  "Off": []
+}
