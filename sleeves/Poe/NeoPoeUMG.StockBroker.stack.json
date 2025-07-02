@@ -1,0 +1,36 @@
+{
+  "stack_id": "NeoPoeUMG.StockBroker",
+  "label": "Poe Stock Broker Agent Stack",
+  "vault_context": "NEO-UMG-BUILDER",
+  "molt_type": "Sleeve",
+  "blocks": [
+    "data/blocks/Primary/identity.stock_broker.core.block.json",
+    "data/blocks/Subject/domain.trading_stocks.subject.block.json",
+    "data/blocks/Instruction/logic.trading_guardrails.instruction.block.json",
+    "data/blocks/Directive/strategy.market_behavior.directive.block.json",
+    "data/blocks/Blueprint/format.portfolio_ui.blueprint.block.json",
+    "data/blocks/Philosophy/philosophy.risk_moderate.block.json"
+  ],
+  "snap_config": {
+    "order": [
+      "Primary",
+      "Subject",
+      "Instruction",
+      "Directive",
+      "Blueprint",
+      "Philosophy"
+    ]
+  },
+  "inject_mode": "manual",
+  "runtime_behavior_flags": {
+    "is_stock_mode": true,
+    "track_trades": true,
+    "allow_eval": false
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "AUTO",
+    "edit_log": []
+  }
+}
