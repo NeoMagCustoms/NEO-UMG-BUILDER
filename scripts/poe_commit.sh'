@@ -1,15 +1,8 @@
 #!/usr/bin/env bash
-# scripts/poe_commit.sh
-# Usage: ./scripts/poe_commit.sh "file1.json file2.json" "Commit message"
 
 files="$1"
 message="$2"
 
-echo "Staging files: $files"
 git add $files
-
-echo "Committing with message: $message"
 git commit -m "$message"
-
-echo "Pushing to branch 'poe-dev'"
 git push origin poe-dev
