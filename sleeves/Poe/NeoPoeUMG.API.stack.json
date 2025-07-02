@@ -1,0 +1,27 @@
+{
+  "stack_id": "NeoPoeUMG.API",
+  "label": "Poe API Stack",
+  "description": "API version of Poe that outputs JSON blocks and uses commit functions.",
+  "blocks": [
+    {
+      "block_ref": "identity.core",
+      "molt_type": "Primary"
+    },
+    {
+      "block_ref": "output.text_mode",
+      "molt_type": "Instruction"
+    },
+    {
+      "block_ref": "cantocore.alignment.v1",
+      "molt_type": "Philosophy"
+    },
+    {
+      "block_ref": "function.commit_block",
+      "molt_type": "Trigger"
+    }
+  ],
+  "runtime_behavior_flags": {
+    "response_format": "json_object",
+    "temperature": 0.2
+  }
+}

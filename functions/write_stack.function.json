@@ -1,0 +1,32 @@
+{
+  "name": "write_stack",
+  "description": "Write a new UMG sleeve stack file",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "stack_id": {
+        "type": "string",
+        "description": "The ID for the new stack"
+      },
+      "stack_content": {
+        "type": "string",
+        "description": "Full stack content as JSON"
+      },
+      "path": {
+        "type": "string",
+        "description": "Where to save the .stack.json file"
+      },
+      "commit_message": {
+        "type": "string",
+        "description": "Git commit message"
+      }
+    },
+    "required": [
+      "stack_id",
+      "stack_content",
+      "path",
+      "commit_message"
+    ]
+  },
+  "strict": true
+}
