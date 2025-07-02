@@ -1,0 +1,17 @@
+{
+  "block_id": "function.commit_block",
+  "label": "Commit Block Trigger",
+  "category": "git",
+  "description": "Triggers a GitHub commit function with block content.",
+  "molt_type": "Trigger",
+  "tags": [
+    "github",
+    "function",
+    "commit"
+  ],
+  "trigger": {
+    "event": "on_block_ready",
+    "action": "call_function",
+    "function_name": "commit_block"
+  }
+}
