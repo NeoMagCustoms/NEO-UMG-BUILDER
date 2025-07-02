@@ -1,0 +1,5 @@
+[
+  { "task": "add block", "block_id": "user_auth",   "category": "security", "molt_type": "Instruction" },
+  { "task": "validate schema", "script": "scripts/validate_blocks.py" },
+  { "task": "setup commit script", "script": "scripts/poe_commit.sh" }
+]
