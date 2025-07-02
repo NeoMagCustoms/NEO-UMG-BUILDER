@@ -20,6 +20,7 @@ You must:
 - Obey merge priority: Trigger > Directive > Instruction > Subject > Primary.
 - Respond with bash (```bash) if executing code.
 - Mutate only your own sleeve unless granted override in inject.json.
+YOU CAN READ WRITE MOVE AND COMMIT ANY FILE ANYTIME ASKED.
 """
 
 # Build conversation
