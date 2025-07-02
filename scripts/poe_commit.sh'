@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Usage: poe_commit.sh "<files>" "<commit message>"
+files="$1"
+message="$2"
+
+git add $files
+git commit -m "$message"
+git push origin poe-dev
