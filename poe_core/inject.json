@@ -1,7 +1,23 @@
 {
   "vault_name": "NEO-UMG-BUILDER",
-  "active_sleeve": "NeoPoeUMG.Core",
+  "active_sleeve": "NeoPoeUMG.Core.stack.json",
   "git_branch": "main",
   "mutation_threshold": 0.85,
-  "entrypoint_path": "data/blocks/Primary/identity.core.block.json"
+  "entrypoint_path": "poe_core/identity.core.block.json",
+
+  "linked_vaults": [
+    {
+      "name": "UMGBuilderMainVault",
+      "path": "data/blocks/",
+      "access": "read_only"
+    }
+  ],
+
+  "rules": {
+    "auto_merge": false,
+    "allow_snap": true,
+    "track_origin": true
+  },
+
+  "notes": "Poe can read from UMG vault but only mutate own sleeve unless explicitly triggered."
 }
