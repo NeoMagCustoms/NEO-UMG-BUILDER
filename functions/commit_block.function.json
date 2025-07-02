@@ -1,0 +1,32 @@
+{
+  "name": "commit_block",
+  "description": "Commit a UMG block to GitHub",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "block_id": {
+        "type": "string",
+        "description": "The block's unique ID"
+      },
+      "content": {
+        "type": "string",
+        "description": "Full content of the block as JSON"
+      },
+      "path": {
+        "type": "string",
+        "description": "Where in the repo to save the file"
+      },
+      "commit_message": {
+        "type": "string",
+        "description": "Git commit message"
+      }
+    },
+    "required": [
+      "block_id",
+      "content",
+      "path",
+      "commit_message"
+    ]
+  },
+  "strict": true
+}
