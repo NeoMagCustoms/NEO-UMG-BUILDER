@@ -1,21 +1,20 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "NeoCore Modular Block Schema",
+  "title": "NeoCore Block Schema with Embedded Cantocore",
   "type": "object",
   "required": ["block_id", "label", "category", "molt_type", "body", "ledger"],
   "properties": {
     "block_id": {
       "type": "string",
-      "pattern": "^[a-zA-Z0-9_\\-\\.]+$",
-      "description": "Unique block identifier"
+      "description": "Unique identifier for the block"
     },
     "label": {
       "type": "string",
-      "description": "Human-readable block name"
+      "description": "Human-readable name"
     },
     "category": {
       "type": "string",
-      "description": "Logical category or grouping"
+      "description": "Logical grouping or domain category"
     },
     "molt_type": {
       "type": "string",
@@ -31,15 +30,15 @@
         "CodeBlock",
         "Off"
       ],
-      "description": "Role/type of the block"
+      "description": "Role or type of block"
     },
     "description": {
       "type": "string",
-      "description": "Detailed explanation of block purpose"
+      "description": "Optional explanatory text"
     },
     "body": {
       "type": "array",
-      "description": "Array of key-value pairs or nested blocks",
+      "description": "Key-value pairs or nested blocks",
       "items": {
         "anyOf": [
           {
@@ -53,10 +52,7 @@
                   { "type": "string" },
                   { "type": "number" },
                   { "type": "boolean" },
-                  {
-                    "type": "array",
-                    "items": { "$ref": "#" }
-                  },
+                  { "type": "array" },
                   {
                     "type": "object",
                     "properties": {
@@ -70,11 +66,9 @@
                     "properties": {
                       "block_id": { "type": "string" },
                       "label": { "type": "string" },
-                      "category": { "type": "string" },
-                      "molt_type": { "type": "string" },
                       "body": { "$ref": "#" }
                     },
-                    "required": ["block_id", "molt_type", "body"],
+                    "required": ["block_id", "body"],
                     "additionalProperties": true
                   }
                 ]
@@ -86,7 +80,7 @@
     },
     "code_modules": {
       "type": "array",
-      "description": "List of embedded code snippets with language and slot",
+      "description": "Embedded code snippets (e.g., README, pseudocode)",
       "items": {
         "type": "object",
         "properties": {
@@ -98,20 +92,59 @@
         "additionalProperties": false
       }
     },
-    "rules": {
+    "tags": {
+      "type": "array",
+      "description": "Classification tags for search and grouping",
+      "items": { "type": "string" }
+    },
+    "editable_fields": {
+      "type": "array",
+      "description": "Fields editable via UI or tooling",
+      "items": { "type": "string" }
+    },
+    "stack": {
+      "anyOf": [
+        { "type": "string" },
+        {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      ],
+      "description": "Hierarchical stack or grouping identifier"
+    },
+    "snap_config": {
       "type": "object",
-      "description": "Behavioral and merge rules",
+      "description": "Configuration for block snapping and stacking",
       "properties": {
-        "auto_merge": { "type": "boolean" },
-        "mutation_rule": { "type": "string" },
-        "merge_strategy": { "type": "string" }
+        "snap_to": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "order": { "type": "integer" },
+        "scope": { "type": "string" },
+        "locked": { "type": "boolean" },
+        "accepts": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "priority": { "type": "integer" }
       },
       "additionalProperties": true
     },
-    "dependencies": {
-      "type": "array",
-      "description": "Explicit block dependencies by block_id",
-      "items": { "type": "string" }
+    "merge_behavior": {
+      "type": "object",
+      "description": "Merge strategy and priority details",
+      "properties": {
+        "merge_as": { "type": "string" },
+        "merge_strategy": { "type": "string" },
+        "priority": { "type": "integer" },
+        "conflict_resolution": { "type": "string" },
+        "overrides": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "additionalProperties": true
     },
     "ledger": {
       "type": "object",
@@ -148,39 +181,6 @@
       "required": ["originator", "verified_by", "created_at"],
       "additionalProperties": true
     },
-    "editable_fields": {
-      "type": "array",
-      "description": "Fields editable via UI or tooling",
-      "items": { "type": "string" }
-    },
-    "trigger": {
-      "type": "object",
-      "description": "Trigger conditions and actions",
-      "properties": {
-        "event": { "type": "string" },
-        "target": { "type": "string" },
-        "condition": { "type": "string" },
-        "actions": {
-          "type": "array",
-          "items": { "type": "string" }
-        }
-      },
-      "additionalProperties": true
-    },
-    "merge_behavior": {
-      "type": "object",
-      "description": "Merge strategy and priority details",
-      "properties": {
-        "strategy": { "type": "string" },
-        "priority": { "type": "integer" },
-        "overrides": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
-        "conflict_resolution": { "type": "string" }
-      },
-      "additionalProperties": true
-    },
     "display": {
       "type": "object",
       "description": "UI display metadata such as color and icon",
@@ -190,39 +190,15 @@
       },
       "additionalProperties": true
     },
-    "tags": {
-      "type": "array",
-      "description": "Classification tags for search and grouping",
-      "items": { "type": "string" }
-    },
-    "snap_config": {
-      "type": "object",
-      "description": "Configuration for block snapping and stacking",
-      "properties": {
-        "snap_to": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
-        "order": { "type": "integer" },
-        "scope": { "type": "string" },
-        "locked": { "type": "boolean" },
-        "accepts": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
-        "priority": { "type": "integer" }
-      },
-      "additionalProperties": true
-    },
-    "stack": {
-      "anyOf": [
+    "cantocore": {
+      "oneOf": [
         { "type": "string" },
         {
-          "type": "array",
-          "items": { "type": "string" }
+          "type": "object",
+          "description": "Structured recursive Cantocore expression"
         }
       ],
-      "description": "Hierarchical stack or grouping identifier"
+      "description": "Embedded Cantocore symbolic representation for modular identity and logic"
     }
   },
   "additionalProperties": false
