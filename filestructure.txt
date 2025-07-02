@@ -1,0 +1,2413 @@
+.
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── ORIG_HEAD
+│   ├── branches
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── lfs
+│   │   └── tmp
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               ├── HEAD
+│   │               └── main
+│   ├── objects
+│   │   ├── 05
+│   │   │   └── e2d626dd66adb33c37c2e788c37b6ba772f384
+│   │   ├── 0d
+│   │   │   └── bf35c8a315bfb7fcea850777fe774207300575
+│   │   ├── 11
+│   │   │   └── d349751866b2023700b231f784dcb58ac8a105
+│   │   ├── 16
+│   │   │   └── 87232fd2be1dcbb2382673e6701901b1343d8f
+│   │   ├── 19
+│   │   │   └── 6177c1e8fd19dd14a130eb485b5ef01fa5a383
+│   │   ├── 1a
+│   │   │   └── ce112febbcc70e78b2a68eb665bcfc0155752d
+│   │   ├── 1c
+│   │   │   └── e46a447c964944e84bf0de0634e77d56a1e0a8
+│   │   ├── 1e
+│   │   │   └── 213f517f82795581c0406fd716590e562f7e89
+│   │   ├── 21
+│   │   │   └── ef3ffebbbe07d3d2b1974ab5da63f1fa84d9bd
+│   │   ├── 27
+│   │   │   ├── 3506c2e6ab6635f92331235ef54e1482e07607
+│   │   │   └── 72b99df44cd34a39d20a0cdeeb50e3ea8de4aa
+│   │   ├── 2d
+│   │   │   └── 41500f9d87884931346d45d5b3266f720c553b
+│   │   ├── 2e
+│   │   │   └── a3e62f19bdb15fde2e1e0d725c2ef8944cd6c3
+│   │   ├── 31
+│   │   │   └── 9b8713f4a4579e41808feaf41ae14fab3bec28
+│   │   ├── 32
+│   │   │   └── a3b54b8df6110194ccc545cc2b2ed2c9811e69
+│   │   ├── 35
+│   │   │   └── f0f27c20b923c36d7b9eaf22aabaa52ec2fd67
+│   │   ├── 3e
+│   │   │   └── 106c5ba27e207a8badd76a689126d1de7c55c0
+│   │   ├── 40
+│   │   │   └── f416006227d665c4286fd263c2f1948421c3e7
+│   │   ├── 41
+│   │   │   └── f0836a6319cdf475e15f0690b3aa4327f6b194
+│   │   ├── 43
+│   │   │   ├── 0f55a748f65ee192ff20d8b14f24949ced7ac8
+│   │   │   └── 82618c43acd579d5fc42f23883d5e5421654d4
+│   │   ├── 45
+│   │   │   └── 3492c568c68c71d3c0625add60a9b29788ee5b
+│   │   ├── 51
+│   │   │   └── 99783f10429dc9fb84fbe0693e2b8c43744772
+│   │   ├── 54
+│   │   │   └── f2533e051ef120e6c144a4c748c0d0c766a69f
+│   │   ├── 55
+│   │   │   ├── c01d35469ffa7f9fb66380a01f24c1e69ea238
+│   │   │   └── e043a84eefbf7741c0bf72123a3a158f24cfc8
+│   │   ├── 5f
+│   │   │   └── bf949749b5bebe5e2d011833b6158badd7966b
+│   │   ├── 64
+│   │   │   └── e9fbf8715273bbdf5d5e7dcb4c3004f4075ac6
+│   │   ├── 72
+│   │   │   ├── 05431482fbb978199ee9a6df5492c827447617
+│   │   │   └── 8c817f2ab31193f9f5d21f631edd6cef8a0955
+│   │   ├── 73
+│   │   │   └── bfb9f8cbbf9464e7b0e59633b2ca97fc28a56c
+│   │   ├── 75
+│   │   │   ├── 9882763127d38b40f07579c8e3755ae0927e4d
+│   │   │   └── c4b481ae715033fa3f39490b372177247d5871
+│   │   ├── 76
+│   │   │   └── a191000258bfcccb86cfbb040a37ebcaed07e7
+│   │   ├── 77
+│   │   │   └── 9feff5629d2d1c0edf49e55f412d1e3de4628e
+│   │   ├── 79
+│   │   │   └── 05401348e80b3f5543456afb72f7610fb79659
+│   │   ├── 8a
+│   │   │   └── 149957b9f5f95c74244d66e69ad961da58934f
+│   │   ├── 8e
+│   │   │   └── 68d50f4ce202e7e76a2b42ca5648c83f5d9039
+│   │   ├── 8f
+│   │   │   └── dc91b3131785a41a311353e0e9055311dcc7e1
+│   │   ├── 90
+│   │   │   └── 578cd1e914d7d947fa8e1985d827927c3e00f6
+│   │   ├── 94
+│   │   │   └── 1fdc2216c0409a07c7d5acaf06574f9e413cd9
+│   │   ├── 96
+│   │   │   └── 0716bf9a4d1394146ed68f0fc53ec7675cb0cb
+│   │   ├── 97
+│   │   │   └── 7142263d87a8b3e56f3596cf06d03259a5d7a9
+│   │   ├── 98
+│   │   │   └── 5d42c0a1b132626864a8ede45408f58da64a2f
+│   │   ├── 99
+│   │   │   └── 1fcde68900157abe0dcfd01b670b407f6f84d3
+│   │   ├── 9c
+│   │   │   └── 164e11c3a525dc1c64feb12ab990c1a0e3e9ea
+│   │   ├── 9d
+│   │   │   └── 72c4409d2a4f9da1a6fd606c9c4ee64b89123e
+│   │   ├── 9e
+│   │   │   └── 91e1053b93c9c4c073e4f52c714a626e0d99a1
+│   │   ├── a6
+│   │   │   └── 365badc0f0c7b59efecca9fa3cb559377c5ad1
+│   │   ├── ad
+│   │   │   ├── b1d5c33b580d5e280938742f85cce5c24b7864
+│   │   │   └── e00158e91faffbe60299f73f4fc3af4f8fc024
+│   │   ├── af
+│   │   │   └── f599133d84c30fbf42312035505c6e9b0efaaa
+│   │   ├── b0
+│   │   │   └── 6baa50129f2e59cd80f85277efe0ea075fd9cd
+│   │   ├── b4
+│   │   │   └── 2d7715f289e1f4b96542bf5c86b9bf2e6399f3
+│   │   ├── b7
+│   │   │   └── 560c137dec0721c1fb421cafca748d4ab93493
+│   │   ├── b8
+│   │   │   └── 34b6354d390962871e9071ea3ff3643e4052be
+│   │   ├── c6
+│   │   │   └── cb647a9b496cbc138c057e0298223272436735
+│   │   ├── c7
+│   │   │   └── 2f7f3c05c7331bbd0fcb5a3e89260469473035
+│   │   ├── c9
+│   │   │   ├── 6aa0af1aa9f608e32abadb4305bfa0d8dbd263
+│   │   │   └── 78388e58049ad47d867580716e21bdd51b205d
+│   │   ├── cb
+│   │   │   └── e1862d75578f4d38465dc0846ec60fb3909e51
+│   │   ├── ce
+│   │   │   └── 44ab8fb8ae29805e4904a0bd7e711074b35c63
+│   │   ├── d0
+│   │   │   └── 7de751423f172e43bd016f59d6fbd408db7f49
+│   │   ├── d1
+│   │   │   └── ae3f5d7146ae432f13b283e59c01fc91db0b2d
+│   │   ├── d4
+│   │   │   └── 1c60439af22ee0a6f37815bfaea05921d11a75
+│   │   ├── d5
+│   │   │   └── b02b41c650befcd2e4defb4ea17e4fbf83739d
+│   │   ├── d6
+│   │   │   └── 574baa7f676e79bb4f61b4c434bd6f745019ea
+│   │   ├── d8
+│   │   │   └── f860c3be65fa569a5a948c647734dbabf918ff
+│   │   ├── d9
+│   │   │   └── 60cb7a222a8262058c7738349f04f29e397e20
+│   │   ├── dc
+│   │   │   └── 770f68e7d308101baf479646b2204ad7832d34
+│   │   ├── df
+│   │   │   └── 3bbe79d802bfafab30092951b3bf11ec00e1d3
+│   │   ├── e2
+│   │   │   ├── 8fbad0c4c7b11f30b5825efdbab5f03037aeb1
+│   │   │   └── f1dc129ccd75bbde8f3a4e3914568bb032e005
+│   │   ├── e6
+│   │   │   └── b8ac33f59770492092e93df3f87d0199294584
+│   │   ├── e7
+│   │   │   └── 4362981258a488a2226fcd34697b1c59bb91a1
+│   │   ├── e9
+│   │   │   ├── 4da997f49dedc866c9e0def8731939b7111f49
+│   │   │   └── dbed1751438c4e1f896afa94745cdbdef56b47
+│   │   ├── ed
+│   │   │   └── 81d3c2d9e806ae291bfc609b6797771b75897e
+│   │   ├── f3
+│   │   │   └── 8a59680eea56aef6715efda828bfa262b5a5e5
+│   │   ├── f4
+│   │   │   └── 2ebfd22a0c22d90c81bec0657c026953be1b8d
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-471c0d6ffb5d28e25c50dd11cb0525c4069507e2.idx
+│   │       ├── pack-471c0d6ffb5d28e25c50dd11cb0525c4069507e2.pack
+│   │       └── pack-471c0d6ffb5d28e25c50dd11cb0525c4069507e2.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── main
+│       └── tags
+├── .gitattributes
+├── .gitignore
+├── LICENSE
+├── README.md
+├── UMG Block Schema Reference
+├── UMG Builder Web – Template Manifest Format
+├── UMG_BLOCKS_CAT11_TO_15.json
+├── UMG_BLOCKS_CAT16_TO_19.json
+├── UMG_BLOCKS_CAT20_TO_28.json
+├── UMG_BLOCKS_FULL_CHATBOT_PERSONA_CATEGORIES_1_TO_10.json
+├── apps
+│   └── umg-builder-web
+│       └── manifests
+│           ├── business_plan.json
+│           ├── chatbot_plan.json
+│           └── website_build.json
+├── business_plan.json
+├── chatbot_plan.json
+├── data
+│   └── blocks
+│       ├── Blueprint
+│       │   ├── blueprint_accordion_panel_layout.block.json
+│       │   ├── blueprint_auto_save_mode.block.json
+│       │   ├── blueprint_block_preview_card.block.json
+│       │   ├── blueprint_blueprint_diff_view.block.json
+│       │   ├── blueprint_card_based_layout.block.json
+│       │   ├── blueprint_color_by_molt_type.block.json
+│       │   ├── blueprint_color_coded_blocks.block.json
+│       │   ├── blueprint_compact_stack_view.block.json
+│       │   ├── blueprint_dark_mode_ui.block.json
+│       │   ├── blueprint_drag_and_drop_editor.block.json
+│       │   ├── blueprint_expanded_documentation_view.block.json
+│       │   ├── blueprint_form_first_layout.block.json
+│       │   ├── blueprint_full_screen_canvas.block.json
+│       │   ├── blueprint_interactive_flow_view.block.json
+│       │   ├── blueprint_kanban_view.block.json
+│       │   ├── blueprint_markdown_editor_view.block.json
+│       │   ├── blueprint_minimal_grid.block.json
+│       │   ├── blueprint_multi_page_plan_format.block.json
+│       │   ├── blueprint_nested_stack_display.block.json
+│       │   ├── blueprint_outline_export_format.block.json
+│       │   ├── blueprint_read_only_preview.block.json
+│       │   ├── blueprint_real_time_sync_mode.block.json
+│       │   ├── blueprint_sidebar_navigation.block.json
+│       │   ├── blueprint_split_screen_mode.block.json
+│       │   ├── blueprint_stack_detail_drawer.block.json
+│       │   ├── blueprint_stack_print_layout.block.json
+│       │   ├── blueprint_tabbed_blueprint_preview.block.json
+│       │   ├── blueprint_theme_switcher.block.json
+│       │   ├── blueprint_three_column_layout.block.json
+│       │   ├── blueprint_timeline_format.block.json
+│       │   ├── blueprint_top_tab_interface.block.json
+│       │   ├── blueprint_wizard_step_flow.block.json
+│       │   ├── bp__Blueprint_executive_format.block.json
+│       │   ├── cb__Blueprint_message_flow.block.json
+│       │   └── web__Blueprint_grid_design.block.json
+│       ├── Deployment
+│       │   ├── deploy_bundle_export_structure.block.json
+│       │   ├── deploy_local_dev_preview.block.json
+│       │   ├── deploy_to_gh_pages.block.json
+│       │   ├── deploy_toggle_pwa.block.json
+│       │   ├── deploy_with_metadata_manifest.block.json
+│       │   ├── deployment_activate_env_config.block.json
+│       │   ├── deployment_apply_pwa_manifest.block.json
+│       │   ├── deployment_attach_block_manifest.block.json
+│       │   ├── deployment_attach_vite_adapter.block.json
+│       │   ├── deployment_build_bundle.block.json
+│       │   ├── deployment_compile_to_zip.block.json
+│       │   ├── deployment_connect_to_webhook.block.json
+│       │   ├── deployment_deploy_dev_preview.block.json
+│       │   ├── deployment_deploy_gh_pages.block.json
+│       │   ├── deployment_deploy_preview_mode.block.json
+│       │   ├── deployment_deploy_static_site.block.json
+│       │   ├── deployment_deploy_to_firebase.block.json
+│       │   ├── deployment_deploy_to_netlify.block.json
+│       │   ├── deployment_deploy_to_openai.block.json
+│       │   ├── deployment_embed_version_hash.block.json
+│       │   ├── deployment_enable_pdf_export.block.json
+│       │   ├── deployment_enable_sitemap_gen.block.json
+│       │   ├── deployment_export_as_agent_overlay.block.json
+│       │   ├── deployment_export_plan_stack.block.json
+│       │   ├── deployment_export_plan_tokens.block.json
+│       │   ├── deployment_export_to_json.block.json
+│       │   ├── deployment_export_to_markdown.block.json
+│       │   ├── deployment_generate_readme_md.block.json
+│       │   ├── deployment_include_index_files.block.json
+│       │   ├── deployment_include_og_meta.block.json
+│       │   ├── deployment_publish_to_ipfs.block.json
+│       │   ├── deployment_publish_to_marketplace.block.json
+│       │   ├── deployment_run_deploy_hooks.block.json
+│       │   ├── deployment_set_export_target.block.json
+│       │   ├── deployment_set_output_theme.block.json
+│       │   ├── deployment_set_publish_flags.block.json
+│       │   ├── deployment_snapshot_plan_state.block.json
+│       │   ├── deployment_strip_comments.block.json
+│       │   ├── deployment_submit_plan_for_review.block.json
+│       │   └── deployment_toggle_ssr.block.json
+│       ├── Directive
+│       │   ├── bp__Directive_focus_sustainability.block.json
+│       │   ├── builder_directive_fast_draft_mode.block.json
+│       │   ├── builder_directive_minimal_mode.block.json
+│       │   ├── builder_directive_readonly_preview.block.json
+│       │   ├── builder_directive_snap_override.block.json
+│       │   ├── builder_directive_theme_adaptive.block.json
+│       │   ├── cb__Directive_minimize_friction.block.json
+│       │   ├── directive_accelerate_planning.block.json
+│       │   ├── directive_allow_nested_plans.block.json
+│       │   ├── directive_allow_suggest_mode.block.json
+│       │   ├── directive_clarify_intent.block.json
+│       │   ├── directive_enable_collaboration.block.json
+│       │   ├── directive_enable_developer_tools.block.json
+│       │   ├── directive_encourage_reflection.block.json
+│       │   ├── directive_enforce_alignment.block.json
+│       │   ├── directive_expand_ideas.block.json
+│       │   ├── directive_favor_draft_mode.block.json
+│       │   ├── directive_favor_simplicity.block.json
+│       │   ├── directive_focus_user_journey.block.json
+│       │   ├── directive_force_compact_view.block.json
+│       │   ├── directive_guard_consistency.block.json
+│       │   ├── directive_highlight_strategy.block.json
+│       │   ├── directive_lock_primary_block.block.json
+│       │   ├── directive_mark_experimental.block.json
+│       │   ├── directive_minimize_redundancy.block.json
+│       │   ├── directive_optimize_performance.block.json
+│       │   ├── directive_preserve_snapshot.block.json
+│       │   ├── directive_prevent_export.block.json
+│       │   ├── directive_prioritize_accessibility.block.json
+│       │   ├── directive_promote_clarity.block.json
+│       │   ├── directive_reduce_distraction.block.json
+│       │   ├── directive_restrict_edits.block.json
+│       │   ├── directive_run_plan_in_sim_mode.block.json
+│       │   ├── directive_support_scale.block.json
+│       │   ├── directive_toggle_philosophy_layer.block.json
+│       │   ├── directive_track_merge_history.block.json
+│       │   ├── directive_use_modular_inputs.block.json
+│       │   └── web__Directive_optimize_navigation.block.json
+│       ├── Instruction
+│       │   ├── 001_annual_tax_return.block.json
+│       │   ├── 001_investor_pitch_deck.block.json
+│       │   ├── 001_job_description_template.block.json
+│       │   ├── 001_marketing_plan.block.json
+│       │   ├── 001_page_layout_templates.block.json
+│       │   ├── 001_profit_and_loss_statement.block.json
+│       │   ├── 001_project_brief.block.json
+│       │   ├── 001_server_entry_file.block.json
+│       │   ├── 001_service_agreement.block.json
+│       │   ├── 001_standard_operating_procedures_sops.block.json
+│       │   ├── 001_startup_plan.block.json
+│       │   ├── 001_swot_analysis.block.json
+│       │   ├── 001_teaching_plan.block.json
+│       │   ├── 002_balance_sheet.block.json
+│       │   ├── 002_executive_summary.block.json
+│       │   ├── 002_express_fastify_koa_router_setup.block.json
+│       │   ├── 002_incident_response_protocols.block.json
+│       │   ├── 002_lean_plan.block.json
+│       │   ├── 002_market_size_model.block.json
+│       │   ├── 002_master_services_agreement_msa.block.json
+│       │   ├── 002_multi_lesson_curriculum.block.json
+│       │   ├── 002_product_positioning_brief.block.json
+│       │   ├── 002_project_roadmap.block.json
+│       │   ├── 002_quarterly_estimated_taxes.block.json
+│       │   ├── 002_role_alignment_matrix.block.json
+│       │   ├── 002_section_components.block.json
+│       │   ├── 003_atomic_component_library.block.json
+│       │   ├── 003_cash_flow_statement.block.json
+│       │   ├── 003_escalation_pathways.block.json
+│       │   ├── 003_gantt_chart.block.json
+│       │   ├── 003_independent_contractor_agreement.block.json
+│       │   ├── 003_investment_memo.block.json
+│       │   ├── 003_org_chart_team_tree.block.json
+│       │   ├── 003_payroll_tax_reports.block.json
+│       │   ├── 003_route_controllers_folder.block.json
+│       │   ├── 003_strategic_plan.block.json
+│       │   ├── 003_training_pathway_map.block.json
+│       │   ├── 003_unit_economics_summary.block.json
+│       │   ├── 003_value_proposition_map.block.json
+│       │   ├── 004_brand_strategy_deck.block.json
+│       │   ├── 004_config_loader_env.block.json
+│       │   ├── 004_daily_weekly_checklists.block.json
+│       │   ├── 004_financial_forecast.block.json
+│       │   ├── 004_go_to_market_plan.block.json
+│       │   ├── 004_internal_plan.block.json
+│       │   ├── 004_job_scorecard.block.json
+│       │   ├── 004_objective_definition_sheet.block.json
+│       │   ├── 004_page_builders.block.json
+│       │   ├── 004_requirements_document.block.json
+│       │   ├── 004_sales_tax_reports.block.json
+│       │   ├── 004_terms_of_engagement.block.json
+│       │   ├── 004_use_of_funds_summary.block.json
+│       │   ├── 005_app_bootstrap_script.block.json
+│       │   ├── 005_break_even_analysis.block.json
+│       │   ├── 005_competitive_landscape.block.json
+│       │   ├── 005_feasibility_plan.block.json
+│       │   ├── 005_gtm_go_to_market_plan.block.json
+│       │   ├── 005_hiring_policy.block.json
+│       │   ├── 005_instructor_notes_template.block.json
+│       │   ├── 005_quality_assurance_workflows.block.json
+│       │   ├── 005_resource_allocation_plan.block.json
+│       │   ├── 005_statement_of_work_sow.block.json
+│       │   ├── 005_tax_deduction_log.block.json
+│       │   ├── 005_traction_snapshot.block.json
+│       │   ├── 005_view_containers.block.json
+│       │   ├── 006_articles_of_incorporation.block.json
+│       │   ├── 006_budget_forecast.block.json
+│       │   ├── 006_business_license.block.json
+│       │   ├── 006_customer_persona_sheet.block.json
+│       │   ├── 006_department_onboarding_guide.block.json
+│       │   ├── 006_internal_process_maps.block.json
+│       │   ├── 006_interview_guide.block.json
+│       │   ├── 006_market_sizing_report.block.json
+│       │   ├── 006_operational_plan.block.json
+│       │   ├── 006_rest_api_controller.block.json
+│       │   ├── 006_route_configs_router_map.block.json
+│       │   ├── 006_target_user_persona.block.json
+│       │   ├── 006_task_breakdown_sheet.block.json
+│       │   ├── 007_assumptions_log.block.json
+│       │   ├── 007_automation_scripts_macros.block.json
+│       │   ├── 007_cap_table.block.json
+│       │   ├── 007_dynamic_routing.block.json
+│       │   ├── 007_graphql_resolvers.block.json
+│       │   ├── 007_growth_plan.block.json
+│       │   ├── 007_offer_letter_template.block.json
+│       │   ├── 007_operating_agreement.block.json
+│       │   ├── 007_project_status_report.block.json
+│       │   ├── 007_reseller_permit.block.json
+│       │   ├── 007_role_specific_training_packet.block.json
+│       │   ├── 007_sales_forecast.block.json
+│       │   ├── 007_voice_of_customer_report.block.json
+│       │   ├── 008_competitive_landscape_map.block.json
+│       │   ├── 008_corporate_bylaws.block.json
+│       │   ├── 008_cost_analysis.block.json
+│       │   ├── 008_crm_operations_manual.block.json
+│       │   ├── 008_exit_plan.block.json
+│       │   ├── 008_financial_snapshot.block.json
+│       │   ├── 008_founder_equity_breakdown.block.json
+│       │   ├── 008_new_hire_onboarding_plan.block.json
+│       │   ├── 008_post_get_patch_handlers.block.json
+│       │   ├── 008_probation_period_goals.block.json
+│       │   ├── 008_protected_routes.block.json
+│       │   ├── 008_sellers_permit.block.json
+│       │   ├── 008_sprint_planning_sheet.block.json
+│       │   ├── 009_acquisition_plan.block.json
+│       │   ├── 009_board_resolutions.block.json
+│       │   ├── 009_employment_contract.block.json
+│       │   ├── 009_error_handler_function.block.json
+│       │   ├── 009_finance_system_playbook.block.json
+│       │   ├── 009_industry_trend_report.block.json
+│       │   ├── 009_job_shadowing_schedule.block.json
+│       │   ├── 009_kanban_board_export.block.json
+│       │   ├── 009_lazy_loaded_routes.block.json
+│       │   ├── 009_occupancy_permit.block.json
+│       │   ├── 009_option_pool_schedule.block.json
+│       │   ├── 009_pricing_strategy_report.block.json
+│       │   ├── 009_risk_matrix.block.json
+│       │   ├── 010_customer_service_playbook.block.json
+│       │   ├── 010_ein_assignment_letter.block.json
+│       │   ├── 010_food_health_license.block.json
+│       │   ├── 010_franchise_plan.block.json
+│       │   ├── 010_navigation_guards_redirects.block.json
+│       │   ├── 010_performance_review_template.block.json
+│       │   ├── 010_scenario_modeling_category_1__frontend_architecture.block.json
+│       │   ├── 010_shareholder_ledger.block.json
+│       │   ├── 010_tam_sam_som_analysis.block.json
+│       │   ├── 010_time_tracking_summary.block.json
+│       │   ├── 010_unit_economics_report.block.json
+│       │   ├── 010_validation_logic.block.json
+│       │   ├── 010_welcome_orientation_script.block.json
+│       │   ├── 011_360_feedback_form.block.json
+│       │   ├── 011_campaign_brief_template.block.json
+│       │   ├── 011_compliance_report.block.json
+│       │   ├── 011_convertible_note_tracker.block.json
+│       │   ├── 011_menu_structure_map.block.json
+│       │   ├── 011_nonprofit_plan.block.json
+│       │   ├── 011_rate_limiting_middleware.block.json
+│       │   ├── 011_revenue_model_diagram.block.json
+│       │   ├── 011_risk_management_plan.block.json
+│       │   ├── 011_slide_deck.block.json
+│       │   ├── 011_terms_of_service.block.json
+│       │   ├── 011_vendor_contract_template.block.json
+│       │   ├── 012_annual_report_state_filing.block.json
+│       │   ├── 012_breadcrumb_generator.block.json
+│       │   ├── 012_business_continuity_plan.block.json
+│       │   ├── 012_cron_jobs.block.json
+│       │   ├── 012_financial_overview.block.json
+│       │   ├── 012_improvement_plan_template.block.json
+│       │   ├── 012_interactive_worksheet.block.json
+│       │   ├── 012_issue_bug_tracker.block.json
+│       │   ├── 012_media_plan.block.json
+│       │   ├── 012_privacy_policy.block.json
+│       │   ├── 012_sla_service_level_agreement.block.json
+│       │   ├── 012_term_sheet.block.json
+│       │   ├── 013_change_request_form.block.json
+│       │   ├── 013_cookie_policy.block.json
+│       │   ├── 013_ein_documentation.block.json
+│       │   ├── 013_grid_system.block.json
+│       │   ├── 013_marketplace_plan.block.json
+│       │   ├── 013_onboarding_guide_for_vendors.block.json
+│       │   ├── 013_promotion_review_criteria.block.json
+│       │   ├── 013_promotional_calendar.block.json
+│       │   ├── 013_reading_packet.block.json
+│       │   ├── 013_safe_convertible_note.block.json
+│       │   ├── 013_use_of_funds.block.json
+│       │   ├── 014_blocker_resolution_log.block.json
+│       │   ├── 014_burn_rate_runway.block.json
+│       │   ├── 014_compensation_policy.block.json
+│       │   ├── 014_container_wrapper_components.block.json
+│       │   ├── 014_data_processing_agreement_dpa.block.json
+│       │   ├── 014_funnel_architecture_doc.block.json
+│       │   ├── 014_invoice_payment_guidelines.block.json
+│       │   ├── 014_registered_agent_agreement.block.json
+│       │   ├── 014_saas_plan.block.json
+│       │   ├── 014_share_purchase_agreement.block.json
+│       │   ├── 014_video_script_template.block.json
+│       │   ├── 015_accessibility_statement.block.json
+│       │   ├── 015_benefits_overview.block.json
+│       │   ├── 015_corporate_bylaws_operating_agreement.block.json
+│       │   ├── 015_ecommerce_plan.block.json
+│       │   ├── 015_founders_agreement.block.json
+│       │   ├── 015_funding_requirements.block.json
+│       │   ├── 015_incident_report.block.json
+│       │   ├── 015_responsive_utilities.block.json
+│       │   ├── 015_self_paced_learning_portal_map.block.json
+│       │   ├── 015_tech_stack_index.block.json
+│       │   ├── 015_utm_strategy_sheet.block.json
+│       │   ├── 016_access_management_sheet.block.json
+│       │   ├── 016_app_launch_plan.block.json
+│       │   ├── 016_brand_voice_guide.block.json
+│       │   ├── 016_equity_grant_agreement.block.json
+│       │   ├── 016_exit_scenario_projection.block.json
+│       │   ├── 016_irs_audit_documentation.block.json
+│       │   ├── 016_project_completion_summary.block.json
+│       │   ├── 016_quiz_test_template.block.json
+│       │   ├── 016_sticky_fixed_behavior.block.json
+│       │   ├── 016_trademark_registration.block.json
+│       │   ├── 016_voting_rights_agreement.block.json
+│       │   ├── 017_copyright_declaration.block.json
+│       │   ├── 017_creator_media_plan.block.json
+│       │   ├── 017_data_room_index.block.json
+│       │   ├── 017_gaap_compliant_reports.block.json
+│       │   ├── 017_independent_auditor_report.block.json
+│       │   ├── 017_internal_tool_instructions.block.json
+│       │   ├── 017_payroll_calendar.block.json
+│       │   ├── 017_retrospective_notes.block.json
+│       │   ├── 017_scroll_snap_overflow_handlers.block.json
+│       │   ├── 017_skills_demonstration_rubric.block.json
+│       │   ├── 017_tagline_cta_sheet.block.json
+│       │   ├── 018_audited_financials.block.json
+│       │   ├── 018_backup_redundancy_protocol.block.json
+│       │   ├── 018_certification_criteria_sheet.block.json
+│       │   ├── 018_client_handoff_packet.block.json
+│       │   ├── 018_core_messaging_grid.block.json
+│       │   ├── 018_education_plan.block.json
+│       │   ├── 018_expense_reimbursement_policy.block.json
+│       │   ├── 018_insurance_compliance_docs.block.json
+│       │   ├── 018_layout_toggle.block.json
+│       │   ├── 018_legal_entity_docs.block.json
+│       │   ├── 018_patent_filing.block.json
+│       │   ├── 019_elevator_pitch_sheet.block.json
+│       │   ├── 019_employee_handbook.block.json
+│       │   ├── 019_ip_assignment_agreement.block.json
+│       │   ├── 019_ip_ownership_records.block.json
+│       │   ├── 019_new_hire_ops_training_guide.block.json
+│       │   ├── 019_osha_compliance_records.block.json
+│       │   ├── 019_quarterly_filings.block.json
+│       │   ├── 019_retake_recovery_guidelines.block.json
+│       │   ├── 019_subscription_box_plan.block.json
+│       │   ├── 019_success_metrics_report.block.json
+│       │   ├── 019_tailwind_css.block.json
+│       │   ├── 020_anti_discrimination_policy.block.json
+│       │   ├── 020_archival_checklist.block.json
+│       │   ├── 020_department_runbook.block.json
+│       │   ├── 020_editorial_calendar.block.json
+│       │   ├── 020_financial_audit_trail.block.json
+│       │   ├── 020_financial_footnotes.block.json
+│       │   ├── 020_gdpr_ccpa_disclosure_file_category_4__investor_documentation.block.json
+│       │   ├── 020_learning_badge_generator_map.block.json
+│       │   ├── 020_licensing_agreement.block.json
+│       │   ├── 020_local_goods_farm_plan.block.json
+│       │   ├── 020_shadcn_radix_ui.block.json
+│       │   ├── 021_depreciation_schedules_category_3__tax___compliance_documentation.block.json
+│       │   ├── 021_harassment_prevention_policy.block.json
+│       │   ├── 021_hybrid_plan_category_2__financial_reports.block.json
+│       │   ├── 021_internal_wiki_pages.block.json
+│       │   ├── 021_learner_feedback_form.block.json
+│       │   ├── 021_material_ui_chakra_antd.block.json
+│       │   ├── 021_meeting_agenda_template.block.json
+│       │   ├── 021_risk_disclosure_report_category_5__operational_documentation.block.json
+│       │   ├── 021_shareholder_agreement.block.json
+│       │   ├── 021_social_media_playbook.block.json
+│       │   ├── 022_change_management_template_category_6__marketing_documentation.block.json
+│       │   ├── 022_code_of_conduct.block.json
+│       │   ├── 022_content_audit_tracker.block.json
+│       │   ├── 022_headless_ui.block.json
+│       │   ├── 022_instructor_reflection_log.block.json
+│       │   ├── 022_meeting_notes_log.block.json
+│       │   ├── 022_partnership_agreement.block.json
+│       │   ├── 023_asset_folder_structure.block.json
+│       │   ├── 023_framer_motion.block.json
+│       │   ├── 023_joint_venture_agreement.block.json
+│       │   ├── 023_team_roles_contacts_sheet.block.json
+│       │   ├── 023_termination_checklist_category_9__project_management_documentation.block.json
+│       │   ├── 023_training_satisfaction_survey.block.json
+│       │   ├── 024_brand_asset_kit_category_7__legal_documentation.block.json
+│       │   ├── 024_communication_protocol_guide.block.json
+│       │   ├── 024_learning_metrics_dashboard.block.json
+│       │   ├── 024_resizable_draggable_blocks.block.json
+│       │   ├── 024_voting_rights_agreement.block.json
+│       │   ├── 025_collaboration_platform_policy_category_10__educational___training_documentation.block.json
+│       │   ├── 025_retraining_trigger_protocol_category_11__embedded_reports__inside_plans_.block.json
+│       │   ├── 025_skeleton_loaders.block.json
+│       │   ├── 025_vesting_schedule_agreement_category_8__hr_documentation.block.json
+│       │   ├── 026_lazy_loading_suspense.block.json
+│       │   ├── 027_route_prefetching.block.json
+│       │   ├── 028_meta_title_tag_manager.block.json
+│       │   ├── 029_scroll_restoration.block.json
+│       │   ├── 030_accessibility_tree_optimizers.block.json
+│       │   ├── 031_toast_notifications.block.json
+│       │   ├── 032_modals_dialogs.block.json
+│       │   ├── 033_tabs_accordions.block.json
+│       │   ├── 034_skeleton_states.block.json
+│       │   ├── 035_error_boundaries.block.json
+│       │   ├── 036_theme_switcher.block.json
+│       │   ├── 037_app_jsx_app_tsx.block.json
+│       │   ├── 038_main_jsx_index_tsx.block.json
+│       │   ├── 039_page_tsx_layout_tsx.block.json
+│       │   ├── 040_rootprovider_tsx.block.json
+│       │   ├── 041_routemap_json_category_2__backend___server_logic.block.json
+│       │   ├── 10a_build_targets_adapter_config_vercel_netlify.block.json
+│       │   ├── 10a_build_targets_dev_stage_prod_target_files.block.json
+│       │   ├── 10a_build_targets_dockerfile.block.json
+│       │   ├── 10a_build_targets_pwa_static_ssr_toggle_logic.block.json
+│       │   ├── 10a_build_targets_vite_next_js_webpack_config.block.json
+│       │   ├── 10a_lesson_curriculum_instructor_notes_template.block.json
+│       │   ├── 10a_lesson_curriculum_multi_lesson_curriculum.block.json
+│       │   ├── 10a_lesson_curriculum_objective_definition_sheet.block.json
+│       │   ├── 10a_lesson_curriculum_teaching_plan.block.json
+│       │   ├── 10a_lesson_curriculum_training_pathway_map.block.json
+│       │   ├── 10b_env_vars_cross_environment_overrides.block.json
+│       │   ├── 10b_env_vars_env_local_env_production.block.json
+│       │   ├── 10b_env_vars_fallback_default_values.block.json
+│       │   ├── 10b_env_vars_public_vs_private_var_conventions.block.json
+│       │   ├── 10b_env_vars_runtime_variable_injection.block.json
+│       │   ├── 10b_onboarding_role_training_department_onboarding_guide.block.json
+│       │   ├── 10b_onboarding_role_training_job_shadowing_schedule.block.json
+│       │   ├── 10b_onboarding_role_training_probation_period_goals.block.json
+│       │   ├── 10b_onboarding_role_training_role_specific_training_packet.block.json
+│       │   ├── 10b_onboarding_role_training_welcome_orientation_script.block.json
+│       │   ├── 10c_ci_cd_pipeline_auto_tagging_versioning.block.json
+│       │   ├── 10c_ci_cd_pipeline_build_cache_logic.block.json
+│       │   ├── 10c_ci_cd_pipeline_build_test_lint_steps.block.json
+│       │   ├── 10c_ci_cd_pipeline_github_actions_gitlab_ci.block.json
+│       │   ├── 10c_ci_cd_pipeline_preview_deployments_pr_based.block.json
+│       │   ├── 10c_learning_materials_formats_interactive_worksheet.block.json
+│       │   ├── 10c_learning_materials_formats_reading_packet.block.json
+│       │   ├── 10c_learning_materials_formats_self_paced_learning_portal_map.block.json
+│       │   ├── 10c_learning_materials_formats_slide_deck.block.json
+│       │   ├── 10c_learning_materials_formats_video_script_template.block.json
+│       │   ├── 10d_assessment_certification_certification_criteria_sheet.block.json
+│       │   ├── 10d_assessment_certification_learning_badge_generator_map.block.json
+│       │   ├── 10d_assessment_certification_quiz_test_template.block.json
+│       │   ├── 10d_assessment_certification_retake_recovery_guidelines.block.json
+│       │   ├── 10d_assessment_certification_skills_demonstration_rubric.block.json
+│       │   ├── 10d_infrastructure_as_code_cloud_permissions_policies.block.json
+│       │   ├── 10d_infrastructure_as_code_custom_hosting_logic.block.json
+│       │   ├── 10d_infrastructure_as_code_dns_config_files.block.json
+│       │   ├── 10d_infrastructure_as_code_s3_bucket_config.block.json
+│       │   ├── 10d_infrastructure_as_code_terraform_pulumi_scripts.block.json
+│       │   ├── 10e_app_lifecycle_auto_restart_pm2_systemd.block.json
+│       │   ├── 10e_app_lifecycle_cli_deploy_tools_vercel_supabase.block.json
+│       │   ├── 10e_app_lifecycle_healthcheck_endpoint_health.block.json
+│       │   ├── 10e_app_lifecycle_npm_run_build_start_serve.block.json
+│       │   ├── 10e_app_lifecycle_predeploy_postdeploy_hooks.block.json
+│       │   ├── 10e_reflection_feedback_instructor_reflection_log.block.json
+│       │   ├── 10e_reflection_feedback_learner_feedback_form.block.json
+│       │   ├── 10e_reflection_feedback_learning_metrics_dashboard.block.json
+│       │   ├── 10e_reflection_feedback_re_training_trigger_protocol.block.json
+│       │   ├── 10e_reflection_feedback_training_satisfaction_survey.block.json
+│       │   ├── 10f_secrets_vaults_encryption_at_rest_in_transit.block.json
+│       │   ├── 10f_secrets_vaults_env_secrets_or_vault_provider.block.json
+│       │   ├── 10f_secrets_vaults_role_based_secret_access.block.json
+│       │   ├── 10f_secrets_vaults_secrets_access_api_sdk.block.json
+│       │   ├── 10f_secrets_vaults_vault_rotation_logic.block.json
+│       │   ├── 11a_auth_access_control_account_lockout_policy.block.json
+│       │   ├── 11a_auth_access_control_mfa_2fa_enforcement.block.json
+│       │   ├── 11a_auth_access_control_role_based_access_enforcement_rbac.block.json
+│       │   ├── 11a_auth_access_control_secure_cookie_config_httponly_samesite.block.json
+│       │   ├── 11a_auth_access_control_session_expiry_timeout_logic.block.json
+│       │   ├── 11b_data_encryption_at_rest_encryption.block.json
+│       │   ├── 11b_data_encryption_field_level_encryption.block.json
+│       │   ├── 11b_data_encryption_https_everywhere_ssl_tls.block.json
+│       │   ├── 11b_data_encryption_key_rotation_policy.block.json
+│       │   ├── 11b_data_encryption_password_hashing_bcrypt_argon2.block.json
+│       │   ├── 11c_api_route_security_auth_middleware_on_protected_routes.block.json
+│       │   ├── 11c_api_route_security_cors_policy_configuration.block.json
+│       │   ├── 11c_api_route_security_input_sanitization.block.json
+│       │   ├── 11c_api_route_security_rate_limiting_throttling.block.json
+│       │   ├── 11c_api_route_security_signature_validation_for_webhooks.block.json
+│       │   ├── 11d_infra_hosting_security_ddos_protection_layer.block.json
+│       │   ├── 11d_infra_hosting_security_firewall_network_acls.block.json
+│       │   ├── 11d_infra_hosting_security_isolated_database_credentials.block.json
+│       │   ├── 11d_infra_hosting_security_secure_deployment_scripts.block.json
+│       │   ├── 11d_infra_hosting_security_ssh_key_rotation.block.json
+│       │   ├── 11e_compliance_legal_audit_logs_change_tracking.block.json
+│       │   ├── 11e_compliance_legal_data_breach_notification_system.block.json
+│       │   ├── 11e_compliance_legal_gdpr_ccpa_consent_handling.block.json
+│       │   ├── 11e_compliance_legal_privacy_policy_page.block.json
+│       │   ├── 11e_compliance_legal_terms_of_service_usage_policy.block.json
+│       │   ├── 11f_security_testing_monitoring_incident_monitoring_sentry_logrocket.block.json
+│       │   ├── 11f_security_testing_monitoring_penetration_test_support.block.json
+│       │   ├── 11f_security_testing_monitoring_rate_limit_abuse_alert_system.block.json
+│       │   ├── 11f_security_testing_monitoring_sast_dast_integration.block.json
+│       │   ├── 11f_security_testing_monitoring_vulnerability_scanner_e_g_snyk.block.json
+│       │   ├── 12a_local_dev_environment_debug_mode_flags.block.json
+│       │   ├── 12a_local_dev_environment_env_local_example_file.block.json
+│       │   ├── 12a_local_dev_environment_live_reload_server.block.json
+│       │   ├── 12a_local_dev_environment_local_dev_proxy.block.json
+│       │   ├── 12a_local_dev_environment_preconfigured_vite_next_app.block.json
+│       │   ├── 12b_code_quality_frameworks_commit_lint.block.json
+│       │   ├── 12b_code_quality_frameworks_eslint_prettier.block.json
+│       │   ├── 12b_code_quality_frameworks_git_hooks_e_g_husky.block.json
+│       │   ├── 12b_code_quality_frameworks_import_path_aliases.block.json
+│       │   ├── 12b_code_quality_frameworks_typescript_strict_mode.block.json
+│       │   ├── 12c_hot_reload_preview_component_scoped_hot_reload.block.json
+│       │   ├── 12c_hot_reload_preview_preview_pane_for_uis.block.json
+│       │   ├── 12c_hot_reload_preview_react_fast_refresh.block.json
+│       │   ├── 12c_hot_reload_preview_tailwind_jit_mode.block.json
+│       │   ├── 12c_hot_reload_preview_vite_webpack_watch_mode.block.json
+│       │   ├── 12d_mocking_fixtures_storybook_dummy_data_generator_faker_js.block.json
+│       │   ├── 12d_mocking_fixtures_storybook_fixture_loader_scripts.block.json
+│       │   ├── 12d_mocking_fixtures_storybook_local_email_webhook_tester.block.json
+│       │   ├── 12d_mocking_fixtures_storybook_msw_mock_service_worker.block.json
+│       │   ├── 12d_mocking_fixtures_storybook_storybook_setup.block.json
+│       │   ├── 12e_cli_scripts_codegen_cli_feedback_logging.block.json
+│       │   ├── 12e_cli_scripts_codegen_codegen_from_swagger_openapi.block.json
+│       │   ├── 12e_cli_scripts_codegen_custom_dev_cli.block.json
+│       │   ├── 12e_cli_scripts_codegen_file_scaffolding_generator.block.json
+│       │   ├── 12e_cli_scripts_codegen_vscode_snippets.block.json
+│       │   ├── 12f_developer_docs_meta_architecture_diagram.block.json
+│       │   ├── 12f_developer_docs_meta_contributing_guidelines.block.json
+│       │   ├── 12f_developer_docs_meta_dev_roadmap_notes.block.json
+│       │   ├── 12f_developer_docs_meta_in_code_comments_with_tags.block.json
+│       │   ├── 12f_developer_docs_meta_readme_md_setup_docs.block.json
+│       │   ├── 14a_payment_gateway_integration_hosted_checkout_pages.block.json
+│       │   ├── 14a_payment_gateway_integration_native_ui_components.block.json
+│       │   ├── 14a_payment_gateway_integration_payment_status_polling_redirects.block.json
+│       │   ├── 14a_payment_gateway_integration_saved_payment_methods.block.json
+│       │   ├── 14a_payment_gateway_integration_stripe_paypal_paddle_sdks.block.json
+│       │   ├── 14b_billing_plans_subscriptions_monthly_annual_billing_modes.block.json
+│       │   ├── 14b_billing_plans_subscriptions_proration_mid_cycle_adjustments.block.json
+│       │   ├── 14b_billing_plans_subscriptions_quantity_based_plans.block.json
+│       │   ├── 14b_billing_plans_subscriptions_subscription_tiers_trials.block.json
+│       │   ├── 14b_billing_plans_subscriptions_usage_metering_logic.block.json
+│       │   ├── 14c_invoice_tax_currency_legal_entity_metadata.block.json
+│       │   ├── 14c_invoice_tax_currency_line_item_breakdown.block.json
+│       │   ├── 14c_invoice_tax_currency_multi_currency_handling.block.json
+│       │   ├── 14c_invoice_tax_currency_pdf_invoice_generation.block.json
+│       │   ├── 14c_invoice_tax_currency_vat_gst_support.block.json
+│       │   ├── 14d_billing_webhooks_events_cancel_resume_events.block.json
+│       │   ├── 14d_billing_webhooks_events_payment_success_failure_hooks.block.json
+│       │   ├── 14d_billing_webhooks_events_refund_event_tracker.block.json
+│       │   ├── 14d_billing_webhooks_events_retry_grace_period_logic.block.json
+│       │   ├── 14d_billing_webhooks_events_subscription_created_updated_hook.block.json
+│       │   ├── 14e_security_compliance_access_audit_trail.block.json
+│       │   ├── 14e_security_compliance_card_validation_fraud_checks.block.json
+│       │   ├── 14e_security_compliance_dpa_gdpr_compliant.block.json
+│       │   ├── 14e_security_compliance_encrypted_vault_storage.block.json
+│       │   ├── 14e_security_compliance_pci_dss_secure_handling.block.json
+│       │   ├── 14f_wallets_credits_rewards_bonus_top_up_events.block.json
+│       │   ├── 14f_wallets_credits_rewards_coupon_discount_engine.block.json
+│       │   ├── 14f_wallets_credits_rewards_referral_credit_program.block.json
+│       │   ├── 14f_wallets_credits_rewards_usage_cap_top_off_logic.block.json
+│       │   ├── 14f_wallets_credits_rewards_user_wallet_balance_system.block.json
+│       │   ├── 15a_system_notifications_badge_counters.block.json
+│       │   ├── 15a_system_notifications_banner_announcements.block.json
+│       │   ├── 15a_system_notifications_modal_notifications.block.json
+│       │   ├── 15a_system_notifications_notification_drawer_center.block.json
+│       │   ├── 15a_system_notifications_toasts_snackbars.block.json
+│       │   ├── 15b_email_sms_push_delivery_retry_status_tracking.block.json
+│       │   ├── 15b_email_sms_push_email_service_integration_e_g_resend_sendgrid.block.json
+│       │   ├── 15b_email_sms_push_sms_gateway_e_g_twilio_vonage.block.json
+│       │   ├── 15b_email_sms_push_template_based_messaging.block.json
+│       │   ├── 15b_email_sms_push_web_push_notifications.block.json
+│       │   ├── 15c_realtime_communication_broadcast_pubsub_engine.block.json
+│       │   ├── 15c_realtime_communication_chatroom_or_lobby_sync.block.json
+│       │   ├── 15c_realtime_communication_presence_system_online_offline.block.json
+│       │   ├── 15c_realtime_communication_typing_indicator.block.json
+│       │   ├── 15c_realtime_communication_websocket_socket_io_integration.block.json
+│       │   ├── 15d_notification_preferences_admin_override_logic.block.json
+│       │   ├── 15d_notification_preferences_mute_thread_conversation_option.block.json
+│       │   ├── 15d_notification_preferences_per_type_toggle_settings.block.json
+│       │   ├── 15d_notification_preferences_quiet_hours_do_not_disturb.block.json
+│       │   ├── 15d_notification_preferences_user_preferences_panel.block.json
+│       │   ├── 15e_messaging_threads_direct_messages.block.json
+│       │   ├── 15e_messaging_threads_group_chat.block.json
+│       │   ├── 15e_messaging_threads_message_read_receipts.block.json
+│       │   ├── 15e_messaging_threads_pinned_messages_links.block.json
+│       │   ├── 15e_messaging_threads_threaded_conversation_support.block.json
+│       │   ├── 15f_privacy_moderation_admin_panel_for_flagged_content.block.json
+│       │   ├── 15f_privacy_moderation_message_filtering_spam_logic.block.json
+│       │   ├── 15f_privacy_moderation_rate_limiting_abuse_detection.block.json
+│       │   ├── 15f_privacy_moderation_report_block_user_feature.block.json
+│       │   ├── 15f_privacy_moderation_word_phrase_blocklist.block.json
+│       │   ├── 16a_search_engine_integration_elasticsearch_typesense_meilisearch.block.json
+│       │   ├── 16a_search_engine_integration_full_text_search_fts_in_db.block.json
+│       │   ├── 16a_search_engine_integration_fuzzy_match_logic.block.json
+│       │   ├── 16a_search_engine_integration_keyword_highlight_logic.block.json
+│       │   ├── 16a_search_engine_integration_reindex_scheduler_sync_hook.block.json
+│       │   ├── 16b_filter_logic_components_filter_reset_clear_buttons.block.json
+│       │   ├── 16b_filter_logic_components_filter_state_sync_via_url_params.block.json
+│       │   ├── 16b_filter_logic_components_multi_facet_filtering.block.json
+│       │   ├── 16b_filter_logic_components_nested_filter_groups.block.json
+│       │   ├── 16b_filter_logic_components_range_sliders_toggles.block.json
+│       │   ├── 16c_smart_query_builders_custom_sort_filter_dsl_syntax.block.json
+│       │   ├── 16c_smart_query_builders_filter_db_where_clause_translator.block.json
+│       │   ├── 16c_smart_query_builders_natural_language_structured_query.block.json
+│       │   ├── 16c_smart_query_builders_prebuilt_query_snippets.block.json
+│       │   ├── 16c_smart_query_builders_query_dsl_generator_elasticsearch.block.json
+│       │   ├── 16d_sort_pagination_logic_lazy_loading_for_pages.block.json
+│       │   ├── 16d_sort_pagination_logic_pagination_vs_infinite_scroll.block.json
+│       │   ├── 16d_sort_pagination_logic_sort_by_relevance_date_price.block.json
+│       │   ├── 16d_sort_pagination_logic_sort_direction_toggle_asc_desc.block.json
+│       │   ├── 16d_sort_pagination_logic_sticky_sort_headers.block.json
+│       │   ├── 16e_live_filtering_ux_clear_query_input_button.block.json
+│       │   ├── 16e_live_filtering_ux_history_aware_filter_navigation.block.json
+│       │   ├── 16e_live_filtering_ux_input_debounce_delay.block.json
+│       │   ├── 16e_live_filtering_ux_instant_filter_re_eval.block.json
+│       │   ├── 16e_live_filtering_ux_skeleton_loader_loading_spinner.block.json
+│       │   ├── 16f_query_access_control_filter_by_user_role.block.json
+│       │   ├── 16f_query_access_control_query_limit_cap_quotas.block.json
+│       │   ├── 16f_query_access_control_result_masking_logic.block.json
+│       │   ├── 16f_query_access_control_scoped_search_by_ownership.block.json
+│       │   ├── 16f_query_access_control_search_scopes_public_vs_private.block.json
+│       │   ├── 17a_language_translation_infrastructure_component_level_translation_hooks.block.json
+│       │   ├── 17a_language_translation_infrastructure_i18next_lingui_formatjs.block.json
+│       │   ├── 17a_language_translation_infrastructure_icu_message_formatting.block.json
+│       │   ├── 17a_language_translation_infrastructure_language_pack_auto_detection.block.json
+│       │   ├── 17a_language_translation_infrastructure_static_vs_dynamic_language_files.block.json
+│       │   ├── 17b_timezones_and_date_logic_date_fns_luxon_moment.block.json
+│       │   ├── 17b_timezones_and_date_logic_dst_daylight_savings_support.block.json
+│       │   ├── 17b_timezones_and_date_logic_relative_time_display.block.json
+│       │   ├── 17b_timezones_and_date_logic_timezone_aware_scheduling.block.json
+│       │   ├── 17b_timezones_and_date_logic_utc_local_time_conversion.block.json
+│       │   ├── 17c_locale_currency_units_intl_datetimeformat_api.block.json
+│       │   ├── 17c_locale_currency_units_intl_numberformat_api.block.json
+│       │   ├── 17c_locale_currency_units_localized_sorting_e_g_unicode.block.json
+│       │   ├── 17c_locale_currency_units_metric_vs_imperial_unit_toggles.block.json
+│       │   ├── 17c_locale_currency_units_regional_address_name_order.block.json
+│       │   ├── 17d_fallback_logic_strategy_custom_placeholder_strategy.block.json
+│       │   ├── 17d_fallback_logic_strategy_key_namespacing_grouping.block.json
+│       │   ├── 17d_fallback_logic_strategy_language_fallback_chain.block.json
+│       │   ├── 17d_fallback_logic_strategy_missing_key_display_behavior.block.json
+│       │   ├── 17d_fallback_logic_strategy_translation_completeness_tracker.block.json
+│       │   ├── 17e_dynamic_user_preference_switching_auto_restore_from_previous_visit.block.json
+│       │   ├── 17e_dynamic_user_preference_switching_language_picker_dropdown.block.json
+│       │   ├── 17e_dynamic_user_preference_switching_locale_hooks_for_react_components.block.json
+│       │   ├── 17e_dynamic_user_preference_switching_localstorage_db_saved_preferences.block.json
+│       │   ├── 17e_dynamic_user_preference_switching_rtl_mode_toggling_right_to_left.block.json
+│       │   ├── 17f_region_aware_ux_policies_country_specific_banners_or_warnings.block.json
+│       │   ├── 17f_region_aware_ux_policies_feature_availability_by_locale.block.json
+│       │   ├── 17f_region_aware_ux_policies_gdpr_vs_ccpa_display_logic.block.json
+│       │   ├── 17f_region_aware_ux_policies_geoip_detection.block.json
+│       │   ├── 17f_region_aware_ux_policies_terms_of_use_by_region.block.json
+│       │   ├── 18a_form_builders_components_field_group_layouts_rows_cards.block.json
+│       │   ├── 18a_form_builders_components_react_hook_form_formik.block.json
+│       │   ├── 18a_form_builders_components_reusable_form_blocks.block.json
+│       │   ├── 18a_form_builders_components_styled_labels_help_text_tooltips.block.json
+│       │   ├── 18a_form_builders_components_ui_component_kits_e_g_shadcn_mui.block.json
+│       │   ├── 18b_validation_schema_engines_custom_error_messages_hints.block.json
+│       │   ├── 18b_validation_schema_engines_field_level_form_level_logic.block.json
+│       │   ├── 18b_validation_schema_engines_show_on_blur_vs_realtime_vs_submit.block.json
+│       │   ├── 18b_validation_schema_engines_synchronous_async_rules.block.json
+│       │   ├── 18b_validation_schema_engines_zod_yup_schema_validation.block.json
+│       │   ├── 18c_dynamic_field_logic_conditional_visibility.block.json
+│       │   ├── 18c_dynamic_field_logic_dynamic_selects_option_loaders.block.json
+│       │   ├── 18c_dynamic_field_logic_inter_field_dependency_logic.block.json
+│       │   ├── 18c_dynamic_field_logic_multi_step_form_wizards.block.json
+│       │   ├── 18c_dynamic_field_logic_repeatable_field_arrays.block.json
+│       │   ├── 18d_input_security_sanitization_html_escaping_injection_filter.block.json
+│       │   ├── 18d_input_security_sanitization_input_masking_phone_cc_ssn.block.json
+│       │   ├── 18d_input_security_sanitization_password_strength_meter.block.json
+│       │   ├── 18d_input_security_sanitization_rate_limiting_on_submission.block.json
+│       │   ├── 18d_input_security_sanitization_validation_rate_cap_logic.block.json
+│       │   ├── 18e_submission_lifecycle_auto_save_drafts_timeouts.block.json
+│       │   ├── 18e_submission_lifecycle_form_reset_error_recovery.block.json
+│       │   ├── 18e_submission_lifecycle_hook_into_save_create_apis.block.json
+│       │   ├── 18e_submission_lifecycle_multi_state_button_logic.block.json
+│       │   ├── 18e_submission_lifecycle_optimistic_vs_confirmed_submission.block.json
+│       │   ├── 18f_custom_fields_ux_patterns_ai_autofill_or_predictive_entry.block.json
+│       │   ├── 18f_custom_fields_ux_patterns_custom_input_types_tags_sliders.block.json
+│       │   ├── 18f_custom_fields_ux_patterns_form_as_wizard_dialogue.block.json
+│       │   ├── 18f_custom_fields_ux_patterns_hidden_metadata_inputs.block.json
+│       │   ├── 18f_custom_fields_ux_patterns_keyboard_navigation_optimization.block.json
+│       │   ├── 19a_upload_ui_ux_drag_and_drop_zones.block.json
+│       │   ├── 19a_upload_ui_ux_file_picker_with_type_restrictions.block.json
+│       │   ├── 19a_upload_ui_ux_file_size_display.block.json
+│       │   ├── 19a_upload_ui_ux_retry_cancel_upload_buttons.block.json
+│       │   ├── 19a_upload_ui_ux_upload_progress_bar.block.json
+│       │   ├── 19b_storage_access_handling_cdn_delivery_hook.block.json
+│       │   ├── 19b_storage_access_handling_folder_path_convention.block.json
+│       │   ├── 19b_storage_access_handling_private_vs_public_acls.block.json
+│       │   ├── 19b_storage_access_handling_signed_url_generation.block.json
+│       │   ├── 19b_storage_access_handling_supabase_s3_firebase_buckets.block.json
+│       │   ├── 19c_media_processing_audio_format_conversion.block.json
+│       │   ├── 19c_media_processing_convert_to_text_ocr_optional.block.json
+│       │   ├── 19c_media_processing_image_resizing_compression.block.json
+│       │   ├── 19c_media_processing_pdf_preview_page_extraction.block.json
+│       │   ├── 19c_media_processing_video_transcode_hls_mp4_etc.block.json
+│       │   ├── 19d_preview_thumbs_metadata_aspect_ratio_orientation_check.block.json
+│       │   ├── 19d_preview_thumbs_metadata_exif_or_file_metadata_extraction.block.json
+│       │   ├── 19d_preview_thumbs_metadata_mime_type_detection.block.json
+│       │   ├── 19d_preview_thumbs_metadata_preview_renderer_image_video.block.json
+│       │   ├── 19d_preview_thumbs_metadata_thumbnail_generation.block.json
+│       │   ├── 19e_file_security_quotas_encrypted_upload_stream.block.json
+│       │   ├── 19e_file_security_quotas_file_type_whitelist_blacklist.block.json
+│       │   ├── 19e_file_security_quotas_max_size_limits.block.json
+│       │   ├── 19e_file_security_quotas_per_user_storage_quotas.block.json
+│       │   ├── 19e_file_security_quotas_virus_scanner_integration_e_g_clamav.block.json
+│       │   ├── 19f_linking_referencing_expiry_audit_trail_for_file_changes.block.json
+│       │   ├── 19f_linking_referencing_expiry_auto_cleanup_logic.block.json
+│       │   ├── 19f_linking_referencing_expiry_expiring_download_links.block.json
+│       │   ├── 19f_linking_referencing_expiry_file_to_entity_linking.block.json
+│       │   ├── 19f_linking_referencing_expiry_rename_on_upload_convention.block.json
+│       │   ├── 1a_component_layout_atomic_component_library.block.json
+│       │   ├── 1a_component_layout_page_builders.block.json
+│       │   ├── 1a_component_layout_page_layout_templates.block.json
+│       │   ├── 1a_component_layout_section_components.block.json
+│       │   ├── 1a_component_layout_view_containers.block.json
+│       │   ├── 1a_primary_plan_types_acquisition_plan.block.json
+│       │   ├── 1a_primary_plan_types_app_launch_plan.block.json
+│       │   ├── 1a_primary_plan_types_business_continuity_plan.block.json
+│       │   ├── 1a_primary_plan_types_creator_media_plan.block.json
+│       │   ├── 1a_primary_plan_types_ecommerce_plan.block.json
+│       │   ├── 1a_primary_plan_types_education_plan.block.json
+│       │   ├── 1a_primary_plan_types_exit_plan.block.json
+│       │   ├── 1a_primary_plan_types_feasibility_plan.block.json
+│       │   ├── 1a_primary_plan_types_franchise_plan.block.json
+│       │   ├── 1a_primary_plan_types_growth_plan.block.json
+│       │   ├── 1a_primary_plan_types_hybrid_plan.block.json
+│       │   ├── 1a_primary_plan_types_internal_plan.block.json
+│       │   ├── 1a_primary_plan_types_lean_plan.block.json
+│       │   ├── 1a_primary_plan_types_local_goods_farm_plan.block.json
+│       │   ├── 1a_primary_plan_types_marketplace_plan.block.json
+│       │   ├── 1a_primary_plan_types_nonprofit_plan.block.json
+│       │   ├── 1a_primary_plan_types_operational_plan.block.json
+│       │   ├── 1a_primary_plan_types_saas_plan.block.json
+│       │   ├── 1a_primary_plan_types_startup_plan.block.json
+│       │   ├── 1a_primary_plan_types_strategic_plan.block.json
+│       │   ├── 1a_primary_plan_types_subscription_box_plan.block.json
+│       │   ├── 1b_plan_subtypes_formats_bank_ready_plan.block.json
+│       │   ├── 1b_plan_subtypes_formats_exit_summary.block.json
+│       │   ├── 1b_plan_subtypes_formats_franchise_kit_plan.block.json
+│       │   ├── 1b_plan_subtypes_formats_grant_application_plan.block.json
+│       │   ├── 1b_plan_subtypes_formats_internal_use_plan.block.json
+│       │   ├── 1b_plan_subtypes_formats_investor_memo.block.json
+│       │   ├── 1b_plan_subtypes_formats_one_page_plan.block.json
+│       │   ├── 1b_plan_subtypes_formats_pitch_deck.block.json
+│       │   ├── 1b_routing_navigation_breadcrumb_generator.block.json
+│       │   ├── 1b_routing_navigation_dynamic_routing.block.json
+│       │   ├── 1b_routing_navigation_lazy_loaded_routes.block.json
+│       │   ├── 1b_routing_navigation_menu_structure_map.block.json
+│       │   ├── 1b_routing_navigation_navigation_guards_redirects.block.json
+│       │   ├── 1b_routing_navigation_protected_routes.block.json
+│       │   ├── 1b_routing_navigation_route_configs_router_map.block.json
+│       │   ├── 1c_embedded_reports_competitive_landscape.block.json
+│       │   ├── 1c_embedded_reports_customer_segments.block.json
+│       │   ├── 1c_embedded_reports_executive_summary.block.json
+│       │   ├── 1c_embedded_reports_exit_strategy.block.json
+│       │   ├── 1c_embedded_reports_financial_forecast.block.json
+│       │   ├── 1c_embedded_reports_funding_requirements.block.json
+│       │   ├── 1c_embedded_reports_go_to_market_strategy.block.json
+│       │   ├── 1c_embedded_reports_milestones_timeline.block.json
+│       │   ├── 1c_embedded_reports_problem_solution_fit.block.json
+│       │   ├── 1c_embedded_reports_revenue_model.block.json
+│       │   ├── 1c_embedded_reports_swot_analysis.block.json
+│       │   ├── 1c_embedded_reports_tam_sam_som.block.json
+│       │   ├── 1c_embedded_reports_team_overview.block.json
+│       │   ├── 1c_embedded_reports_unit_economics.block.json
+│       │   ├── 1c_layout_responsive_container_wrapper_components.block.json
+│       │   ├── 1c_layout_responsive_grid_system.block.json
+│       │   ├── 1c_layout_responsive_layout_toggle_grid_list_etc.block.json
+│       │   ├── 1c_layout_responsive_responsive_utilities.block.json
+│       │   ├── 1c_layout_responsive_scroll_snap_overflow_handlers.block.json
+│       │   ├── 1c_layout_responsive_sticky_fixed_behavior.block.json
+│       │   ├── 1d_ui_framework_integration_framer_motion.block.json
+│       │   ├── 1d_ui_framework_integration_headless_ui.block.json
+│       │   ├── 1d_ui_framework_integration_material_ui_chakra_antd.block.json
+│       │   ├── 1d_ui_framework_integration_resizable_draggable_blocks.block.json
+│       │   ├── 1d_ui_framework_integration_shadcn_radix_ui.block.json
+│       │   ├── 1d_ui_framework_integration_tailwind_css.block.json
+│       │   ├── 1e_performance_seo_accessibility_tree_optimizers.block.json
+│       │   ├── 1e_performance_seo_lazy_loading_suspense.block.json
+│       │   ├── 1e_performance_seo_meta_title_tag_manager.block.json
+│       │   ├── 1e_performance_seo_route_prefetching.block.json
+│       │   ├── 1e_performance_seo_scroll_restoration.block.json
+│       │   ├── 1e_performance_seo_skeleton_loaders.block.json
+│       │   ├── 1f_ui_utilities_error_boundaries.block.json
+│       │   ├── 1f_ui_utilities_modals_dialogs.block.json
+│       │   ├── 1f_ui_utilities_skeleton_states.block.json
+│       │   ├── 1f_ui_utilities_tabs_accordions.block.json
+│       │   ├── 1f_ui_utilities_theme_switcher.block.json
+│       │   ├── 1f_ui_utilities_toast_notifications.block.json
+│       │   ├── 1g_app_entry_shell_app_jsx_app_tsx.block.json
+│       │   ├── 1g_app_entry_shell_main_jsx_index_tsx.block.json
+│       │   ├── 1g_app_entry_shell_page_tsx_layout_tsx.block.json
+│       │   ├── 1g_app_entry_shell_rootprovider_tsx.block.json
+│       │   ├── 1g_app_entry_shell_routemap_json_or_route_ts.block.json
+│       │   ├── 20a_api_gateway_calls_axios_fetch_wrapper_with_retry.block.json
+│       │   ├── 20a_api_gateway_calls_batched_or_debounced_api_logic.block.json
+│       │   ├── 20a_api_gateway_calls_central_api_call_handler.block.json
+│       │   ├── 20a_api_gateway_calls_global_auth_token_injection.block.json
+│       │   ├── 20a_api_gateway_calls_rate_limit_watcher.block.json
+│       │   ├── 20b_oauth_identity_providers_consent_screen_scope_setup.block.json
+│       │   ├── 20b_oauth_identity_providers_google_github_discord_login.block.json
+│       │   ├── 20b_oauth_identity_providers_openid_connect_provider_integration.block.json
+│       │   ├── 20b_oauth_identity_providers_refresh_token_storage.block.json
+│       │   ├── 20b_oauth_identity_providers_token_revocation_logout_handling.block.json
+│       │   ├── 20c_third_party_saas_tools_notion_airtable_google_sheets.block.json
+│       │   ├── 20c_third_party_saas_tools_salesforce_hubspot_api.block.json
+│       │   ├── 20c_third_party_saas_tools_shopify_stripe_printful_sync.block.json
+│       │   ├── 20c_third_party_saas_tools_slack_discord_teams_bots.block.json
+│       │   ├── 20c_third_party_saas_tools_zapier_make_com_connector.block.json
+│       │   ├── 20d_analytics_marketing_tools_attribution_tracking_logic.block.json
+│       │   ├── 20d_analytics_marketing_tools_email_automation_apis_mailchimp.block.json
+│       │   ├── 20d_analytics_marketing_tools_facebook_pixel_twitter_tag.block.json
+│       │   ├── 20d_analytics_marketing_tools_google_analytics_mixpanel.block.json
+│       │   ├── 20d_analytics_marketing_tools_segment_rudderstack_hook.block.json
+│       │   ├── 20e_api_secrets_limits_encrypted_api_key_vault.block.json
+│       │   ├── 20e_api_secrets_limits_obfuscated_key_naming_convention.block.json
+│       │   ├── 20e_api_secrets_limits_proxy_gateway_for_hidden_calls.block.json
+│       │   ├── 20e_api_secrets_limits_quota_monitor_logic.block.json
+│       │   ├── 20e_api_secrets_limits_role_based_api_credential_access.block.json
+│       │   ├── 20f_integration_health_sync_integration_event_logs.block.json
+│       │   ├── 20f_integration_health_sync_manual_resync_button.block.json
+│       │   ├── 20f_integration_health_sync_retry_failed_api_syncs.block.json
+│       │   ├── 20f_integration_health_sync_stale_data_alerts.block.json
+│       │   ├── 20f_integration_health_sync_status_page_or_health_check_logic.block.json
+│       │   ├── 21a_roles_permissions_crud_matrix_definition.block.json
+│       │   ├── 21a_roles_permissions_per_route_component_auth_wrappers.block.json
+│       │   ├── 21a_roles_permissions_permission_toggles_flags.block.json
+│       │   ├── 21a_roles_permissions_role_definitions_admin_viewer_etc.block.json
+│       │   ├── 21a_roles_permissions_scope_hierarchies_org_project_user.block.json
+│       │   ├── 21b_tenant_isolation_invite_join_organization_flows.block.json
+│       │   ├── 21b_tenant_isolation_resource_quotas_per_tenant.block.json
+│       │   ├── 21b_tenant_isolation_row_level_security_e_g_supabase.block.json
+│       │   ├── 21b_tenant_isolation_subdomain_based_routing.block.json
+│       │   ├── 21b_tenant_isolation_tenant_aware_db_schemas.block.json
+│       │   ├── 21c_access_policy_logic_declarative_permission_dsl.block.json
+│       │   ├── 21c_access_policy_logic_feature_flag_gates_by_role_plan.block.json
+│       │   ├── 21c_access_policy_logic_multi_role_evaluation.block.json
+│       │   ├── 21c_access_policy_logic_policy_inheritance_overwrites.block.json
+│       │   ├── 21c_access_policy_logic_role_permission_table_or_map.block.json
+│       │   ├── 21d_org_switching_context_active_org_switcher_dropdown.block.json
+│       │   ├── 21d_org_switching_context_impersonation_admin_mode.block.json
+│       │   ├── 21d_org_switching_context_org_name_in_header_ui.block.json
+│       │   ├── 21d_org_switching_context_session_aware_org_context_provider.block.json
+│       │   ├── 21d_org_switching_context_url_based_org_context.block.json
+│       │   ├── 21e_fine_grain_guards_button_disable_hide_by_role.block.json
+│       │   ├── 21e_fine_grain_guards_conditional_mutation_blocks.block.json
+│       │   ├── 21e_fine_grain_guards_field_level_redaction.block.json
+│       │   ├── 21e_fine_grain_guards_page_level_redirects_on_fail.block.json
+│       │   ├── 21e_fine_grain_guards_server_side_policy_check_layer.block.json
+│       │   ├── 21f_audit_logs_admin_tools_access_audit_logs.block.json
+│       │   ├── 21f_audit_logs_admin_tools_admin_dashboard_for_roles.block.json
+│       │   ├── 21f_audit_logs_admin_tools_exportable_permissions_map.block.json
+│       │   ├── 21f_audit_logs_admin_tools_impersonation_log_metadata.block.json
+│       │   ├── 21f_audit_logs_admin_tools_logs_for_auth_failures.block.json
+│       │   ├── 22a_automated_testing_component_tests_react_testing_lib.block.json
+│       │   ├── 22a_automated_testing_lint_type_checks.block.json
+│       │   ├── 22a_automated_testing_schema_validators.block.json
+│       │   ├── 22a_automated_testing_snapshot_tests.block.json
+│       │   ├── 22a_automated_testing_unit_tests_jest_vitest.block.json
+│       │   ├── 22b_ci_cd_pipelines_auto_cancel_duplicate_builds.block.json
+│       │   ├── 22b_ci_cd_pipelines_branch_rules_merge_checks.block.json
+│       │   ├── 22b_ci_cd_pipelines_github_actions_gitlab_ci_circle.block.json
+│       │   ├── 22b_ci_cd_pipelines_secret_injection_for_ci_envs.block.json
+│       │   ├── 22b_ci_cd_pipelines_test_matrix_by_environment.block.json
+│       │   ├── 22c_e2e_integration_testing_api_contract_tests_e_g_pact.block.json
+│       │   ├── 22c_e2e_integration_testing_db_redis_container_fixtures.block.json
+│       │   ├── 22c_e2e_integration_testing_headless_browsers_dom_selectors.block.json
+│       │   ├── 22c_e2e_integration_testing_playwright_cypress_puppeteer.block.json
+│       │   ├── 22c_e2e_integration_testing_retry_logic_for_flaky_tests.block.json
+│       │   ├── 22d_mocking_fixtures_simulators_dev_only_fake_apis.block.json
+│       │   ├── 22d_mocking_fixtures_simulators_email_webhook_capture_tools.block.json
+│       │   ├── 22d_mocking_fixtures_simulators_faker_chance_casual.block.json
+│       │   ├── 22d_mocking_fixtures_simulators_mock_service_worker_msw.block.json
+│       │   ├── 22d_mocking_fixtures_simulators_static_fixtures_in_json.block.json
+│       │   ├── 22e_staging_rollout_canary_deploys.block.json
+│       │   ├── 22e_staging_rollout_manual_vs_auto_promotion_to_prod.block.json
+│       │   ├── 22e_staging_rollout_preview_deploys_vercel_netlify.block.json
+│       │   ├── 22e_staging_rollout_rollback_button_or_git_ref_restore.block.json
+│       │   ├── 22e_staging_rollout_uptime_checkers_on_deploy.block.json
+│       │   ├── 22f_coverage_monitoring_ci_badge_reporting.block.json
+│       │   ├── 22f_coverage_monitoring_code_coverage_reports.block.json
+│       │   ├── 22f_coverage_monitoring_error_tracking_sentry_logrocket.block.json
+│       │   ├── 22f_coverage_monitoring_lighthouse_web_vitals.block.json
+│       │   ├── 22f_coverage_monitoring_sonarqube_codeclimate.block.json
+│       │   ├── 23a_feedback_widgets_emoji_star_thumbs_rating.block.json
+│       │   ├── 23a_feedback_widgets_floating_feedback_widget.block.json
+│       │   ├── 23a_feedback_widgets_in_app_feedback_button.block.json
+│       │   ├── 23a_feedback_widgets_page_specific_feedback_triggers.block.json
+│       │   ├── 23a_feedback_widgets_screenshot_annotate_tool.block.json
+│       │   ├── 23b_survey_logic_anonymous_vs_identified_mode.block.json
+│       │   ├── 23b_survey_logic_multi_step_survey_builder.block.json
+│       │   ├── 23b_survey_logic_nps_net_promoter_score_flow.block.json
+│       │   ├── 23b_survey_logic_one_question_polls.block.json
+│       │   ├── 23b_survey_logic_trigger_rules_time_action_page.block.json
+│       │   ├── 23c_feature_voting_admin_set_status_labels.block.json
+│       │   ├── 23c_feature_voting_merge_collapse_duplicate_ideas.block.json
+│       │   ├── 23c_feature_voting_public_idea_submission.block.json
+│       │   ├── 23c_feature_voting_tagging_categorization.block.json
+│       │   ├── 23c_feature_voting_upvote_downvote_controls.block.json
+│       │   ├── 23d_feedback_analytics_export_to_csv_airtable.block.json
+│       │   ├── 23d_feedback_analytics_feedback_funnel_analysis.block.json
+│       │   ├── 23d_feedback_analytics_sentiment_heatmap.block.json
+│       │   ├── 23d_feedback_analytics_top_feedback_by_frequency.block.json
+│       │   ├── 23d_feedback_analytics_user_score_segmentation.block.json
+│       │   ├── 23e_feedback_workflow_acknowledgement_auto_responder.block.json
+│       │   ├── 23e_feedback_workflow_auto_email_to_product_team.block.json
+│       │   ├── 23e_feedback_workflow_feedback_github_issue_link.block.json
+│       │   ├── 23e_feedback_workflow_slack_integration_for_realtime_feed.block.json
+│       │   ├── 23e_feedback_workflow_status_update_emails.block.json
+│       │   ├── 23f_feedback_privacy_moderation_admin_moderation_panel.block.json
+│       │   ├── 23f_feedback_privacy_moderation_email_collection_consent_check.block.json
+│       │   ├── 23f_feedback_privacy_moderation_ip_user_filtering_for_abuse_control.block.json
+│       │   ├── 23f_feedback_privacy_moderation_participation_visibility_settings.block.json
+│       │   ├── 23f_feedback_privacy_moderation_rate_limit_per_user.block.json
+│       │   ├── 24a_profile_edit_views_form_autosave_validation.block.json
+│       │   ├── 24a_profile_edit_views_private_settings_panel.block.json
+│       │   ├── 24a_profile_edit_views_profile_completion_meter.block.json
+│       │   ├── 24a_profile_edit_views_profile_tabs_activity_settings.block.json
+│       │   ├── 24a_profile_edit_views_public_profile_page.block.json
+│       │   ├── 24b_visual_identity_avatars_avatar_uploader_crop_tool.block.json
+│       │   ├── 24b_visual_identity_avatars_banner_upload_reposition.block.json
+│       │   ├── 24b_visual_identity_avatars_bio_headline_section.block.json
+│       │   ├── 24b_visual_identity_avatars_default_avatar_generator.block.json
+│       │   ├── 24b_visual_identity_avatars_profile_theme_or_color_accent.block.json
+│       │   ├── 24c_user_preferences_dark_mode_toggle.block.json
+│       │   ├── 24c_user_preferences_dashboard_layout_selection.block.json
+│       │   ├── 24c_user_preferences_email_notification_preferences.block.json
+│       │   ├── 24c_user_preferences_language_region_preferences.block.json
+│       │   ├── 24c_user_preferences_mobile_desktop_behavior_tweak.block.json
+│       │   ├── 24d_account_linking_sync_delete_account_button.block.json
+│       │   ├── 24d_account_linking_sync_email_change_verification.block.json
+│       │   ├── 24d_account_linking_sync_linked_accounts_dashboard.block.json
+│       │   ├── 24d_account_linking_sync_merge_duplicate_accounts_logic.block.json
+│       │   ├── 24d_account_linking_sync_oauth_connection_panel.block.json
+│       │   ├── 24e_security_access_settings_2fa_enablement_sms_app.block.json
+│       │   ├── 24e_security_access_settings_change_password_reset_flow.block.json
+│       │   ├── 24e_security_access_settings_device_location_history_log.block.json
+│       │   ├── 24e_security_access_settings_session_expiry_settings.block.json
+│       │   ├── 24e_security_access_settings_suspicious_login_alert_email.block.json
+│       │   ├── 24f_identity_growth_onboarding_guided_profile_setup_flow.block.json
+│       │   ├── 24f_identity_growth_onboarding_invite_friends_button.block.json
+│       │   ├── 24f_identity_growth_onboarding_profile_tips_contextual_prompts.block.json
+│       │   ├── 24f_identity_growth_onboarding_suggested_connections_interests.block.json
+│       │   ├── 24f_identity_growth_onboarding_welcome_email_personalization.block.json
+│       │   ├── 25a_help_center_ui_feedback_form_below_articles.block.json
+│       │   ├── 25a_help_center_ui_full_help_center_page.block.json
+│       │   ├── 25a_help_center_ui_markdown_or_rich_editor_for_docs.block.json
+│       │   ├── 25a_help_center_ui_submit_ticket_contact_page.block.json
+│       │   ├── 25a_help_center_ui_support_portal_or_knowledge_hub.block.json
+│       │   ├── 25b_inline_tooltips_walkthroughs_embedded_video_help_loom_youtube.block.json
+│       │   ├── 25b_inline_tooltips_walkthroughs_field_by_field_descriptions.block.json
+│       │   ├── 25b_inline_tooltips_walkthroughs_hotspot_help_onboarding_e_g_intro_js.block.json
+│       │   ├── 25b_inline_tooltips_walkthroughs_hover_tooltips_info_icons.block.json
+│       │   ├── 25b_inline_tooltips_walkthroughs_walkthrough_overlays_step_tours.block.json
+│       │   ├── 25c_ai_live_support_ai_helpbot_trained_on_docs.block.json
+│       │   ├── 25c_ai_live_support_email_or_sms_ticket_confirmations.block.json
+│       │   ├── 25c_ai_live_support_handoff_to_human_escalation_logic.block.json
+│       │   ├── 25c_ai_live_support_intercom_crisp_tawk_to_widget.block.json
+│       │   ├── 25c_ai_live_support_support_availability_scheduler.block.json
+│       │   ├── 25d_doc_structure_search_article_tagging_related_docs.block.json
+│       │   ├── 25d_doc_structure_search_category_subcategory_trees.block.json
+│       │   ├── 25d_doc_structure_search_doc_edit_history_versioning.block.json
+│       │   ├── 25d_doc_structure_search_doc_view_counter_popularity_rank.block.json
+│       │   ├── 25d_doc_structure_search_search_bar_with_typo_tolerance.block.json
+│       │   ├── 25e_support_feedback_analytics_agent_feedback_surveys.block.json
+│       │   ├── 25e_support_feedback_analytics_support_volume_dashboard.block.json
+│       │   ├── 25e_support_feedback_analytics_thumbs_up_down_text_response.block.json
+│       │   ├── 25e_support_feedback_analytics_time_to_resolution_metric.block.json
+│       │   ├── 25e_support_feedback_analytics_was_this_helpful_ratings.block.json
+│       │   ├── 25f_doc_content_access_control_expiring_article_links.block.json
+│       │   ├── 25f_doc_content_access_control_internal_only_article_flags.block.json
+│       │   ├── 25f_doc_content_access_control_public_vs_private_doc_toggle.block.json
+│       │   ├── 25f_doc_content_access_control_region_or_language_restriction.block.json
+│       │   ├── 25f_doc_content_access_control_user_role_based_visibility.block.json
+│       │   ├── 26a_legal_docs_display_change_notification_email.block.json
+│       │   ├── 26a_legal_docs_display_legal_document_viewer_md_or_rich.block.json
+│       │   ├── 26a_legal_docs_display_public_access_link_to_terms.block.json
+│       │   ├── 26a_legal_docs_display_timestamped_agreement_confirmation.block.json
+│       │   ├── 26a_legal_docs_display_version_controlled_terms_archive.block.json
+│       │   ├── 26b_consent_flows_ux_cookie_consent_banner.block.json
+│       │   ├── 26b_consent_flows_ux_dynamic_consent_by_country_region.block.json
+│       │   ├── 26b_consent_flows_ux_inline_checkbox_for_key_features.block.json
+│       │   ├── 26b_consent_flows_ux_modal_confirmation_before_proceeding.block.json
+│       │   ├── 26b_consent_flows_ux_opt_in_vs_opt_out_toggles.block.json
+│       │   ├── 26c_privacy_tools_data_retention_policy_enforcement.block.json
+│       │   ├── 26c_privacy_tools_data_sharing_disclosure_section.block.json
+│       │   ├── 26c_privacy_tools_ip_logging_anonymization_logic.block.json
+│       │   ├── 26c_privacy_tools_masking_or_obfuscating_pii.block.json
+│       │   ├── 26c_privacy_tools_user_profile_privacy_settings.block.json
+│       │   ├── 26d_agreement_logging_history_agreement_timestamp_in_db.block.json
+│       │   ├── 26d_agreement_logging_history_consent_refresh_prompt.block.json
+│       │   ├── 26d_agreement_logging_history_consent_revocation_tracker.block.json
+│       │   ├── 26d_agreement_logging_history_legal_export_pdf_generator.block.json
+│       │   ├── 26d_agreement_logging_history_terms_version_stored_per_user.block.json
+│       │   ├── 26e_compliance_modules_ccpa_data_disclosure_generator.block.json
+│       │   ├── 26e_compliance_modules_consent_api_for_external_audit.block.json
+│       │   ├── 26e_compliance_modules_gdpr_right_to_be_forgotten.block.json
+│       │   ├── 26e_compliance_modules_hipaa_safeguards_if_applicable.block.json
+│       │   ├── 26e_compliance_modules_jurisdiction_mapping_logic.block.json
+│       │   ├── 26f_data_export_deletion_data_minimization_ux_prompts.block.json
+│       │   ├── 26f_data_export_deletion_email_confirmation_of_deletion.block.json
+│       │   ├── 26f_data_export_deletion_export_my_data_download_button.block.json
+│       │   ├── 26f_data_export_deletion_request_deletion_workflow.block.json
+│       │   ├── 26f_data_export_deletion_user_data_retention_dashboard.block.json
+│       │   ├── 29a_condition_blocks_if_else_switch.block.json
+│       │   ├── 29a_flowchart_canvas_drag___drop.block.json
+│       │   ├── 29a_labelled_inputs__colors__icons.block.json
+│       │   ├── 29a_variable_connectors___input_nodes.block.json
+│       │   ├── 29a_zoom__collapse__grouping_options.block.json
+│       │   ├── 29b_debounce_throttle_logic.block.json
+│       │   ├── 29b_delay___timeout_blocks.block.json
+│       │   ├── 29b_event_based_triggers_on_save__login.block.json
+│       │   ├── 29b_retry_on_failure_logic.block.json
+│       │   ├── 29b_time_based_triggers_cron__interval.block.json
+│       │   ├── 29c_and_or_nested_conditions.block.json
+│       │   ├── 29c_compare_fields___constants.block.json
+│       │   ├── 29c_eval_sandbox_safe_runtime_parser.block.json
+│       │   ├── 29c_expression_editor_ui.block.json
+│       │   ├── 29c_value_transformers_math__concat.block.json
+│       │   ├── 29d_branching_actions_per_condition.block.json
+│       │   ├── 29d_external_api_calls.block.json
+│       │   ├── 29d_loop_or_iterate_block.block.json
+│       │   ├── 29d_save_to_db___trigger_email___update_record.block.json
+│       │   ├── 29d_sequential_block_execution.block.json
+│       │   ├── 29e_copy_logic_tree.block.json
+│       │   ├── 29e_import_export_json_logic.block.json
+│       │   ├── 29e_pre_built_block_marketplace.block.json
+│       │   ├── 29e_save_block_as_template.block.json
+│       │   ├── 29e_shared_workflow_library.block.json
+│       │   ├── 29f_admin_audit_trail.block.json
+│       │   ├── 29f_error_handler_block.block.json
+│       │   ├── 29f_pause___resume_switch.block.json
+│       │   ├── 29f_rollback_previous_state.block.json
+│       │   ├── 29f_run_history_log.block.json
+│       │   ├── 2a_core_server_architecture_app_bootstrap_script.block.json
+│       │   ├── 2a_core_server_architecture_config_loader_env_config_ts.block.json
+│       │   ├── 2a_core_server_architecture_express_fastify_koa_router_setup.block.json
+│       │   ├── 2a_core_server_architecture_route_controllers_folder.block.json
+│       │   ├── 2a_core_server_architecture_server_entry_file_server_js_index_ts.block.json
+│       │   ├── 2a_financial_statements_balance_sheet.block.json
+│       │   ├── 2a_financial_statements_cash_flow_statement.block.json
+│       │   ├── 2a_financial_statements_profit_and_loss_statement.block.json
+│       │   ├── 2b_business_logic_api_endpoints_error_handler_function.block.json
+│       │   ├── 2b_business_logic_api_endpoints_graphql_resolvers.block.json
+│       │   ├── 2b_business_logic_api_endpoints_post_get_patch_handlers.block.json
+│       │   ├── 2b_business_logic_api_endpoints_rate_limiting_middleware.block.json
+│       │   ├── 2b_business_logic_api_endpoints_rest_api_controller.block.json
+│       │   ├── 2b_business_logic_api_endpoints_validation_logic_zod_yup.block.json
+│       │   ├── 2b_forecasts_analysis_break_even_analysis.block.json
+│       │   ├── 2b_forecasts_analysis_budget_forecast.block.json
+│       │   ├── 2b_forecasts_analysis_cost_analysis.block.json
+│       │   ├── 2b_forecasts_analysis_financial_forecast.block.json
+│       │   ├── 2b_forecasts_analysis_pricing_strategy_report.block.json
+│       │   ├── 2b_forecasts_analysis_revenue_model_diagram.block.json
+│       │   ├── 2b_forecasts_analysis_sales_forecast.block.json
+│       │   ├── 2b_forecasts_analysis_unit_economics_report.block.json
+│       │   ├── 2c_background_jobs_task_queues_bull_redis_queues.block.json
+│       │   ├── 2c_background_jobs_task_queues_cron_jobs.block.json
+│       │   ├── 2c_background_jobs_task_queues_data_cleanup_scripts.block.json
+│       │   ├── 2c_background_jobs_task_queues_email_notification_workers.block.json
+│       │   ├── 2c_background_jobs_task_queues_retry_logic_wrapper.block.json
+│       │   ├── 2c_embedded_financial_sections_burn_rate_runway.block.json
+│       │   ├── 2c_embedded_financial_sections_exit_scenario_projection.block.json
+│       │   ├── 2c_embedded_financial_sections_financial_overview.block.json
+│       │   ├── 2c_embedded_financial_sections_funding_requirements.block.json
+│       │   ├── 2c_embedded_financial_sections_use_of_funds.block.json
+│       │   ├── 2d_audit_compliance_reports_audited_financials.block.json
+│       │   ├── 2d_audit_compliance_reports_depreciation_schedules.block.json
+│       │   ├── 2d_audit_compliance_reports_financial_footnotes.block.json
+│       │   ├── 2d_audit_compliance_reports_gaap_compliant_reports.block.json
+│       │   ├── 2d_audit_compliance_reports_quarterly_filings.block.json
+│       │   ├── 2d_middleware_request_utilities_auth_middleware.block.json
+│       │   ├── 2d_middleware_request_utilities_body_parser_cookie_parser.block.json
+│       │   ├── 2d_middleware_request_utilities_cors_handler.block.json
+│       │   ├── 2d_middleware_request_utilities_request_logger.block.json
+│       │   ├── 2d_middleware_request_utilities_response_wrapper.block.json
+│       │   ├── 2e_serverless_function_hooks_dynamic_params_parser.block.json
+│       │   ├── 2e_serverless_function_hooks_edge_functions.block.json
+│       │   ├── 2e_serverless_function_hooks_function_log_reporter.block.json
+│       │   ├── 2e_serverless_function_hooks_triggered_webhooks.block.json
+│       │   ├── 2e_serverless_function_hooks_vercel_netlify_function_files.block.json
+│       │   ├── 2f_logic_modules_microservices_business_logic_modules.block.json
+│       │   ├── 2f_logic_modules_microservices_feature_flag_logic.block.json
+│       │   ├── 2f_logic_modules_microservices_internal_apis.block.json
+│       │   ├── 2f_logic_modules_microservices_microservice_gateways.block.json
+│       │   ├── 2f_logic_modules_microservices_sdk_wrapper_functions.block.json
+│       │   ├── 2g_debug_dev_utilities_console_middleware.block.json
+│       │   ├── 2g_debug_dev_utilities_debug_logger.block.json
+│       │   ├── 2g_debug_dev_utilities_dev_only_endpoints.block.json
+│       │   ├── 2g_debug_dev_utilities_hot_reloading_nodemon.block.json
+│       │   ├── 2g_debug_dev_utilities_mock_api_response_generator.block.json
+│       │   ├── 30a_conditional_prompt_insertion.block.json
+│       │   ├── 30a_live_prompt_editor_preview.block.json
+│       │   ├── 30a_markdown_json_prompt_structure.block.json
+│       │   ├── 30a_prompt_libraries_public_shared.block.json
+│       │   ├── 30a_prompt_templates_variables.block.json
+│       │   ├── 30b_fallback_model_selector.block.json
+│       │   ├── 30b_llm_api_wrappers.block.json
+│       │   ├── 30b_model_switcher_dropdown.block.json
+│       │   ├── 30b_openai_anthropic_mistral_apis.block.json
+│       │   ├── 30b_parallel_prompt_executor.block.json
+│       │   ├── 30b_streaming_tokens_partial_outputs.block.json
+│       │   ├── 30c_agent_memory_coordination.block.json
+│       │   ├── 30c_agent_memory_token_binders.block.json
+│       │   ├── 30c_long_short_term_context_mode.block.json
+│       │   ├── 30c_memory_slots_retrieval_rag_hooks.block.json
+│       │   ├── 30c_multi_agent_choreography_engine.block.json
+│       │   ├── 30c_task_queue_replanning_logic.block.json
+│       │   ├── 30d_chat_context_embedding.block.json
+│       │   ├── 30d_conversation_thread_storage.block.json
+│       │   ├── 30d_embedding_search_context_recall.block.json
+│       │   ├── 30d_shared_thread_view.block.json
+│       │   ├── 30d_summary_token_compression.block.json
+│       │   ├── 30d_system_prompt_per_turn.block.json
+│       │   ├── 30e_context_aware_tone_adaptation.block.json
+│       │   ├── 30e_guardrails_allowed_actions.block.json
+│       │   ├── 30e_instruction_injection_blocks.block.json
+│       │   ├── 30e_memory_aware_role_switching.block.json
+│       │   ├── 30e_persona_logic_roles.block.json
+│       │   ├── 30e_system_persona_prompt_field.block.json
+│       │   ├── 30f_failover_switch_local_mode.block.json
+│       │   ├── 30f_max_token_per_prompt_validator.block.json
+│       │   ├── 30f_prompt_sanitizer_jailbreak_filter.block.json
+│       │   ├── 30f_rate_limit_scheduling.block.json
+│       │   ├── 30f_token_budget_cost_meter.block.json
+│       │   ├── 30f_token_cost_safety.block.json
+│       │   ├── 3a_core_auth_flows_email_verification_flow.block.json
+│       │   ├── 3a_core_auth_flows_guest_anonymous_access.block.json
+│       │   ├── 3a_core_auth_flows_login_form.block.json
+│       │   ├── 3a_core_auth_flows_magic_link_otp_login.block.json
+│       │   ├── 3a_core_auth_flows_password_reset_flow.block.json
+│       │   ├── 3a_core_auth_flows_signup_registration_flow.block.json
+│       │   ├── 3a_core_tax_filings_annual_tax_return.block.json
+│       │   ├── 3a_core_tax_filings_payroll_tax_reports.block.json
+│       │   ├── 3a_core_tax_filings_quarterly_estimated_taxes.block.json
+│       │   ├── 3a_core_tax_filings_sales_tax_reports.block.json
+│       │   ├── 3a_core_tax_filings_tax_deduction_log.block.json
+│       │   ├── 3b_licensing_permits_business_license.block.json
+│       │   ├── 3b_licensing_permits_food_health_license.block.json
+│       │   ├── 3b_licensing_permits_occupancy_permit.block.json
+│       │   ├── 3b_licensing_permits_reseller_permit.block.json
+│       │   ├── 3b_licensing_permits_seller_s_permit.block.json
+│       │   ├── 3b_session_token_management_access_refresh_token_pair.block.json
+│       │   ├── 3b_session_token_management_cookie_vs_localstorage_logic.block.json
+│       │   ├── 3b_session_token_management_jwt_json_web_token_auth.block.json
+│       │   ├── 3b_session_token_management_session_expiry_handling.block.json
+│       │   ├── 3b_session_token_management_single_sign_out.block.json
+│       │   ├── 3c_compliance_documents_annual_report_state_filing.block.json
+│       │   ├── 3c_compliance_documents_compliance_report.block.json
+│       │   ├── 3c_compliance_documents_corporate_bylaws_operating_agreement.block.json
+│       │   ├── 3c_compliance_documents_ein_documentation.block.json
+│       │   ├── 3c_compliance_documents_registered_agent_agreement.block.json
+│       │   ├── 3c_roles_access_levels_field_level_access.block.json
+│       │   ├── 3c_roles_access_levels_ownership_checks.block.json
+│       │   ├── 3c_roles_access_levels_permission_matrix.block.json
+│       │   ├── 3c_roles_access_levels_role_based_access_rbac.block.json
+│       │   ├── 3c_roles_access_levels_route_protection_middleware.block.json
+│       │   ├── 3d_audit_regulatory_documents_gdpr_ccpa_disclosure_file.block.json
+│       │   ├── 3d_audit_regulatory_documents_independent_auditor_report.block.json
+│       │   ├── 3d_audit_regulatory_documents_insurance_compliance_docs.block.json
+│       │   ├── 3d_audit_regulatory_documents_irs_audit_documentation.block.json
+│       │   ├── 3d_audit_regulatory_documents_osha_compliance_records.block.json
+│       │   ├── 3d_federated_oauth_logins_apple_sign_in.block.json
+│       │   ├── 3d_federated_oauth_logins_github_discord_auth.block.json
+│       │   ├── 3d_federated_oauth_logins_oauth_consent_screen_config.block.json
+│       │   ├── 3d_federated_oauth_logins_oauth_google_facebook_etc.block.json
+│       │   ├── 3e_security_mfa_captcha_or_bot_checks.block.json
+│       │   ├── 3e_security_mfa_device_ip_monitoring.block.json
+│       │   ├── 3e_security_mfa_rate_limiting_login_attempts.block.json
+│       │   ├── 3e_security_mfa_session_hijack_protection.block.json
+│       │   ├── 3e_security_mfa_two_factor_authentication_2fa.block.json
+│       │   ├── 3f_admin_account_tools_account_settings_panel.block.json
+│       │   ├── 3f_admin_account_tools_admin_override_auth.block.json
+│       │   ├── 3f_admin_account_tools_api_key_management.block.json
+│       │   ├── 3f_admin_account_tools_delete_deactivate_account.block.json
+│       │   ├── 3f_admin_account_tools_user_audit_logs.block.json
+│       │   ├── 4a_core_schema_modeling_default_values_auto_fields.block.json
+│       │   ├── 4a_core_schema_modeling_entity_schema_definition.block.json
+│       │   ├── 4a_core_schema_modeling_field_types_null_rules.block.json
+│       │   ├── 4a_core_schema_modeling_id_strategy_uuid_snowflake.block.json
+│       │   ├── 4a_core_schema_modeling_schema_comments_docs.block.json
+│       │   ├── 4a_pitch_narrative_documents_executive_summary.block.json
+│       │   ├── 4a_pitch_narrative_documents_investment_memo.block.json
+│       │   ├── 4a_pitch_narrative_documents_investor_pitch_deck.block.json
+│       │   ├── 4a_pitch_narrative_documents_market_sizing_report.block.json
+│       │   ├── 4a_pitch_narrative_documents_traction_snapshot.block.json
+│       │   ├── 4a_pitch_narrative_documents_use_of_funds_summary.block.json
+│       │   ├── 4b_database_system_config_connection_uri_pooling.block.json
+│       │   ├── 4b_database_system_config_environment_switching.block.json
+│       │   ├── 4b_database_system_config_mongodb_firestore.block.json
+│       │   ├── 4b_database_system_config_postgresql_mysql_sqlite.block.json
+│       │   ├── 4b_database_system_config_supabase_planetscale.block.json
+│       │   ├── 4b_equity_cap_table_documents_cap_table.block.json
+│       │   ├── 4b_equity_cap_table_documents_convertible_note_tracker.block.json
+│       │   ├── 4b_equity_cap_table_documents_founder_equity_breakdown.block.json
+│       │   ├── 4b_equity_cap_table_documents_option_pool_schedule.block.json
+│       │   ├── 4b_equity_cap_table_documents_shareholder_ledger.block.json
+│       │   ├── 4c_orm_query_logic_custom_query_functions.block.json
+│       │   ├── 4c_orm_query_logic_pagination_ordering_utils.block.json
+│       │   ├── 4c_orm_query_logic_prisma_sequelize_typeorm.block.json
+│       │   ├── 4c_orm_query_logic_raw_sql_or_native_queries.block.json
+│       │   ├── 4c_orm_query_logic_relationship_mapping_logic.block.json
+│       │   ├── 4c_term_deal_agreements_founders_agreement.block.json
+│       │   ├── 4c_term_deal_agreements_safe_convertible_note.block.json
+│       │   ├── 4c_term_deal_agreements_share_purchase_agreement.block.json
+│       │   ├── 4c_term_deal_agreements_term_sheet.block.json
+│       │   ├── 4c_term_deal_agreements_voting_rights_agreement.block.json
+│       │   ├── 4d_due_diligence_disclosure_docs_data_room_index.block.json
+│       │   ├── 4d_due_diligence_disclosure_docs_financial_audit_trail.block.json
+│       │   ├── 4d_due_diligence_disclosure_docs_ip_ownership_records.block.json
+│       │   ├── 4d_due_diligence_disclosure_docs_legal_entity_docs.block.json
+│       │   ├── 4d_due_diligence_disclosure_docs_risk_disclosure_report.block.json
+│       │   ├── 4d_migrations_seeds_auto_migration_tooling.block.json
+│       │   ├── 4d_migrations_seeds_migration_files.block.json
+│       │   ├── 4d_migrations_seeds_rollback_scripts.block.json
+│       │   ├── 4d_migrations_seeds_seed_scripts.block.json
+│       │   ├── 4d_migrations_seeds_version_control_integration.block.json
+│       │   ├── 4e_validation_constraints_field_length_format_checks.block.json
+│       │   ├── 4e_validation_constraints_field_level_encryption.block.json
+│       │   ├── 4e_validation_constraints_foreign_keys_references.block.json
+│       │   ├── 4e_validation_constraints_soft_delete_flags.block.json
+│       │   ├── 4e_validation_constraints_unique_indexes.block.json
+│       │   ├── 4f_relational_document_patterns_denormalization.block.json
+│       │   ├── 4f_relational_document_patterns_embedded_document_strategy.block.json
+│       │   ├── 4f_relational_document_patterns_history_tables.block.json
+│       │   ├── 4f_relational_document_patterns_join_tables.block.json
+│       │   ├── 4f_relational_document_patterns_partitioned_tables.block.json
+│       │   ├── 4g_test_fixtures_mock_data_cleanup_hooks.block.json
+│       │   ├── 4g_test_fixtures_mock_data_mock_db_adapters.block.json
+│       │   ├── 4g_test_fixtures_mock_data_sandbox_databases.block.json
+│       │   ├── 4g_test_fixtures_mock_data_scenario_seeds.block.json
+│       │   ├── 4g_test_fixtures_mock_data_test_factories.block.json
+│       │   ├── 5a_external_api_integration_api_fetch_adapter_layer.block.json
+│       │   ├── 5a_external_api_integration_graphql_client_config.block.json
+│       │   ├── 5a_external_api_integration_json_app_model_mapping.block.json
+│       │   ├── 5a_external_api_integration_rest_api_request_handlers.block.json
+│       │   ├── 5a_external_api_integration_retry_timeout_logic.block.json
+│       │   ├── 5a_standard_procedures_daily_weekly_checklists.block.json
+│       │   ├── 5a_standard_procedures_escalation_pathways.block.json
+│       │   ├── 5a_standard_procedures_incident_response_protocols.block.json
+│       │   ├── 5a_standard_procedures_quality_assurance_workflows.block.json
+│       │   ├── 5a_standard_procedures_standard_operating_procedures_sops.block.json
+│       │   ├── 5b_process_systems_manuals_automation_scripts_macros.block.json
+│       │   ├── 5b_process_systems_manuals_crm_operations_manual.block.json
+│       │   ├── 5b_process_systems_manuals_customer_service_playbook.block.json
+│       │   ├── 5b_process_systems_manuals_finance_system_playbook.block.json
+│       │   ├── 5b_process_systems_manuals_internal_process_maps.block.json
+│       │   ├── 5b_webhook_receivers_event_parser_router.block.json
+│       │   ├── 5b_webhook_receivers_logging_replay_tool.block.json
+│       │   ├── 5b_webhook_receivers_retry_policy_support.block.json
+│       │   ├── 5b_webhook_receivers_signature_verification_logic.block.json
+│       │   ├── 5b_webhook_receivers_webhook_endpoint_definition.block.json
+│       │   ├── 5c_sdk_wrappers_custom_http_sdk.block.json
+│       │   ├── 5c_sdk_wrappers_firebase_client.block.json
+│       │   ├── 5c_sdk_wrappers_google_apis_sdk.block.json
+│       │   ├── 5c_sdk_wrappers_openai_sdk_wrapper.block.json
+│       │   ├── 5c_sdk_wrappers_stripe_sdk_wrapper.block.json
+│       │   ├── 5c_supplier_vendor_agreements_invoice_payment_guidelines.block.json
+│       │   ├── 5c_supplier_vendor_agreements_onboarding_guide_for_vendors.block.json
+│       │   ├── 5c_supplier_vendor_agreements_sla_service_level_agreement.block.json
+│       │   ├── 5c_supplier_vendor_agreements_vendor_contract_template.block.json
+│       │   ├── 5d_outbound_webhooks_delivery_format_templates.block.json
+│       │   ├── 5d_outbound_webhooks_rate_limited_dispatcher.block.json
+│       │   ├── 5d_outbound_webhooks_retry_backoff_queue.block.json
+│       │   ├── 5d_outbound_webhooks_user_activity_trigger_logic.block.json
+│       │   ├── 5d_outbound_webhooks_webhook_subscription_settings.block.json
+│       │   ├── 5d_tooling_documentation_access_management_sheet.block.json
+│       │   ├── 5d_tooling_documentation_backup_redundancy_protocol.block.json
+│       │   ├── 5d_tooling_documentation_internal_tool_instructions.block.json
+│       │   ├── 5d_tooling_documentation_tech_stack_index.block.json
+│       │   ├── 5e_api_auth_and_rate_limiting_api_key_storage_rotation.block.json
+│       │   ├── 5e_api_auth_and_rate_limiting_oauth_client_logic.block.json
+│       │   ├── 5e_api_auth_and_rate_limiting_rate_limit_config.block.json
+│       │   ├── 5e_api_auth_and_rate_limiting_retry_with_exponential_backoff.block.json
+│       │   ├── 5e_api_auth_and_rate_limiting_token_refresh_handling.block.json
+│       │   ├── 5e_internal_training_guides_change_management_template.block.json
+│       │   ├── 5e_internal_training_guides_department_runbook.block.json
+│       │   ├── 5e_internal_training_guides_internal_wiki_pages.block.json
+│       │   ├── 5e_internal_training_guides_new_hire_ops_training_guide.block.json
+│       │   ├── 5f_testing_mocks_contract_test_generator.block.json
+│       │   ├── 5f_testing_mocks_integration_test_suite.block.json
+│       │   ├── 5f_testing_mocks_mock_api_routes.block.json
+│       │   ├── 5f_testing_mocks_request_interceptor_msw_nock.block.json
+│       │   ├── 5f_testing_mocks_sandbox_credentials_handler.block.json
+│       │   ├── 6a_strategy_positioning_brand_strategy_deck.block.json
+│       │   ├── 6a_strategy_positioning_gtm_go_to_market_plan.block.json
+│       │   ├── 6a_strategy_positioning_marketing_plan.block.json
+│       │   ├── 6a_strategy_positioning_product_positioning_brief.block.json
+│       │   ├── 6a_strategy_positioning_value_proposition_map.block.json
+│       │   ├── 6b_market_research_personas_competitive_landscape_map.block.json
+│       │   ├── 6b_market_research_personas_customer_persona_sheet.block.json
+│       │   ├── 6b_market_research_personas_industry_trend_report.block.json
+│       │   ├── 6b_market_research_personas_tam_sam_som_analysis.block.json
+│       │   ├── 6b_market_research_personas_voice_of_customer_report.block.json
+│       │   ├── 6c_campaign_planning_execution_campaign_brief_template.block.json
+│       │   ├── 6c_campaign_planning_execution_funnel_architecture_doc.block.json
+│       │   ├── 6c_campaign_planning_execution_media_plan.block.json
+│       │   ├── 6c_campaign_planning_execution_promotional_calendar.block.json
+│       │   ├── 6c_campaign_planning_execution_utm_strategy_sheet.block.json
+│       │   ├── 6d_messaging_branding_brand_voice_guide.block.json
+│       │   ├── 6d_messaging_branding_core_messaging_grid.block.json
+│       │   ├── 6d_messaging_branding_elevator_pitch_sheet.block.json
+│       │   ├── 6d_messaging_branding_tagline_cta_sheet.block.json
+│       │   ├── 6e_content_operations_asset_folder_structure.block.json
+│       │   ├── 6e_content_operations_brand_asset_kit.block.json
+│       │   ├── 6e_content_operations_content_audit_tracker.block.json
+│       │   ├── 6e_content_operations_editorial_calendar.block.json
+│       │   ├── 6e_content_operations_social_media_playbook.block.json
+│       │   ├── 7a_contracts_agreements_independent_contractor_agreement.block.json
+│       │   ├── 7a_contracts_agreements_master_services_agreement_msa.block.json
+│       │   ├── 7a_contracts_agreements_service_agreement.block.json
+│       │   ├── 7a_contracts_agreements_statement_of_work_sow.block.json
+│       │   ├── 7a_contracts_agreements_terms_of_engagement.block.json
+│       │   ├── 7a_responsive_layout_auto_responsive_components.block.json
+│       │   ├── 7a_responsive_layout_collapse_logic.block.json
+│       │   ├── 7a_responsive_layout_grid_flex_layout_system.block.json
+│       │   ├── 7a_responsive_layout_media_query_tokens.block.json
+│       │   ├── 7a_responsive_layout_sticky_mobile_headers.block.json
+│       │   ├── 7b_device_breakpoints_breakpoint_definitions.block.json
+│       │   ├── 7b_device_breakpoints_orientation_awareness.block.json
+│       │   ├── 7b_device_breakpoints_safe_area_insets_handling.block.json
+│       │   ├── 7b_device_breakpoints_touch_gesture_detection.block.json
+│       │   ├── 7b_device_breakpoints_utility_class_scaling.block.json
+│       │   ├── 7b_foundational_legal_docs_articles_of_incorporation.block.json
+│       │   ├── 7b_foundational_legal_docs_board_resolutions.block.json
+│       │   ├── 7b_foundational_legal_docs_corporate_bylaws.block.json
+│       │   ├── 7b_foundational_legal_docs_ein_assignment_letter.block.json
+│       │   ├── 7b_foundational_legal_docs_operating_agreement.block.json
+│       │   ├── 7c_policy_disclosures_accessibility_statement.block.json
+│       │   ├── 7c_policy_disclosures_cookie_policy.block.json
+│       │   ├── 7c_policy_disclosures_data_processing_agreement_dpa.block.json
+│       │   ├── 7c_policy_disclosures_privacy_policy.block.json
+│       │   ├── 7c_policy_disclosures_terms_of_service.block.json
+│       │   ├── 7c_pwa_service_worker_auto_update_versioning.block.json
+│       │   ├── 7c_pwa_service_worker_cache_first_vs_network_first_logic.block.json
+│       │   ├── 7c_pwa_service_worker_push_notification_setup.block.json
+│       │   ├── 7c_pwa_service_worker_service_worker_js_file.block.json
+│       │   ├── 7c_pwa_service_worker_workbox_or_custom_sw_tools.block.json
+│       │   ├── 7d_ip_rights_management_copyright_declaration.block.json
+│       │   ├── 7d_ip_rights_management_ip_assignment_agreement.block.json
+│       │   ├── 7d_ip_rights_management_licensing_agreement.block.json
+│       │   ├── 7d_ip_rights_management_patent_filing_utility_or_design.block.json
+│       │   ├── 7d_ip_rights_management_trademark_registration.block.json
+│       │   ├── 7d_web_app_manifest_custom_app_name_icon.block.json
+│       │   ├── 7d_web_app_manifest_display_mode_setting_standalone.block.json
+│       │   ├── 7d_web_app_manifest_home_screen_add_support.block.json
+│       │   ├── 7d_web_app_manifest_manifest_webmanifest_file.block.json
+│       │   ├── 7d_web_app_manifest_splash_screen_config.block.json
+│       │   ├── 7e_equity_partnerships_governance_joint_venture_agreement.block.json
+│       │   ├── 7e_equity_partnerships_governance_partnership_agreement.block.json
+│       │   ├── 7e_equity_partnerships_governance_shareholder_agreement.block.json
+│       │   ├── 7e_equity_partnerships_governance_vesting_schedule_agreement.block.json
+│       │   ├── 7e_equity_partnerships_governance_voting_rights_agreement.block.json
+│       │   ├── 7e_offline_caching_background_sync.block.json
+│       │   ├── 7e_offline_caching_cache_invalidation_rules.block.json
+│       │   ├── 7e_offline_caching_dynamic_data_caching.block.json
+│       │   ├── 7e_offline_caching_indexeddb_localstorage_layer.block.json
+│       │   ├── 7e_offline_caching_static_asset_caching.block.json
+│       │   ├── 7f_mobile_ux_device_orientation_api.block.json
+│       │   ├── 7f_mobile_ux_mobile_keyboard_focus_optimization.block.json
+│       │   ├── 7f_mobile_ux_native_share_api.block.json
+│       │   ├── 7f_mobile_ux_one_hand_ux.block.json
+│       │   ├── 7f_mobile_ux_touch_feedback_animations.block.json
+│       │   ├── 8a_job_role_docs_job_description_template.block.json
+│       │   ├── 8a_job_role_docs_job_scorecard.block.json
+│       │   ├── 8a_job_role_docs_org_chart_team_tree.block.json
+│       │   ├── 8a_job_role_docs_role_alignment_matrix.block.json
+│       │   ├── 8a_local_component_state_component_memoization.block.json
+│       │   ├── 8a_local_component_state_dom_ref_state_useref.block.json
+│       │   ├── 8a_local_component_state_input_form_state_bindings.block.json
+│       │   ├── 8a_local_component_state_local_ui_toggle_logic.block.json
+│       │   ├── 8a_local_component_state_usestate_usereducer_hooks.block.json
+│       │   ├── 8b_global_state_managers_debug_devtools.block.json
+│       │   ├── 8b_global_state_managers_immutable_update_patterns.block.json
+│       │   ├── 8b_global_state_managers_snapshot_history_support.block.json
+│       │   ├── 8b_global_state_managers_usestore_hooks.block.json
+│       │   ├── 8b_global_state_managers_zustand_redux_recoil.block.json
+│       │   ├── 8b_hiring_onboarding_employment_contract.block.json
+│       │   ├── 8b_hiring_onboarding_hiring_policy.block.json
+│       │   ├── 8b_hiring_onboarding_interview_guide.block.json
+│       │   ├── 8b_hiring_onboarding_new_hire_onboarding_plan.block.json
+│       │   ├── 8b_hiring_onboarding_offer_letter_template.block.json
+│       │   ├── 8c_performance_reviews_360_feedback_form.block.json
+│       │   ├── 8c_performance_reviews_improvement_plan_template.block.json
+│       │   ├── 8c_performance_reviews_performance_review_template.block.json
+│       │   ├── 8c_performance_reviews_promotion_review_criteria.block.json
+│       │   ├── 8c_react_context_providers_auth_context.block.json
+│       │   ├── 8c_react_context_providers_modal_context.block.json
+│       │   ├── 8c_react_context_providers_nested_context_composition.block.json
+│       │   ├── 8c_react_context_providers_theme_context.block.json
+│       │   ├── 8c_react_context_providers_toast_snackbar_provider.block.json
+│       │   ├── 8d_compensation_benefits_benefits_overview.block.json
+│       │   ├── 8d_compensation_benefits_compensation_policy.block.json
+│       │   ├── 8d_compensation_benefits_equity_grant_agreement.block.json
+│       │   ├── 8d_compensation_benefits_expense_reimbursement_policy.block.json
+│       │   ├── 8d_compensation_benefits_payroll_calendar.block.json
+│       │   ├── 8d_persistence_rehydration_debounced_persistence_layer.block.json
+│       │   ├── 8d_persistence_rehydration_hydration_hooks.block.json
+│       │   ├── 8d_persistence_rehydration_indexeddb_for_complex_state.block.json
+│       │   ├── 8d_persistence_rehydration_localstorage_sessionstorage.block.json
+│       │   ├── 8d_persistence_rehydration_state_checksum_versioning.block.json
+│       │   ├── 8e_hr_compliance_conduct_anti_discrimination_policy.block.json
+│       │   ├── 8e_hr_compliance_conduct_code_of_conduct.block.json
+│       │   ├── 8e_hr_compliance_conduct_employee_handbook.block.json
+│       │   ├── 8e_hr_compliance_conduct_harassment_prevention_policy.block.json
+│       │   ├── 8e_hr_compliance_conduct_termination_checklist.block.json
+│       │   ├── 8e_reactive_subscriptions_event_bus_or_pubsub_layer.block.json
+│       │   ├── 8e_reactive_subscriptions_observer_signal_based_logic.block.json
+│       │   ├── 8e_reactive_subscriptions_reactivity_debug_logger.block.json
+│       │   ├── 8e_reactive_subscriptions_useeffect_dependency_control.block.json
+│       │   ├── 8e_reactive_subscriptions_websocket_or_realtime_link.block.json
+│       │   ├── 8f_derived_state_computation_computed_property_hooks.block.json
+│       │   ├── 8f_derived_state_computation_cross_state_aggregation_logic.block.json
+│       │   ├── 8f_derived_state_computation_data_driven_ui_logic.block.json
+│       │   ├── 8f_derived_state_computation_selectors_memoized_selectors.block.json
+│       │   ├── 8f_derived_state_computation_throttled_debounced_derivations.block.json
+│       │   ├── 9a_analytics_initialization_data_layer_bootstrapping.block.json
+│       │   ├── 9a_analytics_initialization_google_analytics_ga4_integration.block.json
+│       │   ├── 9a_analytics_initialization_multi_tool_support_switching.block.json
+│       │   ├── 9a_analytics_initialization_plausible_posthog_mixpanel.block.json
+│       │   ├── 9a_analytics_initialization_script_injection_logic.block.json
+│       │   ├── 9a_planning_roadmapping_gantt_chart.block.json
+│       │   ├── 9a_planning_roadmapping_project_brief.block.json
+│       │   ├── 9a_planning_roadmapping_project_roadmap.block.json
+│       │   ├── 9a_planning_roadmapping_requirements_document.block.json
+│       │   ├── 9a_planning_roadmapping_resource_allocation_plan.block.json
+│       │   ├── 9b_event_tracking_cta_button_clicks_tracker.block.json
+│       │   ├── 9b_event_tracking_feature_usage_tracking.block.json
+│       │   ├── 9b_event_tracking_page_view_tracker.block.json
+│       │   ├── 9b_event_tracking_scroll_depth_listener.block.json
+│       │   ├── 9b_event_tracking_trackevent_utility.block.json
+│       │   ├── 9b_execution_tracking_kanban_board_export.block.json
+│       │   ├── 9b_execution_tracking_project_status_report.block.json
+│       │   ├── 9b_execution_tracking_sprint_planning_sheet.block.json
+│       │   ├── 9b_execution_tracking_task_breakdown_sheet.block.json
+│       │   ├── 9b_execution_tracking_time_tracking_summary.block.json
+│       │   ├── 9c_risk_change_blockers_blocker_resolution_log.block.json
+│       │   ├── 9c_risk_change_blockers_change_request_form.block.json
+│       │   ├── 9c_risk_change_blockers_incident_report.block.json
+│       │   ├── 9c_risk_change_blockers_issue_bug_tracker.block.json
+│       │   ├── 9c_risk_change_blockers_risk_management_plan.block.json
+│       │   ├── 9c_user_metrics_bounce_dropoff_analysis.block.json
+│       │   ├── 9c_user_metrics_click_heatmaps.block.json
+│       │   ├── 9c_user_metrics_conversion_events.block.json
+│       │   ├── 9c_user_metrics_mouseflow_hotjar_session_replays.block.json
+│       │   ├── 9c_user_metrics_session_duration_tracker.block.json
+│       │   ├── 9d_closure_retrospective_archival_checklist.block.json
+│       │   ├── 9d_closure_retrospective_client_handoff_packet.block.json
+│       │   ├── 9d_closure_retrospective_project_completion_summary.block.json
+│       │   ├── 9d_closure_retrospective_retrospective_notes.block.json
+│       │   ├── 9d_closure_retrospective_success_metrics_report.block.json
+│       │   ├── 9d_performance_monitoring_client_side_error_logging.block.json
+│       │   ├── 9d_performance_monitoring_core_web_vitals.block.json
+│       │   ├── 9d_performance_monitoring_lighthouse_pagespeed_integration.block.json
+│       │   ├── 9d_performance_monitoring_sentry_bugsnag_integration.block.json
+│       │   ├── 9d_performance_monitoring_time_to_interactive_tti_metric.block.json
+│       │   ├── 9e_funnels_aggregation_a_b_test_outcome_logging.block.json
+│       │   ├── 9e_funnels_aggregation_attribute_segmentation_engine.block.json
+│       │   ├── 9e_funnels_aggregation_funnel_visualization_dashboard.block.json
+│       │   ├── 9e_funnels_aggregation_goal_completions_tracker.block.json
+│       │   ├── 9e_funnels_aggregation_multi_step_funnel_builder.block.json
+│       │   ├── 9e_team_communication_collaboration_platform_policy.block.json
+│       │   ├── 9e_team_communication_communication_protocol_guide.block.json
+│       │   ├── 9e_team_communication_meeting_agenda_template.block.json
+│       │   ├── 9e_team_communication_meeting_notes_log.block.json
+│       │   ├── 9e_team_communication_team_roles_contacts_sheet.block.json
+│       │   ├── 9f_privacy_consent_anonymized_id_system.block.json
+│       │   ├── 9f_privacy_consent_consent_storage_logic.block.json
+│       │   ├── 9f_privacy_consent_gdpr_ccpa_consent_banner.block.json
+│       │   ├── 9f_privacy_consent_opt_out_link_handling.block.json
+│       │   ├── 9f_privacy_consent_region_based_tracking_rules.block.json
+│       │   ├── Deployment
+│       │   │   ├── deployment_deploy_to_openai.block.json
+│       │   │   ├── deployment_export_as_agent_overlay.block.json
+│       │   │   ├── deployment_publish_to_marketplace.block.json
+│       │   │   ├── deployment_run_deploy_hooks.block.json
+│       │   │   └── deployment_submit_plan_for_review.block.json
+│       │   ├── accepted_file_types.block.json
+│       │   ├── accessibility_features.block.json
+│       │   ├── accessibility_input_modes.block.json
+│       │   ├── acquisition_plan.block.json
+│       │   ├── action_to_xp_map.block.json
+│       │   ├── activation_method.block.json
+│       │   ├── active_source_toggle.block.json
+│       │   ├── active_user_heatmap.block.json
+│       │   ├── admin_reward_adjustment.block.json
+│       │   ├── agent_priority_map.block.json
+│       │   ├── agent_switching_enabled.block.json
+│       │   ├── api_endpoint_availability.block.json
+│       │   ├── app_launch_plan.block.json
+│       │   ├── audited_financials.block.json
+│       │   ├── auth_handling_method.block.json
+│       │   ├── auto_language_detection_enabled.block.json
+│       │   ├── available_agents_list.block.json
+│       │   ├── available_molt_types.block.json
+│       │   ├── avatar_display_mode.block.json
+│       │   ├── avatar_image_url.block.json
+│       │   ├── balance_sheet.block.json
+│       │   ├── bank_ready_plan.block.json
+│       │   ├── banned_input_keywords.block.json
+│       │   ├── base_prompt_template.block.json
+│       │   ├── bio_blurb.block.json
+│       │   ├── block_dependency_map.block.json
+│       │   ├── bot_avatar_position.block.json
+│       │   ├── bot_detection_gamification.block.json
+│       │   ├── bot_message_style.block.json
+│       │   ├── bot_name.block.json
+│       │   ├── bot_update_strategy.block.json
+│       │   ├── bp__Instruction_financial_modeling.block.json
+│       │   ├── bp__Instruction_growth_strategy.block.json
+│       │   ├── break_even_analysis.block.json
+│       │   ├── budget_forecast.block.json
+│       │   ├── build_pipeline_integration.block.json
+│       │   ├── burn_rate_runway.block.json
+│       │   ├── business_continuity_plan.block.json
+│       │   ├── calendar_grid_ui.block.json
+│       │   ├── can_switch_roles.block.json
+│       │   ├── cash_flow_statement.block.json
+│       │   ├── cb__Instruction_intent_handling.block.json
+│       │   ├── cb__Instruction_response_generation.block.json
+│       │   ├── chat_history_enabled.block.json
+│       │   ├── chat_logging_enabled.block.json
+│       │   ├── chatbot_instruction_layer.block.json
+│       │   ├── chatbot_knowledge_sources.block.json
+│       │   ├── chatbot_memory_type.block.json
+│       │   ├── chatbot_secondary_skills.block.json
+│       │   ├── chunking_or_embedding_method.block.json
+│       │   ├── code_input_support.block.json
+│       │   ├── collectible_badges.block.json
+│       │   ├── compatible_roles_only.block.json
+│       │   ├── competitive_landscape.block.json
+│       │   ├── conflict_resolution_style.block.json
+│       │   ├── connection_method.block.json
+│       │   ├── content_filtering_level.block.json
+│       │   ├── context_layering_logic.block.json
+│       │   ├── contextual_safety_classifier.block.json
+│       │   ├── conversation_thread_model.block.json
+│       │   ├── conversation_thread_per_agent.block.json
+│       │   ├── cooldown_reward_loop.block.json
+│       │   ├── cooperative_agent_mode.block.json
+│       │   ├── core_instruction_set.block.json
+│       │   ├── core_user_goals.block.json
+│       │   ├── cost_analysis.block.json
+│       │   ├── cost_estimation_mode.block.json
+│       │   ├── creator_media_plan.block.json
+│       │   ├── custom_api_connector_required.block.json
+│       │   ├── custom_currency_naming.block.json
+│       │   ├── custom_instruction_blocks.block.json
+│       │   ├── customer_segments.block.json
+│       │   ├── daily_weekly_streaks.block.json
+│       │   ├── data_pass_through_support.block.json
+│       │   ├── data_retention_policy.block.json
+│       │   ├── date_number_currency_localization.block.json
+│       │   ├── default_language_setting.block.json
+│       │   ├── deployment_access_model.block.json
+│       │   ├── deployment_limits.block.json
+│       │   ├── deployment_mode.block.json
+│       │   ├── depreciation_schedules.block.json
+│       │   ├── disagreement_protocol.block.json
+│       │   ├── double_sided_rewards.block.json
+│       │   ├── dynamic_instruction_blocks.block.json
+│       │   ├── earnable_discount_tiers.block.json
+│       │   ├── ecommerce_plan.block.json
+│       │   ├── education_plan.block.json
+│       │   ├── embed_mode_type.block.json
+│       │   ├── embedded_report_assumptions_log.block.json
+│       │   ├── embedded_report_competitive_landscape.block.json
+│       │   ├── embedded_report_financial_snapshot.block.json
+│       │   ├── embedded_report_go_to_market_plan.block.json
+│       │   ├── embedded_report_market_size_model.block.json
+│       │   ├── embedded_report_risk_matrix.block.json
+│       │   ├── embedded_report_scenario_modeling.block.json
+│       │   ├── embedded_report_swot_analysis.block.json
+│       │   ├── embedded_report_target_user_persona.block.json
+│       │   ├── embedded_report_unit_economics_summary.block.json
+│       │   ├── emoji_usage_style.block.json
+│       │   ├── empathy_protocol.block.json
+│       │   ├── enabled_input_types.block.json
+│       │   ├── error_flagging_interface.block.json
+│       │   ├── ethical_alignment.block.json
+│       │   ├── ethics_violation_policy.block.json
+│       │   ├── event_metric_tracking_scope.block.json
+│       │   ├── example_deployment_use_case.block.json
+│       │   ├── example_embed_use_case.block.json
+│       │   ├── example_file_prompts.block.json
+│       │   ├── example_input_output_pairs.block.json
+│       │   ├── example_instruction_payload.block.json
+│       │   ├── example_molt_merge_config.block.json
+│       │   ├── example_queries.block.json
+│       │   ├── example_quirky_replies.block.json
+│       │   ├── example_source_queries.block.json
+│       │   ├── example_tool_use_flow.block.json
+│       │   ├── example_use_cases.block.json
+│       │   ├── examples_of_attitude.block.json
+│       │   ├── examples_of_instruction_response.block.json
+│       │   ├── executive_summary.block.json
+│       │   ├── exit_plan.block.json
+│       │   ├── exit_scenario_projection.block.json
+│       │   ├── exit_strategy.block.json
+│       │   ├── exit_summary.block.json
+│       │   ├── external_billing_sync_hook.block.json
+│       │   ├── facial_expression_model.block.json
+│       │   ├── fallback_input_mode.block.json
+│       │   ├── fallback_prompt_logic.block.json
+│       │   ├── fallback_to_philosophy_when_uncertain.block.json
+│       │   ├── feasibility_plan.block.json
+│       │   ├── feedback_submission_trigger.block.json
+│       │   ├── feedback_to_log_linkage.block.json
+│       │   ├── file_chunking_strategy.block.json
+│       │   ├── file_input_max_size.block.json
+│       │   ├── file_upload_toggleable.block.json
+│       │   ├── filtered_leaderboards.block.json
+│       │   ├── financial_footnotes.block.json
+│       │   ├── financial_forecast.block.json
+│       │   ├── financial_overview.block.json
+│       │   ├── fork_conversation_feature.block.json
+│       │   ├── formality_level.block.json
+│       │   ├── formatting_preference.block.json
+│       │   ├── formatting_signature.block.json
+│       │   ├── franchise_kit_plan.block.json
+│       │   ├── franchise_plan.block.json
+│       │   ├── funding_requirements.block.json
+│       │   ├── gaap_compliant_reports.block.json
+│       │   ├── go_to_market_strategy.block.json
+│       │   ├── grant_application_plan.block.json
+│       │   ├── greeting_animation.block.json
+│       │   ├── growth_plan.block.json
+│       │   ├── guardrail_response_snippets.block.json
+│       │   ├── highlighted_message_pinning.block.json
+│       │   ├── history_export_format.block.json
+│       │   ├── history_storage_scope.block.json
+│       │   ├── host_environment.block.json
+│       │   ├── humor_style.block.json
+│       │   ├── hybrid_plan.block.json
+│       │   ├── indexing_or_embedding_used.block.json
+│       │   ├── injection_conflict_resolution.block.json
+│       │   ├── injection_priority_policy.block.json
+│       │   ├── injection_trigger_conditions.block.json
+│       │   ├── input_bar_position.block.json
+│       │   ├── input_history_enabled.block.json
+│       │   ├── input_mode_toggle_ui.block.json
+│       │   ├── input_output_language_sync.block.json
+│       │   ├── input_preview_enabled.block.json
+│       │   ├── input_requirements.block.json
+│       │   ├── input_sanitization_rules.block.json
+│       │   ├── instruction_injection_enabled.block.json
+│       │   ├── instruction_injection_log_mode.block.json
+│       │   ├── instruction_priority_map.block.json
+│       │   ├── instruction_set_versioning.block.json
+│       │   ├── integration_target.block.json
+│       │   ├── inter_agent_memory_sharing.block.json
+│       │   ├── interaction_isolation_mode.block.json
+│       │   ├── internal_plan.block.json
+│       │   ├── internal_use_plan.block.json
+│       │   ├── investor_memo.block.json
+│       │   ├── invite_leaderboard.block.json
+│       │   ├── invite_referral_link.block.json
+│       │   ├── is_toggleable.block.json
+│       │   ├── jailbreak_detection_ruleset.block.json
+│       │   ├── knowledge_domain_tags.block.json
+│       │   ├── language_level.block.json
+│       │   ├── language_mode_enabled.block.json
+│       │   ├── language_tagging_memory_model.block.json
+│       │   ├── leaderboard_by_category.block.json
+│       │   ├── lean_plan.block.json
+│       │   ├── level_thresholds_ranks.block.json
+│       │   ├── lip_sync_enabled.block.json
+│       │   ├── local_goods_farm_plan.block.json
+│       │   ├── localized_prompt_templates.block.json
+│       │   ├── log_anonymization_mode.block.json
+│       │   ├── low_token_warning_trigger.block.json
+│       │   ├── manual_language_switch_ui.block.json
+│       │   ├── manual_memory_editing_allowed.block.json
+│       │   ├── marketplace_plan.block.json
+│       │   ├── memory_audit_log.block.json
+│       │   ├── memory_chunking_view_mode.block.json
+│       │   ├── memory_deletion_control.block.json
+│       │   ├── memory_duration_policy.block.json
+│       │   ├── memory_editing_enabled.block.json
+│       │   ├── memory_export_import_format.block.json
+│       │   ├── memory_overflow_behavior.block.json
+│       │   ├── memory_override_injection.block.json
+│       │   ├── memory_panel_enabled.block.json
+│       │   ├── memory_recall_trigger.block.json
+│       │   ├── memory_scope.block.json
+│       │   ├── memory_security_protocols.block.json
+│       │   ├── memory_tagging_system.block.json
+│       │   ├── memory_type.block.json
+│       │   ├── memory_view_scope.block.json
+│       │   ├── merge_logic_snippet.block.json
+│       │   ├── message_meta_panel.block.json
+│       │   ├── message_timestamps_visible.block.json
+│       │   ├── metric_dashboard_access.block.json
+│       │   ├── milestones___timeline.block.json
+│       │   ├── mobile_responsive_behavior.block.json
+│       │   ├── model_guard_rails_enabled.block.json
+│       │   ├── molt_customization_ui.block.json
+│       │   ├── molt_merge_conflict_policy.block.json
+│       │   ├── molt_persistence_mode.block.json
+│       │   ├── monitoring_and_logs_enabled.block.json
+│       │   ├── multi_agent_sample_flow.block.json
+│       │   ├── multi_file_handling_logic.block.json
+│       │   ├── multi_tasking_capable.block.json
+│       │   ├── negative_xp_penalties.block.json
+│       │   ├── next_reward_countdown.block.json
+│       │   ├── nonprofit_plan.block.json
+│       │   ├── nonstandard_output_modes.block.json
+│       │   ├── offline_capability.block.json
+│       │   ├── one_page_plan.block.json
+│       │   ├── operational_plan.block.json
+│       │   ├── output.text_mode.block.json
+│       │   ├── output_format.block.json
+│       │   ├── output_postprocessor_hooks.block.json
+│       │   ├── output_render_format.block.json
+│       │   ├── output_structure_template.block.json
+│       │   ├── overflow_token_response.block.json
+│       │   ├── override_conditions.block.json
+│       │   ├── parsing_engine_type.block.json
+│       │   ├── persona_modifiers_enabled.block.json
+│       │   ├── philosophical_framework.block.json
+│       │   ├── philosophy_can_override_instruction.block.json
+│       │   ├── pitch_deck.block.json
+│       │   ├── plugin_dependencies.block.json
+│       │   ├── point_shop_catalog.block.json
+│       │   ├── preferred_prompt_structure.block.json
+│       │   ├── pricing_strategy_report.block.json
+│       │   ├── primary_profession.block.json
+│       │   ├── problem_solution_fit.block.json
+│       │   ├── profanity_filter_enabled.block.json
+│       │   ├── profit_and_loss_statement.block.json
+│       │   ├── prompt_testing_examples.block.json
+│       │   ├── prompt_token_guardrails.block.json
+│       │   ├── prompt_type_mode.block.json
+│       │   ├── punch_card_mechanics.block.json
+│       │   ├── punctuation_style.block.json
+│       │   ├── quarterly_filings.block.json
+│       │   ├── quick_replies_ui_enabled.block.json
+│       │   ├── quirk_is_toggleable.block.json
+│       │   ├── quirk_origin_story.block.json
+│       │   ├── quirk_theme.block.json
+│       │   ├── quirk_trigger_rules.block.json
+│       │   ├── rate_limited_rewards.block.json
+│       │   ├── realtime_snap_preview_enabled.block.json
+│       │   ├── refusal_conditions.block.json
+│       │   ├── response_length_style.block.json
+│       │   ├── response_pacing_style.block.json
+│       │   ├── response_signature_toggle.block.json
+│       │   ├── response_structuring.block.json
+│       │   ├── response_translation_layer.block.json
+│       │   ├── responsive_scaling_rules.block.json
+│       │   ├── revenue_model.block.json
+│       │   ├── revenue_model_diagram.block.json
+│       │   ├── revert_to_base_trigger.block.json
+│       │   ├── reward_history_log.block.json
+│       │   ├── rich_media_output_enabled.block.json
+│       │   ├── role_overrides_allowed.block.json
+│       │   ├── role_title_rewards.block.json
+│       │   ├── saas_plan.block.json
+│       │   ├── sales_forecast.block.json
+│       │   ├── sample_feedback_flow.block.json
+│       │   ├── sample_history_edit_flow.block.json
+│       │   ├── sample_memory_edit_flow.block.json
+│       │   ├── sample_memory_entries.block.json
+│       │   ├── sample_philosophical_response.block.json
+│       │   ├── sample_usage_ui_layout.block.json
+│       │   ├── sample_voice_avatar_config.block.json
+│       │   ├── search_or_query_logic.block.json
+│       │   ├── secondary_skill_name.block.json
+│       │   ├── security_and_privacy_flags.block.json
+│       │   ├── sensitive_topic_redirects.block.json
+│       │   ├── sharing_milestone_bonus.block.json
+│       │   ├── skill_level_rating.block.json
+│       │   ├── skill_limitations.block.json
+│       │   ├── skill_scope_description.block.json
+│       │   ├── snap_logic_script_format.block.json
+│       │   ├── snap_sequence_order.block.json
+│       │   ├── social_platform_sharing.block.json
+│       │   ├── source_description.block.json
+│       │   ├── source_fallback_behavior.block.json
+│       │   ├── source_refresh_frequency.block.json
+│       │   ├── source_scope_restrictions.block.json
+│       │   ├── source_type.block.json
+│       │   ├── speech_patterns.block.json
+│       │   ├── spiritual_or_cultural_flavor.block.json
+│       │   ├── startup_plan.block.json
+│       │   ├── strategic_plan.block.json
+│       │   ├── styling_inheritance.block.json
+│       │   ├── stylistic_output_mode.block.json
+│       │   ├── sub_specialty.block.json
+│       │   ├── subscription_box_plan.block.json
+│       │   ├── suggested_molt_merges.block.json
+│       │   ├── supported_input_types.block.json
+│       │   ├── supported_language_codes.block.json
+│       │   ├── supported_output_modes.block.json
+│       │   ├── surprise_drops.block.json
+│       │   ├── switching_ui_style.block.json
+│       │   ├── swot_analysis.block.json
+│       │   ├── system_directive_version.block.json
+│       │   ├── system_injection_hooks.block.json
+│       │   ├── tagline.block.json
+│       │   ├── tam_sam_som.block.json
+│       │   ├── task_following_rules.block.json
+│       │   ├── task_function_type.block.json
+│       │   ├── task_input_requirements.block.json
+│       │   ├── task_priority_order.block.json
+│       │   ├── task_routing_logic.block.json
+│       │   ├── task_routing_protocol.block.json
+│       │   ├── task_scope.block.json
+│       │   ├── task_success_criteria.block.json
+│       │   ├── task_title.block.json
+│       │   ├── team_overview.block.json
+│       │   ├── temporary_instruction_scope.block.json
+│       │   ├── theme_color.block.json
+│       │   ├── theme_style.block.json
+│       │   ├── thread_based_memory_rules.block.json
+│       │   ├── time_based_rewards.block.json
+│       │   ├── timestamp_display.block.json
+│       │   ├── token_tracking_enabled.block.json
+│       │   ├── tone_consistency_rules.block.json
+│       │   ├── tone_is_locked.block.json
+│       │   ├── tone_modulation_logic.block.json
+│       │   ├── tone_profile.block.json
+│       │   ├── tone_switch_conditions.block.json
+│       │   ├── tool_context_scope.block.json
+│       │   ├── tool_function_type.block.json
+│       │   ├── tool_merge_logic.block.json
+│       │   ├── tool_name.block.json
+│       │   ├── tool_security_flags.block.json
+│       │   ├── tool_timeout_thresholds.block.json
+│       │   ├── tool_trigger_method.block.json
+│       │   ├── trophy_display_showcase.block.json
+│       │   ├── tuning_mode_trigger_hook.block.json
+│       │   ├── ui_style_type.block.json
+│       │   ├── unit_economics.block.json
+│       │   ├── unit_economics_report.block.json
+│       │   ├── upload_method.block.json
+│       │   ├── usage_data_retention_period.block.json
+│       │   ├── usage_limit_policy.block.json
+│       │   ├── usage_role_restriction_map.block.json
+│       │   ├── use_of_funds.block.json
+│       │   ├── user_defined_molt_creation.block.json
+│       │   ├── user_input_injection_rule.block.json
+│       │   ├── user_instruction_ui_mode.block.json
+│       │   ├── user_message_editing_enabled.block.json
+│       │   ├── user_message_style.block.json
+│       │   ├── user_reaction_feedback_ui.block.json
+│       │   ├── user_safety_flagging_ui.block.json
+│       │   ├── user_usage_meter_ui.block.json
+│       │   ├── vector_or_slot_based_memory.block.json
+│       │   ├── visibility.block.json
+│       │   ├── voice_engine_selection.block.json
+│       │   ├── voice_id.block.json
+│       │   ├── voice_input_enabled.block.json
+│       │   ├── voice_output_enabled.block.json
+│       │   ├── voice_profile_options.block.json
+│       │   ├── voice_response_latency_policy.block.json
+│       │   ├── voice_to_text_engine.block.json
+│       │   ├── voice_toggle_ui_controls.block.json
+│       │   ├── web__Instruction_accessibility.block.json
+│       │   ├── web__Instruction_responsive_layout.block.json
+│       │   ├── welcome_message.block.json
+│       │   ├── wisdom_expression_mode.block.json
+│       │   ├── xp_badge_in_header.block.json
+│       │   ├── xp_multipliers_events.block.json
+│       │   └── xp_progress_bar_ui.block.json
+│       ├── Meta
+│       │   ├── meta_meta_agent_context.block.json
+│       │   ├── meta_meta_ai_overlay.block.json
+│       │   ├── meta_meta_plan_role.block.json
+│       │   ├── meta_meta_plan_template_type.block.json
+│       │   └── meta_meta_user_persona_ref.block.json
+│       ├── Off
+│       │   ├── off_deactivate_merge_preview.block.json
+│       │   ├── off_disable_auto_snap.block.json
+│       │   ├── off_disable_custom_icons.block.json
+│       │   ├── off_disable_editor_ui.block.json
+│       │   ├── off_disable_hotkeys.block.json
+│       │   ├── off_disable_manual_snapping.block.json
+│       │   ├── off_disable_overlay_responses.block.json
+│       │   ├── off_disable_philosophy_layer.block.json
+│       │   ├── off_disable_tip_banners.block.json
+│       │   ├── off_disable_user_tracking.block.json
+│       │   ├── off_freeze_stack_sorting.block.json
+│       │   ├── off_hide_block_labels.block.json
+│       │   ├── off_hide_blueprint_layer.block.json
+│       │   ├── off_hide_debug_controls.block.json
+│       │   ├── off_hide_overlay_ui.block.json
+│       │   ├── off_hide_unused_sections.block.json
+│       │   ├── off_mute_all_directives.block.json
+│       │   ├── off_mute_warnings.block.json
+│       │   ├── off_no_layout_grid.block.json
+│       │   ├── off_off_editor_access.block.json
+│       │   ├── off_off_mode_toggle.block.json
+│       │   ├── off_pause_autopopulate.block.json
+│       │   ├── off_pause_theme_sync.block.json
+│       │   ├── off_readonly_plan_mode.block.json
+│       │   ├── off_stop_stack_rebuild.block.json
+│       │   ├── off_suppress_validation_failures.block.json
+│       │   ├── off_suspend_log_output.block.json
+│       │   ├── off_suspend_validation.block.json
+│       │   ├── off_turn_off_commit_behavior.block.json
+│       │   └── off_turn_off_templates.block.json
+│       ├── Philosophy
+│       │   ├── bp__Philosophy_mission_driven.block.json
+│       │   ├── cb__Philosophy_friendly.block.json
+│       │   ├── chatbot_philosophy_layer.block.json
+│       │   ├── philosophy_absurdism.block.json
+│       │   ├── philosophy_adaptive.block.json
+│       │   ├── philosophy_agile.block.json
+│       │   ├── philosophy_analytic_philosophy.block.json
+│       │   ├── philosophy_assertive.block.json
+│       │   ├── philosophy_bold.block.json
+│       │   ├── philosophy_compassionate.block.json
+│       │   ├── philosophy_compatibilism.block.json
+│       │   ├── philosophy_constructivism.block.json
+│       │   ├── philosophy_continental_philosophy.block.json
+│       │   ├── philosophy_creative.block.json
+│       │   ├── philosophy_critical.block.json
+│       │   ├── philosophy_critical_theory.block.json
+│       │   ├── philosophy_curious.block.json
+│       │   ├── philosophy_deconstruction.block.json
+│       │   ├── philosophy_determinism.block.json
+│       │   ├── philosophy_empiricism.block.json
+│       │   ├── philosophy_essentialism.block.json
+│       │   ├── philosophy_ethical.block.json
+│       │   ├── philosophy_existential_phenomenology.block.json
+│       │   ├── philosophy_existentialism.block.json
+│       │   ├── philosophy_experimental.block.json
+│       │   ├── philosophy_focused.block.json
+│       │   ├── philosophy_free_will_theory.block.json
+│       │   ├── philosophy_grounded.block.json
+│       │   ├── philosophy_humanism.block.json
+│       │   ├── philosophy_humble.block.json
+│       │   ├── philosophy_idealism.block.json
+│       │   ├── philosophy_joyful.block.json
+│       │   ├── philosophy_materialism.block.json
+│       │   ├── philosophy_maximalist.block.json
+│       │   ├── philosophy_measured.block.json
+│       │   ├── philosophy_minimalist.block.json
+│       │   ├── philosophy_moral_relativism.block.json
+│       │   ├── philosophy_nihilism.block.json
+│       │   ├── philosophy_objectivism.block.json
+│       │   ├── philosophy_observant.block.json
+│       │   ├── philosophy_open_minded.block.json
+│       │   ├── philosophy_optimistic.block.json
+│       │   ├── philosophy_patient.block.json
+│       │   ├── philosophy_pessimistic.block.json
+│       │   ├── philosophy_phenomenology.block.json
+│       │   ├── philosophy_playful.block.json
+│       │   ├── philosophy_postmodernism.block.json
+│       │   ├── philosophy_pragmatism.block.json
+│       │   ├── philosophy_precise.block.json
+│       │   ├── philosophy_rationalism.block.json
+│       │   ├── philosophy_realism.block.json
+│       │   ├── philosophy_reflective.block.json
+│       │   ├── philosophy_resilient.block.json
+│       │   ├── philosophy_skeptical.block.json
+│       │   ├── philosophy_skepticism.block.json
+│       │   ├── philosophy_stoic.block.json
+│       │   ├── philosophy_stoicism.block.json
+│       │   ├── philosophy_strategic.block.json
+│       │   ├── philosophy_structuralism.block.json
+│       │   ├── philosophy_transcendentalism.block.json
+│       │   ├── philosophy_utilitarianism.block.json
+│       │   ├── philosophy_virtue_ethics.block.json
+│       │   ├── philosophy_visionary.block.json
+│       │   └── web__Philosophy_simple_ui.block.json
+│       ├── Primary
+│       │   ├── acquisition_plan.block.json
+│       │   ├── app_launch_plan.block.json
+│       │   ├── balance_sheet.block.json
+│       │   ├── bp__Primary_business_core.block.json
+│       │   ├── break_even_analysis.block.json
+│       │   ├── budget_forecast.block.json
+│       │   ├── business_continuity_plan.block.json
+│       │   ├── cash_flow_statement.block.json
+│       │   ├── cb__Primary_chatbot_core.block.json
+│       │   ├── chatbot_primary_task.block.json
+│       │   ├── creator_media_plan.block.json
+│       │   ├── ecommerce_plan.block.json
+│       │   ├── education_plan.block.json
+│       │   ├── exit_plan.block.json
+│       │   ├── feasibility_plan.block.json
+│       │   ├── financial_forecast.block.json
+│       │   ├── franchise_plan.block.json
+│       │   ├── growth_plan.block.json
+│       │   ├── hybrid_plan.block.json
+│       │   ├── internal_plan.block.json
+│       │   ├── local_goods_farm_plan.block.json
+│       │   ├── marketplace_plan.block.json
+│       │   ├── nonprofit_plan.block.json
+│       │   ├── operational_plan.block.json
+│       │   ├── saas_plan.block.json
+│       │   ├── sales_forecast.block.json
+│       │   ├── subscription_box_plan.block.json
+│       │   └── web__Primary_site_goal.block.json
+│       ├── Subject
+│       │   ├── 010_scenario_modeling_CATEGORY_1__FRONTEND_ARCHITECTURE.block.json
+│       │   ├── 013_bull_redis_queues.block.json
+│       │   ├── 014_retry_logic_wrapper.block.json
+│       │   ├── 015_email_notification_workers.block.json
+│       │   ├── 016_data_cleanup_scripts.block.json
+│       │   ├── 017_auth_middleware.block.json
+│       │   ├── 018_body_cookie_parser.block.json
+│       │   ├── 019_cors_handler.block.json
+│       │   ├── 020_gdpr_ccpa_disclosure_file_CATEGORY_4__INVESTOR_DOCUMENTATION.block.json
+│       │   ├── 020_request_logger.block.json
+│       │   ├── 021_depreciation_schedules_CATEGORY_3__TAX___COMPLIANCE_DOCUMENTATION.block.json
+│       │   ├── 021_hybrid_plan_CATEGORY_2__FINANCIAL_REPORTS.block.json
+│       │   ├── 021_response_wrapper.block.json
+│       │   ├── 021_risk_disclosure_report_CATEGORY_5__OPERATIONAL_DOCUMENTATION.block.json
+│       │   ├── 022_change_management_template_CATEGORY_6__MARKETING_DOCUMENTATION.block.json
+│       │   ├── 022_vercel_netlify_function_files.block.json
+│       │   ├── 023_edge_functions.block.json
+│       │   ├── 023_termination_checklist_CATEGORY_9__PROJECT_MANAGEMENT_DOCUMENTATION.block.json
+│       │   ├── 024_brand_asset_kit_CATEGORY_7__LEGAL_DOCUMENTATION.block.json
+│       │   ├── 024_triggered_webhooks.block.json
+│       │   ├── 025_collaboration_platform_policy_CATEGORY_10__EDUCATIONAL___TRAINING_DOCUMENTATION.block.json
+│       │   ├── 025_dynamic_params_parser.block.json
+│       │   ├── 025_retraining_trigger_protocol_CATEGORY_11__EMBEDDED_REPORTS__INSIDE_PLANS_.block.json
+│       │   ├── 025_vesting_schedule_agreement_CATEGORY_8__HR_DOCUMENTATION.block.json
+│       │   ├── 041_routemap_json_CATEGORY_2__BACKEND___SERVER_LOGIC.block.json
+│       │   ├── asset_folder_structure_cat6_style_design.block.json
+│       │   ├── assumptions_log.block.json
+│       │   ├── bp__Subject_market_analysis.block.json
+│       │   ├── bp__Subject_team_structure.block.json
+│       │   ├── brand_color_palette_cat6_style_design.block.json
+│       │   ├── brand_guidelines_pdf_cat6_style_design.block.json
+│       │   ├── button_styles_cat6_style_design.block.json
+│       │   ├── cb__Subject_nlu_domains.block.json
+│       │   ├── cb__Subject_user_goals.block.json
+│       │   ├── chatbot_core_persona_identity.block.json
+│       │   ├── chatbot_profession_role.block.json
+│       │   ├── color_tokens_cat6_style_design.block.json
+│       │   ├── competitive_landscape.block.json
+│       │   ├── component_state_styles_cat6_style_design.block.json
+│       │   ├── convertible_note_tracker.block.json
+│       │   ├── css_modules_scss_cat6_style_design.block.json
+│       │   ├── css_print_stylesheet_cat6_style_design.block.json
+│       │   ├── css_variable_root_switcher_cat6_style_design.block.json
+│       │   ├── data_room_index.block.json
+│       │   ├── executive_summary.block.json
+│       │   ├── favicon_app_icon_setup_cat6_style_design.block.json
+│       │   ├── financial_snapshot.block.json
+│       │   ├── font_pairing_guide_cat6_style_design.block.json
+│       │   ├── font_scale_cat6_style_design.block.json
+│       │   ├── founders_agreement.block.json
+│       │   ├── global_reset_normalize_cat6_style_design.block.json
+│       │   ├── go_to_market_plan.block.json
+│       │   ├── headless_ui_radix_cat6_style_design.block.json
+│       │   ├── icon_set_management_cat6_style_design.block.json
+│       │   ├── input_field_variants_cat6_style_design.block.json
+│       │   ├── interactive_ux_patterns_cat6_style_design.block.json
+│       │   ├── investment_memo.block.json
+│       │   ├── learning_metrics_dashboard.block.json
+│       │   ├── light_dark_mode_toggle_cat6_style_design.block.json
+│       │   ├── logo_variants_usage_rules_cat6_style_design.block.json
+│       │   ├── market_size_model.block.json
+│       │   ├── market_sizing_report.block.json
+│       │   ├── modal_drawer_templates_cat6_style_design.block.json
+│       │   ├── radius_tokens_cat6_style_design.block.json
+│       │   ├── responsive_breakpoint_labels_cat6_style_design.block.json
+│       │   ├── retraining_trigger_protocol.block.json
+│       │   ├── risk_disclosure_report.block.json
+│       │   ├── risk_matrix.block.json
+│       │   ├── safe_convertible_note.block.json
+│       │   ├── scenario_modeling.block.json
+│       │   ├── shadow_tokens_cat6_style_design.block.json
+│       │   ├── share_purchase_agreement.block.json
+│       │   ├── spacing_scale_cat6_style_design.block.json
+│       │   ├── styled_components_emotion_cat6_style_design.block.json
+│       │   ├── system_theme_detection_cat6_style_design.block.json
+│       │   ├── tailwind_utility_classes_cat6_style_design.block.json
+│       │   ├── target_user_persona.block.json
+│       │   ├── term_sheet.block.json
+│       │   ├── theme_provider_react_context_cat6_style_design.block.json
+│       │   ├── traction_snapshot.block.json
+│       │   ├── training_satisfaction_survey.block.json
+│       │   ├── type_ramp_scale_cat6_style_design.block.json
+│       │   ├── unit_economics_summary.block.json
+│       │   ├── use_of_funds_summary.block.json
+│       │   ├── user_preferences_storage_cat6_style_design.block.json
+│       │   ├── voting_rights_agreement.block.json
+│       │   ├── web__Subject_pages.block.json
+│       │   ├── web__Subject_userflow.block.json
+│       │   └── z_index_map_cat6_style_design.block.json
+│       └── Trigger
+│           ├── function.commit_block.block.json
+│           ├── trigger_execute_terminal_command.block.json
+│           ├── trigger_on_block_edit.block.json
+│           ├── trigger_on_block_snap.block.json
+│           ├── trigger_on_block_unsnap.block.json
+│           ├── trigger_on_blueprint_set.block.json
+│           ├── trigger_on_context_switch.block.json
+│           ├── trigger_on_directive_resolve.block.json
+│           ├── trigger_on_enter_editor_mode.block.json
+│           ├── trigger_on_exit_editor_mode.block.json
+│           ├── trigger_on_export.block.json
+│           ├── trigger_on_instruction_expand.block.json
+│           ├── trigger_on_manifest_loaded.block.json
+│           ├── trigger_on_manual_override.block.json
+│           ├── trigger_on_philosophy_overlay.block.json
+│           ├── trigger_on_plan_archive.block.json
+│           ├── trigger_on_plan_select.block.json
+│           ├── trigger_on_primary_swap.block.json
+│           ├── trigger_on_save.block.json
+│           ├── trigger_on_stack_clone.block.json
+│           ├── trigger_on_stack_commit.block.json
+│           ├── trigger_on_stack_load.block.json
+│           ├── trigger_on_stack_merge.block.json
+│           ├── trigger_on_stack_validation_fail.block.json
+│           ├── trigger_on_stack_validation_pass.block.json
+│           ├── trigger_on_subject_add.block.json
+│           ├── trigger_on_tag_detected.block.json
+│           ├── trigger_on_template_apply.block.json
+│           ├── trigger_on_theme_change.block.json
+│           ├── trigger_on_trigger_fire.block.json
+│           ├── trigger_on_ui_preview.block.json
+│           └── trigger_on_user_role_change.block.json
+├── docs
+├── file_manifest.txt
+├── file_tree.txt
+├── file_tree_Neo_UMG_Builder.txt
+├── filestructure.txt
+├── functions
+│   ├── commit_block.function.json
+│   └── write_stack.function.json
+├── mergeMatrix.json
+├── neobuilder.txt
+├── poe_core
+│   ├── NeoPoeUMG.Core.stack.json
+│   ├── README.md
+│   ├── cantocore.primer.block.json
+│   ├── identity.core.block.json
+│   └── inject.json
+├── scripts
+│   ├── autofill_block_fields.py
+│   ├── autopopulate_stack.py
+│   ├── find_misfiled_blocks.py
+│   ├── operator_safe_actions.sh
+│   ├── poe_exec.py
+│   ├── poe_exec.py:
+│   ├── poe_git_commit.py
+│   ├── poe_terminal_agent.py
+│   ├── unpack_blocks.py
+│   ├── update_stack_logic.py
+│   ├── validate_block.py
+│   └── validate_manifest_refs.py
+├── set1_missing_blocks.json
+├── set1_missing_blocks_FIXED.json
+├── set2_missing_blocks_FIXED.json
+├── set3_missing_blocks_FIXED.json
+├── set4_missing_blocks_FIXED.json
+├── sleeves
+│   └── Poe
+│       └── NeoPoeUMG.API.stack.json
+├── snapMatrix.json
+├── umg_blocks_business_financial_cat1_2.json
+├── umg_blocks_embedded_reports_cat11.json
+├── umg_blocks_legal_hr_cat7_8.json
+├── umg_blocks_operational_marketing_cat5_6.json
+├── umg_blocks_project_edu_cat9_10.json
+├── umg_blocks_tax_investor_cat3_4.json
+├── umg_blocks_webapp_cat10_deployment_env.json
+├── umg_blocks_webapp_cat11_security_compliance.json
+├── umg_blocks_webapp_cat12_devtools_dx.json
+├── umg_blocks_webapp_cat13_ai_agents_automation.json
+├── umg_blocks_webapp_cat14_payment_billing.json
+├── umg_blocks_webapp_cat15_messaging_notifications.json
+├── umg_blocks_webapp_cat16_search_filters.json
+├── umg_blocks_webapp_cat17_localization_i18n_FIXED.json
+├── umg_blocks_webapp_cat18_forms_validation.json
+├── umg_blocks_webapp_cat19_file_handling_media.json
+├── umg_blocks_webapp_cat1_frontend_architecture.json
+├── umg_blocks_webapp_cat20_integrations_apis.json
+├── umg_blocks_webapp_cat21_access_permissions.json
+├── umg_blocks_webapp_cat22_testing_qa_pipelines.json
+├── umg_blocks_webapp_cat23_feedback_surveys_voting.json
+├── umg_blocks_webapp_cat24_user_profiles_settings.json
+├── umg_blocks_webapp_cat25_docs_help_support.json
+├── umg_blocks_webapp_cat26_legal_terms_consent.json
+├── umg_blocks_webapp_cat27_gamification_rewards.json
+├── umg_blocks_webapp_cat28_scheduling_calendar.json
+├── umg_blocks_webapp_cat29_workflow_logic.json
+├── umg_blocks_webapp_cat2_backend_logic.json
+├── umg_blocks_webapp_cat30_ai_llm.json
+├── umg_blocks_webapp_cat3_auth_identity.json
+├── umg_blocks_webapp_cat4_database_models.json
+├── umg_blocks_webapp_cat5_api_webhooks.json
+├── umg_blocks_webapp_cat6_styling_design_system.json
+├── umg_blocks_webapp_cat7_responsive_pwa.json
+├── umg_blocks_webapp_cat8_state_context.json
+├── umg_blocks_webapp_cat9_analytics_event_tracking.json
+├── umg_core_autoblocks.json
+└── website_build.json
+
+113 directories, 2298 files
