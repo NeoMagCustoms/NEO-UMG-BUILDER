@@ -1,5 +1,31 @@
 [
-  { "task": "add block", "block_id": "user_auth",   "category": "security", "molt_type": "Instruction" },
-  { "task": "validate schema", "script": "scripts/validate_blocks.py" },
-  { "task": "setup commit script", "script": "scripts/poe_commit.sh" }
+  {
+    "task": "add block",
+    "block_id": "user_auth",
+    "category": "security",
+    "molt_type": "Instruction"
+  },
+  {
+    "task": "validate schema",
+    "script": "scripts/validate_blocks.py"
+  },
+  {
+    "task": "setup commit script",
+    "script": "scripts/poe_commit.sh"
+  },
+  {
+    "task": "evaluate repo"
+  },
+  {
+    "task": "write file",
+    "path": "scripts/utils/sort_blocks.py",
+    "code": "def sort_blocks(blocks):\n    return sorted(blocks, key=lambda b: b.get('priority', 0), reverse=True)",
+    "message": "Add sort_blocks utility script"
+  },
+  {
+    "task": "move file",
+    "from": "blocks/temp/user_auth.json",
+    "to": "blocks/security/user_auth.json",
+    "message": "Move user_auth block into correct folder"
+  }
 ]
