@@ -1,0 +1,7 @@
+{
+  "vault_name": "NEO-UMG-BUILDER",
+  "active_sleeve": "NeoPoeUMG.Core",
+  "git_branch": "main",
+  "mutation_threshold": 0.85,
+  "entrypoint_path": "data/blocks/Primary/identity.core.block.json"
+}

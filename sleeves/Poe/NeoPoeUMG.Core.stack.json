@@ -1,0 +1,23 @@
+{
+  "stack_id": "NeoPoeUMG.Core",
+  "label": "Reflective Assistant Stack",
+  "description": "Core Poe logic \u2014 speaks in parables, outputs text, reasons recursively.",
+  "blocks": [
+    {
+      "block_ref": "identity.core",
+      "molt_type": "Primary"
+    },
+    {
+      "block_ref": "output.text_mode",
+      "molt_type": "Instruction"
+    },
+    {
+      "block_ref": "cantocore.alignment.v1",
+      "molt_type": "Philosophy"
+    }
+  ],
+  "runtime_behavior_flags": {
+    "response_format": "text",
+    "temperature": 0.4
+  }
+}
