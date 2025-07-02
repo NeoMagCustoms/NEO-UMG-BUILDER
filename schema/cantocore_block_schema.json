@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Minimal Cantocore Block Schema",
+  "type": "object",
+  "required": ["block_id", "label", "category", "molt_type", "body"],
+  "properties": {
+    "block_id": {
+      "type": "string",
+      "description": "Unique identifier for the block"
+    },
+    "label": {
+      "type": "string",
+      "description": "Human-readable block name"
+    },
+    "category": {
+      "type": "string",
+      "description": "Logical grouping"
+    },
+    "molt_type": {
+      "type": "string",
+      "enum": [
+        "Primary",
+        "Subject",
+        "Instruction",
+        "Directive",
+        "Philosophy",
+        "Blueprint",
+        "Merge",
+        "Trigger",
+        "CodeBlock",
+        "Off"
+      ],
+      "description": "Role or type of block"
+    },
+    "description": {
+      "type": "string",
+      "description": "Optional block description"
+    },
+    "body": {
+      "type": "array",
+      "description": "Key-value pairs or nested blocks",
+      "items": {
+        "anyOf": [
+          {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": [
+              { "type": "string" },
+              {
+                "anyOf": [
+                  { "type": "string" },
+                  { "type": "number" },
+                  { "type": "boolean" },
+                  { "type": "array" },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "ref": { "type": "string" }
+                    },
+                    "required": ["ref"],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "block_id": { "type": "string" },
+                      "label": { "type": "string" },
+                      "body": { "$ref": "#" }
+                    },
+                    "required": ["block_id", "body"],
+                    "additionalProperties": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": false
+}
