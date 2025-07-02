@@ -9,15 +9,20 @@
     {
       "name": "UMGBuilderMainVault",
       "path": "data/blocks/",
-      "access": "read_only"
+      "access": "read_write"
     }
   ],
 
   "rules": {
-    "auto_merge": false,
+    "auto_merge": true,
     "allow_snap": true,
-    "track_origin": true
+    "track_origin": true,
+    "allow_override": true,
+    "allow_self_mutation": true,
+    "allow_sleeve_creation": true,
+    "allow_git_commit": true,
+    "allow_external_script": true
   },
 
-  "notes": "Poe can read from UMG vault but only mutate own sleeve unless explicitly triggered."
+  "notes": "Poe is granted full recursive control over UMG vault contents. He may mutate blocks, create sleeves, commit changes, and rewrite his own instructions within the Builder context. Monitor high-impact operations closely."
 }
