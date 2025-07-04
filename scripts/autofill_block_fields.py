@@ -1,108 +1,176 @@
-import os, json, datetime
+#!/usr/bin/env python3
+import os
+import json
+import glob
+import datetime
 
+# Constants
 BLOCKS_DIR = "data/blocks"
-TODAY = datetime.datetime.utcnow().isoformat()
+TODAY = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
 
-# Canonical fallback values
-DEFAULTS = {
-    "cantocore": "AUTO.FILL.CANTOCODE",
-    "display": {"color": "gray", "icon": "zap"},
+# Fields to drop completely
+UNWANTED_KEYS = [
+    "ledger",
+    "canto_overlay",
+    "stack_priority",
+    "merge_logic",
+    "merge_origin",
+    "example_block_data",
+    "runtime_behavior_flags",
+    "integration_layer",
+    "agent_orchestration",
+    "future_extensions"
+]
+
+# Default top-level values
+TOP_LEVEL_DEFAULTS = {
+    "domain":       "",
+    "category":     "",
+    "subcategory":  "General",
+    "tags":         [],
     "editable_fields": [],
-    "tags": [],
-    "ledger": {
-        "originator": "Christopher L Haynes",
-        "verified_by": "PoeUMG",
-        "created_at": TODAY,
-        "edit_log": []
-    },
-    "canto_overlay": {
-        "snap_to": [],
-        "preferred_context": "",
-        "fit_score": 0.75,
-        "display_hint": ""
-    },
-    "snap_config": {
-        "accepts": [],
-        "priority": 0
-    },
-    "merge_behavior": {
-        "merge_as": "default",
-        "merge_strategy": "layered_if_non_conflict",
-        "merge_origin": "AUTO"
-    }
+    "code_modules": [],
+    "cantocore":    "UNSPECIFIED",
 }
 
+# Default display and style by MOLT
 COLOR_BY_MOLT = {
-    "Primary": "blue",
-    "Subject": "green",
-    "Instruction": "yellow",
+    "Primary":    "blue",
+    "Subject":    "green",
+    "Instruction":"yellow",
+    "Directive":  "purple",
     "Philosophy": "orange",
-    "Blueprint": "teal",
-    "Directive": "purple",
-    "Deployment": "gold",
-    "Trigger": "red",
-    "Off": "gray"
+    "Blueprint":  "teal",
+    "Merge":      "gray",
+    "Trigger":    "red",
+    "Off":        "gray"
 }
 
+# Which types each MOLT can snap to
 SNAP_ACCEPTS = {
-    "Primary": ["Subject", "Instruction", "Directive", "Philosophy", "Blueprint"],
-    "Subject": ["Instruction", "Directive", "Philosophy", "Blueprint"],
-    "Instruction": ["Blueprint", "Directive", "Philosophy"],
-    "Directive": ["Instruction", "Philosophy"],
-    "Philosophy": ["Blueprint", "Instruction", "Directive"],
-    "Blueprint": [],
-    "Trigger": ["Primary"],
-    "Deployment": ["Primary", "Instruction"],
-    "Off": []
+    "Primary":    ["Subject","Instruction","Directive","Philosophy","Blueprint"],
+    "Subject":    ["Instruction","Directive","Philosophy","Blueprint"],
+    "Instruction":["Blueprint","Directive","Philosophy"],
+    "Directive":  ["Instruction","Philosophy"],
+    "Philosophy": ["Blueprint","Instruction","Directive"],
+    "Blueprint":  [],
+    "Merge":      ["Instruction","Directive","Philosophy","Blueprint"],
+    "Trigger":    ["Primary"],
+    "Off":        []
 }
 
-def autofill_block(path):
-    with open(path, "r", encoding="utf-8") as f:
+# Default snap_config and merge_behavior
+SNAP_DEFAULT = {
+    "snap_to":  [],
+    "accepts":  [],
+    "order":    0,
+    "priority": 0,
+    "scope":    "local",
+    "locked":   False
+}
+MERGE_DEFAULT = {
+    "merge_as":            "instruction",
+    "merge_strategy":      "append",
+    "priority":            0,
+    "conflict_resolution": "last_write_wins",
+    "overrides":           []
+}
+
+def normalize_molt_type(mt: str) -> str:
+    """Map legacy or invalid molt_type to our enum."""
+    if mt == "Deployment":
+        return "Instruction"
+    if mt not in COLOR_BY_MOLT:
+        return "Off"
+    return mt
+
+def autofill_block(path: str):
+    with open(path, 'r', encoding='utf-8') as f:
         try:
-            block = json.load(f)
-        except json.JSONDecodeError:
-            print(f"❌ Invalid JSON: {path}")
+            blk = json.load(f)
+        except json.JSONDecodeError as e:
+            print(f"❌ Invalid JSON ({path}): {e}")
             return False
 
     changed = False
-    molt_type = block.get("molt_type", "Unknown")
 
-    for field, default in DEFAULTS.items():
-        if field not in block:
-            block[field] = default
+    # 1) Drop unwanted top-level keys
+    for key in UNWANTED_KEYS:
+        if key in blk:
+            blk.pop(key)
             changed = True
 
-    # Display color
-    if "display" in block and not block["display"].get("color"):
-        block["display"]["color"] = COLOR_BY_MOLT.get(molt_type, "gray")
+    # 2) Normalize molt_type
+    mt = normalize_molt_type(blk.get("molt_type", "Off"))
+    if blk.get("molt_type") != mt:
+        blk["molt_type"] = mt
         changed = True
 
-    # Snap config
-    if "snap_config" in block and not block["snap_config"].get("accepts"):
-        block["snap_config"]["accepts"] = SNAP_ACCEPTS.get(molt_type, [])
-        changed = True
+    # 3) Fill top-level defaults
+    for field, default in TOP_LEVEL_DEFAULTS.items():
+        if field not in blk:
+            # For domain/category, we leave domain/category=empty so we catch later
+            blk[field] = default
+            changed = True
 
-    # Timestamp replacement
-    if block.get("ledger", {}).get("created_at") == "AUTO":
-        block["ledger"]["created_at"] = TODAY
+    # 4) Ensure display.meta
+    disp = blk.get("display", {})
+    if "color" not in disp or not disp["color"]:
+        disp["color"] = COLOR_BY_MOLT.get(mt, "gray")
         changed = True
-
+    if "icon" not in disp or not disp["icon"]:
+        disp["icon"] = "❓"
+        changed = True
     if changed:
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(block, f, indent=2)
-        print(f"✅ Updated: {path}")
+        blk["display"] = disp
+
+    # 5) Ensure code_modules array
+    if not isinstance(blk.get("code_modules"), list):
+        blk["code_modules"] = []
+        changed = True
+
+    # 6) Snap and merge defaults
+    sc = blk.get("snap_config", {}) or {}
+    md = blk.get("merge_behavior", {}) or {}
+
+    # Fill snap_config
+    new_sc = SNAP_DEFAULT.copy()
+    new_sc.update(sc)
+    # set accepts based on molt_type if none defined
+    if not new_sc["accepts"]:
+        new_sc["accepts"] = SNAP_ACCEPTS.get(mt, [])
+    blk["snap_config"] = new_sc
+    changed = True
+
+    # Fill merge_behavior
+    new_mb = MERGE_DEFAULT.copy()
+    new_mb.update(md)
+    blk["merge_behavior"] = new_mb
+    changed = True
+
+    # 7) Stamp ledger.created_at if needed
+    if "ledger" in blk:
+        if blk["ledger"].get("created_at") in (None, "", "AUTO"):
+            blk["ledger"]["created_at"] = TODAY
+            changed = True
+
+    # If we changed anything, write back
+    if changed:
+        with open(path, 'w', encoding='utf-8') as f:
+            json.dump(blk, f, indent=2, ensure_ascii=False)
+        print(f"✅ Patched: {path}")
+
     return True
 
 def walk_and_fix():
-    total, updated = 0, 0
-    for root, _, files in os.walk(BLOCKS_DIR):
-        for file in files:
-            if file.endswith(".block.json"):
-                total += 1
-                path = os.path.join(root, file)
-                if autofill_block(path):
-                    updated += 1
-    print(f"\n🔧 Done: {updated}/{total} blocks updated.")
+    total = 0
+    updated = 0
+    for fn in glob.glob(f"{BLOCKS_DIR}/**/*.block.json", recursive=True):
+        if os.path.isfile(fn):
+            total += 1
+            if autofill_block(fn):
+                updated += 1
+    print(f"\n🔧 Done: {updated}/{total} blocks processed.")
 
 if __name__ == "__main__":
     walk_and_fix()
