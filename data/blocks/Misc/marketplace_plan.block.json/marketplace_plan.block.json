@@ -1,23 +1,16 @@
 {
-  "molt_type": "Instruction",
-  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
-  "snap_config": {
-    "stack_priority": 1,
-    "supports_merge": true,
-    "accepts": [
-      "Blueprint",
-      "Directive",
-      "Philosophy"
-    ],
-    "priority": 2
-  },
-  "merge_logic": {
-    "merge_as": "instruction",
-    "accepts": [
-      "Primary",
-      "Blueprint",
-      "Directive"
-    ]
+  "block_id": "marketplace_plan",
+  "label": "Marketplace Plan",
+  "category": "set2_missing_blocks",
+  "molt_type": "Primary",
+  "tags": [
+    "missing",
+    "auto_generated",
+    "recovery"
+  ],
+  "cantocore": {
+    "snap_stack": "auto.recover.set2",
+    "fit_score": 0.95
   },
   "ledger": {
     "originator": "Christopher L Haynes",
@@ -26,38 +19,40 @@
     "edit_log": []
   },
   "display": {
-    "color": "yellow",
-    "icon": "\ud83d\udcdd"
+    "color": "blue",
+    "icon": "\ud83e\udde9"
   },
+  "editable_fields": [
+    "label",
+    "tags",
+    "cantocore"
+  ],
+  "example_block_data": {},
   "code_modules": [],
   "runtime_behavior_flags": {},
-  "agent_orchestration": {},
-  "integration_layer": {},
+  "integration_layer": null,
+  "agent_orchestration": null,
   "future_extensions": [],
-  "block_id": "marketplace_plan",
-  "label": "Marketplace Plan",
-  "category": "Business Plans/Web App/Chatbot/Business Plans",
-  "description": "Connects two user bases (buyers/sellers)",
-  "tags": [
-    "marketplace",
-    "plan"
-  ],
-  "example_block_data": {
-    "content": "Connects two user bases (buyers/sellers)"
-  },
-  "editable_fields": {
-    "content": "Connects two user bases (buyers/sellers)"
-  },
   "canto_overlay": {
     "snap_to": [],
     "preferred_context": "",
     "fit_score": 0.75,
     "display_hint": ""
   },
+  "snap_config": {
+    "accepts": [
+      "Subject",
+      "Instruction",
+      "Directive",
+      "Philosophy",
+      "Blueprint"
+    ],
+    "priority": 0
+  },
   "merge_behavior": {
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
     "merge_origin": "AUTO"
   },
-  "stack_priority": 2
+  "stack_priority": 0
 }
