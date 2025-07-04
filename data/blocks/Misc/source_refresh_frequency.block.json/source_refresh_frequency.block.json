@@ -1,0 +1,64 @@
+{
+  "block_id": "source_refresh_frequency",
+  "label": "Source Refresh Frequency",
+  "category": "Chatbot Data Sources & Plugins",
+  "description": "Update cadence",
+  "molt_type": "Instruction",
+  "tags": [
+    "source_refresh_frequency",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true,
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ],
+    "priority": 2
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T18:00:18.208930",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "\ud83d\udd01"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Update cadence This is an example of applied logic for that trait."
+  },
+  "editable_fields": {
+    "content": "Source Refresh Frequency: Update cadence"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  },
+  "stack_priority": 2
+}

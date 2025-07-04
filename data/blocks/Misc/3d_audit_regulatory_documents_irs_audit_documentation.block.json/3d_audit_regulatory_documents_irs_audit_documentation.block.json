@@ -1,0 +1,62 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 3,
+    "supports_merge": true,
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ],
+    "priority": 2
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T18:00:18.208930",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "\ud83d\udcc4"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "3d_audit_regulatory_documents_irs_audit_documentation",
+  "label": "IRS Audit Documentation",
+  "category": "Business Plans/Web App/Chatbot/3D Audit Regulatory Documents",
+  "description": "Backup for all financial and tax claims",
+  "tags": [
+    "irs_audit_documentation"
+  ],
+  "example_block_data": {
+    "content": "Backup for all financial and tax claims"
+  },
+  "editable_fields": {
+    "content": "Backup for all financial and tax claims"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  },
+  "stack_priority": 2
+}

@@ -1,0 +1,62 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 16,
+    "supports_merge": true,
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ],
+    "priority": 2
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T18:00:18.208930",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "\ud83d\udcc4"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "16c_smart_query_builders_query_dsl_generator_elasticsearch",
+  "label": "Query DSL Generator (Elasticsearch)",
+  "category": "Web App Builder/Search Filters Sorting/16C Smart Query Builders",
+  "description": "Builds safe query objects",
+  "tags": [
+    "query_dsl_generator_elasticsearch"
+  ],
+  "example_block_data": {
+    "content": "Builds safe query objects"
+  },
+  "editable_fields": {
+    "content": "Builds safe query objects"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  },
+  "stack_priority": 2
+}

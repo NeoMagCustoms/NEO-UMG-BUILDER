@@ -1,0 +1,64 @@
+{
+  "block_id": "sample_philosophical_response",
+  "label": "Sample Philosophical Response",
+  "category": "Chatbot Logic/Philosophy Layer",
+  "description": "An example of philosophical output",
+  "molt_type": "Instruction",
+  "tags": [
+    "sample_philosophical_response",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true,
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ],
+    "priority": 2
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T18:00:18.208930",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "\ud83c\udf31"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "An example of philosophical output This is an example of applied logic for that trait."
+  },
+  "editable_fields": {
+    "content": "Sample Philosophical Response: An example of philosophical output"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  },
+  "stack_priority": 2
+}

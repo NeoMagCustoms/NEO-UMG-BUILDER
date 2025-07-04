@@ -1,0 +1,62 @@
+{
+  "molt_type": "Instruction",
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 7,
+    "supports_merge": true,
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ],
+    "priority": 2
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T18:00:18.208930",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "\ud83d\udcc4"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "block_id": "7b_foundational_legal_docs_operating_agreement",
+  "label": "Operating Agreement",
+  "category": "Business Plans/Web App/Chatbot/7B Foundational Legal Docs",
+  "description": "Sets internal rules for LLCs or member-run orgs",
+  "tags": [
+    "operating_agreement"
+  ],
+  "example_block_data": {
+    "content": "Sets internal rules for LLCs or member-run orgs"
+  },
+  "editable_fields": {
+    "content": "Sets internal rules for LLCs or member-run orgs"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  },
+  "stack_priority": 2
+}

@@ -1,0 +1,64 @@
+{
+  "block_id": "monitoring_and_logs_enabled",
+  "label": "Monitoring and Logs Enabled",
+  "category": "Deployment Type",
+  "description": "Whether logs and errors are tracked and accessible",
+  "molt_type": "Instruction",
+  "tags": [
+    "monitoring_and_logs_enabled",
+    "chatbot",
+    "modular"
+  ],
+  "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
+  "snap_config": {
+    "stack_priority": 2,
+    "supports_merge": true,
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ],
+    "priority": 2
+  },
+  "merge_logic": {
+    "merge_as": "instruction",
+    "accepts": [
+      "Primary",
+      "Blueprint",
+      "Directive"
+    ]
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T18:00:18.208930",
+    "edit_log": []
+  },
+  "display": {
+    "color": "yellow",
+    "icon": "\ud83d\udcca"
+  },
+  "code_modules": [],
+  "runtime_behavior_flags": {},
+  "agent_orchestration": {},
+  "integration_layer": {},
+  "future_extensions": [],
+  "example_block_data": {
+    "content": "Whether logs and errors are tracked and accessible This logic defines runtime or system-facing behavior accordingly."
+  },
+  "editable_fields": {
+    "content": "Monitoring and Logs Enabled: Whether logs and errors are tracked and accessible"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  },
+  "stack_priority": 2
+}

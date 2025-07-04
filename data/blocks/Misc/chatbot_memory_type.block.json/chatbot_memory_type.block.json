@@ -1,0 +1,60 @@
+{
+  "block_id": "chatbot_memory_type",
+  "label": "Chatbot Memory Type",
+  "category": "chatbot_core",
+  "molt_type": "Instruction",
+  "color": "yellow",
+  "editable_fields": [
+    "memory_type",
+    "memory_scope",
+    "memory_duration_policy",
+    "memory_recall_trigger",
+    "thread_based_memory_rules",
+    "memory_overflow_behavior",
+    "memory_editing_enabled",
+    "memory_security_protocols",
+    "sample_memory_entries",
+    "vector_or_slot_based_memory"
+  ],
+  "tags": [
+    "chatbot",
+    "memory",
+    "context"
+  ],
+  "snap_config": {
+    "snap_to": [
+      "Primary",
+      "Philosophy"
+    ],
+    "stack_order": 9,
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ],
+    "priority": 2
+  },
+  "ledger": {
+    "originator": "Christopher L Haynes",
+    "verified_by": "PoeUMG",
+    "created_at": "2025-06-30T14:17:04.478666",
+    "edit_log": []
+  },
+  "cantocore": "AUTO.FILL.CANTOCODE",
+  "display": {
+    "color": "gray",
+    "icon": "zap"
+  },
+  "canto_overlay": {
+    "snap_to": [],
+    "preferred_context": "",
+    "fit_score": 0.75,
+    "display_hint": ""
+  },
+  "merge_behavior": {
+    "merge_as": "default",
+    "merge_strategy": "layered_if_non_conflict",
+    "merge_origin": "AUTO"
+  },
+  "stack_priority": 2
+}
