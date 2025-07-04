@@ -11,54 +11,35 @@
   ],
   "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
   "snap_config": {
-    "stack_priority": 2,
-    "supports_merge": true,
+    "snap_to": [],
     "accepts": [
       "Blueprint",
       "Directive",
       "Philosophy"
     ],
-    "priority": 2
-  },
-  "merge_logic": {
-    "merge_as": "instruction",
-    "accepts": [
-      "Primary",
-      "Blueprint",
-      "Directive"
-    ]
-  },
-  "ledger": {
-    "originator": "Christopher L Haynes",
-    "verified_by": "PoeUMG",
-    "created_at": "2025-06-30T18:00:18.208930",
-    "edit_log": []
+    "order": 0,
+    "priority": 2,
+    "scope": "local",
+    "locked": false,
+    "stack_priority": 2,
+    "supports_merge": true
   },
   "display": {
     "color": "yellow",
-    "icon": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f"
+    "icon": "🕵️‍♂️"
   },
   "code_modules": [],
-  "runtime_behavior_flags": {},
-  "agent_orchestration": {},
-  "integration_layer": {},
-  "future_extensions": [],
-  "example_block_data": {
-    "content": "Strips sensitive identity from logs This logic defines runtime or system-facing behavior accordingly."
-  },
   "editable_fields": {
     "content": "Log Anonymization Mode: Strips sensitive identity from logs"
-  },
-  "canto_overlay": {
-    "snap_to": [],
-    "preferred_context": "",
-    "fit_score": 0.75,
-    "display_hint": ""
   },
   "merge_behavior": {
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": [],
     "merge_origin": "AUTO"
   },
-  "stack_priority": 2
+  "domain": "",
+  "subcategory": "General"
 }

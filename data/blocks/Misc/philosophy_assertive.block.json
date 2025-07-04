@@ -11,41 +11,35 @@
   ],
   "cantocore": "OVERLAY.PHILOSOPHY.ASSERTIVE",
   "snap_config": {
+    "snap_to": [],
     "accepts": [
       "Blueprint",
       "Instruction",
       "Directive"
     ],
-    "priority": 4
+    "order": 0,
+    "priority": 4,
+    "scope": "local",
+    "locked": false
   },
   "merge_behavior": {
     "merge_as": "philosophy_overlay",
     "merge_strategy": "soft_tone_merge",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": [],
     "merge_origin": "Assertive"
-  },
-  "stack_priority": 4,
-  "canto_overlay": {
-    "snap_to": [
-      "Instruction",
-      "Directive"
-    ],
-    "preferred_context": "tone_enrichment",
-    "fit_score": 0.9,
-    "display_hint": "Philosophical tone: Assertive"
   },
   "display": {
     "color": "orange",
-    "icon": "\ud83e\udde0"
+    "icon": "🧠"
   },
   "editable_fields": [
     "label",
     "description",
     "tags"
   ],
-  "ledger": {
-    "originator": "Christopher L Haynes",
-    "verified_by": "PoeUMG",
-    "created_at": "2025-06-30T19:40:08.903744",
-    "edit_log": []
-  }
+  "domain": "",
+  "subcategory": "General",
+  "code_modules": []
 }

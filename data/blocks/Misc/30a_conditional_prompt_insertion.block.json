@@ -1,7 +1,7 @@
 {
   "block_id": "30a_conditional_prompt_insertion",
   "label": "Conditional Prompt Insertion",
-  "category": "Web App \u2013 Category 30: AI Agents & LLM Integration",
+  "category": "Web App – Category 30: AI Agents & LLM Integration",
   "molt_type": "Instruction",
   "color": "yellow",
   "editable_fields": [
@@ -20,20 +20,16 @@
       "Primary",
       "Subject"
     ],
-    "priority": 2,
     "accepts": [
       "Blueprint",
       "Directive",
       "Philosophy"
-    ]
+    ],
+    "order": 0,
+    "priority": 2,
+    "scope": "local",
+    "locked": false
   },
-  "ledger": {
-    "originator": "Christopher L Haynes",
-    "verified_by": "PoeUMG",
-    "created_at": "2025-06-30T13:43:03.028020Z",
-    "edit_log": []
-  },
-  "canto_overlay": {},
   "code_modules": [],
   "export_config": {},
   "cantocore": "AUTO.FILL.CANTOCODE",
@@ -44,7 +40,11 @@
   "merge_behavior": {
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": [],
     "merge_origin": "AUTO"
   },
-  "stack_priority": 2
+  "domain": "",
+  "subcategory": "General"
 }

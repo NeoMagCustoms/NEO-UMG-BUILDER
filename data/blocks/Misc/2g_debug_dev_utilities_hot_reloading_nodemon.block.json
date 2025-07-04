@@ -2,38 +2,24 @@
   "molt_type": "Instruction",
   "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
   "snap_config": {
-    "stack_priority": 2,
-    "supports_merge": true,
+    "snap_to": [],
     "accepts": [
       "Blueprint",
       "Directive",
       "Philosophy"
     ],
-    "priority": 2
-  },
-  "merge_logic": {
-    "merge_as": "instruction",
-    "accepts": [
-      "Primary",
-      "Blueprint",
-      "Directive"
-    ]
-  },
-  "ledger": {
-    "originator": "Christopher L Haynes",
-    "verified_by": "PoeUMG",
-    "created_at": "2025-06-30T18:00:18.208930",
-    "edit_log": []
+    "order": 0,
+    "priority": 2,
+    "scope": "local",
+    "locked": false,
+    "stack_priority": 2,
+    "supports_merge": true
   },
   "display": {
     "color": "yellow",
-    "icon": "\ud83d\udcc4"
+    "icon": "📄"
   },
   "code_modules": [],
-  "runtime_behavior_flags": {},
-  "agent_orchestration": {},
-  "integration_layer": {},
-  "future_extensions": [],
   "block_id": "2g_debug_dev_utilities_hot_reloading_nodemon",
   "label": "Hot Reloading / Nodemon",
   "category": "Web App Builder/Backend Server Logic/2G Debug Dev Utilities",
@@ -41,22 +27,17 @@
   "tags": [
     "hot_reloading_nodemon"
   ],
-  "example_block_data": {
-    "content": "Restarts server on code changes"
-  },
   "editable_fields": {
     "content": "Restarts server on code changes"
-  },
-  "canto_overlay": {
-    "snap_to": [],
-    "preferred_context": "",
-    "fit_score": 0.75,
-    "display_hint": ""
   },
   "merge_behavior": {
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": [],
     "merge_origin": "AUTO"
   },
-  "stack_priority": 2
+  "domain": "",
+  "subcategory": "General"
 }

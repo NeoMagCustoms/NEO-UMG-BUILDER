@@ -13,5 +13,31 @@
     "event": "on_block_ready",
     "action": "call_function",
     "function_name": "commit_block"
+  },
+  "domain": "",
+  "subcategory": "General",
+  "editable_fields": [],
+  "code_modules": [],
+  "cantocore": "UNSPECIFIED",
+  "display": {
+    "color": "red",
+    "icon": "❓"
+  },
+  "snap_config": {
+    "snap_to": [],
+    "accepts": [
+      "Primary"
+    ],
+    "order": 0,
+    "priority": 0,
+    "scope": "local",
+    "locked": false
+  },
+  "merge_behavior": {
+    "merge_as": "instruction",
+    "merge_strategy": "append",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": []
   }
 }

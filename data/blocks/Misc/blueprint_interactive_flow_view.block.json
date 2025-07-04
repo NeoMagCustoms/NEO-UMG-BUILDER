@@ -11,34 +11,31 @@
   ],
   "cantocore": "OVERLAY.BLUEPRINT.INTERACTIVE_FLOW_VIEW",
   "snap_config": {
+    "snap_to": [],
     "accepts": [],
-    "priority": 5
+    "order": 0,
+    "priority": 5,
+    "scope": "local",
+    "locked": false
   },
   "merge_behavior": {
     "merge_as": "layout_overlay",
     "merge_strategy": "no_conflict",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": [],
     "merge_origin": "Interactive Flow View"
-  },
-  "stack_priority": 5,
-  "canto_overlay": {
-    "snap_to": [],
-    "preferred_context": "layout_rendering",
-    "fit_score": 0.87,
-    "display_hint": "Blueprint layout: Interactive Flow View"
   },
   "display": {
     "color": "teal",
-    "icon": "\ud83d\uddc2\ufe0f"
+    "icon": "🗂️"
   },
   "editable_fields": [
     "label",
     "description",
     "tags"
   ],
-  "ledger": {
-    "originator": "Christopher L Haynes",
-    "verified_by": "PoeUMG",
-    "created_at": "2025-06-30T19:42:15.654507",
-    "edit_log": []
-  }
+  "domain": "",
+  "subcategory": "General",
+  "code_modules": []
 }

@@ -10,55 +10,36 @@
     "logic"
   ],
   "snap_config": {
-    "stack_priority": 3,
-    "supports_merge": true,
+    "snap_to": [],
     "accepts": [
       "Blueprint",
       "Directive",
       "Philosophy"
     ],
-    "priority": 2
+    "order": 0,
+    "priority": 2,
+    "scope": "local",
+    "locked": false,
+    "stack_priority": 3,
+    "supports_merge": true
   },
   "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+DIRECTIVE+PHILOSOPHY",
-  "merge_logic": {
-    "merge_as": "instruction",
-    "accepts": [
-      "Primary",
-      "Blueprint",
-      "Directive"
-    ]
-  },
-  "ledger": {
-    "originator": "Christopher L Haynes",
-    "verified_by": "PoeUMG",
-    "created_at": "2025-06-30T18:00:18.208930",
-    "edit_log": []
-  },
   "display": {
     "color": "yellow",
-    "icon": "\ud83e\udde0"
+    "icon": "🧠"
   },
   "code_modules": [],
-  "runtime_behavior_flags": {},
-  "agent_orchestration": {},
-  "integration_layer": {},
-  "future_extensions": [],
-  "example_block_data": {
-    "content": "Branching logic paths"
-  },
   "editable_fields": {
     "content": "Branching logic paths"
-  },
-  "canto_overlay": {
-    "snap_to": [],
-    "preferred_context": "",
-    "fit_score": 0.75,
-    "display_hint": ""
   },
   "merge_behavior": {
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": [],
     "merge_origin": "AUTO"
   },
-  "stack_priority": 2
+  "domain": "",
+  "subcategory": "General"
 }

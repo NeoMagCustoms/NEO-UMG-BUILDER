@@ -12,32 +12,27 @@
   "snap_config": {
     "snap_to": "stack",
     "accepts": [],
-    "priority": 5
+    "order": 0,
+    "priority": 5,
+    "scope": "local",
+    "locked": false
   },
-  "merge_logic": {},
   "cantocore": {
     "summary": "Layout for 3-column builder"
-  },
-  "ledger": {
-    "originator": "Christopher L Haynes",
-    "verified_by": "PoeUMG",
-    "created_at": "2025-06-30T17:01:14.605766",
-    "edit_log": []
   },
   "display": {
     "color": "Blueprint",
     "icon": "circle"
   },
-  "canto_overlay": {
-    "snap_to": [],
-    "preferred_context": "",
-    "fit_score": 0.75,
-    "display_hint": ""
-  },
   "merge_behavior": {
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": [],
     "merge_origin": "AUTO"
   },
-  "stack_priority": 5
+  "domain": "",
+  "subcategory": "General",
+  "code_modules": []
 }

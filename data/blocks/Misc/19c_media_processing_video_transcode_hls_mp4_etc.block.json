@@ -2,38 +2,24 @@
   "molt_type": "Instruction",
   "cantocore": "SNAP.TO=STACK; MERGE.SUPPORTS=PRIMARY+PHILOSOPHY+DIRECTIVE",
   "snap_config": {
-    "stack_priority": 19,
-    "supports_merge": true,
+    "snap_to": [],
     "accepts": [
       "Blueprint",
       "Directive",
       "Philosophy"
     ],
-    "priority": 2
-  },
-  "merge_logic": {
-    "merge_as": "instruction",
-    "accepts": [
-      "Primary",
-      "Blueprint",
-      "Directive"
-    ]
-  },
-  "ledger": {
-    "originator": "Christopher L Haynes",
-    "verified_by": "PoeUMG",
-    "created_at": "2025-06-30T18:00:18.208930",
-    "edit_log": []
+    "order": 0,
+    "priority": 2,
+    "scope": "local",
+    "locked": false,
+    "stack_priority": 19,
+    "supports_merge": true
   },
   "display": {
     "color": "yellow",
-    "icon": "\ud83d\udcc4"
+    "icon": "📄"
   },
   "code_modules": [],
-  "runtime_behavior_flags": {},
-  "agent_orchestration": {},
-  "integration_layer": {},
-  "future_extensions": [],
   "block_id": "19c_media_processing_video_transcode_hls_mp4_etc",
   "label": "Video Transcode (HLS, MP4, etc.)",
   "category": "Web App Builder/File Handling Uploads Media/19C Media Processing",
@@ -41,22 +27,17 @@
   "tags": [
     "video_transcode_hls_mp4_etc"
   ],
-  "example_block_data": {
-    "content": "Playable across devices"
-  },
   "editable_fields": {
     "content": "Playable across devices"
-  },
-  "canto_overlay": {
-    "snap_to": [],
-    "preferred_context": "",
-    "fit_score": 0.75,
-    "display_hint": ""
   },
   "merge_behavior": {
     "merge_as": "default",
     "merge_strategy": "layered_if_non_conflict",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": [],
     "merge_origin": "AUTO"
   },
-  "stack_priority": 2
+  "domain": "",
+  "subcategory": "General"
 }

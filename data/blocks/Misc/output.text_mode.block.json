@@ -8,7 +8,32 @@
     "text",
     "response_format"
   ],
-  "runtime_behavior_flags": {
-    "response_format": "text"
+  "domain": "",
+  "subcategory": "General",
+  "editable_fields": [],
+  "code_modules": [],
+  "cantocore": "UNSPECIFIED",
+  "display": {
+    "color": "yellow",
+    "icon": "❓"
+  },
+  "snap_config": {
+    "snap_to": [],
+    "accepts": [
+      "Blueprint",
+      "Directive",
+      "Philosophy"
+    ],
+    "order": 0,
+    "priority": 0,
+    "scope": "local",
+    "locked": false
+  },
+  "merge_behavior": {
+    "merge_as": "instruction",
+    "merge_strategy": "append",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": []
   }
 }

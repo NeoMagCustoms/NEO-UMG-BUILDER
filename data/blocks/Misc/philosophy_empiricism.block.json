@@ -11,41 +11,35 @@
   ],
   "cantocore": "OVERLAY.PHILOSOPHY.EMPIRICISM",
   "snap_config": {
+    "snap_to": [],
     "accepts": [
       "Blueprint",
       "Instruction",
       "Directive"
     ],
-    "priority": 4
+    "order": 0,
+    "priority": 4,
+    "scope": "local",
+    "locked": false
   },
   "merge_behavior": {
     "merge_as": "philosophy_overlay",
     "merge_strategy": "soft_tone_merge",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": [],
     "merge_origin": "Empiricism"
-  },
-  "stack_priority": 4,
-  "canto_overlay": {
-    "snap_to": [
-      "Instruction",
-      "Directive"
-    ],
-    "preferred_context": "ethical_lens",
-    "fit_score": 0.88,
-    "display_hint": "Applies Empiricism as a soft alignment philosophy."
   },
   "display": {
     "color": "orange",
-    "icon": "\ud83d\udcd8"
+    "icon": "📘"
   },
   "editable_fields": [
     "label",
     "description",
     "tags"
   ],
-  "ledger": {
-    "originator": "Christopher L Haynes",
-    "verified_by": "PoeUMG",
-    "created_at": "2025-06-30T19:41:07.232610",
-    "edit_log": []
-  }
+  "domain": "",
+  "subcategory": "General",
+  "code_modules": []
 }

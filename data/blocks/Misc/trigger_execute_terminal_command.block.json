@@ -3,9 +3,16 @@
   "label": "Execute Terminal Command",
   "category": "Execution Tools",
   "molt_type": "Trigger",
-  "tags": ["execution", "shell", "terminal", "safe"],
+  "tags": [
+    "execution",
+    "shell",
+    "terminal",
+    "safe"
+  ],
   "description": "Allows Poe to execute a terminal command inside Codespace via poe_exec.py.",
-  "editable_fields": ["command"],
+  "editable_fields": [
+    "command"
+  ],
   "code_modules": [
     {
       "slot": "shell_proxy",
@@ -13,13 +20,28 @@
       "path": "scripts/poe_exec.py"
     }
   ],
-  "example_block_data": {
-    "command": "echo 'Hello from Poe'"
+  "domain": "",
+  "subcategory": "General",
+  "cantocore": "UNSPECIFIED",
+  "display": {
+    "color": "red",
+    "icon": "❓"
   },
-  "ledger": {
-    "originator": "Christopher L Haynes",
-    "verified_by": "PoeUMG",
-    "created_at": "AUTO",
-    "edit_log": []
+  "snap_config": {
+    "snap_to": [],
+    "accepts": [
+      "Primary"
+    ],
+    "order": 0,
+    "priority": 0,
+    "scope": "local",
+    "locked": false
+  },
+  "merge_behavior": {
+    "merge_as": "instruction",
+    "merge_strategy": "append",
+    "priority": 0,
+    "conflict_resolution": "last_write_wins",
+    "overrides": []
   }
 }
