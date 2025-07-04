@@ -1,0 +1,144 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "NeoCore Block Schema v2.0",
+  "type": "object",
+  "oneOf": [
+    { "required": ["prompt_template"] },
+    { "required": ["body"] }
+  ],
+  "required": [
+    "block_id",
+    "label",
+    "domain",
+    "category",
+    "subcategory",
+    "molt_type",
+    "cantocore",
+    "description",
+    "tags",
+    "display",
+    "code_modules",
+    "snap_config",
+    "merge_behavior",
+    "editable_fields"
+  ],
+  "properties": {
+    "block_id": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "domain": {
+      "type": "string",
+      "enum": ["BusinessPlans", "WebApp", "Chatbot"],
+      "description": "Top-level domain folder"
+    },
+    "category": {
+      "type": "string",
+      "description": "Second-level category folder"
+    },
+    "subcategory": {
+      "type": "string",
+      "description": "Third-level subcategory/folder"
+    },
+    "molt_type": {
+      "type": "string",
+      "enum": [
+        "Primary",
+        "Subject",
+        "Instruction",
+        "Directive",
+        "Philosophy",
+        "Blueprint",
+        "Merge",
+        "Trigger",
+        "CodeBlock",
+        "Off"
+      ]
+    },
+    "cantocore": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "prompt_template": {
+      "type": "string"
+    },
+    "body": {
+      "type": "array",
+      "items": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 2,
+        "items": [
+          { "type": "string" },
+          {
+            "anyOf": [
+              { "type": "string" },
+              { "type": "number" },
+              { "type": "boolean" },
+              { "type": "array" },
+              { "type": "object" }
+            ]
+          }
+        ]
+      }
+    },
+    "code_modules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["language", "slot", "code"],
+        "properties": {
+          "language": { "type": "string" },
+          "slot":     { "type": "string" },
+          "code":     { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "display": {
+      "type": "object",
+      "required": ["color", "icon"],
+      "properties": {
+        "color": { "type": "string" },
+        "icon":  { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "snap_config": {
+      "type": "object",
+      "properties": {
+        "snap_to":  { "type": "array", "items": { "type": "string" } },
+        "accepts":  { "type": "array", "items": { "type": "string" } },
+        "order":    { "type": "integer" },
+        "priority": { "type": "integer" },
+        "scope":    { "type": "string" },
+        "locked":   { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "merge_behavior": {
+      "type": "object",
+      "properties": {
+        "merge_as":            { "type": "string" },
+        "merge_strategy":      { "type": "string" },
+        "priority":            { "type": "integer" },
+        "conflict_resolution": { "type": "string" },
+        "overrides":           { "type": "array", "items": { "type": "string" } }
+      },
+      "additionalProperties": false
+    },
+    "editable_fields": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "additionalProperties": false
+}
