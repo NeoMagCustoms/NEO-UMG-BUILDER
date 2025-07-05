@@ -1,7 +1,7 @@
 {
   "block_id": "deployment_submit_plan_for_review",
   "label": "Submit Plan For Review",
-  "category": "deployment",
+  "category": "Deployment",
   "description": "Deployment logic block for: Submit Plan For Review",
   "molt_type": "Instruction",
   "tags": [
@@ -27,8 +27,7 @@
     "merge_strategy": "layered_if_non_conflict",
     "priority": 0,
     "conflict_resolution": "last_write_wins",
-    "overrides": [],
-    "merge_origin": "autogen"
+    "overrides": []
   },
   "display": {
     "color": "gold",
@@ -39,7 +38,6 @@
     "description",
     "tags"
   ],
-  "domain": "",
   "subcategory": "General",
   "code_modules": []
 }

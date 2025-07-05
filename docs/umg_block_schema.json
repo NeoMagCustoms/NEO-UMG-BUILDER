@@ -24,10 +24,12 @@
   ],
   "properties": {
     "block_id": {
-      "type": "string"
+      "type": "string",
+      "description": "Unique identifier for the block"
     },
     "label": {
-      "type": "string"
+      "type": "string",
+      "description": "Human-readable name for UI"
     },
     "domain": {
       "type": "string",
@@ -55,23 +57,29 @@
         "Trigger",
         "CodeBlock",
         "Off"
-      ]
+      ],
+      "description": "UMG semantic block type"
     },
     "cantocore": {
-      "type": "string"
+      "type": "string",
+      "description": "Low-level routing/merge DSL"
     },
     "description": {
-      "type": "string"
+      "type": "string",
+      "description": "Brief explanation of block’s purpose"
     },
     "tags": {
       "type": "array",
-      "items": { "type": "string" }
+      "items": { "type": "string" },
+      "description": "Keyword search helpers"
     },
     "prompt_template": {
-      "type": "string"
+      "type": "string",
+      "description": "Templated prompt text (if used)"
     },
     "body": {
       "type": "array",
+      "description": "Structured content payload (if used)",
       "items": {
         "type": "array",
         "minItems": 2,
@@ -92,6 +100,7 @@
     },
     "code_modules": {
       "type": "array",
+      "description": "Optional code attachments (JS, Python, shell…)",
       "items": {
         "type": "object",
         "required": ["language", "slot", "code"],
@@ -137,7 +146,8 @@
     },
     "editable_fields": {
       "type": "array",
-      "items": { "type": "string" }
+      "items": { "type": "string" },
+      "description": "Which keys users can edit in the UI"
     }
   },
   "additionalProperties": false

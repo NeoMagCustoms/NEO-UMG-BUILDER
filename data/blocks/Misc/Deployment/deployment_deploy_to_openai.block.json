@@ -1,7 +1,7 @@
 {
   "block_id": "deployment_deploy_to_openai",
   "label": "Deploy To Openai",
-  "category": "deployment",
+  "category": "Deployment",
   "description": "Deployment logic block for: Deploy To Openai",
   "molt_type": "Instruction",
   "tags": [
@@ -27,8 +27,7 @@
     "merge_strategy": "layered_if_non_conflict",
     "priority": 0,
     "conflict_resolution": "last_write_wins",
-    "overrides": [],
-    "merge_origin": "autogen"
+    "overrides": []
   },
   "display": {
     "color": "gold",
@@ -39,7 +38,6 @@
     "description",
     "tags"
   ],
-  "domain": "",
   "subcategory": "General",
   "code_modules": []
 }
